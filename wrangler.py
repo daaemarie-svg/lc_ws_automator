@@ -23,7 +23,7 @@ def wash_single_file(in_path, file_name, out_path, category):
         
     with open(os.path.join(out_path, file_name), 'w', encoding='utf-8') as f:
         json.dump(clean_data, f, ensure_ascii=False, indent=4)
-        
+
 def wash_grammar_file(in_path, out_path):
     """Special washer for the dictionary-style grammar_bank.json"""
     file_name = "grammar_bank.json"
@@ -54,6 +54,11 @@ def wash_all_folders():
     if not os.path.exists(DATA_ROOT):
         print(f"Error: {DATA_ROOT} folder not found!")
         return
+
+    print("📄 Processing grammar_bank.json...")
+    wash_grammar_file(DATA_ROOT, OUTPUT_ROOT)
+
+    
 
     for folder_name in os.listdir(DATA_ROOT):
         folder_path = os.path.join(DATA_ROOT, folder_name)

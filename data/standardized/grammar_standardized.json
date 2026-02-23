@@ -1,0 +1,184 @@
+[
+    {
+        "id": "GRAM-PRESE",
+        "rule_name": "Present simple tense",
+        "korean_explanation": "현재 시제",
+        "example_sentence": "She eats breakfast every day.",
+        "level": "Middle School 1st Year"
+    },
+    {
+        "id": "GRAM-PRESE",
+        "rule_name": "Present continuous tense",
+        "korean_explanation": "현재 진행형",
+        "example_sentence": "They are studying English now.",
+        "level": "Middle School 1st Year"
+    },
+    {
+        "id": "GRAM-PAST_",
+        "rule_name": "Past simple tense",
+        "korean_explanation": "과거 시제",
+        "example_sentence": "He visited his grandmother yesterday.",
+        "level": "Middle School 1st Year"
+    },
+    {
+        "id": "GRAM-ARTIC",
+        "rule_name": "Articles (a, an, the)",
+        "korean_explanation": "관사",
+        "example_sentence": "I saw a cat in the garden.",
+        "level": "Middle School 1st Year"
+    },
+    {
+        "id": "GRAM-MODAL",
+        "rule_name": "Modal verbs (can, could, will)",
+        "korean_explanation": "조동사",
+        "example_sentence": "She can swim very well.",
+        "level": "Middle School 2nd Year"
+    },
+    {
+        "id": "GRAM-PAST_",
+        "rule_name": "Past continuous tense",
+        "korean_explanation": "과거 진행형",
+        "example_sentence": "He was watching TV when I called.",
+        "level": "Middle School 2nd Year"
+    },
+    {
+        "id": "GRAM-PRESE",
+        "rule_name": "Present perfect simple",
+        "korean_explanation": "현재 완료 시제",
+        "example_sentence": "I have finished my homework.",
+        "level": "Middle School 2nd Year"
+    },
+    {
+        "id": "GRAM-COMPA",
+        "rule_name": "Comparatives and superlatives",
+        "korean_explanation": "비교급 / 최상급",
+        "example_sentence": "This book is more interesting than that one.",
+        "level": "Middle School 2nd Year"
+    },
+    {
+        "id": "GRAM-PASSI",
+        "rule_name": "Passive voice",
+        "korean_explanation": "수동태",
+        "example_sentence": "The letter was written by her.",
+        "level": "Middle School 3rd Year"
+    },
+    {
+        "id": "GRAM-CONDI",
+        "rule_name": "Conditionals (type 0 and 1)",
+        "korean_explanation": "조건문",
+        "example_sentence": "If it rains, the ground gets wet.",
+        "level": "Middle School 3rd Year"
+    },
+    {
+        "id": "GRAM-REPOR",
+        "rule_name": "Reported speech",
+        "korean_explanation": "간접화법",
+        "example_sentence": "He said that he was tired.",
+        "level": "Middle School 3rd Year"
+    },
+    {
+        "id": "GRAM-RELAT",
+        "rule_name": "Relative clauses",
+        "korean_explanation": "관계절",
+        "example_sentence": "The woman who lives next door is kind.",
+        "level": "Middle School 3rd Year"
+    },
+    {
+        "id": "GRAM-GERUN",
+        "rule_name": "Gerunds and infinitives",
+        "korean_explanation": "동명사와 부정사",
+        "example_sentence": "She enjoys reading books.",
+        "level": "Middle School 3rd Year"
+    },
+    {
+        "id": "GRAM-CONDI",
+        "rule_name": "Conditionals (type 2 and 3)",
+        "korean_explanation": "가정법 과거/과거완료",
+        "example_sentence": "If I had money, I would travel more.",
+        "level": "High School 1st Year"
+    },
+    {
+        "id": "GRAM-ADVAN",
+        "rule_name": "Advanced modals (might, would, should)",
+        "korean_explanation": "고급 조동사",
+        "example_sentence": "You should see a doctor.",
+        "level": "High School 1st Year"
+    },
+    {
+        "id": "GRAM-COMPL",
+        "rule_name": "Complex sentence connectors",
+        "korean_explanation": "복합 접속사",
+        "example_sentence": "Although it was raining, we went outside.",
+        "level": "High School 1st Year"
+    },
+    {
+        "id": "GRAM-NOUN_",
+        "rule_name": "Noun clauses",
+        "korean_explanation": "명사절",
+        "example_sentence": "I believe that she is honest.",
+        "level": "High School 1st Year"
+    },
+    {
+        "id": "GRAM-EMPHA",
+        "rule_name": "Emphatic structures",
+        "korean_explanation": "강조구문",
+        "example_sentence": "I do like chocolate.",
+        "level": "High School 1st Year"
+    },
+    {
+        "id": "GRAM-INVER",
+        "rule_name": "Inversion and fronting",
+        "korean_explanation": "도치와 전치",
+        "example_sentence": "Never have I seen such a beautiful view.",
+        "level": "High School 2nd Year"
+    },
+    {
+        "id": "GRAM-SUBJU",
+        "rule_name": "Subjunctive mood",
+        "korean_explanation": "가정법 (접속법)",
+        "example_sentence": "I wish I were taller.",
+        "level": "High School 2nd Year"
+    },
+    {
+        "id": "GRAM-ADVAN",
+        "rule_name": "Advanced relative clauses",
+        "korean_explanation": "고급 관계절",
+        "example_sentence": "The book that I bought yesterday is great.",
+        "level": "High School 2nd Year"
+    },
+    {
+        "id": "GRAM-NOMIN",
+        "rule_name": "Nominalization",
+        "korean_explanation": "명사화",
+        "example_sentence": "His failure surprised everyone.",
+        "level": "High School 2nd Year"
+    },
+    {
+        "id": "GRAM-ELLIP",
+        "rule_name": "Ellipsis and substitution",
+        "korean_explanation": "생략과 대용",
+        "example_sentence": "I can play the guitar, and she can too.",
+        "level": "High School 2nd Year"
+    },
+    {
+        "id": "GRAM-ADVAN",
+        "rule_name": "Advanced tense and aspect combinations",
+        "korean_explanation": "복합 시제와 상",
+        "example_sentence": "She has been working here for five years.",
+        "level": "High School 3rd Year"
+    },
+    {
+        "id": "GRAM-ADVAN",
+        "rule_name": "Advanced passive and causative forms",
+        "korean_explanation": "고급 수동태와 사동태",
+        "example_sentence": "He was made to apologize.",
+        "level": "High School 3rd Year"
+    },
+    {
+        "id": "GRAM-STYLI",
+        "rule_name": "Stylistic grammar for persuasion and argumentation",
+        "korean_explanation": "설득 및 논증 문법",
+        "example_sentence": "It is important that we take action now.",
+        "level": "High School 3rd Year"
+    }
+]
