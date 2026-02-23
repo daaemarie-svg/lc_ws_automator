@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "biology",
+        "korean": "생물학",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "chemistry",
+        "korean": "화학",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "element",
+        "korean": "요소, 성분; 원소",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "acid",
+        "korean": "[화학] 산; 산(성)의, 신맛의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "storage",
+        "korean": "저장, 저장소",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "steam",
+        "korean": "증기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "gene",
+        "korean": "유전자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "mammal",
+        "korean": "포유동물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "melt",
+        "korean": "녹다, 녹이다; 용해",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "cell",
+        "korean": "세포; 작은 방, 독방",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "microscope",
+        "korean": "현미경",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "reproduce",
+        "korean": "번식하다; 재생[재현]하다; 복제하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "evolution",
+        "korean": "진화",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "extinct",
+        "korean": "멸종된, 사라진; 활동을 멈춘",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "clone",
+        "korean": "복제하다; 복제 생물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "identical",
+        "korean": "동일한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "animate",
+        "korean": "살아 있는, 생물인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "carbon",
+        "korean": "탄소",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "mixture",
+        "korean": "혼합물, 혼합",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "substance",
+        "korean": "물질",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "liquid",
+        "korean": "액체; 액체의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "filter",
+        "korean": "거르다, 여과하다; 여과 장치",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "absorb",
+        "korean": "흡수하다; 열중시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "toxic",
+        "korean": "유독한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "ray",
+        "korean": "빛, 광선",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "compound",
+        "korean": "화합물; 혼합[복합/합성]물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "detach",
+        "korean": "떼어 놓다, 분리하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "turn A into B",
+        "korean": "A를 B로 바꾸다[변하게 하다]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "tell from",
+        "korean": "~을 구별하다[구분하다]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "give off",
+        "korean": "(냄새·열·빛 등을) 내다, 방출하다, 발산하다",
+        "level": "wm_high"
+    }
+]

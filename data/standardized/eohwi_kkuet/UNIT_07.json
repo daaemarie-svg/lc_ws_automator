@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "contain",
+        "korean": "[동] 포함하다, 들어 있다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "plate",
+        "korean": "[명] 접시, 그릇",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "stove",
+        "korean": "[명] 1. 난로, 스토브 2. 요리용 화로, 가스레인지",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "grocery",
+        "korean": "[명] 1. 식료품점, 식품점 2. (-ies) 식료품",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "flour",
+        "korean": "[명] 밀가루, 가루",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "wheat",
+        "korean": "[명] 밀",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "eggplant",
+        "korean": "[명] 가지",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "lettuce",
+        "korean": "[명] 상추, 양상추",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "peel",
+        "korean": "[동] 껍질을 벗기다, 깎다 \n[명] (과일의) 껍질",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "sauce",
+        "korean": "[명] 소스",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "raw",
+        "korean": "[형] 1. 날것의, 익히지 않은 2. 가공하지 않은",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "recipe",
+        "korean": "[명] 요리법, 레시피",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "chop",
+        "korean": "[동] 잘게 썰다, 다지다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "slice",
+        "korean": "[동] (얇게) 썰다, 자르다 \n[명] (얇게 썬) 조각",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "split",
+        "korean": "[동] 1. (몫 등을) 나누다 2. 쪼개다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "stir",
+        "korean": "[동] 젓다, 휘젓다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "blend",
+        "korean": "[동] 섞다, 혼합하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "fill",
+        "korean": "[동] 1. 채우다, 채워 넣다 2. (감정으로) 가득 차게 하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "pour",
+        "korean": "[동] 1. 따르다, 붓다 2. 비가 억수같이 쏟아지다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "soak",
+        "korean": "[동] 1. (액체에) 담그다, 잠기다 2. 흠뻑 적시다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "spill",
+        "korean": "[동] 쏟다, 엎지르다 \n[명] 유출, 흘린 액체",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "melt",
+        "korean": "[동] 1. 녹다, 녹이다 2. (감정이) 누그러지다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "paste",
+        "korean": "[명] 1. 반죽 2. 풀 \n[동] 풀칠하다, 풀로 붙이다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "steam",
+        "korean": "[명] 김, 증기, 수증기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "wrap",
+        "korean": "[동] ~을 감싸다, 포장하다",
+        "level": "eohwi_kkuet"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "barely",
+        "korean": "[부] 1. 간신히, 겨우 2. 거의 ~않다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "frequently",
+        "korean": "[부] 자주, 빈번히",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "hardly",
+        "korean": "[부] 거의 ~않는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "mostly",
+        "korean": "[부] 주로, 일반적으로",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "once",
+        "korean": "[부] 1. 한 번 2. (과거) 언젠가, 한때",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "rarely",
+        "korean": "[부] 드물게, 좀처럼 ~하지 않는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "scarcely",
+        "korean": "[부] 거의 ~않는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "seldom",
+        "korean": "[부] 좀처럼 ~않는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "usually",
+        "korean": "[부] 보통, 대개",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "per",
+        "korean": "[전] ~당, ~마다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "probably",
+        "korean": "[부] 아마",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "extreme",
+        "korean": "[형] 극도의, 극심한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "excess",
+        "korean": "[명] 초과, 과잉",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "gradually",
+        "korean": "[부] 서서히",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "incredible",
+        "korean": "[형] 1. 놀라운, 엄청난 2. 믿기 어려운",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "quite",
+        "korean": "[부] 꽤, 상당히, 완전히",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "fairly",
+        "korean": "[부] 상당히, 꽤",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "rather",
+        "korean": "[부] 상당히, 약간",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "highly",
+        "korean": "[부] 1. 크게, 대단히 2. (수준 등이) 높이, 많이",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "slight",
+        "korean": "[형] 약간의, 조금의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "minor",
+        "korean": "[형] 작은, 사소한, 중요하지 않은",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "decrease",
+        "korean": "[동] 줄다, 감소하다 \n[명] 감소",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "limit",
+        "korean": "[명] 제한, 한계\n[동] 제한하다, 한정하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "merely",
+        "korean": "[부] 단지, 그저",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "indeed",
+        "korean": "[부] 정말로, 확실히",
+        "level": "eohwi_kkuet"
+    }
+]

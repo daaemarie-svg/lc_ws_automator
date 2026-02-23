@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "machine",
+        "korean": "[명] 기계",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "device",
+        "korean": "[명] 장치, 기구",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "screen",
+        "korean": "[명] 1. 화면, 스크린 2. 칸막이, 가리개",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "steel",
+        "korean": "[명] 강철, 강",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "system",
+        "korean": "[명] 체계, 제도, 시스템",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "operate",
+        "korean": "[동] 1. (기계 등이) 작동하다 2. 수술하다 3. 경영하다, 운영하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "drag",
+        "korean": "[동] 1. (무거운 것을) 끌다, 끌어당기다 2. (마우스를) 드래그하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "click",
+        "korean": "[동] 1. (마우스를) 클릭하다 2. 딸깍하는 소리가 나다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "tap",
+        "korean": "[동] 가볍게 톡톡 두드리다 \n[명] 수도꼭지",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "delete",
+        "korean": "[동] 삭제하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "select",
+        "korean": "[동] 선택하다, 선발하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "mode",
+        "korean": "[명] 방식, 모드",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "install",
+        "korean": "[동] 설치하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "website",
+        "korean": "[명] 웹사이트",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "dot",
+        "korean": "[명] 1. 점 2. 작은 반점, 얼룩",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "link",
+        "korean": "[명] 1. 관련(성), 관계 2. (교통·통신) 연결 3. ((컴퓨터)) 링크 \n[동] 연결하다, 잇다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "search",
+        "korean": "[동] 찾다, 검색하다, 수색하다\n[명] 1. 찾기, 수색 2. ((컴퓨터)) 검색",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "surf",
+        "korean": "[동] 1. 파도타기를 하다 2. (인터넷) 검색을 하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "upload",
+        "korean": "[동] 업로드하다, 올리다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "password",
+        "korean": "[명] 암호, 비밀번호",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "code",
+        "korean": "[명] 1. 암호, 부호 2. ((컴퓨터)) 부호, 코드",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "virus",
+        "korean": "[명] 바이러스",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "vaccine",
+        "korean": "[명] (예방) 백신",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "mobile",
+        "korean": "[형] 이동하는, 움직이는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "automatic",
+        "korean": "[형] 자동의",
+        "level": "eohwi_kkuet"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "wall",
+        "korean": "담, 벽",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "garden",
+        "korean": "정원, 뜰",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "bathroom",
+        "korean": "욕실, 화장실",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "stair",
+        "korean": "계단",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "wash",
+        "korean": "씻다, 빨래하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "gate",
+        "korean": "문, 출입구",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "umbrella",
+        "korean": "우산",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "roof",
+        "korean": "지붕",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "kitchen",
+        "korean": "부엌, 주방",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "refrigerator",
+        "korean": "냉장고",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "floor",
+        "korean": "바닥, 층",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "living room",
+        "korean": "거실",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "bedroom",
+        "korean": "침실",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "address",
+        "korean": "주소",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "stay",
+        "korean": "머무르다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "garbage",
+        "korean": "쓰레기",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "housework",
+        "korean": "가사, 집안일",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "comfortable",
+        "korean": "편안한, 쾌적한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "turn off",
+        "korean": "~을 끄다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "go to bed",
+        "korean": "잠자리에 들다",
+        "level": "wm_basic"
+    }
+]

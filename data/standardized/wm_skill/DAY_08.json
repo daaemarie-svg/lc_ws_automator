@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "garden",
+        "korean": "정원; 정원을 가꾸다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "apartment",
+        "korean": "아파트",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "yard",
+        "korean": "마당",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "knock",
+        "korean": "노크를 하다, (문 등을) 두드리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "soap",
+        "korean": "비누",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "towel",
+        "korean": "타월, 수건",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "curtain",
+        "korean": "커튼",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "mirror",
+        "korean": "거울",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "neighbor",
+        "korean": "이웃(사람)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "gate",
+        "korean": "문",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "bedroom",
+        "korean": "침실",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "roof",
+        "korean": "지붕",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "garage",
+        "korean": "차고",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "laundry",
+        "korean": "세탁물",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "water",
+        "korean": "물; 물을 주다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "lawn",
+        "korean": "잔디",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "floor",
+        "korean": "마루, 바닥; 층",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "feed",
+        "korean": "먹이를 주다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "bathroom",
+        "korean": "욕실",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "ceiling",
+        "korean": "천장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "shelf",
+        "korean": "선반",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "drawer",
+        "korean": "서랍",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "lamp",
+        "korean": "전기스탠드, 램프",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "sheet",
+        "korean": "시트, 홑이불",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "stair",
+        "korean": "계단, 층계",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "scale",
+        "korean": "체중계, 저울",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "sink",
+        "korean": "싱크대, 개수대",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "tap",
+        "korean": "수도꼭지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "turn on",
+        "korean": "(라디오, TV, 전기, 가스 등을) 켜다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "in place",
+        "korean": "제자리에 (있는)",
+        "level": "wm_skill"
+    }
+]

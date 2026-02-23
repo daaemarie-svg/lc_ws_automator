@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "motivate",
+        "korean": "[동] 동기를 부여하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "educate",
+        "korean": "[동] 교육하다, 가르치다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "instruct",
+        "korean": "[동] 1. 가르치다 2. 지시하다, 명령하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "refer",
+        "korean": "[동] 1. 언급하다, 거론하다 (to) 2. 참고하다, 참조하다 (to)",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "lecture",
+        "korean": "[명] 강의, 강연 \n[동] 강의하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "scold",
+        "korean": "[동] 야단치다, 꾸짖다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "consult",
+        "korean": "[동] 상담하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "counsel",
+        "korean": "[동] 1. 상담하다 2. 충고하다, 조언하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "range",
+        "korean": "[명] 범위, 폭",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "reward",
+        "korean": "[명] 보상, 보수\n[동] 보상하다, 보답하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "attitude",
+        "korean": "[명] 태도, 자세, 사고방식",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "behave",
+        "korean": "[동] 1. 행동하다 2. 예의 바르게 행동하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "effort",
+        "korean": "[명] 노력, 수고",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "difficulty",
+        "korean": "[명] 곤란, 어려움",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "attend",
+        "korean": "[동] 참석하다, 출석하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "absent",
+        "korean": "[형] 결석한, 부재의, 자리에 없는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "acquire",
+        "korean": "[동] 얻다, 습득하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "accomplish",
+        "korean": "[동] 이루다, 성취하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "essay",
+        "korean": "[명] 1. (짧은 논문식) 과제물, 리포트 2. 수필",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "journal",
+        "korean": "[명] 1. 일기, 일지 2. 신문, 잡지, 학술지",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "review",
+        "korean": "[명] 1. 검토 2. 복습 3. 논평, 비평\n[동] 1. 재검토하다 2. 복습하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "intellectual",
+        "korean": "[형] 지적인, 지능의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "knowledge",
+        "korean": "[명] 지식, 학식",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "intelligent",
+        "korean": "[형] 총명한, 똑똑한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "genius",
+        "korean": "[명] 1. 천재 2. 비범한 재능",
+        "level": "eohwi_kkuet"
+    }
+]

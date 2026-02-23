@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "baker",
+        "korean": "제빵사",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "reporter",
+        "korean": "기자, 통신원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "engineer",
+        "korean": "기사, 기술자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "scientist",
+        "korean": "과학자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "lawyer",
+        "korean": "변호사",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "dentist",
+        "korean": "치과의사",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "mechanic",
+        "korean": "정비공",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "architect",
+        "korean": "건축가",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "officer",
+        "korean": "공무원, 관리",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "gardener",
+        "korean": "정원사",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "photographer",
+        "korean": "사진사, 사진작가",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "president",
+        "korean": "대통령",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "salesperson",
+        "korean": "판매원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "carpenter",
+        "korean": "목수",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "businessman",
+        "korean": "사업가",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "fisherman",
+        "korean": "어부",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "soldier",
+        "korean": "군인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "professor",
+        "korean": "교수",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "judge",
+        "korean": "판사, 심사원; 판단하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "announcer",
+        "korean": "방송 진행자, 아나운서",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "hairdresser",
+        "korean": "미용사",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "accountant",
+        "korean": "회계사",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "novelist",
+        "korean": "소설가",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "security guard",
+        "korean": "경호원, 경비원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "astronaut",
+        "korean": "우주비행사",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "detective",
+        "korean": "탐정",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "secretary",
+        "korean": "비서",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "illustrator",
+        "korean": "삽화가",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "be good at",
+        "korean": "~에 능숙하다, ~을 잘하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "be[become] interested in",
+        "korean": "~에 관심이[흥미가] 있다",
+        "level": "wm_skill"
+    }
+]

@@ -1,0 +1,488 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "reserve",
+        "korean": "(훗날을 위하여) 남겨[떼어] 두다, 비축하다; 예약하다; 비축; 보호 구역",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "reservation",
+        "korean": "보류; 예약",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "occasion",
+        "korean": "경우; 특별한 일",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "event",
+        "korean": "특별한 일",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "local",
+        "korean": "지역의; 지방민, 주민",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "regional",
+        "korean": "지역의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "resident",
+        "korean": "지방민, 주민",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "civil",
+        "korean": "시민의; 국내의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "civic",
+        "korean": "시민의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "domestic",
+        "korean": "국내의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "Civil War",
+        "korean": "미국 남북 전쟁",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "inner",
+        "korean": "내부의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "internal",
+        "korean": "내부의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "outer",
+        "korean": "외부의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "inner strength",
+        "korean": "내면의 힘",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "tax",
+        "korean": "세금",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "duty",
+        "korean": "세금",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "tax free",
+        "korean": "면세의, 비과세의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "harbor",
+        "korean": "항구, 항만",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "port",
+        "korean": "항구, 항만",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "equal",
+        "korean": "같은, 평등한; 같다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "the same",
+        "korean": "같은, 평등한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "equality",
+        "korean": "평등",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "equal right",
+        "korean": "평등권",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "intend",
+        "korean": "~할 작정이다, 의도하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "mean",
+        "korean": "~할 작정이다, 의도하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "intention",
+        "korean": "의도",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "exhaust",
+        "korean": "소진시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "use up",
+        "korean": "소진시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "globalize",
+        "korean": "세계화하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "global",
+        "korean": "전 세계의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "independence",
+        "korean": "독립, 자주",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "dependence",
+        "korean": "의존",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "independent",
+        "korean": "독립된",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "territory",
+        "korean": "영역, 영토",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "zone",
+        "korean": "영역, 영토",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "reside",
+        "korean": "거주하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "live",
+        "korean": "거주하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "resident",
+        "korean": "거주자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "domestic",
+        "korean": "국내의; 가정의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "civil",
+        "korean": "국내의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "international",
+        "korean": "국제적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "domestic animal",
+        "korean": "가축",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "immigrate",
+        "korean": "이주해 들어오다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "immigration",
+        "korean": "(다른 나라에 살러 오는) 이주[이민], 입국 심사",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "immigrate",
+        "korean": "이주해 들어오다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "emigrate",
+        "korean": "타국으로 이주하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "emigration",
+        "korean": "(타국으로의) 이주[이민]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "custom",
+        "korean": "풍습; (pl.) 관세, 세관",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "tradition",
+        "korean": "풍습",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "customs office",
+        "korean": "세관",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "tribe",
+        "korean": "부족",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "tribal",
+        "korean": "종족의, 부족의; 동족적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "racial",
+        "korean": "인종의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "ethnic",
+        "korean": "인종의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "race",
+        "korean": "인종",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "racial discrimination",
+        "korean": "인종 차별",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "trait",
+        "korean": "특성, 특색",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "characteristic",
+        "korean": "특성, 특색",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "ethnic",
+        "korean": "민족의, 인종의; 이국적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "attempt",
+        "korean": "시도; 시도하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "try",
+        "korean": "시도",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "make an attempt",
+        "korean": "시도하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "dominate",
+        "korean": "지배하다; ~보다 우세하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "dominance",
+        "korean": "지배",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-066",
+        "word": "dominant",
+        "korean": "지배적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-067",
+        "word": "resist",
+        "korean": "저항하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-068",
+        "word": "oppose",
+        "korean": "저항하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-069",
+        "word": "resistance",
+        "korean": "저항",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-070",
+        "word": "invade",
+        "korean": "침입하다, 침해하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-071",
+        "word": "invasion",
+        "korean": "침입, 침략",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-072",
+        "word": "cooperate",
+        "korean": "협동하다, 협력하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-073",
+        "word": "cooperate with A for B",
+        "korean": "B를 위해 A와 협동하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-074",
+        "word": "hold on to",
+        "korean": "~을 (바꾸지 않고) 고수하다[지키다], (팔거나 주지 않고) 계속 보유하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-075",
+        "word": "long for",
+        "korean": "~을 갈망하다[그리워하다]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-076",
+        "word": "wish",
+        "korean": "~을 갈망하다[그리워하다]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-077",
+        "word": "yearn",
+        "korean": "~을 갈망하다[그리워하다]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-078",
+        "word": "crave",
+        "korean": "~을 갈망하다[그리워하다]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-079",
+        "word": "consist of",
+        "korean": "~로 구성되다, 이루어져 있다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-080",
+        "word": "consist in",
+        "korean": "~에 있다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-081",
+        "word": "consist with",
+        "korean": "~와 일치하다",
+        "level": "wm_high"
+    }
+]

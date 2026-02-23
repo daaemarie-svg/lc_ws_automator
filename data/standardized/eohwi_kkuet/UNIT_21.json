@@ -1,0 +1,146 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "occur",
+        "korean": "[동] 일어나다, 발생하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "pose",
+        "korean": "[동] 1. (문제 등을) 제기하다 2. 포즈[자세]를 취하다\n[명] 포즈, 자세",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "oppose",
+        "korean": "[동] (계획·제안 등에) 반대하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "conflict",
+        "korean": "[명] 대립, 갈등, 충돌",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "individual",
+        "korean": "[형] 1. 각각의, 개별의 2. 개인의, 개인적인\n[명] 개인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "poverty",
+        "korean": "[명] 가난, 빈곤",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "gap",
+        "korean": "[명] 1. 틈, 구멍 2. 격차",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "influence",
+        "korean": "[명] 영향, 영향력\n[동] 영향을 주다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "significant",
+        "korean": "[형] 1. 매우 중요한 2. (수량 등이) 상당한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "circumstance",
+        "korean": "[명] 1. 환경, 상황 2. 형편, 사정",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "deserve",
+        "korean": "[동] (마땅히) ~을 받을 만하다, 받을 가치가 있다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "moral",
+        "korean": "[형] 도덕의, 도덕상의\n[명] 1. (-s) 도덕 2. 교훈",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "require",
+        "korean": "[동] 1. 필요로 하다 2. (법·규칙에 따라) 요구하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "contribute",
+        "korean": "[동] 1. 기부하다 2. 기여하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "charity",
+        "korean": "[명] 1. 자선 단체 2. 자선, 기부",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "establish",
+        "korean": "[동] 1. 설립하다, 수립하다 2. 확립하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "benefit",
+        "korean": "[명] 혜택, 이득, 이익",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "reality",
+        "korean": "[명] 현실",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "standard",
+        "korean": "[명] 표준, 기준\n[형] 1. 표준이 되는 2. 보통의, 일반적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "tend",
+        "korean": "[동] ~하는 경향이 있다, ~하기 쉽다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "relate",
+        "korean": "[동] 관련시키다, 관련이 있다 (to)",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "proper",
+        "korean": "[형] 적절한, 적당한, 알맞은",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "labor",
+        "korean": "[명] 노동, 근로\n[동] 애쓰다, 노력하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "seek",
+        "korean": "[동] 1. 찾다 2. 구하다, 추구하다",
+        "level": "eohwi_kkuet"
+    }
+]

@@ -1,0 +1,476 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "variety",
+        "korean": "다양성, 변화",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "vary",
+        "korean": "바뀌다, 다르다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "variable",
+        "korean": "바뀔 수 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "a variety of",
+        "korean": "다양한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "square",
+        "korean": "정사각형; 제곱; 광장; 정사각형의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "delicate",
+        "korean": "연약한, 허약한; 섬세한, 우아한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "flat",
+        "korean": "편평한; (英) 플랫, 아파트",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "level",
+        "korean": "편평한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "uneven",
+        "korean": "울퉁불퉁한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "apartment",
+        "korean": "(美) 아파트",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "flatten",
+        "korean": "평평하게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "flat (tire)",
+        "korean": "바람 빠진 타이어",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "broad",
+        "korean": "폭 넓은, 광범위한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "wide",
+        "korean": "폭 넓은, 광범위한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "compact",
+        "korean": "소형의, 간편한; 빽빽한, 촘촘한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "narrow",
+        "korean": "좁은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "brief",
+        "korean": "간단한, 짧은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "in brief",
+        "korean": "간단히 말해서, 요컨대",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "sharp",
+        "korean": "날카로운; 급격한; 예리한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "keen",
+        "korean": "날카로운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "dull",
+        "korean": "무딘",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "sharpen",
+        "korean": "날카롭게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "precious",
+        "korean": "소중한, 값비싼",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "valuable",
+        "korean": "소중한, 값비싼",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "preciousness",
+        "korean": "귀중함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "artificial",
+        "korean": "인공적인; 가짜의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "natural",
+        "korean": "자연적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "authentic",
+        "korean": "진짜의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "gigantic",
+        "korean": "거인 같은, 거대한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "tiny",
+        "korean": "작은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "giant",
+        "korean": "거인; 거대한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "enormous",
+        "korean": "엄청난, 거대한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "ultimate",
+        "korean": "궁극적인, 최후의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "final",
+        "korean": "궁극적인, 최후의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "faint",
+        "korean": "희미한, 어렴풋한; 기절하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "dim",
+        "korean": "희미한, 어렴풋한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "clear",
+        "korean": "명확한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "steep",
+        "korean": "가파른, 경사가 급한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "steep rise",
+        "korean": "가파른 상승",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "fundamental",
+        "korean": "근본[기본]적인, 중요한; 근본",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "basic",
+        "korean": "근본[기본]적인, 중요한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "essential",
+        "korean": "근본[기본]적인, 중요한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "shallow",
+        "korean": "얕은, 얄팍한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "deep",
+        "korean": "깊은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "shallowness",
+        "korean": "얕음, 천박함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "symbolic",
+        "korean": "상징적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "symbol",
+        "korean": "상징",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "appropriate",
+        "korean": "적당한, 알맞은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "proper",
+        "korean": "적당한, 알맞은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "inappropriate",
+        "korean": "부적당한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "extreme",
+        "korean": "극단의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "moderate",
+        "korean": "중간 정도의, 적당한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "moderation",
+        "korean": "알맞음, 중용",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "moderator",
+        "korean": "중재자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "flexible",
+        "korean": "유연성 있는, 융통성 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "inflexible",
+        "korean": "융통성 없는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "flexibility",
+        "korean": "유연성",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "monotonous",
+        "korean": "단조로운, 변화 없는, 지루한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "boring",
+        "korean": "단조로운, 변화 없는, 지루한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "varied",
+        "korean": "다양한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "monotone",
+        "korean": "단조로움, (높낮이나 강약의) 변화가 없음",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "unclear",
+        "korean": "애매한, 분명하지 않은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "obscurity",
+        "korean": "불분명",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "obscure",
+        "korean": "애매한, 분명하지 않은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "drawback",
+        "korean": "결점, 문제점",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-066",
+        "word": "disadvantage",
+        "korean": "결점, 문제점",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-067",
+        "word": "paradox",
+        "korean": "역설, 패러독스(모순되어 보이나 사실은 그 속에 진리가 있는 말)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-068",
+        "word": "paradoxical",
+        "korean": "역설적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-069",
+        "word": "describe",
+        "korean": "묘사하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-070",
+        "word": "description",
+        "korean": "묘사",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-071",
+        "word": "descriptive",
+        "korean": "묘사적인, 설명적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-072",
+        "word": "marvel",
+        "korean": "놀라운 일; 놀라다, 감탄하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-073",
+        "word": "wonder",
+        "korean": "놀라다, 감탄하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-074",
+        "word": "marvelous",
+        "korean": "놀라운, 멋진",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-075",
+        "word": "glitter",
+        "korean": "반짝이다; 반짝거림",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-076",
+        "word": "differ from",
+        "korean": "~와 다르다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-077",
+        "word": "stand for",
+        "korean": "~을 상징하다, 나타내다; ~을 옹호[찬성]하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-078",
+        "word": "represent",
+        "korean": "~을 상징하다, 나타내다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-079",
+        "word": "advocate",
+        "korean": "~을 옹호[찬성]하다",
+        "level": "wm_high"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "anniversary",
+        "korean": "[명] 기념일",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "celebrate",
+        "korean": "[동] 기념하다, 축하하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "congratulate",
+        "korean": "[동] 축하하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "holiday",
+        "korean": "[명] 1. 공휴일, 휴일 2. 휴가",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "occasion",
+        "korean": "[명] 1. (특정한) 때, 경우 2. 행사, 의식",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "ceremony",
+        "korean": "[명] 의식, 식",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "national",
+        "korean": "[형] 국가의, 국가적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "annual",
+        "korean": "[형] 매년의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "memorable",
+        "korean": "[형] 기억할 만한, 인상적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "recall",
+        "korean": "[동] 1. 기억해 내다 2. 회수[리콜]하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "carnival",
+        "korean": "[명] 축제, 카니발",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "parade",
+        "korean": "[명] 행진, 퍼레이드",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "festive",
+        "korean": "[형] 축제의, 축하하는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "firework",
+        "korean": "[명] 폭죽, 불꽃놀이",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "pop",
+        "korean": "[명] 1. 펑(하고 터지는 소리) 2. 팝(뮤직)\n[동] 1. 펑 소리가 나다, 터지다 2. 불쑥 나타나다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "chant",
+        "korean": "[동] 1. 구호를 (거듭) 외치다 2. 노래를 부르다\n[명] 1. 구호 2. 노래",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "decorate",
+        "korean": "[동] 장식하다, 꾸미다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "host",
+        "korean": "[동] 주최하다\n[명] 1. 주인, 주최자 2. (TV·라디오 프로그램의) 진행자, 사회자",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "organize",
+        "korean": "[동] 조직하다, 계획하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "invitation",
+        "korean": "[명] 초대, 초청",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "receive",
+        "korean": "[동] 받다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "response",
+        "korean": "[명] 대답, 응답, 회신",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "amuse",
+        "korean": "[동] 즐겁게 하다, 재미있게 하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "pleasure",
+        "korean": "[명] 기쁨, 즐거움",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "merry",
+        "korean": "[형] 즐거운, 명랑한",
+        "level": "eohwi_kkuet"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "stretch",
+        "korean": "몸을 쭉 뻗다, 쭉 내밀다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "swim",
+        "korean": "수영하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "kick",
+        "korean": "(걷어) 차기, 발길질; 발로 차다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "outdoor",
+        "korean": "실외의, 집밖의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "player",
+        "korean": "경기자, 선수",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "bowling",
+        "korean": "볼링",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "prize",
+        "korean": "상, 상품",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "competition",
+        "korean": "경쟁; 대회, 시합",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "goal",
+        "korean": "(축구의) 골, 득점; 목적, 목표",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "shoot",
+        "korean": "사격; (총 등을) 쏘다; 슛을 하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "coach",
+        "korean": "코치, 지도자; 마차; 코치하다, 지도하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "basketball",
+        "korean": "농구",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "baseball",
+        "korean": "야구",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "base",
+        "korean": "(야구의) 루; 토대, 기초",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "match",
+        "korean": "시합, 경기; 경쟁 상대",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "batter",
+        "korean": "타자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "throw",
+        "korean": "투구, 던짐; 던지다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "catch",
+        "korean": "잡다; 공을 받다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "racket",
+        "korean": "라켓; 라켓으로 치다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "athlete",
+        "korean": "(운동)선수",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "defender",
+        "korean": "수비수",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "score",
+        "korean": "(경기) 득점, 점수; 득점하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "referee",
+        "korean": "(운동 경기) 심판; 심판을 보다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "champion",
+        "korean": "챔피언, 우승자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "sweat",
+        "korean": "땀; (땀이 나도록) 힘든 일; 땀을 흘리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "dive",
+        "korean": "잠수; 잠수하다, 물 속에 뛰어들다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "skate",
+        "korean": "스케이트 구두; 스케이트를 타다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "surf",
+        "korean": "파도; 파도를 타다, 서핑하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "warm up",
+        "korean": "(스포츠나 활동 전에) 몸을 천천히 풀다, 준비 운동을 하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "up and down",
+        "korean": "위아래로, 이리저리",
+        "level": "wm_skill"
+    }
+]

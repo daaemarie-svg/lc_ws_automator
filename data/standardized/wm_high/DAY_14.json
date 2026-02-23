@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "champion",
+        "korean": "챔피언, 우승자; 우승한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "match",
+        "korean": "경기; ~와 대결하다; ~에 어울리다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "tournament",
+        "korean": "토너먼트, 승자 진출전",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "rival",
+        "korean": "경쟁자, 경쟁 상대; ~와 경쟁하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "rank",
+        "korean": "(순위를) 매기다; 순위, 계급",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "coach",
+        "korean": "(스포츠 팀의) 코치, 감독; 코치하다, 지도하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "serve",
+        "korean": "공을 서브하다; (식당·상점에서) 손님을 응대하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "glide",
+        "korean": "미끄러지다, 활주하다; 미끄러짐",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "beat",
+        "korean": "이기다; 심장이 뛰다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "compete",
+        "korean": "경쟁하다, 겨루다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "ability",
+        "korean": "능력, 할 수 있음",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "leisure",
+        "korean": "여가, 레저, 자유 시간; 한가한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "pastime",
+        "korean": "취미, 오락",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "outdoor",
+        "korean": "야외의, 집 밖의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "defeat",
+        "korean": "패배; 패배시키다, 물리치다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "amateur",
+        "korean": "아마추어, 비전문가; 비전문가의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "mound",
+        "korean": "(투수의) 마운드",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "athletic",
+        "korean": "운동 경기의, 운동선수다운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "opponent",
+        "korean": "적수, 반대자; 반대하는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "referee",
+        "korean": "(경기·시합의) 심판, 중재자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "fair",
+        "korean": "공평한, 정정당당한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "penalty",
+        "korean": "(스포츠 경기에서) 벌칙, 페널티; 처벌, 형벌",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "foul",
+        "korean": "반칙하다, 파울을 범하다; 반칙인, 규칙 위반인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "outstanding",
+        "korean": "눈에 띄는, 우수한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "participate",
+        "korean": "참여하다, 참가하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "applaud",
+        "korean": "박수 치다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "encourage",
+        "korean": "용기를 북돋다, 격려하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "extreme",
+        "korean": "극단적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "call off",
+        "korean": "~을 취소하다, 철회하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "take place",
+        "korean": "개최되다, 열리다",
+        "level": "wm_high"
+    }
+]

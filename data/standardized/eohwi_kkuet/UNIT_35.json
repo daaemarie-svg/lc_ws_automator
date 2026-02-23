@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "location",
+        "korean": "[명] 위치, 장소",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "site",
+        "korean": "[명] 1. 터, 부지 2. 장소",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "zone",
+        "korean": "[명] 지역, 구역",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "region",
+        "korean": "[명] 지역, 지방",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "landmark",
+        "korean": "[명] 주요 지형지물, 명소",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "facility",
+        "korean": "[명] 시설, 설비",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "downstairs",
+        "korean": "[부] 아래층에, 아래층으로\n[명] 아래층",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "nearby",
+        "korean": "[형] 근처의, 인근의\n[부] 근처에, 인근에",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "entrance",
+        "korean": "[명] 입구, 출입문",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "fireplace",
+        "korean": "[명] 벽난로",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "fountain",
+        "korean": "[명] 분수",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "lawn",
+        "korean": "[명] 잔디밭",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "urban",
+        "korean": "[형] 도시의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "rural",
+        "korean": "[형] 지방의, 시골의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "countryside",
+        "korean": "[명] 시골 지역, 지방",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "neighborhood",
+        "korean": "[명] 1. 근처, 인근 2. 이웃 사람들",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "hometown",
+        "korean": "[명] 고향",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "harbor",
+        "korean": "[명] 항구",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "kindergarten",
+        "korean": "[명] 유치원",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "pharmacy",
+        "korean": "[명] 약국",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "platform",
+        "korean": "[명] 1. 플랫폼, 승강장 2. 강단, 연단",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "stadium",
+        "korean": "[명] 경기장, 운동장",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "tomb",
+        "korean": "[명] 무덤",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "waterfall",
+        "korean": "[명] 폭포",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "windmill",
+        "korean": "[명] 풍차",
+        "level": "eohwi_kkuet"
+    }
+]

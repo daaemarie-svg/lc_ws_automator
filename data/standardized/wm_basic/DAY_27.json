@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "map",
+        "korean": "지도",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "vacation",
+        "korean": "방학",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "beach",
+        "korean": "해변, 바닷가",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "trip",
+        "korean": "여행",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "tour",
+        "korean": "여행, 관광",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "travel",
+        "korean": "여행하다; 여행",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "backpack",
+        "korean": "배낭",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "climb",
+        "korean": "오르다, 올라가다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "leave",
+        "korean": "떠나다, 놓고 가다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "arrive",
+        "korean": "도착하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "return",
+        "korean": "돌아오다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "guide",
+        "korean": "안내; 안내원; 안내하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "tourist",
+        "korean": "관광객",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "view",
+        "korean": "전망; 견해",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "memory",
+        "korean": "기억, 추억",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "exciting",
+        "korean": "신나는, 흥미진진한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "adventure",
+        "korean": "모험",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "pack",
+        "korean": "짐을 싸다, 챙기다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "get to",
+        "korean": "~에 도착하다, ~에 이르다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "take a walk",
+        "korean": "산책을 하다",
+        "level": "wm_basic"
+    }
+]

@@ -1,0 +1,476 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "goods",
+        "korean": "상품",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "merchandise",
+        "korean": "상품",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "label",
+        "korean": "꼬리표, 상표",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "tag",
+        "korean": "꼬리표",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "price tag",
+        "korean": "가격표",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "wrap",
+        "korean": "감싸다, 포장하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "unwrap",
+        "korean": "포장을 풀다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "bargain",
+        "korean": "싼 물건; 값싼 물건의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "bargain sale",
+        "korean": "염가 판매 (싼값으로 판매하는 것)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "purchase",
+        "korean": "사다; 구입, 구입품",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "buy",
+        "korean": "사다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "purchaser",
+        "korean": "구매자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "make a purchase of",
+        "korean": "~을 구입하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "total",
+        "korean": "합계, 전체; 전체의; 완전한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "sum",
+        "korean": "합계, 전체",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "part",
+        "korean": "일부",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "partial",
+        "korean": "일부의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "quality",
+        "korean": "질; 특성; 양질의, 고급의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "characteristic",
+        "korean": "특성",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "qualify",
+        "korean": "~에게 자격을 주다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "quality time",
+        "korean": "양질의 시간",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "value",
+        "korean": "가치 있게 여기다, 평가하다; 가치",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "valuable",
+        "korean": "가치가 있는, 값비싼",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "reduce",
+        "korean": "줄이다, 낮추다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "reduction",
+        "korean": "축소, 삭감",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "trend",
+        "korean": "유행; 경향, 흐름",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "fashion",
+        "korean": "유행",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "vogue",
+        "korean": "유행",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "tendency",
+        "korean": "경향, 흐름",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "trendy",
+        "korean": "최신 유행의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "quantity",
+        "korean": "양",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "amount",
+        "korean": "양",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "quality",
+        "korean": "질",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "quantify",
+        "korean": "양을 측정하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "retail",
+        "korean": "소매",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "wholesale",
+        "korean": "도매",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "retailer",
+        "korean": "소매상",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "merchandise",
+        "korean": "상품",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "goods",
+        "korean": "상품",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "merchandiser",
+        "korean": "판매자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "insert",
+        "korean": "집어넣다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "insertion",
+        "korean": "주입, 삽입",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "necessity",
+        "korean": "필요(성); 필수품",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "essential",
+        "korean": "필수품",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "luxury",
+        "korean": "사치품",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "necessary",
+        "korean": "필수적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "luxury",
+        "korean": "호화, 사치(품); 사치(품)의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "extravagance",
+        "korean": "호화, 사치(품)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "luxurious",
+        "korean": "사치스러운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "auction",
+        "korean": "경매에서 팔다; 경매",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "receipt",
+        "korean": "영수증; 받음, 영수",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "sales slip",
+        "korean": "영수증",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "receive",
+        "korean": "받다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "refund",
+        "korean": "환불(액); 환불하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "exchange",
+        "korean": "교환하다; 교환(물)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "in exchange for",
+        "korean": "~와 교환으로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "claim",
+        "korean": "요구하다; 주장하다; 요구; 주장",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "demand",
+        "korean": "요구하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "satisfy",
+        "korean": "만족시키다; (조건을) 충족시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "dissatisfy",
+        "korean": "불만을 느끼게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "meet",
+        "korean": "(조건을) 충족시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "satisfaction",
+        "korean": "만족",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "satisfactory",
+        "korean": "만족스러운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "guarantee",
+        "korean": "보증(서); 보증하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "warranty",
+        "korean": "보증(서)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-066",
+        "word": "ensure",
+        "korean": "보증하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-067",
+        "word": "money-back guarantee",
+        "korean": "환불 보증",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-068",
+        "word": "exclude",
+        "korean": "배제하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-069",
+        "word": "include",
+        "korean": "포함하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-070",
+        "word": "reasonable",
+        "korean": "합리적인, 적절한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-071",
+        "word": "reason",
+        "korean": "이유, 이치",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-072",
+        "word": "at a reasonable price",
+        "korean": "적당한 가격에",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-073",
+        "word": "steady",
+        "korean": "안정된, 꾸준한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-074",
+        "word": "unsteady",
+        "korean": "불안정한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-075",
+        "word": "pay for",
+        "korean": "대금을 지불하다; ~의 대가를 치르다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-076",
+        "word": "leave out",
+        "korean": "~을 빠뜨리다, 생략하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-077",
+        "word": "exclude",
+        "korean": "~을 빠뜨리다, 생략하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-078",
+        "word": "omit",
+        "korean": "~을 빠뜨리다, 생략하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-079",
+        "word": "add up",
+        "korean": "합산하다",
+        "level": "wm_high"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "number",
+        "korean": "수, 숫자, 번호",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "some",
+        "korean": "몇몇의, 약간의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "each",
+        "korean": "각각[각자]의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "every",
+        "korean": "모든",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "all",
+        "korean": "모든",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "only",
+        "korean": "유일한; 단지, 오직",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "many",
+        "korean": "(수가) 많은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "much",
+        "korean": "(양이) 많은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "half",
+        "korean": "반, 절반",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "add",
+        "korean": "추가하다; 더하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "empty",
+        "korean": "빈, 비어 있는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "fill",
+        "korean": "채우다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "count",
+        "korean": "(수를) 세다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "enough",
+        "korean": "충분한; 충분히",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "total",
+        "korean": "전체의; 합계, 총액",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "piece",
+        "korean": "조각, 한 개, 한 장",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "nothing",
+        "korean": "아무것도 ~ 아니다[없다]",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "a lot of",
+        "korean": "(수, 양이) 많은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "a few",
+        "korean": "(수가) 약간의, 조금의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "a little",
+        "korean": "(양이) 약간의, 조금의",
+        "level": "wm_basic"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "store",
+        "korean": "가게, 상점",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "gift",
+        "korean": "선물",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "cheap",
+        "korean": "값싼, 저렴한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "expensive",
+        "korean": "값비싼",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "sale",
+        "korean": "판매; 염가 판매, 세일",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "sell",
+        "korean": "팔다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "choose",
+        "korean": "선택하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "pay",
+        "korean": "지불하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "business",
+        "korean": "사업, 상업, 장사",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "tax",
+        "korean": "세금",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "exchange",
+        "korean": "교환; 거래소; 교환하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "select",
+        "korean": "선발하다, 선택하다; 엄선된, 고급의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "goods",
+        "korean": "상품, 물품",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "tag",
+        "korean": "꼬리표, 태그; 정가표",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "medium",
+        "korean": "중간; 중간의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "cash",
+        "korean": "현금",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "change",
+        "korean": "거스름돈; 변화; 바꾸다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "customer",
+        "korean": "고객",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "display",
+        "korean": "전시, 진열; 전시하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "stand",
+        "korean": "노점, 가판대",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "retail",
+        "korean": "소매",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "discount",
+        "korean": "할인; 할인하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "receipt",
+        "korean": "영수증",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "brand-name",
+        "korean": "(유명) 상표가 붙은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "auction",
+        "korean": "경매",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "reasonable",
+        "korean": "(가격이) 합리적인, 저렴한; 이치에 맞는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "catalog",
+        "korean": "목록, (상품 등의) 카탈로그",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "quality",
+        "korean": "질, 품질",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "look around",
+        "korean": "둘러보다, 구경하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "drop by",
+        "korean": "잠깐 들르다",
+        "level": "wm_skill"
+    }
+]

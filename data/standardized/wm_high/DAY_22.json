@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "evident",
+        "korean": "분명한, 명백한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "arrest",
+        "korean": "체포하다, 구속[검거]하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "suspect",
+        "korean": "용의자; 의심하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "guilty",
+        "korean": "유죄의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "trap",
+        "korean": "덫, 속임수; (덫으로) 잡다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "robber",
+        "korean": "강도",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "criminal",
+        "korean": "범인, 범죄자; 범죄의; 형사상의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "prevent",
+        "korean": "막다, ~하지 못하게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "intentional",
+        "korean": "의도적인, 계획된",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "restrict",
+        "korean": "제한하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "regulate",
+        "korean": "규제하다, 통제하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "forbid",
+        "korean": "금하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "sentence",
+        "korean": "판결, 선고; 처벌; (형을) 선고하다, 판결하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "admit",
+        "korean": "인정하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "jury",
+        "korean": "배심원단; 심사위원단",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "deceive",
+        "korean": "속이다, 기만하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "sue",
+        "korean": "고소하다, 소송을 제기하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "commit",
+        "korean": "(죄·과실 등을) 범하다, 저지르다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "violate",
+        "korean": "위반하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "offend",
+        "korean": "기분을 상하게 하다, 불쾌하게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "investigate",
+        "korean": "조사하다, 수사하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "inquire",
+        "korean": "조사하다; 묻다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "insult",
+        "korean": "모욕하다; 모욕",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "identify",
+        "korean": "(신원 등을) 확인하다, 감정하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "confess",
+        "korean": "자백하다, 고백하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "convict",
+        "korean": "유죄를 선고하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "appeal",
+        "korean": "항소[상고]하다; 간청하다; 호소하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "break down",
+        "korean": "(열거나 하기 위해) ~을 부수다; 고장 나다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "accuse A of B",
+        "korean": "A를 B의 혐의로 고소[비난]하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "get away with",
+        "korean": "(나쁜 행동 등을 하고도) 처벌을 모면하다[그냥 넘어가다]",
+        "level": "wm_high"
+    }
+]

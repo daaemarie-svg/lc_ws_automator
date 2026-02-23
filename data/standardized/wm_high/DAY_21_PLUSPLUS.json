@@ -1,0 +1,434 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "social",
+        "korean": "사회의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "society",
+        "korean": "사회",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "socialize",
+        "korean": "사회화하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "moral",
+        "korean": "도덕적인; 교훈, (pl.) 도덕",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "immoral",
+        "korean": "부도덕한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "morality",
+        "korean": "도덕성",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "ethic",
+        "korean": "윤리, 도덕",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "ethics",
+        "korean": "윤리학",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "ethical",
+        "korean": "윤리의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "tend",
+        "korean": "~하는 경향이 있다, ~하기 쉽다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "tendency",
+        "korean": "경향",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "have a tendency to",
+        "korean": "~하는 경향이 있다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "allow",
+        "korean": "허락하다, 허가하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "allowance",
+        "korean": "승인; 용돈",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "affect",
+        "korean": "~에 영향을 미치다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "influence",
+        "korean": "~에 영향을 미치다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "expire",
+        "korean": "만기가 되다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "end",
+        "korean": "만기가 되다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "expiration",
+        "korean": "종료, 만기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "organization",
+        "korean": "조직, 단체, 기구",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "organize",
+        "korean": "조직하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "organizational",
+        "korean": "조직의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "liberty",
+        "korean": "자유; 해방, 석방",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "freedom",
+        "korean": "자유",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "factor",
+        "korean": "요소, 요인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "opportunity",
+        "korean": "기회",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "chance",
+        "korean": "기회",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "golden opportunity",
+        "korean": "절호의 기회",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "standard",
+        "korean": "표준, 기준; 표준의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "criterion",
+        "korean": "표준, 기준",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "standardize",
+        "korean": "표준화하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "status",
+        "korean": "지위, 신분; 상태",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "position",
+        "korean": "지위, 신분",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "facility",
+        "korean": "편의, 편리, (pl.) 편의 시설",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "facilitate",
+        "korean": "용이하게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "circumstance",
+        "korean": "상황, 환경",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "condition",
+        "korean": "상황, 환경",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "charity",
+        "korean": "자선, 자선 단체; 구호물자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "charitable",
+        "korean": "자비로운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "volunteer",
+        "korean": "자원봉사자, 지원자; 자발적으로 ~하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "voluntary",
+        "korean": "자발적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "prospect",
+        "korean": "전망, 가능성",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "prospective",
+        "korean": "유망한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "advantage",
+        "korean": "이익, 유리한 점",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "disadvantage",
+        "korean": "불이익",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "advantageous",
+        "korean": "유리한, 이로운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "stereotype",
+        "korean": "고정 관념",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "racial stereotypes",
+        "korean": "인종적 고정 관념",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "secure",
+        "korean": "안전한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "safe",
+        "korean": "안전한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "insecure",
+        "korean": "불안정한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "security",
+        "korean": "안전, 보안",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "complex",
+        "korean": "복잡한; 복합 건물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "complicated",
+        "korean": "복잡한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "simple",
+        "korean": "단순한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "leisure complex",
+        "korean": "종합 레저 건물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "inadequate",
+        "korean": "부적당한, 불충분한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "adequate",
+        "korean": "적당한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "inadequacy",
+        "korean": "불충분, 결점",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "proper",
+        "korean": "적절한, 알맞은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "improper",
+        "korean": "부적절한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "indicate",
+        "korean": "나타내다, 가리키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "indication",
+        "korean": "암시, 지적",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "indicator",
+        "korean": "지시자; 지표",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "deserve",
+        "korean": "~할 자격이 있다, ~할 만하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-066",
+        "word": "acquire",
+        "korean": "얻다, 습득하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-067",
+        "word": "get",
+        "korean": "얻다, 습득하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-068",
+        "word": "acquisition",
+        "korean": "습득",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-069",
+        "word": "acquired",
+        "korean": "후천적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-070",
+        "word": "sign up for",
+        "korean": "(강좌 등에) 등록하다, ~을 신청[가입]하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-071",
+        "word": "contribute to",
+        "korean": "~의 한 원인이 되다; ~에 기여하다, 공헌하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-072",
+        "word": "put off",
+        "korean": "~을 연기하다[보류하다]",
+        "level": "wm_high"
+    }
+]

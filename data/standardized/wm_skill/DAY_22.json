@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "sand",
+        "korean": "모래",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "wave",
+        "korean": "파도",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "shell",
+        "korean": "조개",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "suntan",
+        "korean": "선탠, 볕에 그을음",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "raft",
+        "korean": "고무 보트, 뗏목",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "yacht",
+        "korean": "요트",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "sunglasses",
+        "korean": "선글라스",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "parasol",
+        "korean": "파라솔, 양산",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "mat",
+        "korean": "돗자리, 매트",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "vacation",
+        "korean": "방학",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "whistle",
+        "korean": "호각; 호각을 불다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "lifeboat",
+        "korean": "구명보트",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "scuba",
+        "korean": "스쿠버, 잠수용 호흡 장치",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "swimsuit",
+        "korean": "수영복",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "sunblock",
+        "korean": "자외선 차단제",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "cooler",
+        "korean": "냉장 박스",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "blanket",
+        "korean": "담요",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "shade",
+        "korean": "그늘",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "shore",
+        "korean": "물가, 기슭",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "sunbath",
+        "korean": "일광욕",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "lifeguard",
+        "korean": "인명 구조원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "float",
+        "korean": "물 위에 뜨다, (배 등을) 띄우다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "flipper",
+        "korean": "물갈퀴, 오리발",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "binoculars",
+        "korean": "쌍안경",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "snorkel",
+        "korean": "스노클을 쓰고 잠수하다, 헤엄치다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "pebble",
+        "korean": "조약돌, 자갈",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "expose",
+        "korean": "노출하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "all day long",
+        "korean": "하루 종일",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "look forward to ~ing",
+        "korean": "~을 고대하다, 손꼽아 기다리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "throw away",
+        "korean": "(쓰레기 등을) 버리다; (기회 등을) 놓치다, 날리다",
+        "level": "wm_skill"
+    }
+]

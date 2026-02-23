@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "name",
+        "korean": "이름",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "boy",
+        "korean": "소년, 남자아이",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "girl",
+        "korean": "소녀, 여자아이",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "baby",
+        "korean": "아기",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "man",
+        "korean": "(성인) 남자, 남성",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "woman",
+        "korean": "(성인) 여자, 여성",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "age",
+        "korean": "나이",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "dear",
+        "korean": "사랑하는, 소중한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "child",
+        "korean": "아이, 어린이",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "teenager",
+        "korean": "십 대",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "adult",
+        "korean": "성인, 어른",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "someone",
+        "korean": "누군가, 어떤 사람",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "everyone",
+        "korean": "모두, 모든 사람",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "lady",
+        "korean": "여성, 숙녀, 부인",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "gentleman",
+        "korean": "신사, 양반",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "person",
+        "korean": "사람, 개인",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "people",
+        "korean": "사람들",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "own",
+        "korean": "자기 자신의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "each other",
+        "korean": "서로",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "be[come] from",
+        "korean": "~출신이다, ~에서 오다",
+        "level": "wm_basic"
+    }
+]

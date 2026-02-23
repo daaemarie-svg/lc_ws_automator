@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "bake",
+        "korean": "굽다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "fry",
+        "korean": "튀기다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "boil",
+        "korean": "끓이다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "glass",
+        "korean": "컵, 유리잔, 한 컵(의 양)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "knife",
+        "korean": "칼",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "basket",
+        "korean": "바구니",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "chop",
+        "korean": "썰다, 다지다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "lid",
+        "korean": "뚜껑",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "handle",
+        "korean": "손잡이",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "pour",
+        "korean": "붓다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "roll",
+        "korean": "밀다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "slice",
+        "korean": "얇게 썰다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "refrigerator",
+        "korean": "냉장고",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "pot",
+        "korean": "(속이 깊은) 냄비",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "bowl",
+        "korean": "(우묵한) 그릇, 통",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "plate",
+        "korean": "접시",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "tray",
+        "korean": "쟁반",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "jar",
+        "korean": "(입구가 넓은) 병, 단지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "pan",
+        "korean": "(납작한) 냄비, 팬",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "beat",
+        "korean": "휘저어 섞다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "steam",
+        "korean": "찌다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "scoop",
+        "korean": "주걱, 국자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "grill",
+        "korean": "(열로) 굽다, 익히다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "kettle",
+        "korean": "주전자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "opener",
+        "korean": "따개",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "cabinet",
+        "korean": "진열대",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "recipe",
+        "korean": "요리법",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "blender",
+        "korean": "부엌용 믹서기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "be used for",
+        "korean": "~에 사용[이용]되다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "keep on ~ing",
+        "korean": "계속 ~하다",
+        "level": "wm_skill"
+    }
+]

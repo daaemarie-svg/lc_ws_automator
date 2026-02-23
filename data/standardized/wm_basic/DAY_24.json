@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "huge",
+        "korean": "(크기·양·정도가) 엄청난, 거대한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "small",
+        "korean": "작은, 소규모의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "narrow",
+        "korean": "좁은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "wide",
+        "korean": "넓은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "round",
+        "korean": "둥근, 동그란",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "part",
+        "korean": "부분; 일부",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "line",
+        "korean": "줄, 선",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "side",
+        "korean": "쪽, 면; 옆, 측면",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "shape",
+        "korean": "모양, 형태",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "size",
+        "korean": "크기; 치수",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "type",
+        "korean": "종류, 유형",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "large",
+        "korean": "(규모가) 큰, 넓은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "high",
+        "korean": "높은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "low",
+        "korean": "낮은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "deep",
+        "korean": "깊은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "thick",
+        "korean": "두꺼운, 두툼한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "flat",
+        "korean": "평평한, 납작한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "object",
+        "korean": "물체, 물건",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "for example",
+        "korean": "예를 들어",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "a kind of",
+        "korean": "일종의",
+        "level": "wm_basic"
+    }
+]

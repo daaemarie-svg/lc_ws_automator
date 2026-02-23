@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "cute",
+        "korean": "귀여운, 예쁜",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "pretty",
+        "korean": "예쁜, 귀여운; 매우, 아주",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "beautiful",
+        "korean": "아름다운",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "ugly",
+        "korean": "못생긴, 추한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "overweight",
+        "korean": "과체중의, 너무 살찐",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "young",
+        "korean": "어린, 젊은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "handsome",
+        "korean": "(남자가) 잘생긴",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "slim",
+        "korean": "호리호리한, 가냘픈, 날씬한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "beard",
+        "korean": "턱수염",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "lovely",
+        "korean": "사랑스러운, 아름다운",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "neat",
+        "korean": "단정한, 깔끔한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "plain",
+        "korean": "평범하게 생긴, 꾸밈없는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "good-looking",
+        "korean": "잘생긴",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "skinny",
+        "korean": "깡마른, 바싹 여윈",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "fit",
+        "korean": "건강한; 적합하다, 꼭 맞다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "muscular",
+        "korean": "근육질의, 건장한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "thin",
+        "korean": "(몸, 손가락 등이) 가는, 가느다란; 여윈, 수척한; (머리카락 등이) 숱이 적은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "bald",
+        "korean": "대머리의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "curly",
+        "korean": "곱슬거리는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "dye",
+        "korean": "염색하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "appearance",
+        "korean": "외모",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "attractive",
+        "korean": "매력적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "charming",
+        "korean": "매력적인, 멋진",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "mustache",
+        "korean": "코밑수염",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "sideburns",
+        "korean": "구레나룻",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "middle-aged",
+        "korean": "중년의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "build",
+        "korean": "체격; 짓다, 건축하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "image",
+        "korean": "이미지, 상, 형태",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "grow up",
+        "korean": "성장하다, 자라다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "both A and B",
+        "korean": "A와 B 둘 다",
+        "level": "wm_skill"
+    }
+]

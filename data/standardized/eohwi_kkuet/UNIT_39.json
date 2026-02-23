@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "period",
+        "korean": "[명] 기간, 시대",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "current",
+        "korean": "[형] 현재의, 지금의\n[명] (물이나 공기 등의) 흐름",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "modern",
+        "korean": "[형] 현대의, 오늘날의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "nowadays",
+        "korean": "[부] 요즘에는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "anymore",
+        "korean": "[부] 더 이상은, 이제는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "recent",
+        "korean": "[형] 최근의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "lately",
+        "korean": "[부] 최근에, 요즈음",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "past",
+        "korean": "[명] 과거\n[형] 과거의, 지나간",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "anytime",
+        "korean": "[부] 언제든지, 언제나",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "someday",
+        "korean": "[부] 언젠가, 머지않아, 훗날",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "daily",
+        "korean": "[형] 매일의\n[부] 매일, 날마다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "century",
+        "korean": "[명] 1세기, 100년",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "decade",
+        "korean": "[명] 10년",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "midnight",
+        "korean": "[명] 자정, 밤 12시, 한밤중",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "meanwhile",
+        "korean": "[부] 그동안에, 그 사이에",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "series",
+        "korean": "[명] 1. 일련, 연속 2. 연재물, 시리즈",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "former",
+        "korean": "[형] 1. 예전의, 과거의 2. (the ~) 전자의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "following",
+        "korean": "[형] 다음에 나오는, 다음의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "previous",
+        "korean": "[형] 이전의, 앞선",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "primary",
+        "korean": "[형] 1. 초기의, 첫째의 2. 주된, 주요한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "prime",
+        "korean": "[형] 1. 가장 중요한, 주된 2. 최고의, 최상의\n[명] 전성기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "immediately",
+        "korean": "[부] 즉시, 즉각",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "suddenly",
+        "korean": "[부] 갑자기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "until",
+        "korean": "[전] ~까지",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "within",
+        "korean": "[전] 1. ((기간)) ~이내에 2. ((공간)) ~안에",
+        "level": "eohwi_kkuet"
+    }
+]

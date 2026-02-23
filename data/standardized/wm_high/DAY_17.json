@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "condition",
+        "korean": "건강 상태, 컨디션; 상황, 조건",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "chemical",
+        "korean": "화학 물질; 화학의, 화학적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "digest",
+        "korean": "소화하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "disorder",
+        "korean": "(가벼운) 병, (신체 기능의) 장애[이상]; 무질서, 혼란 (상태)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "worsen",
+        "korean": "악화되다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "dental",
+        "korean": "치아의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "medical",
+        "korean": "의학의, 의술의, 의료용의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "mental",
+        "korean": "정신의, 심적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "recover",
+        "korean": "회복하다, 되찾다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "emergency",
+        "korean": "비상사태, 위급",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "allergy",
+        "korean": "알레르기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "joint",
+        "korean": "관절, 접합",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "spine",
+        "korean": "척추, 등뼈",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "sight",
+        "korean": "시각, 시력",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "pulse",
+        "korean": "맥박, 고동",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "infection",
+        "korean": "감염, 전염(병)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "sanitary",
+        "korean": "위생의, 위생적인, 깨끗한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "symptom",
+        "korean": "징후, 증상",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "disabled",
+        "korean": "장애를 입은, 장애의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "inject",
+        "korean": "주사하다, 투여하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "prescribe",
+        "korean": "처방하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "tablet",
+        "korean": "알약, 정제",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "wound",
+        "korean": "상처, 부상; 상처입히다, 상하게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "injure",
+        "korean": "상처를 입히다, 다치게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "heal",
+        "korean": "치유되다, 치료하다, 고치다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "immune",
+        "korean": "면역의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "strain",
+        "korean": "긴장, 큰 부담; 긴장시키다, (발목을) 접질리다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "bruise",
+        "korean": "멍, 타박상, 좌상; 타박상을 입히다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "come down with",
+        "korean": "~의 병에 걸리다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "ease off",
+        "korean": "누그러지다, 완화되다[시키다]",
+        "level": "wm_high"
+    }
+]

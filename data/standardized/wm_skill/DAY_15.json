@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "watch",
+        "korean": "지켜보다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "look",
+        "korean": "보다, 바라보다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "listen",
+        "korean": "(주의해서) 듣다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "smell",
+        "korean": "냄새, 후각; 냄새가 나다, 냄새를 맡다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "loud",
+        "korean": "(소리가) 큰, 시끄러운",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "bad",
+        "korean": "불쾌한, 나쁜; (음식이) 상한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "feel",
+        "korean": "(기분이) 들다, 느끼다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "hard",
+        "korean": "굳은, 단단한; 어려운",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "scream",
+        "korean": "비명을 지르다, 소리치다; 비명, 절규",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "noise",
+        "korean": "소음",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "bitter",
+        "korean": "쓴, 쓴맛의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "sweet",
+        "korean": "달콤한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "sour",
+        "korean": "신, 신맛의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "juicy",
+        "korean": "즙이 많은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "touch",
+        "korean": "촉감; 접촉; 만지다, 건드리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "rough",
+        "korean": "거친; 가공하지 않은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "soft",
+        "korean": "부드러운",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "sense",
+        "korean": "감각; 감지하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "objective",
+        "korean": "객관적인; 목적, 목표",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "sight",
+        "korean": "시각, 시력; 보기, 일견",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "stare",
+        "korean": "빤히 보다, 응시하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "whisper",
+        "korean": "속삭임; 속삭이다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "audio",
+        "korean": "음의 재생, 오디오; 음성의, 오디오의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "flavor",
+        "korean": "맛, 풍미",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "smooth",
+        "korean": "부드러운; 부드럽게 하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "notice",
+        "korean": "주의, 주목; 주의하다, 알아차리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "observe",
+        "korean": "관찰하다, 알아차리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "discover",
+        "korean": "발견하다, 알아내다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "make sense",
+        "korean": "의미가 통하다, 이해가[말이] 되다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "focus on",
+        "korean": "~에 집중하다, 초점을 맞추다",
+        "level": "wm_skill"
+    }
+]

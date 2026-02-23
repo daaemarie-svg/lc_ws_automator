@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "battle",
+        "korean": "[명] 1. 전투, 교전 2. 투쟁, 싸움\n[동] 싸우다, 투쟁하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "attack",
+        "korean": "[동] 공격하다, 습격하다\n[명] 공격, 습격",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "invade",
+        "korean": "[동] 침략하다, 침입하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "resist",
+        "korean": "[동] 1. (공격 등에) 저항하다 2. 저항[반대]하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "guard",
+        "korean": "[동] 1. 지키다, 보호하다 2. 감시하다\n[명] 감시인, 경비원",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "command",
+        "korean": "[명] 1. 명령, 지시 2. 지휘, 통솔",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "defeat",
+        "korean": "[동] 패배시키다, 이기다\n[명] 패배",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "capture",
+        "korean": "[동] 1. 붙잡다, 포획하다 2. (관심·마음을) 사로잡다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "negotiate",
+        "korean": "[동] 협상하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "threat",
+        "korean": "[명] 위협, 협박",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "independent",
+        "korean": "[형] 독립된, 독립적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "revolution",
+        "korean": "[명] 1. 혁명, 변혁 2. 회전, 공전",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "attempt",
+        "korean": "[명] 시도, 도전\n[동] 시도하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "army",
+        "korean": "[명] 1. 군대 2. 육군",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "military",
+        "korean": "[형] 군대의, 군사의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "soldier",
+        "korean": "[명] 군인, 병사",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "sail",
+        "korean": "[동] 항해하다, 배로 가다\n[명] 1. 돛 2. 항해",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "honor",
+        "korean": "[명] 1. 명예 2. 영광\n[동] 존경하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "enemy",
+        "korean": "[명] 적, 경쟁 상대",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "weapon",
+        "korean": "[명] 무기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "arrow",
+        "korean": "[명] 1. 화살 2. 화살표",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "shoot",
+        "korean": "[동] 1. (총을) 쏘다 2. (영화·사진을) 촬영하다, 찍다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "shot",
+        "korean": "[명] 1. (총기) 발사, 발포 2. (스포츠에서) 슛",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "bomb",
+        "korean": "[명] 폭탄\n[동] 폭격하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "explode",
+        "korean": "[동] 1. 폭발하다 2. (감정 등이) 폭발하다",
+        "level": "eohwi_kkuet"
+    }
+]

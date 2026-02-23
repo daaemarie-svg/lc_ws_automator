@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "hill",
+        "korean": "언덕",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "land",
+        "korean": "육지, 땅",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "river",
+        "korean": "강",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "lake",
+        "korean": "호수",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "desert",
+        "korean": "사막",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "forest",
+        "korean": "숲",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "valley",
+        "korean": "계곡, 골짜기",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "island",
+        "korean": "섬",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "jungle",
+        "korean": "밀림, 정글",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "mountain",
+        "korean": "산",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "pond",
+        "korean": "연못",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "ocean",
+        "korean": "대양, 바다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "cave",
+        "korean": "동굴",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "polar",
+        "korean": "북극[남극]의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "nature",
+        "korean": "자연",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "mystery",
+        "korean": "미스터리, 불가사의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "wave",
+        "korean": "파도, 물결; 흔들다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "discover",
+        "korean": "발견하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "look at",
+        "korean": "~을 보다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "take turns",
+        "korean": "교대로 하다",
+        "level": "wm_basic"
+    }
+]

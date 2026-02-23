@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "lifetime",
+        "korean": "[명] 일생, 평생",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "fate",
+        "korean": "[명] 운명",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "childhood",
+        "korean": "[명] 어린 시절, 유년기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "youth",
+        "korean": "[명] 1. 어린 시절 2. 젊음, 청춘 3. 젊은이, 청년",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "mature",
+        "korean": "[형] 어른스러운, 성숙한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "funeral",
+        "korean": "[명] 장례식",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "bury",
+        "korean": "[동] 묻다, 매장하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "engaged",
+        "korean": "[형] 1. 약혼한 2. (~을 하느라) 바쁜, ~하고 있는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "wedding",
+        "korean": "[명] 결혼식",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "pregnant",
+        "korean": "[형] 임신한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "resemble",
+        "korean": "[동] 닮다, 비슷하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "devote",
+        "korean": "[동] (시간·노력 등을) 바치다, 쏟다 (to)",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "challenge",
+        "korean": "[명] 도전 \n[동] 도전하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "courage",
+        "korean": "[명] 용기, 담력",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "encounter",
+        "korean": "[동] 1. (곤란에) 부딪히다 2. (우연히) 마주치다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "lucky",
+        "korean": "[형] 운이 좋은, 행운의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "experience",
+        "korean": "[명] 경험, 경력 \n[동] 경험하다, 체험하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "overcome",
+        "korean": "[동] (고난·역경 등을) 극복하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "succeed",
+        "korean": "[동] 1. 성공하다 2. 뒤를 잇다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "achieve",
+        "korean": "[동] 이루다, 성취하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "earn",
+        "korean": "[동] 1. (돈을) 벌다 2. ~을 획득하다, 얻다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "peak",
+        "korean": "[명] 1. 절정, 정점 2. 봉우리, 꼭대기\n[형] 절정기의, 최상의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "fame",
+        "korean": "[명] 명성",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "motto",
+        "korean": "[명] 좌우명",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "background",
+        "korean": "[명] 배경",
+        "level": "eohwi_kkuet"
+    }
+]

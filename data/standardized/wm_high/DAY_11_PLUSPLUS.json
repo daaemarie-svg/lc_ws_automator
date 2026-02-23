@@ -1,0 +1,380 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "report",
+        "korean": "보도하다, 전하다; 보도, 보고",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "inform",
+        "korean": "보도하다, 전하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "reportable",
+        "korean": "보도할 수 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "press",
+        "korean": "신문, 잡지, 언론; 언론인, 기자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "press conference",
+        "korean": "기자 회견",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "article",
+        "korean": "(신문·잡지의) 기사, 논설; (문법) 관사",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "journal",
+        "korean": "잡지, 정기 간행물; (일간) 신문; 일기, 일지",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "journalist",
+        "korean": "보도 기자, (신문·잡지의) 기자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "broadcast",
+        "korean": "방송하다, 방영하다; 방송, 방영",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "air",
+        "korean": "방송하다, 방영하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "broadcasting station",
+        "korean": "방송국",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "post",
+        "korean": "(안내문 등을) 게시[공고]하다; 게시글, 포스트 (블로그·소셜 네트워크 등에 올리는 사진이나 글)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "pose",
+        "korean": "(사진 등을 위한) 자세를 취하다; 자세, 포즈",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "posture",
+        "korean": "자세, 포즈",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "scene",
+        "korean": "(연극·영화의) 장면, 무대; 현장",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "scenic",
+        "korean": "무대 장치의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "survey",
+        "korean": "조사, 검사, 측량; 조사하다, 살펴보다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "mass",
+        "korean": "대중, 집단; 다수 대중의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "mass communication[media]",
+        "korean": "대중 매체",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "factual",
+        "korean": "사실의, 사실에 입각한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "fictitious",
+        "korean": "허구의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "fact",
+        "korean": "사실",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "fame",
+        "korean": "명성, 평판",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "reputation",
+        "korean": "명성, 평판",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "famous",
+        "korean": "유명한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "poll",
+        "korean": "투표, 여론 조사; 투표하다, 여론 조사를 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "channel",
+        "korean": "채널; 수로, 해협",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "criticize",
+        "korean": "비판하다, 혹평하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "praise",
+        "korean": "칭찬하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "critic",
+        "korean": "비평가, 평론가",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "criticism",
+        "korean": "비난, 비평",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "compliment",
+        "korean": "칭찬, 칭찬의 말; 칭찬하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "complimentary",
+        "korean": "칭찬의, 칭찬하는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "series",
+        "korean": "연속물, (TV 프로그램의) 연속 프로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "sequence",
+        "korean": "연속물, (TV 프로그램의) 연속 프로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "feature",
+        "korean": "(신문·잡지 등의) 연재 기사, 특집 기사; 특징; (사건을) 대서특필하다; 특색으로 삼다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "feature story",
+        "korean": "기사, 주요 읽을거리",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "script",
+        "korean": "(방송의) 대본, 각본; 필기 문자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "bulletin",
+        "korean": "보고, 게시; 뉴스 속보",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "bulletin board",
+        "korean": "게시판",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "preview",
+        "korean": "(영화의) 시사회, 미리보기, 예고편; 예습하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "trailer",
+        "korean": "(영화의) 시사회, 미리보기, 예고편",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "review",
+        "korean": "비평, 서평; 복습하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "column",
+        "korean": "신문의 칸, 특정 기고를 하는 공간[란]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "columnist",
+        "korean": "칼럼니스트, 기고가",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "release",
+        "korean": "(레코드를) 발매하다, (영화를) 개봉하다; (뉴스를) 발표하다, 공개하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "issue",
+        "korean": "(뉴스를) 발표하다, 공개하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "release copy",
+        "korean": "(공식 발표 등의) 보도 자료",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "announce",
+        "korean": "알리다, 공표하다, 공고하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "declare",
+        "korean": "알리다, 공표하다, 공고하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "announcer",
+        "korean": "아나운서",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "public announcement",
+        "korean": "공시, 공식적 발표",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "reveal",
+        "korean": "드러내다, 폭로하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "disclose",
+        "korean": "드러내다, 폭로하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "audience",
+        "korean": "청중, 관중, 관객",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "spectator",
+        "korean": "청중, 관중, 관객",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "crowd",
+        "korean": "청중, 관중, 관객",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "audience research",
+        "korean": "시청률 조사",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "panel",
+        "korean": "패널, (토론회의) 토론자단, 심사위원단",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "panel discussion",
+        "korean": "공개 토론회(여러 명의 전문가나 대표자가 청중앞에서 진행하는 토론)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "focus",
+        "korean": "초점을 맞추다, 관심을 집중하다(on); 초점, 집중점",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "argue over",
+        "korean": "~을 두고 논쟁하다, 왈가왈부하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "come up with",
+        "korean": "~을 생각해 내다, 창안하다",
+        "level": "wm_high"
+    }
+]

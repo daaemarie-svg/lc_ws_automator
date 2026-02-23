@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "accident",
+        "korean": "[명] 1. 사고 2. 우연",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "bump",
+        "korean": "[동] 부딪치다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "crash",
+        "korean": "[동] 1. 충돌하다 2. 추락하다 \n[명] 충돌 (사고)",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "disaster",
+        "korean": "[명] 재난, 재해",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "danger",
+        "korean": "[명] 위험, 위험한 상태",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "state",
+        "korean": "[명] 1. 상태 2. 주(州)\n[동] 진술하다, 서술하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "terrible",
+        "korean": "[형] 끔찍한, 무서운",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "panic",
+        "korean": "[명] 공황, 공포",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "urgent",
+        "korean": "[형] 긴급한, 긴박한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "severe",
+        "korean": "[형] 극심한, 심각한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "unexpected",
+        "korean": "[형] 예기치 않은, 뜻밖의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "emergency",
+        "korean": "[명] 비상(사태), 위급",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "harm",
+        "korean": "[명] 손상, 손해\n[동] 해치다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "hurt",
+        "korean": "[동] 1. 다치게 하다 2. 아프다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "injure",
+        "korean": "[동] 다치게 하다, 상처를 입히다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "wound",
+        "korean": "[명] 상처, 부상 \n[동] 상처를 입히다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "crack",
+        "korean": "[동] 깨지다, 금이 가다\n[명] 갈라진 금, 틈",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "sink",
+        "korean": "[동] 가라앉다, 침몰하다 \n[명] 개수대, 싱크대",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "slip",
+        "korean": "[동] 미끄러지다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "suffer",
+        "korean": "[동] 1. 고통받다, 괴로워하다 2. (고통·부상 등을) 겪다, 당하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "rescue",
+        "korean": "[동] 구하다, 구조하다 \n[명] 구조",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "ambulance",
+        "korean": "[명] 구급차",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "symptom",
+        "korean": "[명] 증상",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "safety",
+        "korean": "[명] 안전",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "secure",
+        "korean": "[형] 1. (해를 입지 않고) 안전한 2. 안심하는\n[동] 1. 안전하게 지키다 2. 확보하다",
+        "level": "eohwi_kkuet"
+    }
+]

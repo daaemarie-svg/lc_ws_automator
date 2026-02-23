@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "budget",
+        "korean": "예산, 예산안",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "capital",
+        "korean": "자본; 수도; 대문자; 자본의; 주요한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "account",
+        "korean": "거래, 예금 계좌; 계산, 회계",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "expense",
+        "korean": "지출, 비용, 경비",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "collapse",
+        "korean": "붕괴되다, 무너지다, (가치가) 폭락하다; 붕괴, 실패",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "economic",
+        "korean": "경제학의, 경제(상)의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "risk",
+        "korean": "위험, 모험",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "decline",
+        "korean": "(가격) 하락; (가격·가치가) 하락하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "stock",
+        "korean": "주식, 주; 재고(품)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "possess",
+        "korean": "소유하다, 가지다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "property",
+        "korean": "재산, 소유물; 부동산, 토지",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "asset",
+        "korean": "자산, 재산",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "finance",
+        "korean": "재정, 재무",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "loan",
+        "korean": "대출(금), 대여",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "estimate",
+        "korean": "평가하다, 견적하다; 평가, 견적",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "commerce",
+        "korean": "상업, 통상, 교섭",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "negotiate",
+        "korean": "협상하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "currency",
+        "korean": "통화, 화폐; 유통",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "boost",
+        "korean": "증대하다; 경기 부양, (가격의) 상승",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "fortune",
+        "korean": "재산, 부; 행운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "unemployed",
+        "korean": "실업의, 무직의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "income",
+        "korean": "수입, 소득",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "annual",
+        "korean": "1년의, 해마다의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "strategy",
+        "korean": "전략, 계획",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "temporary",
+        "korean": "일시적인, 임시의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "outcome",
+        "korean": "결과, (구체적인) 성과",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "potential",
+        "korean": "잠재적인, 발전 가능성이 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "pay off",
+        "korean": "(빚 등을) 다 갚다; 성공하다, 성과를 올리다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "lay off",
+        "korean": "~을 해고하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "in need",
+        "korean": "어려움에 처한, 궁핍한",
+        "level": "wm_high"
+    }
+]

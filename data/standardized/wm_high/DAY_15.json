@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "transport",
+        "korean": "운송, 운송 수단; 운반하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "passenger",
+        "korean": "승객",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "underground",
+        "korean": "(英) 지하철; 지하의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "aboard",
+        "korean": "(배·기차·비행기 등에) 탄, 탑승[승선]한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "depart",
+        "korean": "출발하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "sightseeing",
+        "korean": "관광, 유람; 관광의, 유람의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "downtown",
+        "korean": "도심의; 도심지에",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "ride",
+        "korean": "(말·탈것 등을) 타다; (탈것을) 타기, 승차",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "abroad",
+        "korean": "해외로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "baggage",
+        "korean": "(배·비행기 여행의) 수하물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "cabin",
+        "korean": "(배·비행기의) 선실, 객실; 오두막",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "check-out",
+        "korean": "(호텔의) 퇴실, 체크아웃 체크인; 계산(대)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "tip",
+        "korean": "사례금, 팁; 끝; 조언; 사례금을 주다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "destination",
+        "korean": "목적지",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "available",
+        "korean": "이용 가능한; 입수 가능한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "delay",
+        "korean": "지연시키다; 지연",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "transfer",
+        "korean": "갈아타다; 이동하다, 옮기다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "vehicle",
+        "korean": "탈것, 운송 수단",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "highway",
+        "korean": "고속 도로, 간선 도로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "convey",
+        "korean": "(물건·승객 등을) 나르다; 전달하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "accommodate",
+        "korean": "수용하다, 숙박시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "cruise",
+        "korean": "크루즈, 유람선 (여행); 순항; 순항하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "crew",
+        "korean": "(배·비행기·열차 등의) 승무원",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "navigate",
+        "korean": "항해하다, (강·바다 등을) 건너다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "locate",
+        "korean": "(어떤 장소에) 정하다, 두다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "journey",
+        "korean": "여행, 여정; 여행하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "spectacle",
+        "korean": "(인상적인) 광경, 구경거리",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "come across",
+        "korean": "(우연히) 마주치다, 발견하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "head for",
+        "korean": "~로 향해 가다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "pull over",
+        "korean": "차를 길 한쪽에 대다",
+        "level": "wm_high"
+    }
+]

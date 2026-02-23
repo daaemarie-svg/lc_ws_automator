@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "literature",
+        "korean": "[명] 문학",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "author",
+        "korean": "[명] 저자, 작가",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "edit",
+        "korean": "[동] 편집하다, 교정하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "fiction",
+        "korean": "[명] 1. 소설 2. 허구, 지어낸 이야기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "novel",
+        "korean": "[명] (장편) 소설",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "mystery",
+        "korean": "[명] 1. 수수께끼, 미스터리 2. 추리소설",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "myth",
+        "korean": "[명] 신화",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "legend",
+        "korean": "[명] 전설",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "fairy",
+        "korean": "[명] (이야기 속의) 요정",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "tale",
+        "korean": "[명] 이야기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "imaginary",
+        "korean": "[형] 상상의, 가상의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "romantic",
+        "korean": "[형] 로맨틱한, 연애[애정]의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "poem",
+        "korean": "[명] (한 편의) 시",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "biography",
+        "korean": "[명] 전기, 일대기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "tragedy",
+        "korean": "[명] 비극",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "dramatic",
+        "korean": "[형] 1. 극적인 2. 연극의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "article",
+        "korean": "[명] 1. 기사, 논설 2. 물품, 물건",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "phrase",
+        "korean": "[명] 구, 어구",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "sentence",
+        "korean": "[명] 문장\n[동] (형을) 선고하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "theme",
+        "korean": "[명] 주제, 테마",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "text",
+        "korean": "[명] 1. (책의) 본문 2. 글, 문서\n[동] (휴대 전화로) 문자를 보내다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "context",
+        "korean": "[명] 문맥, 맥락",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "content",
+        "korean": "[명] 1. 내용 2. (상자 등의) 내용물\n[형] 만족하는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "chapter",
+        "korean": "[명] 장, 챕터",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "summary",
+        "korean": "[명] 요약, 개요",
+        "level": "eohwi_kkuet"
+    }
+]

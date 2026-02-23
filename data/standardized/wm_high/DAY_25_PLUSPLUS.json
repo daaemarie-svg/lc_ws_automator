@@ -1,0 +1,476 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "suggest",
+        "korean": "제안하다; 시사하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "suggestion",
+        "korean": "제안",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "propose",
+        "korean": "제안하다, 제출하다; 청혼하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "proposal",
+        "korean": "제안; 청혼",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "universal",
+        "korean": "보편적인, 일반적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "particular",
+        "korean": "특별한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "(the) universe",
+        "korean": "전 인류, 전 세계",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "vary",
+        "korean": "다르다; 바꾸다, 수정하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "alter",
+        "korean": "바꾸다, 수정하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "modify",
+        "korean": "바꾸다, 수정하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "various",
+        "korean": "다양한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "variety",
+        "korean": "다양성, 여러 가지",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "conflict",
+        "korean": "충돌, 갈등; 저항하다, 충돌하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "combat",
+        "korean": "충돌, 갈등",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "battle",
+        "korean": "충돌, 갈등",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "come into conflict with",
+        "korean": "~와 싸우다, 충돌하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "aware",
+        "korean": "알아차리고 있는, 깨닫고 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "awareness",
+        "korean": "인식",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "be aware of",
+        "korean": "~을 알다, 알아차리다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "approach",
+        "korean": "접근하다, 다가가다; 접근",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "urge",
+        "korean": "촉구하다, 재촉하다, 강제로 ~하게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "urgent",
+        "korean": "긴급한, 다급한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "associate",
+        "korean": "제휴하다, 연합하다, 협동하다; 동료",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "companion",
+        "korean": "동료",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "be associated with",
+        "korean": "~와 관련되다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "interpret",
+        "korean": "해석하다, 통역하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "translate",
+        "korean": "해석하다, 통역하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "interpretation",
+        "korean": "해석, 통역",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "interpreter",
+        "korean": "통역사",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "alternative",
+        "korean": "양자택일, 대안; 양자택일의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "substitute",
+        "korean": "대안, 양자택일",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "alternative energy",
+        "korean": "대체 에너지",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "assist",
+        "korean": "원조하다, 돕다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "cooperate",
+        "korean": "원조하다, 돕다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "help",
+        "korean": "원조하다, 돕다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "aid",
+        "korean": "원조하다, 돕다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "assistance",
+        "korean": "원조",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "assistant",
+        "korean": "조수, 보조",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "affair",
+        "korean": "사건; 일거리, 사무, 직무",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "foreign affairs",
+        "korean": "외무, 외교 문제",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "widespread",
+        "korean": "광범위한, 널리 퍼진",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "external",
+        "korean": "외부의, 밖의, 대외적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "internal",
+        "korean": "내부의, 대내적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "external trade",
+        "korean": "대외 무역",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "alien",
+        "korean": "외국의, 외국인의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "famine",
+        "korean": "기근, 배고픔",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "starvation",
+        "korean": "기근, 배고픔",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "hunger",
+        "korean": "기근, 배고픔",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "refuge",
+        "korean": "피난처, 도피처; 피난, 도피",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "refugee",
+        "korean": "난민",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "shortage",
+        "korean": "부족, 결핍",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "deficiency",
+        "korean": "부족, 결핍",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "short",
+        "korean": "부족한; 짧은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "endanger",
+        "korean": "위험에 빠뜨리다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "danger",
+        "korean": "위험",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "endangered species",
+        "korean": "멸종 위기의 동식물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "contaminate",
+        "korean": "오염시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "contamination",
+        "korean": "오염",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "preserve",
+        "korean": "보존하다, 보호하다, 지키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "preservation",
+        "korean": "보존",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "explode",
+        "korean": "폭발하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "explosion",
+        "korean": "폭발",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "explosive",
+        "korean": "폭발성의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "integrate",
+        "korean": "통합하다, 단결하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "unite",
+        "korean": "통합하다, 단결하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-066",
+        "word": "integration",
+        "korean": "통합",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-067",
+        "word": "guard",
+        "korean": "보호하다, 지키다; 경계, 경호원",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-068",
+        "word": "protect",
+        "korean": "보호하다, 지키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-069",
+        "word": "remark",
+        "korean": "발언, 비평; (의견을) 언급하다; 알아채다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-070",
+        "word": "comment",
+        "korean": "발언, 비평",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-071",
+        "word": "remarkable",
+        "korean": "주목할 만한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-072",
+        "word": "make remarks",
+        "korean": "비평하다, 말하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-073",
+        "word": "accord",
+        "korean": "일치, 조화; 일치하다, 화합하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-074",
+        "word": "agreement",
+        "korean": "일치, 조화",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-075",
+        "word": "with one accord",
+        "korean": "이구동성으로, 만장일치로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-076",
+        "word": "interfere in",
+        "korean": "~에 간섭하다, 개입하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-077",
+        "word": "interfere with",
+        "korean": "~을 방해하다, 지장을 주다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-078",
+        "word": "keep up with",
+        "korean": "(사람·시류 등에) 뒤떨어지지 않게 따라가다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-079",
+        "word": "break off",
+        "korean": "~와의 관계를 단절하다; (협상 등이) 결렬되다",
+        "level": "wm_high"
+    }
+]

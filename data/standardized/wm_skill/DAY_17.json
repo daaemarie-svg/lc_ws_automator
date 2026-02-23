@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "trip",
+        "korean": "여행",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "journey",
+        "korean": "(보통 멀리 가는) 여행, 여정",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "sightseeing",
+        "korean": "관광",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "visa",
+        "korean": "비자, 사증",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "flight",
+        "korean": "비행",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "landscape",
+        "korean": "풍경",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "reserve",
+        "korean": "예약하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "cancel",
+        "korean": "취소하다; 취소",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "scenery",
+        "korean": "풍경",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "apply",
+        "korean": "신청하다 (for)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "passport",
+        "korean": "여권",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "insurance",
+        "korean": "보험",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "reach",
+        "korean": "도착하다, 도달하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "attendant",
+        "korean": "안내원, 종업원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "board",
+        "korean": "탑승하다, 승차하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "depart",
+        "korean": "출발하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "arrive",
+        "korean": "도착하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "land",
+        "korean": "땅; 착륙하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "abroad",
+        "korean": "해외로",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "itinerary",
+        "korean": "여행 일정표; 여행 일기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "baggage",
+        "korean": "짐, 수하물",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "claim",
+        "korean": "요구, 청구; 주장; 요구하다; 주장하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "check",
+        "korean": "수표; 점검; 조사하다, 점검하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "destination",
+        "korean": "(여행 등의) 목적지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "security",
+        "korean": "보안, 안전",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "delay",
+        "korean": "지연, 연기; 연기하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "jet lag",
+        "korean": "시차증(여행 시차에 의한 피로·신경 과민)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "souvenir",
+        "korean": "기념품",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "all over the world",
+        "korean": "전 세계에",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "have a good time",
+        "korean": "즐겁게 보내다, 좋은 시간을 갖다",
+        "level": "wm_skill"
+    }
+]

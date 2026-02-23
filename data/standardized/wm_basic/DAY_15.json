@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "salt",
+        "korean": "소금",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "sugar",
+        "korean": "설탕",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "meat",
+        "korean": "고기",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "snack",
+        "korean": "간단한 식사, 간식",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "fresh",
+        "korean": "신선한, 상쾌한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "sauce",
+        "korean": "소스, 양념",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "rice",
+        "korean": "쌀, 밥",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "bottle",
+        "korean": "병",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "heat",
+        "korean": "가열하다; 열기",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "bake",
+        "korean": "굽다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "meal",
+        "korean": "식사, 끼니",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "cook",
+        "korean": "요리하다; 요리사",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "mix",
+        "korean": "섞다, 혼합하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "pour",
+        "korean": "붓다, 따르다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "melt",
+        "korean": "녹다, 녹이다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "delicious",
+        "korean": "아주 맛있는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "freeze",
+        "korean": "얼다, 얼리다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "recipe",
+        "korean": "요리법, 레시피",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "such as",
+        "korean": "~와 같은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "do the dishes",
+        "korean": "설거지를 하다",
+        "level": "wm_basic"
+    }
+]

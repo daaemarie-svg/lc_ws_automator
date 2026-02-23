@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "south",
+        "korean": "남쪽; 남쪽의; 남쪽으로",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "east",
+        "korean": "동쪽; 동쪽의; 동쪽으로",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "west",
+        "korean": "서쪽; 서쪽의; 서쪽으로",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "north",
+        "korean": "북쪽; 북쪽의; 북쪽으로",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "under",
+        "korean": "~아래에",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "below",
+        "korean": "(~보다) 아래에[아래로]",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "behind",
+        "korean": "~뒤에",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "between",
+        "korean": "~사이에",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "center",
+        "korean": "중심, 중앙",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "around",
+        "korean": "~주위[둘레]에",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "toward",
+        "korean": "~쪽으로, ~을 향하여",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "above",
+        "korean": "(~보다) 위에[위로]",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "over",
+        "korean": "~위에[위로]",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "far",
+        "korean": "먼; 멀리",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "inside",
+        "korean": "안에[안으로]",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "outside",
+        "korean": "밖에(서), 바깥에",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "top",
+        "korean": "맨 위, 정상; 맨 위의, 정상의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "bottom",
+        "korean": "맨 아래, 바닥; 맨 아래의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "next to",
+        "korean": "~옆에, ~ 다음의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "in front of",
+        "korean": "~앞에",
+        "level": "wm_basic"
+    }
+]

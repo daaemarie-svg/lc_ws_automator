@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "old",
+        "korean": "늙은, 나이 많은; 오래된",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "young",
+        "korean": "어린, 젊은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "short",
+        "korean": "키가 작은, 짧은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "tall",
+        "korean": "키가 큰, 높은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "long",
+        "korean": "긴",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "pretty",
+        "korean": "예쁜, 귀여운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "ugly",
+        "korean": "못생긴, 보기 싫은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "handsome",
+        "korean": "잘생긴",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "face",
+        "korean": "얼굴",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "thin",
+        "korean": "날씬한, 마른; 얇은, 가는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "fat",
+        "korean": "뚱뚱한, 살찐",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "curly",
+        "korean": "곱슬곱슬한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "blond",
+        "korean": "금발인",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "change",
+        "korean": "바꾸다; 변하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "lovely",
+        "korean": "사랑스러운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "cute",
+        "korean": "귀여운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "normal",
+        "korean": "평범한, 정상적인",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "beautiful",
+        "korean": "아름다운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "look like",
+        "korean": "~처럼 보이다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "show up",
+        "korean": "나타나다",
+        "level": "wm_basic"
+    }
+]

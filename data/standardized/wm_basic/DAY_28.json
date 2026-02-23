@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "sport",
+        "korean": "스포츠, 운동",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "race",
+        "korean": "경주, 경기, 달리기 (시합)",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "baseball",
+        "korean": "야구",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "basketball",
+        "korean": "농구",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "soccer",
+        "korean": "축구",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "catch",
+        "korean": "잡다, 받다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "win",
+        "korean": "이기다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "lose",
+        "korean": "지다; 잃어버리다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "stadium",
+        "korean": "경기장",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "cheer",
+        "korean": "환호[응원]하다, 격려하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "practice",
+        "korean": "연습하다; 연습",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "rule",
+        "korean": "규칙",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "player",
+        "korean": "선수",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "teamwork",
+        "korean": "협동 작업, 팀워크",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "match",
+        "korean": "경기, 시합; 성냥",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "hold",
+        "korean": "개최하다; 잡다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "score",
+        "korean": "득점, 점수",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "possible",
+        "korean": "가능한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "work out",
+        "korean": "운동하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "do one's best",
+        "korean": "최선을 다하다",
+        "level": "wm_basic"
+    }
+]

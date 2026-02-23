@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "cliff",
+        "korean": "[명] 절벽, 낭떠러지",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "coast",
+        "korean": "[명] 해안, 연안, 바닷가",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "pole",
+        "korean": "[명] 1. (지구의) 극 2. 기둥, 막대기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "shore",
+        "korean": "[명] (바다·호수·강의) 기슭, 물가, 해안",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "tropical",
+        "korean": "[형] 열대의, 열대 지방의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "bush",
+        "korean": "[명] 관목, 덤불",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "flow",
+        "korean": "[명] 흐름\n[동] 흐르다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "shade",
+        "korean": "[명] 1. 그늘, 그늘진 곳 2. 빛 가리개, (전등의) 갓",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "reflect",
+        "korean": "[동] 1. (빛 등을) 반사하다 2. (상을) 비추다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "resource",
+        "korean": "[명] 자원",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "source",
+        "korean": "[명] 1. 원천, 근원 2. 출처",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "coal",
+        "korean": "[명] 석탄",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "fuel",
+        "korean": "[명] 연료",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "electricity",
+        "korean": "[명] 1. 전기 2. 전력",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "oxygen",
+        "korean": "[명] 산소",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "lack",
+        "korean": "[명] 부족, 결핍",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "disappear",
+        "korean": "[동] 사라지다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "clay",
+        "korean": "[명] 점토, 찰흙",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "ecosystem",
+        "korean": "[명] 생태계",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "surround",
+        "korean": "[동] 둘러싸다, 에워싸다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "atmosphere",
+        "korean": "[명] 1. (지구의) 대기 2. 분위기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "preserve",
+        "korean": "[동] 1. 지키다, 보호하다 2. 보존하다, 간직하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "garbage",
+        "korean": "[명] 쓰레기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "earthquake",
+        "korean": "[명] 지진",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "reuse",
+        "korean": "[동] 재사용하다",
+        "level": "eohwi_kkuet"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "park",
+        "korean": "주차하다; 공원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "stop",
+        "korean": "정류장; 정차하다, 그만두다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "drive",
+        "korean": "운전하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "subway",
+        "korean": "지하철",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "seat",
+        "korean": "좌석",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "road",
+        "korean": "길, 도로",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "fare",
+        "korean": "요금",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "bicycle",
+        "korean": "자전거",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "limit",
+        "korean": "한계, 제한; 제한하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "route",
+        "korean": "길, 경로, 루트; (버스, 기차 등의) 노선",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "cross",
+        "korean": "~을 건너다; 십자가",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "track",
+        "korean": "철도 선로, 궤도",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "rail",
+        "korean": "철로",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "curve",
+        "korean": "굽이, 커브, 굴곡; 구부러지다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "sign",
+        "korean": "표지(판); 서명하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "station",
+        "korean": "역, 정거장; (관공)서, 국",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "wheel",
+        "korean": "바퀴",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "license",
+        "korean": "면허증",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "accident",
+        "korean": "사고",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "traffic",
+        "korean": "교통(량); 교통의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "forward",
+        "korean": "앞으로, 앞을 향하여",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "transfer",
+        "korean": "옮기다; 환승하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "passenger",
+        "korean": "승객",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "harbor",
+        "korean": "항구",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "gas",
+        "korean": "휘발유, 가솔린",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "platform",
+        "korean": "(역의) 플랫폼, 승강장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "transport",
+        "korean": "수송하다, 운송하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "crash",
+        "korean": "충돌; 충돌하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "get on",
+        "korean": "(탈것에) 타다, 승차하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "on foot",
+        "korean": "걸어서, 도보로",
+        "level": "wm_skill"
+    }
+]

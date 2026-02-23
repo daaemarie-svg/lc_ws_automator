@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "kind",
+        "korean": "친절한; 종류, 유형",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "funny",
+        "korean": "웃기는, 재미있는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "quiet",
+        "korean": "조용한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "careful",
+        "korean": "주의 깊은, 조심하는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "shy",
+        "korean": "수줍음[부끄럼]을 많이 타는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "stupid",
+        "korean": "어리석은, 멍청한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "lazy",
+        "korean": "게으른",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "calm",
+        "korean": "차분한, 침착한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "smart",
+        "korean": "똑똑한, 영리한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "clever",
+        "korean": "영리한, 똑똑한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "wise",
+        "korean": "지혜로운, 현명한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "honest",
+        "korean": "정직한, 솔직한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "polite",
+        "korean": "예의 바른, 공손한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "friendly",
+        "korean": "친절한, 우호적인",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "active",
+        "korean": "활동적인",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "brave",
+        "korean": "용감한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "curious",
+        "korean": "호기심이 많은, 궁금해하는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "character",
+        "korean": "성격, 기질; 특징; 등장인물",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "on time",
+        "korean": "시간을 어기지 않고, 제시간에",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "on one's own",
+        "korean": "혼자 힘으로",
+        "level": "wm_basic"
+    }
+]

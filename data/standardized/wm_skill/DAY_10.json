@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "glue",
+        "korean": "풀; 풀을 바르다, 접착하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "scissors",
+        "korean": "가위",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "eraser",
+        "korean": "지우개",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "desk",
+        "korean": "책상",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "chair",
+        "korean": "의자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "room",
+        "korean": "방, 실",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "company",
+        "korean": "회사",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "interview",
+        "korean": "면접을 보다, 인터뷰를 하다; 면접, 인터뷰",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "calendar",
+        "korean": "달력",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "printer",
+        "korean": "인쇄기, 프린터",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "envelope",
+        "korean": "봉투",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "folder",
+        "korean": "폴더, 서류철",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "call",
+        "korean": "통화; 전화를 걸다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "letter",
+        "korean": "편지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "seal",
+        "korean": "도장, 인감, 봉인; 날인하다, 봉하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "clip",
+        "korean": "클립; 자르다, 깎다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "pin",
+        "korean": "핀; 핀으로 고정하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "message",
+        "korean": "메시지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "bookcase",
+        "korean": "책장, 책꽂이",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "manager",
+        "korean": "관리자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "calculator",
+        "korean": "계산기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "stationery",
+        "korean": "문구류",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "staple",
+        "korean": "스테이플러로 고정시키다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "punch",
+        "korean": "(표에 구멍을 뚫는) 펀치; 구멍을 뚫다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "highlighter",
+        "korean": "형광 컬러 펜",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "document",
+        "korean": "서류, 문서",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "printout",
+        "korean": "출력물",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "photocopy",
+        "korean": "사진 복사물; 사진 복사하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "deal with",
+        "korean": "~을 다루다, 처리하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "fill out",
+        "korean": "~을 작성하다, 기입하다",
+        "level": "wm_skill"
+    }
+]

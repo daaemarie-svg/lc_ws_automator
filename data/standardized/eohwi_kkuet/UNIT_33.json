@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "costume",
+        "korean": "[명] 의상, 복장",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "fabric",
+        "korean": "[명] 직물, 천",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "wool",
+        "korean": "[명] 양모, 양털",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "leather",
+        "korean": "[명] 가죽",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "pattern",
+        "korean": "[명] 패턴, 무늬",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "stripe",
+        "korean": "[명] 줄무늬",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "dye",
+        "korean": "[동] 염색하다\n[명] 염료, 물감",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "stitch",
+        "korean": "[동] 바느질하다, 꿰매다\n[명] (한) 바늘, (한) 땀",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "sew",
+        "korean": "[동] 바느질하다, 꿰매다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "thread",
+        "korean": "[명] 실",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "cardigan",
+        "korean": "[명] 카디건",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "suit",
+        "korean": "[명] 정장\n[동] 1. 알맞다, 적합하다 2. 어울리다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "collar",
+        "korean": "[명] 칼라, 옷깃",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "sleeve",
+        "korean": "[명] 소매",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "knot",
+        "korean": "[명] 매듭\n[동] 매듭을 묶다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "fashionable",
+        "korean": "[형] 유행하는, 유행에 따른",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "trend",
+        "korean": "[명] 1. 트렌드, 유행 2. 경향, 추세",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "formal",
+        "korean": "[형] 1. 격식을 차린, 정중한 2. 공식적인 3. 형식적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "luxury",
+        "korean": "[명] 1. 사치, 호화로움 2. 사치품",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "jewelry",
+        "korean": "[명] 보석류, 장신구류",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "imitate",
+        "korean": "[동] 모방하다, 흉내 내다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "alter",
+        "korean": "[동] 1. 변하다, 바꾸다 2. (옷을) 고치다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "polish",
+        "korean": "[동] 1. 닦다, 광을 내다 2. 다듬다\n[명] 1. 광택제 2. 광택, 닦기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "fit",
+        "korean": "[동] 1. (모양·크기가) 맞다 2. 적합하다, 어울리다\n[형] 1. 건강한 2. 알맞은, 어울리는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "tag",
+        "korean": "[명] 꼬리표, 가격표",
+        "level": "eohwi_kkuet"
+    }
+]

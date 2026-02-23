@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "talk",
+        "korean": "말하다, 이야기하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "speak",
+        "korean": "말하다, 이야기하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "call",
+        "korean": "부르다; 전화하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "tell",
+        "korean": "알리다, 말하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "say",
+        "korean": "말하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "ask",
+        "korean": "묻다, 질문하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "answer",
+        "korean": "(대)답하다; 대답; 해답",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "show",
+        "korean": "보여 주다, 드러내다; 쇼, 공연",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "express",
+        "korean": "나타내다, 표현하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "message",
+        "korean": "메시지, 전갈",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "mean",
+        "korean": "의미하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "discuss",
+        "korean": "상의하다, 논의하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "explain",
+        "korean": "설명하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "problem",
+        "korean": "문제, 어려움",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "agree",
+        "korean": "동의하다, 찬성하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "allow",
+        "korean": "허락하다, 허용하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "accept",
+        "korean": "받아들이다, 수락하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "promise",
+        "korean": "약속하다; 약속",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "find out",
+        "korean": "알아내다, 발견하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "say hello to",
+        "korean": "~에게 안부를 전하다, ~에게 인사하다",
+        "level": "wm_basic"
+    }
+]

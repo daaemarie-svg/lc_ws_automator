@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "play",
+        "korean": "놀다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "walk",
+        "korean": "걷다; 산책시키다; 걷기",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "run",
+        "korean": "달리다, 뛰다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "kick",
+        "korean": "(발로) 차다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "jump",
+        "korean": "뛰다, 도약하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "throw",
+        "korean": "던지다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "use",
+        "korean": "쓰다, 사용하다; 사용",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "close",
+        "korean": "닫다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "cry",
+        "korean": "울다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "act",
+        "korean": "연기하다; 행동하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "move",
+        "korean": "움직이다; 이사하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "shout",
+        "korean": "소리[고함]치다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "carry",
+        "korean": "나르다; 가지고 다니다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "drop",
+        "korean": "떨어뜨리다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "try",
+        "korean": "노력하다, 애를 쓰다; 시도하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "check",
+        "korean": "확인하다, 점검하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "bring",
+        "korean": "가져오다, 데려오다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "laugh",
+        "korean": "(소리 내어) 웃다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "have[take] a seat",
+        "korean": "자리에 앉다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "get out of",
+        "korean": "~에서 나가[오]다; ~에서 내리다",
+        "level": "wm_basic"
+    }
+]

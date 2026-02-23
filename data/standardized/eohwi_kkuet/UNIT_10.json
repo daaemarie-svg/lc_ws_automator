@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "vehicle",
+        "korean": "[명] 탈것, 차량",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "automobile",
+        "korean": "[명] 자동차",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "rail",
+        "korean": "[명] 1. 기차, 철도 2. 난간",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "aircraft",
+        "korean": "[명] 항공기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "path",
+        "korean": "[명] 길, 통로, 오솔길",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "route",
+        "korean": "[명] 길, 노선, 경로",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "track",
+        "korean": "[명] 1. 길 2. (기차) 선로 3. 경주로, 트랙",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "avenue",
+        "korean": "[명] 대로, 거리, (거리 이름으로) -가",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "curve",
+        "korean": "[명] 곡선, 커브",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "crosswalk",
+        "korean": "[명] 횡단보도",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "pedestrian",
+        "korean": "[명] 보행자",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "sidewalk",
+        "korean": "[명] 보도, 인도",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "extend",
+        "korean": "[동] 1. 연장하다 2. 확장하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "complicate",
+        "korean": "[동] 복잡하게 하다, 어렵게 만들다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "rush",
+        "korean": "[동] 서두르다, 돌진하다\n[명] 1. 돌진 2. 혼잡",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "transfer",
+        "korean": "[동] 1. 옮기다, 이동하다 2. 갈아타다 \n[명] 이동",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "transport",
+        "korean": "[동] 수송하다, ~을 운반하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "load",
+        "korean": "[동] (많이) 싣다, 태우다\n[명] (많은 양의) 짐",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "passenger",
+        "korean": "[명] 승객, 여객",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "aboard",
+        "korean": "[부] [전] (배·기차·비행기 등에) 탄, 탑승한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "intersection",
+        "korean": "[명] 교차로",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "license",
+        "korean": "[명] 면허, 면허증",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "fasten",
+        "korean": "[동] 1. (벨트 등을) 매다, 채우다 2. 잠그다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "pace",
+        "korean": "[명] 속도",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "destination",
+        "korean": "[명] 목적지, 도착지",
+        "level": "eohwi_kkuet"
+    }
+]

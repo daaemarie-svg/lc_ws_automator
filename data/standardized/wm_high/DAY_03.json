@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "mood",
+        "korean": "기분, 분위기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "sorrow",
+        "korean": "슬픔, 비애",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "emotion",
+        "korean": "감정",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "anxious",
+        "korean": "불안해하는, 걱정하는; 갈망하는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "ashamed",
+        "korean": "부끄러워하는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "depression",
+        "korean": "우울; 불경기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "weep",
+        "korean": "울다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "annoy",
+        "korean": "짜증 나게 하다, 귀찮게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "relieve",
+        "korean": "완화하다, 긴장을 풀게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "amaze",
+        "korean": "놀라게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "sentiment",
+        "korean": "감정, 정서",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "envy",
+        "korean": "부러워하다; 부러움, 질투",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "jealous",
+        "korean": "부러워하는, 질투하는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "nerve",
+        "korean": "신경; 용기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "temper",
+        "korean": "성질, 기질, 화",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "resent",
+        "korean": "화를 내다, 분개하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "desperate",
+        "korean": "필사적인, 절망적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "awful",
+        "korean": "지독한, 아주 심한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "miserable",
+        "korean": "비참한, 불행한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "disgust",
+        "korean": "역겹게 하다; 반감, 혐오감",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "astound",
+        "korean": "놀라게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "frighten",
+        "korean": "겁먹게 하다, 놀라게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "panic",
+        "korean": "당황하다, 공포에 질리다; 당황, 공포; 당황한, 겁먹은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "scream",
+        "korean": "비명; 소리 지르다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "sympathy",
+        "korean": "동정, 공감",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "ridicule",
+        "korean": "비웃다, 조롱하다; 비웃음, 조롱",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "warm-hearted",
+        "korean": "마음이 따뜻한, 친절한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "burst into",
+        "korean": "갑자기 ~을 터뜨리다, 내뿜다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "be tired of",
+        "korean": "~에 싫증이 나다, 넌더리 나다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "put up with",
+        "korean": "~을 참다, 참고 견디다",
+        "level": "wm_high"
+    }
+]

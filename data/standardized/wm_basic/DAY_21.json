@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "date",
+        "korean": "날짜",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "week",
+        "korean": "주, 일주일",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "from",
+        "korean": "~에서, ~부터",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "month",
+        "korean": "달, 월",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "year",
+        "korean": "한 해, 1년",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "early",
+        "korean": "일찍; 이른",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "today",
+        "korean": "오늘",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "yesterday",
+        "korean": "어제",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "tomorrow",
+        "korean": "내일",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "past",
+        "korean": "과거, 지난날",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "tonight",
+        "korean": "오늘 밤; 오늘 밤에",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "hour",
+        "korean": "시간, 시각",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "minute",
+        "korean": "(시간 단위) 분",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "soon",
+        "korean": "곧, 머지않아",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "calendar",
+        "korean": "달력",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "during",
+        "korean": "~동안[내내], ~ 중에",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "until",
+        "korean": "~까지; ~할 때까지",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "moment",
+        "korean": "(특정한) 순간; 잠시",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "be late for",
+        "korean": "~에 늦다[지각하다]",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "at the same time",
+        "korean": "동시에",
+        "level": "wm_basic"
+    }
+]

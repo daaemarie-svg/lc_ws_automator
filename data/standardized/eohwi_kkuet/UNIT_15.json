@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "disease",
+        "korean": "[명] 병, 질병",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "ill",
+        "korean": "[형] 1. 병든, 아픈 2. 나쁜, 유해한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "flu",
+        "korean": "[명] 독감",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "cancer",
+        "korean": "[명] 암",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "blind",
+        "korean": "[형] 눈먼, 맹인의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "deaf",
+        "korean": "[형] 청각 장애의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "pain",
+        "korean": "[명] 통증, 아픔",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "ache",
+        "korean": "[명] 아픔, 통증 \n[동] 아프다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "sore",
+        "korean": "[형] 아픈, 따가운, 쓰린",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "decay",
+        "korean": "[동] 썩다, 부패하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "fever",
+        "korean": "[명] 1. 열, 발열 2. 열병",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "headache",
+        "korean": "[명] 두통",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "cough",
+        "korean": "[명] 기침 \n[동] 기침하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "stress",
+        "korean": "[명] 1. 스트레스 2. 강조 \n[동] 강조하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "medical",
+        "korean": "[형] 의료의, 의학의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "cure",
+        "korean": "[명] 치료, 치료법 \n[동] 병을 고치다, 낫게 하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "treat",
+        "korean": "[동] 1. 치료하다 2. 다루다, 취급하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "heal",
+        "korean": "[동] 낫게 하다, 치유하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "clinic",
+        "korean": "[명] 병원, 진료소",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "medicine",
+        "korean": "[명] 1. 약, 약물 2. 의학, 의술",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "drug",
+        "korean": "[명] 1. 약, 의약품 2. (불법적인) 약물, 마약",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "pill",
+        "korean": "[명] 알약",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "patient",
+        "korean": "[명] 환자\n[형] 인내심 있는, 참을성 있는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "recover",
+        "korean": "[동] 회복하다, 낫다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "condition",
+        "korean": "[명] 1. 상태 2. 건강 상태 3. 상황, 형편 4. 조건",
+        "level": "eohwi_kkuet"
+    }
+]

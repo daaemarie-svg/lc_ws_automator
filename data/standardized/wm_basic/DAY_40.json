@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "help",
+        "korean": "돕다; 도움",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "human",
+        "korean": "인간, 사람",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "country",
+        "korean": "나라; 시골",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "peace",
+        "korean": "평화",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "war",
+        "korean": "전쟁",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "website",
+        "korean": "웹사이트",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "spread",
+        "korean": "퍼지다; 퍼뜨리다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "chat",
+        "korean": "수다 떨다, 채팅하다; 잡담, 수다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "post",
+        "korean": "(웹사이트에) 올리다, 게시하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "online",
+        "korean": "온라인의; 온라인으로",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "explore",
+        "korean": "탐험하다, 답사하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "palace",
+        "korean": "궁전",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "actually",
+        "korean": "사실은; 실제로",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "science",
+        "korean": "과학",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "culture",
+        "korean": "문화",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "universe",
+        "korean": "우주",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "language",
+        "korean": "언어, 말",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "foreigner",
+        "korean": "외국인",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "believe in",
+        "korean": "~을 믿다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "around the world",
+        "korean": "전 세계에",
+        "level": "wm_basic"
+    }
+]

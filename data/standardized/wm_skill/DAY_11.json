@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "building",
+        "korean": "건물",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "bakery",
+        "korean": "제과점",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "fire station",
+        "korean": "소방서",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "hospital",
+        "korean": "병원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "museum",
+        "korean": "박물관",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "city hall",
+        "korean": "시청",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "police station",
+        "korean": "경찰서",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "left",
+        "korean": "왼쪽",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "trash",
+        "korean": "쓰레기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "village",
+        "korean": "(시골) 마을, 촌락",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "direction",
+        "korean": "방향",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "street",
+        "korean": "거리",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "avenue",
+        "korean": "도시의 큰 대로, 넓은 길",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "block",
+        "korean": "(도로의) 블록, 구획; 덩어리, 장애물; 막다, 봉쇄하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "straight",
+        "korean": "똑바른, 직선의; 곧장, 일직선으로",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "corner",
+        "korean": "모퉁이, 구석",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "turn",
+        "korean": "회전; 방향 전환; 돌다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "drugstore",
+        "korean": "약국",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "pedestrian",
+        "korean": "보행자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "department store",
+        "korean": "백화점",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "sidewalk",
+        "korean": "인도, 보도",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "crosswalk",
+        "korean": "횡단보도",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "intersection",
+        "korean": "교차로",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "patrol",
+        "korean": "순찰대, 순찰 경관",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "signal",
+        "korean": "신호, 신호기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "highway",
+        "korean": "고속도로",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "sewer",
+        "korean": "하수구",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "give ~ a ride",
+        "korean": "~를 태워 주다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "be known for",
+        "korean": "~로 알려져 있다, ~로 유명하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "in the middle of",
+        "korean": "~의 중간[중앙]에, ~의 도중에",
+        "level": "wm_skill"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "art",
+        "korean": "미술, 예술",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "music",
+        "korean": "음악",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "singer",
+        "korean": "가수",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "ticket",
+        "korean": "표, 입장권",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "film",
+        "korean": "영화",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "story",
+        "korean": "이야기",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "famous",
+        "korean": "유명한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "band",
+        "korean": "악단, 밴드",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "actor",
+        "korean": "(남자) 배우",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "actress",
+        "korean": "(여자) 배우",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "painting",
+        "korean": "(물감으로 그린) 그림",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "stage",
+        "korean": "무대; 단계",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "artist",
+        "korean": "화가, 예술가",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "magic",
+        "korean": "마법, 마술; 마법[마술]의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "novel",
+        "korean": "소설",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "concert",
+        "korean": "콘서트, 연주회",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "role",
+        "korean": "역할",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "main",
+        "korean": "주된",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "be over",
+        "korean": "끝나다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "go to the movies",
+        "korean": "영화를 보러 가다",
+        "level": "wm_basic"
+    }
+]

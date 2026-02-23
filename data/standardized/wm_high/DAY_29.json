@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "astronaut",
+        "korean": "우주 비행사",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "solar",
+        "korean": "태양의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "remote",
+        "korean": "먼; 외진",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "benefit",
+        "korean": "이익",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "efficiency",
+        "korean": "효율, 능률",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "enable",
+        "korean": "할 수 있게 하다, 가능하게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "discover",
+        "korean": "발견하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "observe",
+        "korean": "관찰하다; (규칙 등을) 따르다, 준수하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "digital",
+        "korean": "디지털의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "shuttle",
+        "korean": "우주 왕복선; 왕복하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "astronomer",
+        "korean": "천문학자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "orbit",
+        "korean": "궤도",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "galaxy",
+        "korean": "은하, 은하계",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "rotate",
+        "korean": "회전하다[시키다]; 교대하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "satellite",
+        "korean": "위성, 인공위성",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "launch",
+        "korean": "발사하다, 쏘아 올리다; 출시하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "lunar",
+        "korean": "달의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "electronic",
+        "korean": "전자의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "eclipse",
+        "korean": "(해·달의) 식(蝕); 무색하게[빛을 잃게] 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "gravity",
+        "korean": "중력",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "automatic",
+        "korean": "자동의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "device",
+        "korean": "도구, 장치",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "manual",
+        "korean": "손의, 수동의; 안내서",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "accurate",
+        "korean": "정확한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "analyze",
+        "korean": "분석하다, 분해하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "adjust",
+        "korean": "조절하다, 조정하다; 적응하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "accelerate",
+        "korean": "가속하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "bring about",
+        "korean": "~을 불러일으키다[초래하다]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "sort out",
+        "korean": "~을 분류하다[선별하다]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "substitute for",
+        "korean": "~을 대신하다, 대리하다",
+        "level": "wm_high"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "clean",
+        "korean": "깨끗한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "dirty",
+        "korean": "더러운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "busy",
+        "korean": "바쁜",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "poor",
+        "korean": "가난한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "slow",
+        "korean": "느린",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "fast",
+        "korean": "빠른; 빨리, 빠르게",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "quickly",
+        "korean": "빨리, 빠르게",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "sleepy",
+        "korean": "졸린, 졸음이 오는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "heavy",
+        "korean": "무거운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "light",
+        "korean": "가벼운; 밝은; 빛",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "safe",
+        "korean": "안전한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "wet",
+        "korean": "젖은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "ready",
+        "korean": "준비가 된",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "dark",
+        "korean": "어두운, 캄캄한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "bright",
+        "korean": "밝은, 빛나는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "perfect",
+        "korean": "완벽한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "different",
+        "korean": "다른",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "terrible",
+        "korean": "끔찍한, 형편없는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "be full of",
+        "korean": "~로 가득 차다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "for a while",
+        "korean": "잠시 동안",
+        "level": "wm_basic"
+    }
+]

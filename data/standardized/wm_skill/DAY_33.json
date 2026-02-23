@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "earth",
+        "korean": "지구",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "planet",
+        "korean": "행성",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "universe",
+        "korean": "우주",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "solar",
+        "korean": "태양의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "lunar",
+        "korean": "달의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "crew",
+        "korean": "(비행기나 배의) 승무원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "rocket",
+        "korean": "로켓; 로켓으로 쏘아 올리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "outer",
+        "korean": "외부의, 외곽의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "surface",
+        "korean": "표면",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "Mercury",
+        "korean": "수성; 수은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "Venus",
+        "korean": "금성",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "Mars",
+        "korean": "화성",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "Jupiter",
+        "korean": "목성",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "Saturn",
+        "korean": "토성",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "ring",
+        "korean": "고리, 반지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "comet",
+        "korean": "혜성",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "telescope",
+        "korean": "망원경",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "Milky Way",
+        "korean": "은하수",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "space shuttle",
+        "korean": "우주 왕복선",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "space station",
+        "korean": "우주 정거장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "eclipse",
+        "korean": "식(蝕)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "satellite",
+        "korean": "위성",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "orbit",
+        "korean": "궤도; 궤도를 그리며 돌다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "galaxy",
+        "korean": "은하",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "astronomy",
+        "korean": "천문학",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "astronomer",
+        "korean": "천문학자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "Big Bang",
+        "korean": "빅뱅(우주 생성의 시발이 된 것으로 여겨지는 대폭발)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "light year",
+        "korean": "광년(빛이 1년에 나아가는 거리로 약 9조 4670억 킬로미터)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "far from",
+        "korean": "~에서 멀리; 전혀 ~이 아닌",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "by chance",
+        "korean": "우연히, 뜻밖에",
+        "level": "wm_skill"
+    }
+]

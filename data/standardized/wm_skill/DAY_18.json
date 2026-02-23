@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "movie",
+        "korean": "영화",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "puzzle",
+        "korean": "수수께끼, 퍼즐",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "game",
+        "korean": "게임, 시합",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "interest",
+        "korean": "흥미, 관심",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "picture",
+        "korean": "사진, 그림",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "musical",
+        "korean": "음악의; 뮤지컬",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "dance",
+        "korean": "춤; 춤을 추다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "activity",
+        "korean": "움직임; 활동",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "craft",
+        "korean": "(수)공예; 공예품을 만들다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "collect",
+        "korean": "모으다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "chess",
+        "korean": "체스, 서양 장기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "hike",
+        "korean": "하이킹하다, 도보여행하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "comic",
+        "korean": "희극의, 만화의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "camp",
+        "korean": "야영, 캠프; 야영지; 야영하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "pleasure",
+        "korean": "기쁨",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "stamp",
+        "korean": "우표; 도장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "jog",
+        "korean": "조깅하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "magic",
+        "korean": "마법, 주술; 마법의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "fix",
+        "korean": "고치다; 고정시키다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "favorite",
+        "korean": "가장 좋아하는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "mania",
+        "korean": "열광",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "volunteer",
+        "korean": "자원 봉사자,지원자; 자진하여 하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "chat",
+        "korean": "수다를 떨다; (인터넷으로) 채팅하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "model",
+        "korean": "모형, 모델; 모형의, 모델이 되는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "knit",
+        "korean": "뜨개질을 하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "leisure",
+        "korean": "여가, 한가한 시간; 한가한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "involve",
+        "korean": "수반하다, 필요로 하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "spend ... on ~ing",
+        "korean": "~하는 데 …을 쓰다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "go (out) for a walk",
+        "korean": "산책하러 (나)가다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "from time to time",
+        "korean": "때때로, 가끔",
+        "level": "wm_skill"
+    }
+]

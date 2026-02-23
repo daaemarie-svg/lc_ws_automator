@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "different",
+        "korean": "다른",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "global",
+        "korean": "세계적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "race",
+        "korean": "인종, 민족; 경주",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "national",
+        "korean": "국가의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "fund",
+        "korean": "기금",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "foreign",
+        "korean": "외국의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "international",
+        "korean": "국제적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "community",
+        "korean": "주민, 지역 사회; 공동체 (의식)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "population",
+        "korean": "인구",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "increase",
+        "korean": "증가; 증가하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "decrease",
+        "korean": "감소; 감소하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "urban",
+        "korean": "도시의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "rural",
+        "korean": "시골의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "region",
+        "korean": "지역, 지방",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "border",
+        "korean": "국경; 경계",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "aid",
+        "korean": "원조, 지원, 구조",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "suffer",
+        "korean": "(고통 등을) 겪다, 당하다 (from)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "native",
+        "korean": "~출신자, 토착민; 토착의, 타고난",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "orphan",
+        "korean": "고아",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "support",
+        "korean": "원조, 지원; 원조하다, 지지하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "rescue",
+        "korean": "구하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "immigrate",
+        "korean": "(타국에서) 이민을 오다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "hunger",
+        "korean": "배고픔, 기아",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "ethnic",
+        "korean": "민족의, 인종의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "organization",
+        "korean": "기구",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "statistic",
+        "korean": "통계치",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "agreement",
+        "korean": "협정, 계약; 동의, 합의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "mutual",
+        "korean": "서로의, 상호의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "break out",
+        "korean": "발발하다, 발생하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "consist of",
+        "korean": "~으로 이루어지다, 구성되다",
+        "level": "wm_skill"
+    }
+]

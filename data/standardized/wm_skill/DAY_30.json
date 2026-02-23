@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "insect",
+        "korean": "곤충",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "bee",
+        "korean": "벌",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "wing",
+        "korean": "날개",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "hen",
+        "korean": "암탉",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "spider",
+        "korean": "거미",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "butterfly",
+        "korean": "나비",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "beetle",
+        "korean": "딱정벌레",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "ladybug",
+        "korean": "무당벌레",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "flea",
+        "korean": "벼룩",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "mosquito",
+        "korean": "모기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "swan",
+        "korean": "백조",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "penguin",
+        "korean": "펭귄",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "eagle",
+        "korean": "독수리",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "beak",
+        "korean": "부리",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "crow",
+        "korean": "까마귀",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "pigeon",
+        "korean": "비둘기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "parrot",
+        "korean": "앵무새",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "goose",
+        "korean": "거위",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "cuckoo",
+        "korean": "뻐꾸기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "owl",
+        "korean": "올빼미",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "peacock",
+        "korean": "공작새",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "ostrich",
+        "korean": "타조",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "swallow",
+        "korean": "제비; 삼키다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "moth",
+        "korean": "나방, 좀벌레",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "cricket",
+        "korean": "귀뚜라미",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "caterpillar",
+        "korean": "애벌레, 유충",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "hummingbird",
+        "korean": "벌새",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "such as",
+        "korean": "~와 같은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "all the time",
+        "korean": "내내, 줄곧",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "thanks to",
+        "korean": "~덕분에, ~ 때문에",
+        "level": "wm_skill"
+    }
+]

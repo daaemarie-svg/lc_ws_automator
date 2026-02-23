@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "construct",
+        "korean": "[동] 건설하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "structure",
+        "korean": "[명] 1. 구조 2. 구조물, 건축물",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "pipe",
+        "korean": "[명] (액체나 기체가 흐르는) 관, 배관, 파이프",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "tube",
+        "korean": "[명] 1. (기체나 액체를 실어 나르는) 관 2. 튜브, 통 3. (체내의) 관",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "brick",
+        "korean": "[명] 벽돌",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "ceiling",
+        "korean": "[명] 천장",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "attic",
+        "korean": "[명] 다락(방)",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "chimney",
+        "korean": "[명] 굴뚝",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "column",
+        "korean": "[명] 1. 기둥 (모양의 것) 2. (신문, 잡지의) 칼럼",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "floor",
+        "korean": "[명] 1. 바닥 2. 층",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "lobby",
+        "korean": "[명] 1. 대합실, 로비 2. 압력 단체",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "basement",
+        "korean": "[명] 지하실, 지하층",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "booth",
+        "korean": "[명] (칸막이를 한) 작은 공간, 부스",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "cafeteria",
+        "korean": "[명] 구내식당",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "elevator",
+        "korean": "[명] 엘리베이터, 승강기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "escalator",
+        "korean": "[명] 에스컬레이터",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "exit",
+        "korean": "[명] 출구\n[동] 나가다, 퇴장하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "stair",
+        "korean": "[명] 계단",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "aisle",
+        "korean": "[명] 통로",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "garage",
+        "korean": "[명] 차고, 주차장",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "balcony",
+        "korean": "[명] 발코니",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "garden",
+        "korean": "[명] 정원, 뜰",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "courtyard",
+        "korean": "[명] 안마당, 안뜰",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "yard",
+        "korean": "[명] 1. 마당, 정원 2. ((단위)) 야드 (0.9144m)",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "fence",
+        "korean": "[명] 울타리",
+        "level": "eohwi_kkuet"
+    }
+]

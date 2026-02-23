@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "legal",
+        "korean": "[형] 1. 법률의 2. 합법의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "justice",
+        "korean": "[명] 1. 정의, 공평 2. 사법, 재판",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "duty",
+        "korean": "[명] 1. 의무 2. 직무 3. 세금, 관세",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "obey",
+        "korean": "[동] ~에 따르다, 복종하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "exact",
+        "korean": "[형] 정확한, 정밀한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "arrest",
+        "korean": "[동] 체포하다, 검거하다\n[명] 체포, 검거",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "accuse",
+        "korean": "[동] 1. 고발하다, 기소하다 (of) 2. 비난하다 (of)",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "trial",
+        "korean": "[명] 1. 재판 2. 시험, 실험",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "involve",
+        "korean": "[동] 1. 포함하다 2. 관련시키다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "identify",
+        "korean": "[동] 확인하다, 알아보다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "deny",
+        "korean": "[동] 부인하다, 부정하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "guilty",
+        "korean": "[형] 1. 유죄의 2. 죄책감이 드는, 가책을 느끼는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "innocent",
+        "korean": "[형] 1. 무죄의 2. 순진한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "evidence",
+        "korean": "[명] 증거",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "clue",
+        "korean": "[명] 실마리, 단서",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "witness",
+        "korean": "[명] 1. 목격자 2. 증인\n[동] 목격하다, 보다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "appeal",
+        "korean": "[동] 1. 애원하다, 호소하다 2. ((법률)) 항소하다\n[명] 1. 애원, 호소 2. ((법률)) 항소",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "release",
+        "korean": "[동] 1. 풀어 주다, 석방하다 2. 개봉하다, 발매하다, 공개하다\n[명] 1. 해방, 석방 2. 개봉, 발매, 공개",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "incident",
+        "korean": "[명] 일어난 일, 사건",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "criminal",
+        "korean": "[형] 범죄의\n[명] 범인, 범죄자",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "murder",
+        "korean": "[명] 살인, 살해\n[동] 살인하다, 살해하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "violent",
+        "korean": "[형] 1. 폭력적인, 난폭한 2. 격렬한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "suspect",
+        "korean": "[동] 1. 의심하다, 혐의를 두다 2. ~이 아닌가하고 생각하다\n[명] 용의자",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "stranger",
+        "korean": "[명] 낯선 사람, 모르는 사람",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "victim",
+        "korean": "[명] 희생자, 피해자",
+        "level": "eohwi_kkuet"
+    }
+]

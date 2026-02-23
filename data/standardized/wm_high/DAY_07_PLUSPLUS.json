@@ -1,0 +1,416 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "insight",
+        "korean": "통찰력, 간파",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "insightful",
+        "korean": "통찰력 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "academic",
+        "korean": "학업의, 학구적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "academy",
+        "korean": "전문학교; 학회",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "essence",
+        "korean": "본질, 기초",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "essential",
+        "korean": "본질적인, 필수적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "in essence",
+        "korean": "본질적으로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "intelligence",
+        "korean": "지능, 이해력, 영리함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "stupidity",
+        "korean": "어리석음, 우둔함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "intelligent",
+        "korean": "지적인, 총명한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "AI (artificial intelligence)",
+        "korean": "인공 지능",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "solve",
+        "korean": "풀다, 해결하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "solution",
+        "korean": "해답, 해법",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "inspire",
+        "korean": "격려하다, 영감을 주다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "motivate",
+        "korean": "격려하다, 영감을 주다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "inspiration",
+        "korean": "영감",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "refer",
+        "korean": "언급하다, 참고하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "reference",
+        "korean": "언급, 참고",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "review",
+        "korean": "복습하다, 다시 검토하다; 비평, 평론",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "linguistics",
+        "korean": "언어학",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "linguist",
+        "korean": "언어학자; 수개 국어에 능통한 사람",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "improve",
+        "korean": "향상시키다, 나아지다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "worsen",
+        "korean": "악화시키다, 악화되다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "improvement",
+        "korean": "향상, 개선",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "content",
+        "korean": "내용, 목차; 만족하는; 만족시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "table of contents",
+        "korean": "목차, 차례",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "figure",
+        "korean": "그림; 수치; (사람의) 모습, 인물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "figure out",
+        "korean": "이해하다; 계산해서 합계를 내다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "scholar",
+        "korean": "학자, 장학생",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "scholarly",
+        "korean": "학자의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "scholarship",
+        "korean": "장학금",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "concept",
+        "korean": "개념, 발상",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "idea",
+        "korean": "개념, 발상",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "principle",
+        "korean": "원리, 원칙",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "in principle",
+        "korean": "원칙적으로는, 대체로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "expose",
+        "korean": "노출시키다, 드러내다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "uncover",
+        "korean": "노출시키다, 드러내다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "hide",
+        "korean": "숨기다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "exposure",
+        "korean": "노출; 폭로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "be exposed to",
+        "korean": "~에 노출되다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "theory",
+        "korean": "이론, 학설",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "theoretical",
+        "korean": "이론적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "in theory",
+        "korean": "이론적으로는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "define",
+        "korean": "정의하다, 명확히 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "demonstrate",
+        "korean": "보여 주다, 증명하다, 설명하다; 시위하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "definition",
+        "korean": "정의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "demonstration",
+        "korean": "증명, 설명; 시위",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "conclude",
+        "korean": "끝내다, 결론 내리다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "conclusion",
+        "korean": "결론",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "conclusive",
+        "korean": "결정적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "in conclusion",
+        "korean": "끝으로, 결론적으로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "statistics",
+        "korean": "통계학, 통계 자료",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "physics",
+        "korean": "물리학",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "physicist",
+        "korean": "물리학자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "geology",
+        "korean": "지질학",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "geologist",
+        "korean": "지질학자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "diameter",
+        "korean": "지름",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "in diameter",
+        "korean": "직경이 ~인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "literal",
+        "korean": "글자 그대로의, 정확한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "literally",
+        "korean": "글자 그대로, 완전히",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "illiterate",
+        "korean": "문맹의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "literacy",
+        "korean": "읽고 쓸 줄 앎",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "literate",
+        "korean": "읽고 쓸 줄 아는, 교양 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "computer-literate",
+        "korean": "컴퓨터를 잘 다루는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "fluent",
+        "korean": "(말·글이) 유창한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-066",
+        "word": "fluency",
+        "korean": "유창성",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-067",
+        "word": "go over",
+        "korean": "~을 점검[검토]하다, ~을 주의 깊게 살피다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-068",
+        "word": "look up",
+        "korean": "(사전·컴퓨터 등에서 정보를) 찾아보다, 조사하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-069",
+        "word": "dwell on",
+        "korean": "~을 깊이 생각하다, ~을 자세히 이야기하다",
+        "level": "wm_high"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "power",
+        "korean": "힘, 권력, 에너지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "produce",
+        "korean": "생산하다, 만들어 내다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "wind",
+        "korean": "바람",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "coal",
+        "korean": "석탄",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "mine",
+        "korean": "광산; 지뢰; 채굴하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "factory",
+        "korean": "공장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "dam",
+        "korean": "댐",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "heat",
+        "korean": "열; 가열하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "battery",
+        "korean": "배터리",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "consume",
+        "korean": "(특히 연료·에너지·시간을) 소모하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "generate",
+        "korean": "생성하다, 발생시키다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "nuclear",
+        "korean": "원자핵의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "windmill",
+        "korean": "풍차",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "tidal",
+        "korean": "조수의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "careless",
+        "korean": "부주의한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "transform",
+        "korean": "바꾸다, 변형시키다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "natural gas",
+        "korean": "천연가스",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "abundant",
+        "korean": "풍부한, 풍족한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "utility pole",
+        "korean": "전신주",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "solar collector",
+        "korean": "태양열 집열기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "transmission tower",
+        "korean": "송전탑",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "radioactive",
+        "korean": "방사능을 가진",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "power line",
+        "korean": "송전선",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "conserve",
+        "korean": "보전하다; 아끼다, 절약하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "efficiency",
+        "korean": "효율",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "crisis",
+        "korean": "위기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "authorized",
+        "korean": "권한이 부여된",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "be made up of",
+        "korean": "~로 구성되다, 이루어지다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "turn into",
+        "korean": "~로 변하다, 바뀌다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "and so on",
+        "korean": "(기타) 등등",
+        "level": "wm_skill"
+    }
+]

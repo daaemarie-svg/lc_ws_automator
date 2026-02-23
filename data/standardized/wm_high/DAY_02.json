@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "shape",
+        "korean": "모양, 꼴, 모습",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "appearance",
+        "korean": "출현, 나타남; 외관, 겉모습",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "personality",
+        "korean": "성격, 인성; 개성",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "gender",
+        "korean": "성별",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "impression",
+        "korean": "인상; 감동, 감명",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "typical",
+        "korean": "전형적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "capable",
+        "korean": "유능한; ~할 능력이 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "attractive",
+        "korean": "매력적인; 사람을 끄는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "active",
+        "korean": "적극적인, 활동적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "passive",
+        "korean": "소극적인, 수동적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "diligent",
+        "korean": "근면 성실한, 부지런한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "bold",
+        "korean": "대담한, 용감한; (문자·선 등이)굵은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "confident",
+        "korean": "자신만만한; 확신하는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "impatient",
+        "korean": "성급한, 참을성 없는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "ambitious",
+        "korean": "야망이 있는, 야심 찬",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "brilliant",
+        "korean": "훌륭한, 눈부신, (재능이) 뛰어난; 빛나는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "elegant",
+        "korean": "우아한, 품위 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "humble",
+        "korean": "겸손한; 초라한, 소박한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "arrogant",
+        "korean": "오만한, 거만한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "aggressive",
+        "korean": "공격적인; 매우 적극적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "fierce",
+        "korean": "사나운, 흉포한; 격렬한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "kindness",
+        "korean": "친절, 다정함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "oval",
+        "korean": "타원형의, 달걀형의; 달걀 모양, 타원체",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "odd",
+        "korean": "이상한, 기묘한; 홀수의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "forehead",
+        "korean": "이마",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "ignorant",
+        "korean": "무지한, 무식한; (정보가 없어) 모르는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "wrinkle",
+        "korean": "주름; 주름지게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "greed",
+        "korean": "욕심, 탐욕",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "take after",
+        "korean": "~을 닮다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "stand out",
+        "korean": "눈에 띄다, 빼어나다",
+        "level": "wm_high"
+    }
+]

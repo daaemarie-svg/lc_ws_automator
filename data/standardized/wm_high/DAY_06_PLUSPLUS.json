@@ -1,0 +1,392 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "cottage",
+        "korean": "(시골의) 작은 집, 오두막집; (교외의) 작은 주택[별장]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "priceless",
+        "korean": "값을 매길 수 없는, 대단히 귀중한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "valuable",
+        "korean": "값을 매길 수 없는, 대단히 귀중한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "worthless",
+        "korean": "쓸모없는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "tap",
+        "korean": "(수도 등의) 꼭지, (통의) 주둥이, 마개",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "turn on[off] the tap faucet",
+        "korean": "수도꼭지를 틀다[잠그다]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "alarm",
+        "korean": "경보기; 자명종; 놀람, 공포; 놀라게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "burglar alarm",
+        "korean": "도난경보기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "mess",
+        "korean": "어질러진 것, 쓰레기 더미; 어수선함, 혼잡",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "litter",
+        "korean": "어질러진 것, 쓰레기 더미",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "neatness",
+        "korean": "단정함, 깔끔함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "messy",
+        "korean": "어질러진, 지저분한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "usual",
+        "korean": "평소의, 일상의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "habitual",
+        "korean": "평소의, 일상의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "usually",
+        "korean": "평소에는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "more than usual",
+        "korean": "여느 때보다 많이",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "routine",
+        "korean": "판에 박힌 일, 일과; 일상적인, 판에 박힌",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "rely",
+        "korean": "믿다, 의지[의존]하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "depend",
+        "korean": "믿다, 의지[의존]하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "reliance",
+        "korean": "의지, 신뢰",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "dust",
+        "korean": "먼지를 털다; 먼지, 흙",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "dirt",
+        "korean": "먼지, 흙",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "dusty",
+        "korean": "먼지투성이의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "spread",
+        "korean": "펴다, 펼치다, 퍼지다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "cleanse",
+        "korean": "세척하다, 씻다; 정화하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "wash",
+        "korean": "세척하다, 씻다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "clean",
+        "korean": "깨끗한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "cleanser",
+        "korean": "(그릇·화장실 등을 닦는) 세제, (화장을 지우는) 세안제",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "wipe",
+        "korean": "닦다, 훔치다, 가볍게 문지르다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "rub",
+        "korean": "닦다, 훔치다, 가볍게 문지르다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "mop",
+        "korean": "(대걸레로) 닦다; 대걸레",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "drawer",
+        "korean": "서랍; (항상 복수형) 장롱",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "stair",
+        "korean": "(보통 복수형) 계단",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "step",
+        "korean": "(보통 복수형) 계단",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "rubbish",
+        "korean": "쓰레기, 폐물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "garbage",
+        "korean": "쓰레기, 폐물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "trash",
+        "korean": "쓰레기, 폐물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "dispose",
+        "korean": "처리하다, 처분하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "throw away",
+        "korean": "처리하다, 처분하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "disposable",
+        "korean": "처분할 수 있는, 일회용의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "dispose of",
+        "korean": "~을 처분하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "discard",
+        "korean": "(불필요한 것을) 버리다, 처분하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "retain",
+        "korean": "보유하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "appliance",
+        "korean": "(가정용) 기구, 장치, 전기 제품",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "apply",
+        "korean": "~에 기구를 설치하다; 적용하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "household[home] appliance",
+        "korean": "가전제품",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "spacious",
+        "korean": "넓은, 광대한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "roomy",
+        "korean": "넓은, 광대한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "space",
+        "korean": "공간",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "chore",
+        "korean": "(집안의) 자질구레한 일, 허드렛일",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "polish",
+        "korean": "닦다, 광[윤]을 내다; (문장 등을) 다듬다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "flush",
+        "korean": "(물·액체 등으로) 씻어 내리다; (얼굴을) 붉히다, 상기시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "wash out",
+        "korean": "(물·액체 등으로) 씻어 내리다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "blush",
+        "korean": "(얼굴을) 붉히다, 상기시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "nap",
+        "korean": "낮잠, 선잠; 선잠을 자다, 졸다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "doze",
+        "korean": "선잠을 자다, 졸다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "take[have] a nap",
+        "korean": "낮잠을 자다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "outlet",
+        "korean": "코드 구멍, 콘센트; 할인점",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "socket",
+        "korean": "코드 구멍, 콘센트",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "trim",
+        "korean": "다듬다, 손질하다; 정돈(된 상태); 잘 정돈된",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "crack",
+        "korean": "깨지다, 금이 가다; 갈라진 금, 틈",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "leak",
+        "korean": "새어나옴, 누출; 새다, 누출하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "run out of",
+        "korean": "~을 다 써 버리다, ~을 바닥내다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "use up",
+        "korean": "~을 다 써 버리다, ~을 바닥내다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "hang up",
+        "korean": "~을 걸다[매달다]; 전화를 끊다",
+        "level": "wm_high"
+    }
+]

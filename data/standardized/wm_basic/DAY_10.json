@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "idea",
+        "korean": "발상, 생각",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "dream",
+        "korean": "꿈; 꿈을 꾸다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "believe",
+        "korean": "믿다, 생각하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "think",
+        "korean": "생각하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "know",
+        "korean": "알다, 알고 있다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "need",
+        "korean": "필요로 하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "hope",
+        "korean": "바라다, 희망하다; 희망",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "wish",
+        "korean": "원하다, 바라다; 소원",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "decide",
+        "korean": "결정하다, 결심하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "guess",
+        "korean": "추측하다; 추측",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "forget",
+        "korean": "잊다, 잊어버리다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "remember",
+        "korean": "기억하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "wonder",
+        "korean": "궁금하다, 궁금해하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "keep",
+        "korean": "유지하다, 지키다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "understand",
+        "korean": "이해하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "plan",
+        "korean": "계획; 계획하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "mind",
+        "korean": "마음, 정신",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "question",
+        "korean": "질문, 문제",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "feel like -ing",
+        "korean": "~하고 싶다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "give up",
+        "korean": "포기하다",
+        "level": "wm_basic"
+    }
+]

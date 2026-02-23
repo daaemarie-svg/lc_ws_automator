@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "exam",
+        "korean": "시험",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "college",
+        "korean": "단과대학",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "university",
+        "korean": "종합대학",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "elementary",
+        "korean": "기초의, 기본이 되는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "tutor",
+        "korean": "가정교사, 개인 지도 교사",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "discuss",
+        "korean": "토론하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "explain",
+        "korean": "설명하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "memorize",
+        "korean": "암기하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "entrance",
+        "korean": "입장, 입학",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "educate",
+        "korean": "교육하다, 육성하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "kindergarten",
+        "korean": "유치원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "graduate",
+        "korean": "졸업하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "knowledge",
+        "korean": "지식",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "counsel",
+        "korean": "상담; 상담하다, 권고하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "admit",
+        "korean": "받아들이다, 인정하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "evaluate",
+        "korean": "평가하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "submit",
+        "korean": "제출하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "lecture",
+        "korean": "강의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "instruct",
+        "korean": "교수하다, 가르치다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "absent",
+        "korean": "결석한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "attend",
+        "korean": "출석하다, 참석하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "semester",
+        "korean": "학기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "alternative",
+        "korean": "대안; 대안의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "academic",
+        "korean": "학술적인, 학문적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "pupil",
+        "korean": "학생",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "intelligence",
+        "korean": "지성, 지능",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "scholarship",
+        "korean": "장학금",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "encourage",
+        "korean": "용기를 북돋우다, 격려하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "pay attention to",
+        "korean": "~에 주의하다, 주목하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "play a role (in)",
+        "korean": "(~에서) 역할을 하다",
+        "level": "wm_skill"
+    }
+]

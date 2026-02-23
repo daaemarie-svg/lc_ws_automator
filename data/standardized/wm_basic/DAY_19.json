@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "teacher",
+        "korean": "교사, 선생",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "student",
+        "korean": "학생",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "test",
+        "korean": "시험; 검사, 실험",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "library",
+        "korean": "도서관",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "playground",
+        "korean": "운동장, 놀이터",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "gym",
+        "korean": "체육관",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "contest",
+        "korean": "대회, 콘테스트",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "follow",
+        "korean": "따르다, 따라가다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "school uniform",
+        "korean": "교복",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "hall",
+        "korean": "복도, 홀, 강당",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "cafeteria",
+        "korean": "구내식당, 카페테리아",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "locker",
+        "korean": "사물함",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "homeroom",
+        "korean": "홈룸, 출석 반",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "grade",
+        "korean": "성적; 학년",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "teach",
+        "korean": "가르치다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "learn",
+        "korean": "배우다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "subject",
+        "korean": "과목",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "borrow",
+        "korean": "빌리다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "make friends (with)",
+        "korean": "(~와) 친구가 되다, 친해지다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "after school",
+        "korean": "방과 후에",
+        "level": "wm_basic"
+    }
+]

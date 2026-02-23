@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "public",
+        "korean": "[형] 1. 대중의, 일반인의 2. 대중을 위한, 공공의\n[명] 대중, 일반 사람들",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "audience",
+        "korean": "[명] 청중, 관객",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "crowd",
+        "korean": "[명] 사람들, 군중\n[동] 붐비다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "folk",
+        "korean": "[명] 사람들\n[형] 민속의, 전통적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "collection",
+        "korean": "[명] 소장품, 수집품",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "loud",
+        "korean": "[형] 큰 소리의, 시끄러운",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "clap",
+        "korean": "[동] 박수를 치다\n[명] 박수",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "impact",
+        "korean": "[명] 영향, 충격",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "producer",
+        "korean": "[명] 1. 생산자, 생산국 2. 프로듀서, 제작자",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "celebrity",
+        "korean": "[명] 유명 인사",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "interview",
+        "korean": "[명] 면접, 인터뷰\n[동] 인터뷰하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "talent",
+        "korean": "[명] 1. (타고난) 재능 2. 재능 있는 사람",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "script",
+        "korean": "[명] 대본, 각본",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "perform",
+        "korean": "[동] 1. 수행[실행]하다 2. 연기[연주, 공연]하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "fantastic",
+        "korean": "[형] 환상적인, 기막히게 좋은",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "seat",
+        "korean": "[명] 좌석, 자리",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "stage",
+        "korean": "[명] 1. 단계 2. 무대",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "critic",
+        "korean": "[명] 비평가, 평론가",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "comment",
+        "korean": "[명] 언급, 논평\n[동] 논평하다, 견해를 밝히다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "media",
+        "korean": "[명] 미디어, 대중 매체",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "broadcast",
+        "korean": "[동] 방송하다\n[명] 방송",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "entertain",
+        "korean": "[동] 즐겁게 하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "channel",
+        "korean": "[명] (TV·라디오의) 채널",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "advertise",
+        "korean": "[동] 광고하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "publish",
+        "korean": "[동] 출판하다, 발행하다",
+        "level": "eohwi_kkuet"
+    }
+]

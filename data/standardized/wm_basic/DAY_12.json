@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "hear",
+        "korean": "듣다, 들리다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "listen",
+        "korean": "듣다, 귀 기울이다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "see",
+        "korean": "보다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "watch",
+        "korean": "보다, 지켜보다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "look",
+        "korean": "~해 보이다, 보다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "voice",
+        "korean": "목소리, 음성",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "feel",
+        "korean": "느끼다, ~한 기분이 들다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "smell",
+        "korean": "냄새[향기]가 나다; 냄새",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "sound",
+        "korean": "~하게 들리다; 소리",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "taste",
+        "korean": "맛이 나다; 맛",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "loud",
+        "korean": "(소리가) 큰, 시끄러운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "touch",
+        "korean": "만지다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "soft",
+        "korean": "부드러운, 푹신한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "hard",
+        "korean": "단단한, 딱딱한; 어려운; 열심히",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "sweet",
+        "korean": "달콤한, 단",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "sharp",
+        "korean": "날카로운, 뾰족한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "same",
+        "korean": "같은, 동일한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "color",
+        "korean": "색, 색깔",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "be good at",
+        "korean": "~을 잘하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "make a noise",
+        "korean": "시끄럽게 하다, 소란을 피우다",
+        "level": "wm_basic"
+    }
+]

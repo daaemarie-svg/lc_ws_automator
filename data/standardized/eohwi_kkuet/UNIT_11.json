@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "shut",
+        "korean": "[동] 1. (창문 등을) 닫다 2. (눈·입 등을) 감다, 닫다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "knock",
+        "korean": "[동] 1. (문을) 두드리다, 노크하다 2. 부딪치다, 치다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "hang",
+        "korean": "[동] 걸다, 매달다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "raise",
+        "korean": "[동] 1. ~을 들다, 들어올리다 2. ~을 기르다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "lift",
+        "korean": "[동] ~을 들다, 들어올리다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "dig",
+        "korean": "[동] 1. (구멍 등을) 파다 2. (땅에서) 파내다, 캐다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "press",
+        "korean": "[동] 누르다 \n[명] 신문, 언론",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "shake",
+        "korean": "[동] 흔들다, 흔들리다 \n[명] 흔들기, (고개를) 젓기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "chew",
+        "korean": "[동] ~을 씹다, 깨물다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "blow",
+        "korean": "[동] 1. (바람이) 불다 2. (입김 등을) 불다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "twist",
+        "korean": "[동] 1. (손으로 잡고) 돌리다 2. (몸을) 돌리다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "spin",
+        "korean": "[동] (빙빙) 돌다, 돌리다 \n[명] 회전 (운동)",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "fold",
+        "korean": "[동] 1. (종이나 천 등을) 접다 2. 감싸다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "spread",
+        "korean": "[동] 1. (접은 것을) 펼치다 2. 퍼뜨리다\n[명] 확산, 전파",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "bend",
+        "korean": "[동] (몸·머리를) 굽히다, 숙이다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "lean",
+        "korean": "[동] 1. 기울다 2. 기대다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "skip",
+        "korean": "[동] 1. 깡충깡충 뛰다 2. 건너뛰다, 생략하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "roll",
+        "korean": "[동] 구르다, 굴리다 \n[명] 두루마리, 통",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "stretch",
+        "korean": "[동] 1. 늘이다, 늘어나다 2. 펼치다 3. (팔·다리를) 뻗다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "slide",
+        "korean": "[동] 미끄러지다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "lay",
+        "korean": "[동] 1. ~을 놓다, 눕히다, 두다 2. (새·곤충 등이 알을) 낳다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "wander",
+        "korean": "[동] 돌아다니다, 헤매다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "approach",
+        "korean": "[동] ~에 접근하다, 가까이 가다, 다가오다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "pause",
+        "korean": "[동] 잠시 멈추다\n[명] 잠깐 멈춤[그침], 중지, 중단",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "remove",
+        "korean": "[동] 1. ~을 치우다 2. 제거하다",
+        "level": "eohwi_kkuet"
+    }
+]

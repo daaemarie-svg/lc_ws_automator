@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "temperature",
+        "korean": "온도, 기온",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "forecast",
+        "korean": "예보; 예상하다, 예보하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "climate",
+        "korean": "기후",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "rubber",
+        "korean": "고무; 고무의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "severe",
+        "korean": "극심한, 심각한; 가혹한; 위험한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "resource",
+        "korean": "자원, 재원",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "spark",
+        "korean": "도화선이 되다, 불꽃을 튀기다; 불꽃",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "Arctic",
+        "korean": "북극 지방; 북극의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "depth (the -s)",
+        "korean": "심해; 깊이, 난해함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "shield",
+        "korean": "보호하다; 방패, 보호",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "wildlife",
+        "korean": "야생 생물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "disaster",
+        "korean": "재난, 재해, 재앙",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "occur",
+        "korean": "발생하다, 일어나다; 떠오르다(to)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "Atlantic",
+        "korean": "대서양; 대서양의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "canyon",
+        "korean": "협곡",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "swamp",
+        "korean": "늪; 늪에 빠져들다, 물에 잠기게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "moisture",
+        "korean": "수분, 습기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "reflect",
+        "korean": "반사하다; 반영하다; 심사숙고하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "Celsius",
+        "korean": "섭씨",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "thermometer",
+        "korean": "온도계",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "destructive",
+        "korean": "파괴적인, 해로운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "wreck",
+        "korean": "난파, 잔해; 난파하다, 파괴하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "peak",
+        "korean": "정상, 봉우리; 절정; 최고의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "erupt",
+        "korean": "폭발하다, 분출하다; (감정을) 분출하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "eject",
+        "korean": "내뿜다, 배출하다; 쫓아내다, 추방하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "purify",
+        "korean": "정화하다, 정제하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "surround",
+        "korean": "둘러싸다, 포위하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "wash away",
+        "korean": "~을 쓸어 가다[유실되게 하다]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "wipe out",
+        "korean": "~을 완전히 파괴하다[없애 버리다]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "use up",
+        "korean": "다 써 버리다; 소비하다, 소모하다",
+        "level": "wm_high"
+    }
+]

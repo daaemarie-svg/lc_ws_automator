@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "clear",
+        "korean": "청명한; 깨끗한; 명백한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "sunny",
+        "korean": "햇빛이 밝은, 화창한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "cloudy",
+        "korean": "구름 낀",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "rainy",
+        "korean": "비가 오는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "windy",
+        "korean": "바람이 부는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "snowy",
+        "korean": "눈이 내리는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "mild",
+        "korean": "온화한, 포근한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "foggy",
+        "korean": "안개 낀",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "freezing",
+        "korean": "몹시 추운, 얼어붙을 듯한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "icy",
+        "korean": "얼음의, 싸늘한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "dry",
+        "korean": "건조한; 말리다, 건조하게 하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "moist",
+        "korean": "축축한, 습기 있는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "storm",
+        "korean": "폭풍(우)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "rainfall",
+        "korean": "강우, 강우량",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "hail",
+        "korean": "우박, 싸락눈",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "snowstorm",
+        "korean": "눈보라",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "blizzard",
+        "korean": "강한 눈보라, 블리자드",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "drizzle",
+        "korean": "이슬비",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "melt",
+        "korean": "녹다, 녹이다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "gale",
+        "korean": "강풍",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "forecast",
+        "korean": "예측, (일기의) 예보; 예측하다, (일기·기상을) 예보하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "condition",
+        "korean": "상태, 상황",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "drought",
+        "korean": "가뭄",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "climate",
+        "korean": "기후",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "degree",
+        "korean": "(온도 단위인) 도",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "temperature",
+        "korean": "온도",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "humid",
+        "korean": "습한, 눅눅한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "sticky",
+        "korean": "끈적끈적한; 무더운",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "up to",
+        "korean": "~까지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "on the way (to)",
+        "korean": "~로 가는 길에",
+        "level": "wm_skill"
+    }
+]

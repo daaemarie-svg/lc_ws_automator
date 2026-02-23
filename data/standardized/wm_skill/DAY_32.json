@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "electric",
+        "korean": "전기의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "invent",
+        "korean": "발명하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "machine",
+        "korean": "기계",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "data",
+        "korean": "자료, 정보",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "important",
+        "korean": "중요한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "cell",
+        "korean": "세포",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "prove",
+        "korean": "증명하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "inform",
+        "korean": "알리다, 통지하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "experiment",
+        "korean": "실험; 실험하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "method",
+        "korean": "방법",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "chemical",
+        "korean": "화학의; 화학 약품",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "measure",
+        "korean": "측정하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "technology",
+        "korean": "기술",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "inspect",
+        "korean": "조사하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "imagine",
+        "korean": "상상하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "visible",
+        "korean": "눈에 보이는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "vacuum",
+        "korean": "진공, 공백; (진공청소기로) 청소하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "react",
+        "korean": "반응하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "mobile",
+        "korean": "이동성의; 휴대 전화",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "charge",
+        "korean": "충전하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "multiply",
+        "korean": "곱하다; 증가시키다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "gravity",
+        "korean": "중력",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "browse",
+        "korean": "검색하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "device",
+        "korean": "장치",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "delete",
+        "korean": "삭제하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "wireless",
+        "korean": "무선의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "transmit",
+        "korean": "보내다, 전송하다; 전염시키다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "formula",
+        "korean": "공식",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "lead to",
+        "korean": "~로 이어지다, ~을 초래하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "come up with",
+        "korean": "~을 찾아내다, 생각해 내다",
+        "level": "wm_skill"
+    }
+]

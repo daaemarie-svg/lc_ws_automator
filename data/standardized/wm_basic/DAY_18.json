@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "subway",
+        "korean": "지하철",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "bike",
+        "korean": "자전거",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "airplane",
+        "korean": "비행기",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "truck",
+        "korean": "트럭",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "boat",
+        "korean": "보트, 배",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "ride",
+        "korean": "타다, 몰다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "street",
+        "korean": "거리, 도로",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "road",
+        "korean": "도로, 길",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "drive",
+        "korean": "운전하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "right",
+        "korean": "오른쪽; 오른쪽의; 오른쪽으로",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "left",
+        "korean": "왼쪽; 왼쪽의; 왼쪽으로",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "block",
+        "korean": "막다, 차단하다; 블록, 구역",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "straight",
+        "korean": "곧은, 똑바른; 똑바로, 곧장",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "bridge",
+        "korean": "다리",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "across",
+        "korean": "가로질러, 맞은편에",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "sign",
+        "korean": "표지판; 서명하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "corner",
+        "korean": "모퉁이, 구석",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "stop",
+        "korean": "멈추다; 정류장",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "get on",
+        "korean": "~에 타다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "hurry up",
+        "korean": "서두르다",
+        "level": "wm_basic"
+    }
+]

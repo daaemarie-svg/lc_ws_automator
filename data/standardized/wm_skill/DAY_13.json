@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "bottle",
+        "korean": "병",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "package",
+        "korean": "(포장용) 용기, 상자; 꾸러미, 소포",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "can",
+        "korean": "깡통, 통조림; (음식물을) 통조림으로 만들다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "item",
+        "korean": "항목, 품목",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "pack",
+        "korean": "꾸러미, 한 상자; (짐을) 싸다, 꾸리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "ice",
+        "korean": "얼음",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "bar",
+        "korean": "막대기, 막대기 모양의 것",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "piece",
+        "korean": "조각",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "counter",
+        "korean": "계산대",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "spray",
+        "korean": "스프레이, 분무기; 뿌리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "bin",
+        "korean": "(뚜껑 달린) 큰 상자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "smoked",
+        "korean": "훈제된",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "fresh",
+        "korean": "신선한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "grain",
+        "korean": "곡물, 곡류",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "vegetable",
+        "korean": "채소",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "cart",
+        "korean": "손수레, 카트",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "seafood",
+        "korean": "해산물",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "cashier",
+        "korean": "계산원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "freezer",
+        "korean": "냉동고",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "frozen food",
+        "korean": "냉동식품",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "grocery",
+        "korean": "식료 잡화점, 식품점; [pl.] 식료품류",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "container",
+        "korean": "용기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "aisle",
+        "korean": "통로",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "dairy",
+        "korean": "우유의, 유제품의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "bundle",
+        "korean": "(한 묶음의) 다발, 뭉치",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "pile",
+        "korean": "더미",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "cash register",
+        "korean": "금전 등록기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "on sale",
+        "korean": "판매되는; 할인 중인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "for free",
+        "korean": "공짜로, 무료로",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "line up",
+        "korean": "줄을 서다",
+        "level": "wm_skill"
+    }
+]

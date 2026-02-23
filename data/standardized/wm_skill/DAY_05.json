@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "pants",
+        "korean": "바지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "sweater",
+        "korean": "스웨터",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "skirt",
+        "korean": "치마",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "tie",
+        "korean": "넥타이; ~을 묶다, 매다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "belt",
+        "korean": "벨트, 허리띠",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "uniform",
+        "korean": "유니폼, 제복",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "socks",
+        "korean": "양말",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "material",
+        "korean": "직물, 천; 재료",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "gloves",
+        "korean": "장갑",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "boots",
+        "korean": "장화, 부츠, 목이 긴 구두",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "dress",
+        "korean": "옷, 의복; 옷을 입다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "scarf",
+        "korean": "스카프, 목도리",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "jacket",
+        "korean": "재킷, 상의, 웃옷",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "shorts",
+        "korean": "반바지, 운동 팬츠",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "button",
+        "korean": "단추; ~에 단추를 채우다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "jeans",
+        "korean": "청바지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "suit",
+        "korean": "정장, 슈트; ~에게 잘 어울리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "pocket",
+        "korean": "주머니",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "bow tie",
+        "korean": "나비넥타이",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "heels",
+        "korean": "굽 높은 구두",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "stockings",
+        "korean": "긴 양말, 스타킹",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "sandals",
+        "korean": "샌들",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "wallet",
+        "korean": "지갑",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "purse",
+        "korean": "돈주머니, 지갑",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "vest",
+        "korean": "조끼",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "overalls",
+        "korean": "멜빵 바지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "athletic shoes",
+        "korean": "운동화",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "put on",
+        "korean": "(옷을) 입다, (모자, 안경 등을) 쓰다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "try on",
+        "korean": "~을 입어[신어] 보다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "take off",
+        "korean": "(옷 등을) 벗다; 이륙하다",
+        "level": "wm_skill"
+    }
+]

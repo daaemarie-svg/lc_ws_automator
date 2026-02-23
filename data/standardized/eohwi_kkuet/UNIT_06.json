@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "furniture",
+        "korean": "[명] 가구",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "closet",
+        "korean": "[명] 벽장, 옷장",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "drawer",
+        "korean": "[명] 서랍",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "shelf",
+        "korean": "[명] 선반",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "ladder",
+        "korean": "[명] 사다리",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "screw",
+        "korean": "[명] 나사",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "scale",
+        "korean": "[명] 1. 저울, 체중계 2. 규모, 정도",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "wire",
+        "korean": "[명] 1. 철사 2. 전선, 선",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "string",
+        "korean": "[명] 끈, 줄",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "tank",
+        "korean": "[명] 1. (물·기름 등을 넣는) 큰 통 2. 전차, 탱크",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "bucket",
+        "korean": "[명] 양동이",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "lid",
+        "korean": "[명] 뚜껑, 덮개",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "faucet",
+        "korean": "[명] 수도꼭지",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "stuff",
+        "korean": "[명] 물건, 것\n[동] ~을 채워 넣다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "refrigerator",
+        "korean": "[명] 냉장고",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "microwave",
+        "korean": "[명] 전자레인지",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "bulb",
+        "korean": "[명] 전구",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "switch",
+        "korean": "[명] 1. 스위치 2. 전환 \n[동] 바뀌다, 전환되다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "pillow",
+        "korean": "[명] 베개",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "spray",
+        "korean": "[명] 스프레이, 분무기 \n[동] 뿌리다, 살포하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "rubber",
+        "korean": "[명] 1. 고무 2. 지우개",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "stamp",
+        "korean": "[명] 1. 우표 2. 도장, 스탬프\n[동] 1. (도장을) 찍다 2. 발을 구르다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "broom",
+        "korean": "[명] 빗자루, 비",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "bathtub",
+        "korean": "[명] 욕조",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "toothbrush",
+        "korean": "[명] 칫솔",
+        "level": "eohwi_kkuet"
+    }
+]

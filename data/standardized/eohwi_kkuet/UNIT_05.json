@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "remind",
+        "korean": "[동] ~을 생각나게 하다, 상기시키다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "recognize",
+        "korean": "[동] 1. 알아보다, 알다 2. 인정하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "regard",
+        "korean": "[동] ~로 여기다, 간주하다\n[명] 관심, 배려",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "confirm",
+        "korean": "[동] 확인하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "associate",
+        "korean": "[동] 연상하다, 연관 짓다\n[명] (사업·직장) 동료",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "intend",
+        "korean": "[동] 의도하다, ~하려고 생각하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "compare",
+        "korean": "[동] 비교하다, 대조하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "contrast",
+        "korean": "[명] 1. 차이 2. 대조, 대비 \n[동] 대조하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "determine",
+        "korean": "[동] 1. 결심하다, 결정하다 2. 알아내다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "define",
+        "korean": "[동] 1. 정의하다 2. 규정하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "conclude",
+        "korean": "[동] 1. 결론을 내리다 2. 끝나다, 마치다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "confuse",
+        "korean": "[동] 1. 혼동하다 2. 혼란스럽게 하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "willing",
+        "korean": "[형] 기꺼이 ~하는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "real",
+        "korean": "[형] 1. 진짜의, 진정한 2. 실제로 존재하는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "admire",
+        "korean": "[동] 1. 존경하다 2. 감탄하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "appreciate",
+        "korean": "[동] 1. 고마워하다 2. 높이 평가하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "pursue",
+        "korean": "[동] 추구하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "desire",
+        "korean": "[명] 욕구, 강한 소망 \n[동] 몹시 바라다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "hesitate",
+        "korean": "[동] 망설이다, 주저하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "spirit",
+        "korean": "[명] 1. 정신, 마음 2. 기분 3. 용기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "concentrate",
+        "korean": "[동] (정신을) 집중하다, 전념하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "bother",
+        "korean": "[동] 1. 괴롭히다, 신경 쓰이게 하다 2. 귀찮게 하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "predict",
+        "korean": "[동] 예측하다, 예견하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "suppose",
+        "korean": "[동] 1. 추측하다 2. 가정하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "assume",
+        "korean": "[동] 추정하다",
+        "level": "eohwi_kkuet"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "value",
+        "korean": "가치, 값; 소중히 여기다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "local",
+        "korean": "지역의, 현지의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "crowd",
+        "korean": "군중",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "debt",
+        "korean": "빚, 부채",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "salary",
+        "korean": "급여",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "invest",
+        "korean": "투자하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "duty",
+        "korean": "의무, 임무; 세금",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "status",
+        "korean": "지위, 상태",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "culture",
+        "korean": "문화",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "citizen",
+        "korean": "시민, 국민",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "public",
+        "korean": "대중의, 공공의, 공개된",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "supply",
+        "korean": "공급; 공급하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "demand",
+        "korean": "수요; 요구하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "import",
+        "korean": "수입; 수입하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "export",
+        "korean": "수출; 수출하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "account",
+        "korean": "계좌",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "employ",
+        "korean": "고용하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "individual",
+        "korean": "개인; 개인의, 개인적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "relationship",
+        "korean": "관계, 사이",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "tradition",
+        "korean": "전통",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "consumer",
+        "korean": "소비자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "responsibility",
+        "korean": "책임",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "influence",
+        "korean": "영향; 영향을 미치다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "obstacle",
+        "korean": "장애, 장애물",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "property",
+        "korean": "재산, 소유물",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "moral",
+        "korean": "도덕, 윤리; 도덕적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "donate",
+        "korean": "기부하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "predict",
+        "korean": "예측하다, 예언하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "show off",
+        "korean": "자랑하다, 내세우다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "look for",
+        "korean": "~을 찾다, 구하다",
+        "level": "wm_skill"
+    }
+]

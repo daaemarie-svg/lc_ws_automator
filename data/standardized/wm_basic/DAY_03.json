@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "friend",
+        "korean": "친구",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "together",
+        "korean": "함께, 같이",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "club",
+        "korean": "동아리, 클럽",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "join",
+        "korean": "가입하다, 함께하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "fight",
+        "korean": "싸우다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "group",
+        "korean": "무리, 집단, 그룹",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "classmate",
+        "korean": "급우, 반 친구",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "partner",
+        "korean": "파트너, 짝",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "alone",
+        "korean": "혼자",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "friendship",
+        "korean": "우정",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "share",
+        "korean": "함께 쓰다; 나누다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "neighbor",
+        "korean": "이웃",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "favor",
+        "korean": "호의, 부탁",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "introduce",
+        "korean": "소개하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "harmony",
+        "korean": "조화, 화합",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "nickname",
+        "korean": "별명",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "welcome",
+        "korean": "환영하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "strange",
+        "korean": "이상한; 낯선",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "hang out (with)",
+        "korean": "(~와) 시간을 보내다, 어울려 놀다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "make fun of",
+        "korean": "~을 놀리다",
+        "level": "wm_basic"
+    }
+]

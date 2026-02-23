@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "character",
+        "korean": "[명] 1. 성격 2. 특징 3. 등장인물, 캐릭터",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "personality",
+        "korean": "[명] 성격, 개성",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "positive",
+        "korean": "[형] 긍정적인, 낙관적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "active",
+        "korean": "[형] 1. 활동적인 2. 적극적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "energetic",
+        "korean": "[형] 활동적인, 활기에 찬",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "eager",
+        "korean": "[형] 열렬한, 간절히 바라는, 열심인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "cheerful",
+        "korean": "[형] 쾌활한, 명랑한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "bold",
+        "korean": "[형] 1. 용감한, 대담한 2. 선명한, 굵은",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "confident",
+        "korean": "[형] 1. 자신감 있는 2. 확신하는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "tender",
+        "korean": "[형] 1. 상냥한, 다정한 2. (음식이) 연한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "generous",
+        "korean": "[형] 1. (무엇을 주는 데 있어서) 후한, 인심 좋은 2. 관대한, 너그러운",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "gentle",
+        "korean": "[형] 1. 상냥한, 점잖은 2. (날씨가) 온화한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "sensitive",
+        "korean": "[형] 1. 섬세한, 세심한 2. 예민한, 민감한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "polite",
+        "korean": "[형] 예의 바른, 공손한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "responsible",
+        "korean": "[형] 1. 책임이 있는 2. 책임지고 있는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "diligent",
+        "korean": "[형] 부지런한, 성실한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "attractive",
+        "korean": "[형] 매력 있는, 마음을 끄는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "curious",
+        "korean": "[형] 1. 호기심이 많은 2. 궁금한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "realistic",
+        "korean": "[형] 현실적인, 현실을 직시하는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "negative",
+        "korean": "[형] 부정적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "odd",
+        "korean": "[형] 1. 이상한, 특이한 2. 홀수의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "rude",
+        "korean": "[형] 버릇없는, 무례한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "silly",
+        "korean": "[형] 어리석은, 바보 같은",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "passive",
+        "korean": "[형] 소극적인, 수동적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "selfish",
+        "korean": "[형] 이기적인",
+        "level": "eohwi_kkuet"
+    }
+]

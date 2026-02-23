@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "clean",
+        "korean": "깨끗한; 청소하다, 깨끗이 하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "high",
+        "korean": "높은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "low",
+        "korean": "낮은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "open",
+        "korean": "열린; 열다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "heavy",
+        "korean": "무거운",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "full",
+        "korean": "가득 찬; 배부른",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "flat",
+        "korean": "평평한, 편평한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "dark",
+        "korean": "어두운",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "deep",
+        "korean": "깊은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "round",
+        "korean": "둥근; 한 바퀴를 도는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "light",
+        "korean": "가벼운, (양이) 적은; 빛",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "famous",
+        "korean": "유명한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "colorful",
+        "korean": "다채로운, 화려한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "empty",
+        "korean": "텅 빈",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "metal",
+        "korean": "금속",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "plastic",
+        "korean": "플라스틱의, 비닐의; 성형의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "wide",
+        "korean": "넓은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "tight",
+        "korean": "꽉 조이는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "loose",
+        "korean": "헐렁한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "sharp",
+        "korean": "날카로운",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "shallow",
+        "korean": "얕은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "oval",
+        "korean": "달걀 모양, 타원형; 달걀 모양의, 타원형의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "square",
+        "korean": "정사각형; 광장; 정사각형의, 사각의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "triangle",
+        "korean": "삼각형",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "crack",
+        "korean": "(갈라진) 틈, 틈새",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "glitter",
+        "korean": "빛나다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "firm",
+        "korean": "단단한, 굳은; 회사",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "wooden",
+        "korean": "나무로 만든",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "be covered with",
+        "korean": "~으로 덮여 있다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "prefer A to B",
+        "korean": "B보다 A를 더 선호하다",
+        "level": "wm_skill"
+    }
+]

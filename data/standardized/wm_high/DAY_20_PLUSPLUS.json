@@ -1,0 +1,470 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "elect",
+        "korean": "선거하다, 선출하다, 고르다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "election",
+        "korean": "선거",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "elective",
+        "korean": "선거의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "declare",
+        "korean": "선언하다, 공표하다; 단언하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "announce",
+        "korean": "선언하다, 공표하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "declaration",
+        "korean": "선언, (세관 등에의) 신고(서)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "democracy",
+        "korean": "민주주의, 민주제",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "official",
+        "korean": "공무원, 관리; 공무상의, 공식의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "office",
+        "korean": "사무실; 공직, 관직",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "officiate",
+        "korean": "공무를 수행하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "candidate",
+        "korean": "(선거의) 후보자[출마자]; 지원자, 응시자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "oppose",
+        "korean": "반대하다, 대항하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "resist",
+        "korean": "반대하다, 대항하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "opposite",
+        "korean": "반대편의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "immediate",
+        "korean": "즉각적인; 직접적인, 가장 가까운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "instant",
+        "korean": "즉각적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "nearest",
+        "korean": "직접적인, 가장 가까운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "immediately",
+        "korean": "즉시; 직접",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "insist",
+        "korean": "고집하다, 주장하다, 요구하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "demand",
+        "korean": "고집하다, 주장하다, 요구하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "insistent",
+        "korean": "강요하는, 끈질긴",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "with insistence",
+        "korean": "끈질기게, 집요하게",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "union",
+        "korean": "연합, 합병; (노동) 조합",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "unionize",
+        "korean": "연합하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "indifferent",
+        "korean": "무관심한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "unconcerned",
+        "korean": "무관심한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "indifference",
+        "korean": "무관심",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "campaign",
+        "korean": "선거 운동, 유세, 캠페인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "party",
+        "korean": "정당; 파티, 회합",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "dispute",
+        "korean": "논쟁; 논쟁하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "argument",
+        "korean": "논쟁",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "argue",
+        "korean": "논쟁하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "postpone",
+        "korean": "연기하다, 뒤로 미루다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "put off",
+        "korean": "연기하다, 뒤로 미루다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "delay",
+        "korean": "연기하다, 뒤로 미루다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "convince",
+        "korean": "(설득하여) 납득시키다.; 확신시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "assure",
+        "korean": "확신시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "conviction",
+        "korean": "확신",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "persuade",
+        "korean": "설득하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "persuasion",
+        "korean": "설득",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "assume",
+        "korean": "추측하다, 사실이라고 생각하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "suppose",
+        "korean": "추측하다, 사실이라고 생각하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "assumption",
+        "korean": "가정, 가설",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "assuming[supposing] that",
+        "korean": "~라고 가정하면",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "approve",
+        "korean": "찬성하다, 승인하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "allow",
+        "korean": "찬성하다, 승인하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "approval",
+        "korean": "찬성, 승인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "session",
+        "korean": "(국회의) 회기, 기간; (대학) 학기, 수업",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "sessional",
+        "korean": "개정 중의, 회기마다의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "deed",
+        "korean": "업적; 행위",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "achievement",
+        "korean": "업적",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "action",
+        "korean": "행위",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "conduct",
+        "korean": "행위",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "reputation",
+        "korean": "평판; 명성, 덕망",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "fame",
+        "korean": "명성, 덕망",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "reputational",
+        "korean": "명성의, 평판의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "conservative",
+        "korean": "보수적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "progressive",
+        "korean": "진보적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "conservatism",
+        "korean": "보수주의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "command",
+        "korean": "(군대 등을) 지휘하다; 명령하다; 지휘권; 명령; (언어) 구사 능력",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "lead",
+        "korean": "(군대 등을) 지휘하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "order",
+        "korean": "명령하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "commander",
+        "korean": "지휘관, 사령관",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "hostile",
+        "korean": "적대적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "unfriendly",
+        "korean": "적대적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-066",
+        "word": "friendly",
+        "korean": "친절한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-067",
+        "word": "hostility",
+        "korean": "적의, 적개심",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-068",
+        "word": "authority",
+        "korean": "권위, 권한; (pl.) 당국",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-069",
+        "word": "power",
+        "korean": "권위, 권한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-070",
+        "word": "cabinet",
+        "korean": "(정치) 내각; 장식장, 캐비닛",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-071",
+        "word": "cabinet council",
+        "korean": "각료 회의, 국무 회의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-072",
+        "word": "federal",
+        "korean": "연방의, 연방제의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-073",
+        "word": "Federal Government",
+        "korean": "(미국) 연방 정부",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-074",
+        "word": "unify",
+        "korean": "통일하다, 단일화하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-075",
+        "word": "divide",
+        "korean": "나누다, 분열시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-076",
+        "word": "split",
+        "korean": "나누다, 분열시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-077",
+        "word": "run for",
+        "korean": "~에 입후보하다, 출마하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-078",
+        "word": "speak for",
+        "korean": "~을 대변하다",
+        "level": "wm_high"
+    }
+]

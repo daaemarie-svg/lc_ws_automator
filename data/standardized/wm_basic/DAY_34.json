@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "grass",
+        "korean": "풀, 잔디",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "flower",
+        "korean": "꽃",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "tree",
+        "korean": "나무",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "leaf",
+        "korean": "잎, 나뭇잎",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "stone",
+        "korean": "돌",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "wood",
+        "korean": "나무, 목재; (-s) 숲",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "fruit",
+        "korean": "과일, 열매",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "branch",
+        "korean": "나뭇가지",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "ground",
+        "korean": "땅, 토양",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "soil",
+        "korean": "토양, 흙",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "field",
+        "korean": "들판, 밭; 현장; 경기장",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "farm",
+        "korean": "농장, 농원",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "water",
+        "korean": "물; 물을 주다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "dig",
+        "korean": "파다, 캐내다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "grow",
+        "korean": "재배하다, 기르다; 자라다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "plant",
+        "korean": "식물; 심다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "bean",
+        "korean": "콩",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "vegetable",
+        "korean": "채소",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "right away",
+        "korean": "즉시, 곧바로",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "pick up",
+        "korean": "~을 집다; ~을 (차에) 태우러 가다",
+        "level": "wm_basic"
+    }
+]

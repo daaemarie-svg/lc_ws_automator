@@ -1,0 +1,452 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "previous",
+        "korean": "이전의, 앞의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "earlier",
+        "korean": "이전의, 앞의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "later",
+        "korean": "뒤의, 나중의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "prior",
+        "korean": "이전의, 우선하는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "priority",
+        "korean": "우선하는 것",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "decade",
+        "korean": "10년간",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "biography",
+        "korean": "전기, 일대기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "biographer",
+        "korean": "전기 작가",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "devote",
+        "korean": "바치다, 헌신하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "devoted",
+        "korean": "헌신적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "devotion",
+        "korean": "헌신, 전념",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "devote oneself to",
+        "korean": "~에 몰두하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "faith",
+        "korean": "신념, 믿음",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "belief",
+        "korean": "신념, 믿음",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "faithful",
+        "korean": "충실한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "minority",
+        "korean": "소수, 소수 민족",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "majority",
+        "korean": "다수",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "minor",
+        "korean": "소수의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "mummy",
+        "korean": "미라",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "remains",
+        "korean": "유해, 유골; 나머지",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "rid",
+        "korean": "제거하다; 자유롭게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "get rid of",
+        "korean": "~을 제거하다, 해소하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "rid A of B",
+        "korean": "A에서 B를 없애다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "origin",
+        "korean": "기원, 유래; 태생",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "original",
+        "korean": "원래의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "originate",
+        "korean": "유래하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "civilization",
+        "korean": "문명, 문화",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "culture",
+        "korean": "문명, 문화",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "civilize",
+        "korean": "문명화하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "revolution",
+        "korean": "혁명, 변혁",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "revolutionary",
+        "korean": "혁명의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "royal",
+        "korean": "왕의, 왕실의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "royalty",
+        "korean": "왕위, 왕권",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "heritage",
+        "korean": "유산, 전통",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "missionary",
+        "korean": "선교사, 전도사",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "mission",
+        "korean": "임무, 선교",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "sermon",
+        "korean": "설교, 교훈",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "settle",
+        "korean": "정착하다; 해결하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "settlement",
+        "korean": "정착; 합의, 해결",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "replace",
+        "korean": "대신하다, 대체하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "substitute",
+        "korean": "대신하다, 대체하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "replacement",
+        "korean": "대체, 교환",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "replace A with B",
+        "korean": "A를 B로 바꾸다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "signify",
+        "korean": "의미하다, 나타내다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "mean",
+        "korean": "의미하다, 나타내다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "significant",
+        "korean": "중요한, 의미 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "significance",
+        "korean": "중요성, 의미",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "conserve",
+        "korean": "보존하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "preserve",
+        "korean": "보존하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "conservative",
+        "korean": "보수적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "conservation",
+        "korean": "보존, 보호",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "evaluate",
+        "korean": "평가하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "assess",
+        "korean": "평가하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "evaluation",
+        "korean": "평가",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "descend",
+        "korean": "계통을 잇다, 내려가다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "ascend",
+        "korean": "올라가다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "descendant",
+        "korean": "자손",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "descend from",
+        "korean": "~의 자손이다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "disappear",
+        "korean": "사라지다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "vanish",
+        "korean": "사라지다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "appear",
+        "korean": "나타나다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "disappearance",
+        "korean": "소멸, 실종",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "sequence",
+        "korean": "순서, 연속",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "sequential",
+        "korean": "순차적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "out of sequence",
+        "korean": "순서가 엉망인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-066",
+        "word": "gradual",
+        "korean": "점차적인, 단계적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-067",
+        "word": "sudden",
+        "korean": "갑작스러운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-068",
+        "word": "gradually",
+        "korean": "점차로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-069",
+        "word": "sacred",
+        "korean": "신성한, 성스러운, 종교적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-070",
+        "word": "religious",
+        "korean": "신성한, 성스러운, 종교적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-071",
+        "word": "sacredness",
+        "korean": "신성함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-072",
+        "word": "break out",
+        "korean": "(화재·전쟁 등이) 발생하다, 발발하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-073",
+        "word": "derive from",
+        "korean": "~에서 유래하다, 파생하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-074",
+        "word": "hand down",
+        "korean": "~을 전하다, 후세에 물려주다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-075",
+        "word": "pass down",
+        "korean": "~을 전하다, 후세에 물려주다",
+        "level": "wm_high"
+    }
+]

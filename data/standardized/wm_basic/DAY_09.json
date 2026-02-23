@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "sad",
+        "korean": "슬픈",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "happy",
+        "korean": "행복한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "afraid",
+        "korean": "무서워하는, 겁내는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "angry",
+        "korean": "화난, 성난",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "glad",
+        "korean": "기쁜, 반가운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "lonely",
+        "korean": "외로운, 쓸쓸한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "serious",
+        "korean": "심각한, 진지한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "nervous",
+        "korean": "불안해하는, 긴장한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "scared",
+        "korean": "무서워하는, 겁먹은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "upset",
+        "korean": "속상한, 화난",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "surprised",
+        "korean": "놀란, 놀라는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "bored",
+        "korean": "지루해하는, 지루한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "pleased",
+        "korean": "기쁜, 만족해하는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "excited",
+        "korean": "신이 난, 흥분한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "worry",
+        "korean": "걱정하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "miss",
+        "korean": "그리워하다; 놓치다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "excuse",
+        "korean": "용서하다; 양해를 구하다; 변명",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "complain",
+        "korean": "불평하다, 항의하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "be proud of",
+        "korean": "~을 자랑스러워하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "would like to-v",
+        "korean": "~하고 싶다",
+        "level": "wm_basic"
+    }
+]

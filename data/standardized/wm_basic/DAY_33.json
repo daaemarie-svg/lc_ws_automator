@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "nurse",
+        "korean": "간호사",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "sick",
+        "korean": "아픈, 병든",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "weak",
+        "korean": "약한, 힘이 없는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "strong",
+        "korean": "튼튼한, 건강한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "fever",
+        "korean": "열",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "cough",
+        "korean": "기침; 기침하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "pain",
+        "korean": "고통, 통증",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "hospital",
+        "korean": "병원",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "headache",
+        "korean": "두통",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "medicine",
+        "korean": "약, 약물",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "weight",
+        "korean": "무게, 체중",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "tired",
+        "korean": "피곤한, 지친",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "hurt",
+        "korean": "다치게 하다; 아프다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "treat",
+        "korean": "치료하다; 다루다, 대하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "relax",
+        "korean": "휴식을 취하다, 쉬다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "advice",
+        "korean": "조언, 충고",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "health",
+        "korean": "건강",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "stomach",
+        "korean": "위, 배",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "see a doctor",
+        "korean": "병원에 가다, 진찰을 받다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "catch a cold",
+        "korean": "감기에 걸리다",
+        "level": "wm_basic"
+    }
+]

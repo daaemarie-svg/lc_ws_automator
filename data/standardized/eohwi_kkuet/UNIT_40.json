@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "despite",
+        "korean": "[전] ~에도 불구하고",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "still",
+        "korean": "[부] 1. 아직 2. 그럼에도 불구하고 3. ((비교급 강조)) 훨씬\n[형] 가만히 있는, 정지한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "nevertheless",
+        "korean": "[부] 그럼에도 불구하고",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "otherwise",
+        "korean": "[부] 1. 그렇지 않으면 2. 그 외에는",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "(al)though",
+        "korean": "[접] (비록) ~이긴 하지만",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "unless",
+        "korean": "[접] 만약 ~이 아니면, ~하지 않는 한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "whereas",
+        "korean": "[접] 반면에, 그러나",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "therefore",
+        "korean": "[부] 그러므로, 따라서",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "thus",
+        "korean": "[부] 1. 이렇게, 이와 같이 2. 따라서, 그러므로",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "closely",
+        "korean": "[부] 1. 밀접하게, 친밀하게 2. 면밀히",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "especially",
+        "korean": "[부] 특히, 특별히",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "exactly",
+        "korean": "[부] 정확하게",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "except",
+        "korean": "[전] ~을 제외하고",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "fortunately",
+        "korean": "[부] 다행스럽게도, 운 좋게도",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "frankly",
+        "korean": "[부] 솔직히",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "furthermore",
+        "korean": "[부] 뿐만 아니라, 더욱이",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "moreover",
+        "korean": "[부] 게다가, 더욱이",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "approximately",
+        "korean": "[부] 대략, 거의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "clearly",
+        "korean": "[부] 뚜렷하게, 분명히",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "necessarily",
+        "korean": "[부] 반드시, 필연적으로",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "somehow",
+        "korean": "[부] 1. 어떻게든 2. 왠지, 웬일인지",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "terribly",
+        "korean": "[부] 몹시, 지독하게",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "even",
+        "korean": "[부] 심지어, ~조차도\n[형] 1. 평평한 2. 고른, 일정한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "yet",
+        "korean": "[부] 아직, 여전히\n[접] 하지만, 그럼에도 불구하고",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "due",
+        "korean": "[형] 1. ~로 인한 (to) 2. ~하기로 예정된 3. (돈을) 지불해야 하는",
+        "level": "eohwi_kkuet"
+    }
+]

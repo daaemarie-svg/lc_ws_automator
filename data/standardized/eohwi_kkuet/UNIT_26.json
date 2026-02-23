@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "found",
+        "korean": "[동] 설립하다, 세우다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "firm",
+        "korean": "[명] 회사\n[형] 1. 단단한, 딱딱한 2. 확고한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "agency",
+        "korean": "[명] 1. 대리점, 대행사 2. (정부) 기관",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "department",
+        "korean": "[명] 부문, 부서, (대학의) 과",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "employ",
+        "korean": "[동] 고용하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "hire",
+        "korean": "[동] (사람을) 고용하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "inform",
+        "korean": "[동] 알리다, 통지하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "apply",
+        "korean": "[동] 1. 지원하다 (for) 2. 적용되다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "attach",
+        "korean": "[동] 1. 붙이다, 접착하다 2. 첨부하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "request",
+        "korean": "[명] 요청, 부탁\n[동] 신청하다, 요청하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "salary",
+        "korean": "[명] 급여, 월급, 봉급",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "contract",
+        "korean": "[명] 계약, 약정, 협약\n[동] 계약하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "represent",
+        "korean": "[동] 1. 대표하다, 대신하다 2. 나타내다, 상징하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "obtain",
+        "korean": "[동] 얻다, 획득하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "aim",
+        "korean": "[명] 목표, 목적\n[동] 목표로 하다, 겨냥하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "purpose",
+        "korean": "[명] 목적, 의도",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "task",
+        "korean": "[명] 일, 과제, 직무",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "strategy",
+        "korean": "[명] (목표를 위한) 계획, 전략",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "propose",
+        "korean": "[동] 1. 제안하다 2. 청혼하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "arrange",
+        "korean": "[동] 1. 정돈하다, 정리하다 2. 마련하다, 준비하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "sort",
+        "korean": "[명] 종류\n[동] 분류하다, 구분하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "colleague",
+        "korean": "[명] 동료",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "overall",
+        "korean": "[형] 종합[전반]적인, 전체의\n[부] 종합적으로, 전부",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "practical",
+        "korean": "[형] 1. 현실적인, 실제적인 2. 실용적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "retire",
+        "korean": "[동] 퇴직하다, 은퇴하다",
+        "level": "eohwi_kkuet"
+    }
+]

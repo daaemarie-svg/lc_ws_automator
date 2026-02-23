@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "event",
+        "korean": "사건, 행사",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "start",
+        "korean": "시작하다; 시작",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "end",
+        "korean": "끝나다; 끝, 결말",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "enter",
+        "korean": "들어가다; 참가하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "luck",
+        "korean": "행운, 운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "important",
+        "korean": "중요한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "building",
+        "korean": "건물",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "law",
+        "korean": "법",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "history",
+        "korean": "역사",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "hometown",
+        "korean": "고향",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "local",
+        "korean": "지역의, 현지의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "create",
+        "korean": "창조하다, 만들다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "project",
+        "korean": "계획; 연구 과제",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "citizen",
+        "korean": "시민, 국민",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "president",
+        "korean": "대통령; 회장",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "information",
+        "korean": "정보, 자료",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "program",
+        "korean": "(TV 등의) 프로그램",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "traditional",
+        "korean": "전통적인",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "ask for",
+        "korean": "~을 요청[요구]하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "these days",
+        "korean": "요즘",
+        "level": "wm_basic"
+    }
+]

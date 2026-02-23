@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "pollution",
+        "korean": "오염",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "protect",
+        "korean": "보호하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "separate",
+        "korean": "분리하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "environment",
+        "korean": "환경",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "effect",
+        "korean": "영향, 효과",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "resource",
+        "korean": "자원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "destroy",
+        "korean": "파괴하다, 부수다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "global warming",
+        "korean": "지구 온난화",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "damage",
+        "korean": "손상, 피해",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "garbage",
+        "korean": "쓰레기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "share",
+        "korean": "공유하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "cause",
+        "korean": "야기하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "ruin",
+        "korean": "파괴; 유적, 폐허 [보통 pl.]; 파멸시키다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "raw",
+        "korean": "날것의, 가공하지 않은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "electricity",
+        "korean": "전기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "pure",
+        "korean": "순수한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "smog",
+        "korean": "스모그, 연무",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "fuel",
+        "korean": "연료",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "fossil",
+        "korean": "화석",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "acid",
+        "korean": "산; 산성의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "toxic",
+        "korean": "유독한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "exhaust",
+        "korean": "배기가스; 다 써버리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "shortage",
+        "korean": "부족, 결핍",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "reduce",
+        "korean": "줄이다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "endangered",
+        "korean": "멸종 위기의, 위험에 처한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "leak",
+        "korean": "누출; 새다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "overuse",
+        "korean": "남용; 남용하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "greenhouse",
+        "korean": "온실",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "be worried about",
+        "korean": "~에 대해 걱정하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "back and forth",
+        "korean": "앞뒤로; 왔다갔다",
+        "level": "wm_skill"
+    }
+]

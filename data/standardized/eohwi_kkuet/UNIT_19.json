@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "research",
+        "korean": "[명] 연구, 조사 \n[동] 연구하다, 조사하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "examine",
+        "korean": "[동] 1. 조사하다, 검토하다 2. 진찰하다 3. 시험을 실시하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "conduct",
+        "korean": "[동] 1. (특정한 활동을) 하다 2. 지휘하다\n[명] 행위, 품행",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "collect",
+        "korean": "[동] 수집하다, 모으다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "demonstrate",
+        "korean": "[동] 1. 입증하다 2. 설명하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "method",
+        "korean": "[명] 방법",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "analyze",
+        "korean": "[동] 분석하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "factor",
+        "korean": "[명] 요인, 인자, 요소",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "cause",
+        "korean": "[명] 원인, 이유 \n[동] ~의 원인이 되다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "experiment",
+        "korean": "[명] (과학적인) 실험 \n[동] 실험을 하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "laboratory/lab",
+        "korean": "[명] 실험실, 연구실",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "equipment",
+        "korean": "[명] 장비, 용품",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "filter",
+        "korean": "[명] 필터, 여과 장치 \n[동] 여과하다, 거르다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "material",
+        "korean": "[명] 1. 재료, 물질 2. 옷감 3. 자료, 소재",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "element",
+        "korean": "[명] 1. 요소, 성분 2. 원소",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "cell",
+        "korean": "[명] 세포",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "mixture",
+        "korean": "[명] 혼합물, 혼합체",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "poison",
+        "korean": "[명] 독, 독약",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "electronic",
+        "korean": "[형] 전자의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "layer",
+        "korean": "[명] 막, 층, 겹",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "flame",
+        "korean": "[명] 불꽃, 불길",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "precise",
+        "korean": "[형] 정확한, 정밀한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "error",
+        "korean": "[명] 오류, 실수",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "angle",
+        "korean": "[명] 1. 각도, 각 2. 시각, 관점",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "expand",
+        "korean": "[동] 확장하다, 팽창하다",
+        "level": "eohwi_kkuet"
+    }
+]

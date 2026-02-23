@@ -1,0 +1,572 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "shape",
+        "korean": "모양, 꼴, 모습",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "form",
+        "korean": "모양, 꼴, 모습",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "shaped",
+        "korean": "~모양의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "in (good) shape",
+        "korean": "(건강·몸 상태 등이) 좋은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "appearance",
+        "korean": "출현, 나타남; 외관, 겉모습",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "look",
+        "korean": "외관, 겉모습",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "appear",
+        "korean": "나타나다; ~인 것같이 보이다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "in appearance",
+        "korean": "보기에는, 외관상",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "personality",
+        "korean": "성격, 인성; 개성",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "individuality",
+        "korean": "개성",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "personal",
+        "korean": "개인의, 개인적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "gender",
+        "korean": "성별",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "impression",
+        "korean": "인상; 감동, 감명",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "impress",
+        "korean": "인상을 주다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "impressive",
+        "korean": "강한 인상을 주는, 감명을 주는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "typical",
+        "korean": "전형적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "type",
+        "korean": "종류, 유형",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "capable",
+        "korean": "유능한; ~할 능력이 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "able",
+        "korean": "유능한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "incapable",
+        "korean": "~할 수 없는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "capability",
+        "korean": "능력",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "attractive",
+        "korean": "매력적인; 사람을 끄는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "charming",
+        "korean": "매력적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "appealing",
+        "korean": "사람을 끄는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "attract",
+        "korean": "끌어당기다, 매혹하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "tourist attraction",
+        "korean": "인기 관광지",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "active",
+        "korean": "적극적인, 활동적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "lively",
+        "korean": "적극적인, 활동적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "energetic",
+        "korean": "적극적인, 활동적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "passive",
+        "korean": "소극적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "act",
+        "korean": "행동하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "activity",
+        "korean": "활동",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "passive",
+        "korean": "소극적인, 수동적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "inactive",
+        "korean": "소극적인, 수동적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "diligent",
+        "korean": "근면 성실한, 부지런한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "lazy",
+        "korean": "게으른",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "diligence",
+        "korean": "근면함, 부지런함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "bold",
+        "korean": "대담한, 용감한; (문자·선 등이)굵은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "brave",
+        "korean": "대담한, 용감한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "daring",
+        "korean": "대담한, 용감한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "confident",
+        "korean": "자신만만한; 확신하는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "boldness",
+        "korean": "배짱",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "positive",
+        "korean": "자신만만한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "sure, convinced",
+        "korean": "확신하는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "confidence",
+        "korean": "자신감, 확신",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "be confident of",
+        "korean": "~을 확신하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "impatient",
+        "korean": "성급한, 참을성 없는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "patient",
+        "korean": "참을성 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "impatience",
+        "korean": "성급함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "impatiently",
+        "korean": "성급하게",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "ambitious",
+        "korean": "야망이 있는, 야심 찬",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "unambitious",
+        "korean": "야망이 없는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "ambition",
+        "korean": "야망, 포부",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "brilliant",
+        "korean": "훌륭한, 눈부신, (재능이) 뛰어난; 빛나는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "bright",
+        "korean": "훌륭한, 눈부신, (재능이) 뛰어난",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "intelligent",
+        "korean": "훌륭한, 눈부신, (재능이) 뛰어난",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "glittering",
+        "korean": "빛나는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "brilliance",
+        "korean": "탁월함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "brilliant idea",
+        "korean": "훌륭한 생각",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "elegant",
+        "korean": "우아한, 품위 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "elegance",
+        "korean": "우아, 고상함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "humble",
+        "korean": "겸손한; 초라한, 소박한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "modest",
+        "korean": "겸손한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "humbleness",
+        "korean": "겸손, 겸양",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "arrogant",
+        "korean": "오만한, 거만한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-066",
+        "word": "proud, haughty",
+        "korean": "오만한, 거만한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-067",
+        "word": "arrogance",
+        "korean": "오만, 거만, 불손",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-068",
+        "word": "aggressive",
+        "korean": "공격적인; 매우 적극적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-069",
+        "word": "offensive",
+        "korean": "공격적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-070",
+        "word": "active",
+        "korean": "매우 적극적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-071",
+        "word": "aggression",
+        "korean": "공격, 침략",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-072",
+        "word": "fierce",
+        "korean": "사나운, 흉포한; 격렬한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-073",
+        "word": "intense",
+        "korean": "격렬한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-074",
+        "word": "fiercely",
+        "korean": "사납게, 맹렬하게, 지독하게",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-075",
+        "word": "fierce pain",
+        "korean": "격렬한 고통",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-076",
+        "word": "kindness",
+        "korean": "친절, 다정함",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-077",
+        "word": "oval",
+        "korean": "타원형의, 달걀형의; 달걀 모양, 타원체",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-078",
+        "word": "egg-shaped",
+        "korean": "타원형의, 달걀형의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-079",
+        "word": "odd",
+        "korean": "이상한, 기묘한; 홀수의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-080",
+        "word": "strange",
+        "korean": "이상한, 기묘한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-081",
+        "word": "peculiar",
+        "korean": "이상한, 기묘한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-082",
+        "word": "even",
+        "korean": "짝수의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-083",
+        "word": "forehead",
+        "korean": "이마",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-084",
+        "word": "brow",
+        "korean": "이마",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-085",
+        "word": "ignorant",
+        "korean": "무지한, 무식한; (정보가 없어) 모르는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-086",
+        "word": "uninformed",
+        "korean": "(정보가 없어) 모르는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-087",
+        "word": "ignorance",
+        "korean": "무지, 무식",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-088",
+        "word": "wrinkle",
+        "korean": "주름; 주름지게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-089",
+        "word": "line",
+        "korean": "주름",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-090",
+        "word": "crease",
+        "korean": "주름지게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-091",
+        "word": "greed",
+        "korean": "욕심, 탐욕",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-092",
+        "word": "greedy",
+        "korean": "탐욕스러운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-093",
+        "word": "take after",
+        "korean": "~을 닮다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-094",
+        "word": "resemble",
+        "korean": "~을 닮다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-095",
+        "word": "stand out",
+        "korean": "눈에 띄다, 빼어나다",
+        "level": "wm_high"
+    }
+]

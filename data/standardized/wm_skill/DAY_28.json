@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "bloom",
+        "korean": "꽃, 개화; 꽃이 피다, 개화하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "fruit",
+        "korean": "열매, 과일; 결과, 성과",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "grass",
+        "korean": "풀, 잔디; 잔디밭",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "weed",
+        "korean": "잡초; ~의 잡초를 뽑다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "seed",
+        "korean": "씨앗, 종자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "sprout",
+        "korean": "새싹; 싹이 나다, 발아하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "bud",
+        "korean": "(식물의) 눈, 봉오리",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "petal",
+        "korean": "꽃잎",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "root",
+        "korean": "뿌리; 뿌리 뽑다 (out)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "stem",
+        "korean": "(식물의) 줄기, 대; 유래하다, 시작되다 (from)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "thorn",
+        "korean": "가시",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "branch",
+        "korean": "나뭇가지; 분점, 지점",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "bough",
+        "korean": "(나무의) 큰 가지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "maple",
+        "korean": "단풍나무",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "bamboo",
+        "korean": "대나무",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "needle",
+        "korean": "(침엽수의) 바늘처럼 뾰족한 잎; 바늘",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "pine tree",
+        "korean": "소나무",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "cherry tree",
+        "korean": "벚나무",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "cactus",
+        "korean": "선인장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "trunk",
+        "korean": "나무의 몸통 부분; 코끼리의 코",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "bark",
+        "korean": "나무껍질; (개가) 짖다 (at)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "fertilizer",
+        "korean": "비료",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "bush",
+        "korean": "관목, 작은 나무들이 우거진 관목 숲",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "palm",
+        "korean": "야자수; 손바닥",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "bulb",
+        "korean": "구근, 알뿌리; 전구",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "poisonous",
+        "korean": "독이 있는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "herb",
+        "korean": "약초, 허브",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "cut off",
+        "korean": "잘라내다; 차단하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "little by little",
+        "korean": "조금씩, 천천히",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "day by day",
+        "korean": "나날이, 서서히",
+        "level": "wm_skill"
+    }
+]

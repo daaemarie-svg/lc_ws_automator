@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "gift",
+        "korean": "선물; 재능, 재주",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "weekend",
+        "korean": "주말",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "birthday",
+        "korean": "생일",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "photo",
+        "korean": "사진",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "special",
+        "korean": "특별한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "prize",
+        "korean": "상, 상품",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "festival",
+        "korean": "축제",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "firework",
+        "korean": "폭죽; (-s) 불꽃놀이",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "wonderful",
+        "korean": "멋진, 훌륭한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "holiday",
+        "korean": "휴가, 휴일",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "fair",
+        "korean": "박람회; 공평한, 공정한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "party",
+        "korean": "파티",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "guest",
+        "korean": "손님, 하객",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "invite",
+        "korean": "초대하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "meeting",
+        "korean": "회의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "present",
+        "korean": "선물",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "volunteer",
+        "korean": "자원봉사자; 자원하는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "interview",
+        "korean": "인터뷰, 면접; 인터뷰하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "be going to-v",
+        "korean": "~할 것이다, ~할 예정이다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "take place",
+        "korean": "(행사가) 열리다",
+        "level": "wm_basic"
+    }
+]

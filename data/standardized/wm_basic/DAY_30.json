@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "swim",
+        "korean": "수영하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "read",
+        "korean": "읽다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "draw",
+        "korean": "그리다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "hobby",
+        "korean": "취미",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "dance",
+        "korean": "춤추다; 춤",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "free",
+        "korean": "자유로운; 무료의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "collect",
+        "korean": "모으다, 수집하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "paint",
+        "korean": "칠하다, 그리다; (-s) 물감",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "game",
+        "korean": "게임, 경기",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "favorite",
+        "korean": "마음에 드는, 가장 좋아하는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "enjoy",
+        "korean": "즐기다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "exercise",
+        "korean": "운동하다, 연습하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "activity",
+        "korean": "활동",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "hiking",
+        "korean": "하이킹, 도보 여행",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "fishing",
+        "korean": "낚시",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "camping",
+        "korean": "캠핑, 야영",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "outdoor",
+        "korean": "옥외[야외]의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "interesting",
+        "korean": "재미있는, 흥미로운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "have fun",
+        "korean": "즐기다, 즐거운 시간을 보내다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "take a picture of",
+        "korean": "~의 사진을 찍다",
+        "level": "wm_basic"
+    }
+]

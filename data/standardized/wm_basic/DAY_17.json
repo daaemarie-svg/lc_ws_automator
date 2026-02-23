@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "pants",
+        "korean": "바지",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "belt",
+        "korean": "벨트, 허리띠",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "shirt",
+        "korean": "셔츠",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "skirt",
+        "korean": "치마",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "socks",
+        "korean": "양말",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "shoes",
+        "korean": "신발",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "hat",
+        "korean": "(테가 있는) 모자",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "cap",
+        "korean": "(앞에 챙이 달린) 모자",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "sweater",
+        "korean": "스웨터",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "jacket",
+        "korean": "재킷, 상의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "gloves",
+        "korean": "장갑",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "pocket",
+        "korean": "주머니",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "clothes",
+        "korean": "옷, 의복",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "wear",
+        "korean": "입다, 쓰다, 신다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "fashion",
+        "korean": "패션",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "design",
+        "korean": "디자인[설계]하다; 디자인, 설계",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "popular",
+        "korean": "인기 있는, 대중적인",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "style",
+        "korean": "스타일; 방식",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "put on",
+        "korean": "~을 입다[신다, 쓰다]",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "take off",
+        "korean": "~을 벗다; (비행기가) 이륙하다",
+        "level": "wm_basic"
+    }
+]

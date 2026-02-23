@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "take",
+        "korean": "받다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "order",
+        "korean": "주문; 주문하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "cook",
+        "korean": "요리사; 요리하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "chef",
+        "korean": "요리사, 주방장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "buffet",
+        "korean": "뷔페 식당, 뷔페식 상차림",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "waiter",
+        "korean": "웨이터",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "dessert",
+        "korean": "디저트, 후식",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "napkin",
+        "korean": "냅킨",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "set",
+        "korean": "놓다; 준비하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "deliver",
+        "korean": "배달하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "wipe",
+        "korean": "닦다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "straw",
+        "korean": "빨대; 지푸라기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "bite",
+        "korean": "한입; 물다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "spill",
+        "korean": "흘리다, 엎지르다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "special",
+        "korean": "특별한 것, 특별 메뉴; 특별한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "rare",
+        "korean": "(고기 등이) 덜 익은; 드문, 희귀한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "calorie",
+        "korean": "칼로리, 열량",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "serve",
+        "korean": "시중들다; 제공하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "tip",
+        "korean": "팁; (물건·신체의) 뾰족한 끝",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "beverage",
+        "korean": "음료",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "refill",
+        "korean": "새 보충물; 다시 채우다, 보충하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "wrap",
+        "korean": "싸다, 포장하다; 포장지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "bill",
+        "korean": "계산서, 청구서",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "total",
+        "korean": "합계, 총액; 전체의, 총계의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "ingredient",
+        "korean": "재료",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "recommend",
+        "korean": "추천하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "appetite",
+        "korean": "식욕",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "be ready to",
+        "korean": "~할 준비가 되다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "wait for",
+        "korean": "~을 기다리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "either A or B",
+        "korean": "A와 B 둘 중 하나",
+        "level": "wm_skill"
+    }
+]

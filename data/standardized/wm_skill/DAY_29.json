@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "lion",
+        "korean": "사자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "rat",
+        "korean": "쥐",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "bat",
+        "korean": "박쥐",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "snake",
+        "korean": "뱀",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "fox",
+        "korean": "여우",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "tiger",
+        "korean": "호랑이",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "whale",
+        "korean": "고래",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "bear",
+        "korean": "곰",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "deer",
+        "korean": "사슴",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "turtle",
+        "korean": "거북",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "kangaroo",
+        "korean": "캥거루",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "giraffe",
+        "korean": "기린",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "zebra",
+        "korean": "얼룩말",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "camel",
+        "korean": "낙타; 낙타색, 황갈색",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "dolphin",
+        "korean": "돌고래",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "shark",
+        "korean": "상어",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "leopard",
+        "korean": "표범",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "frog",
+        "korean": "개구리",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "dinosaur",
+        "korean": "공룡",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "bird cage",
+        "korean": "새장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "fish tank",
+        "korean": "어항",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "octopus",
+        "korean": "문어, 낙지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "jellyfish",
+        "korean": "해파리",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "sea horse",
+        "korean": "해마",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "hippo",
+        "korean": "하마",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "rhino",
+        "korean": "코뿔소",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "crocodile",
+        "korean": "악어",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "lizard",
+        "korean": "도마뱀",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "make friends (with)",
+        "korean": "친구를 사귀다, ~와 친해지다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "on one’s own",
+        "korean": "혼자, 혼자 힘으로",
+        "level": "wm_skill"
+    }
+]

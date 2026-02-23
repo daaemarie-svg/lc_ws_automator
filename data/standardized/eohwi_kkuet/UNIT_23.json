@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "political",
+        "korean": "[형] 정치적인, 정치상의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "policy",
+        "korean": "[명] 정책, 방침",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "permit",
+        "korean": "[동] 1. 허가하다, 허락하다 2. 가능케 하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "approve",
+        "korean": "[동] 1. 찬성하다 2. 승인하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "declare",
+        "korean": "[동] 선언하다, 선포하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "monitor",
+        "korean": "[동] 모니터하다, 감시하다\n[명] 1. 화면, 모니터 2. 감시 장치",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "government",
+        "korean": "[명] 1. 정부, 정권 2. 정치, 통치",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "republic",
+        "korean": "[명] 공화국",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "council",
+        "korean": "[명] 의회",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "committee",
+        "korean": "[명] 위원회",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "status",
+        "korean": "[명] 1. 지위, 신분 2. 상태, 사정",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "rank",
+        "korean": "[명] 1. 지위, 계급 2. 등급\n[동] (순위를) 매기다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "appoint",
+        "korean": "[동] 1. 임명하다, 지명하다 2. (시간·장소를) 정하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "president",
+        "korean": "[명] 1. 대통령 2. 회장, 의장, 사장",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "minister",
+        "korean": "[명] 1. 장관 2. 목사, 성직자",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "mayor",
+        "korean": "[명] 시장(市長) ((시의 행정을 이끌도록 뽑힌 책임자))",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "official",
+        "korean": "[형] 1. 공식적인 2. 공무상의\n[명] 공무원",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "loyal",
+        "korean": "[형] 충성스러운, 충실한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "poll",
+        "korean": "[명] 1. 여론 조사 2. 투표, 투표수",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "vote",
+        "korean": "[동] 투표하다, 선거하다\n[명] 투표",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "candidate",
+        "korean": "[명] 후보자, 지원자",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "campaign",
+        "korean": "[명] 캠페인, (사회적·정치적인) 운동",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "speech",
+        "korean": "[명] 1. 연설, 담화 2. 말, 말투",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "support",
+        "korean": "[동] 1. 지지하다 2. 지원하다 3. (금전적으로) 후원하다\n[명] 1. 지지 2. 지원",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "assist",
+        "korean": "[동] 돕다, 원조하다",
+        "level": "eohwi_kkuet"
+    }
+]

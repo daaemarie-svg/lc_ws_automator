@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "first",
+        "korean": "첫 번째의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "second",
+        "korean": "두 번째의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "third",
+        "korean": "세 번째의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "again",
+        "korean": "한 번 더, 다시",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "before",
+        "korean": "~전에",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "after",
+        "korean": "~후에[뒤에]",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "never",
+        "korean": "절대[결코] ~ 않다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "sometimes",
+        "korean": "때때로, 가끔",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "often",
+        "korean": "자주, 종종",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "usually",
+        "korean": "보통, 대개",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "always",
+        "korean": "항상, 언제나",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "once",
+        "korean": "한 번",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "final",
+        "korean": "마지막의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "last",
+        "korean": "마지막의; 지난",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "next",
+        "korean": "다음의",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "step",
+        "korean": "단계; 걸음",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "repeat",
+        "korean": "반복하다, 되풀이하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "suddenly",
+        "korean": "갑자기",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "all the time",
+        "korean": "항상, 줄곧, 내내",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "from time to time",
+        "korean": "가끔, 때때로",
+        "level": "wm_basic"
+    }
+]

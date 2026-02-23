@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "peace",
+        "korean": "평화",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "war",
+        "korean": "전쟁",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "century",
+        "korean": "세기, 100년",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "age",
+        "korean": "나이; 시대, 시기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "battle",
+        "korean": "싸움, 전투",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "pray",
+        "korean": "기도하다, 기원하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "soul",
+        "korean": "정신, 영혼",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "belief",
+        "korean": "믿음, 신념",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "invade",
+        "korean": "침입하다, 침략하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "attack",
+        "korean": "공격; 공격하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "weapon",
+        "korean": "무기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "empire",
+        "korean": "제국",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "rule",
+        "korean": "지배, 통치; 규칙; 지배하다, 통치하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "religious",
+        "korean": "종교의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "charity",
+        "korean": "자선, 자애",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "faithful",
+        "korean": "신실한, 성실한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "independence",
+        "korean": "독립",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "revolution",
+        "korean": "혁명",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "ancient",
+        "korean": "고대의, 구식의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "Buddhism",
+        "korean": "불교",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "Christianity",
+        "korean": "기독교",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "Hinduism",
+        "korean": "힌두교",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "Islam",
+        "korean": "이슬람교",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "Judaism",
+        "korean": "유대교",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "colony",
+        "korean": "식민지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "civilization",
+        "korean": "문명",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "spiritual",
+        "korean": "정신적인, 영적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "ceremony",
+        "korean": "의식, 예식",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "date back",
+        "korean": "~까지 거슬러 올라가다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "be based on",
+        "korean": "~에 기초하다, 근거하다",
+        "level": "wm_skill"
+    }
+]

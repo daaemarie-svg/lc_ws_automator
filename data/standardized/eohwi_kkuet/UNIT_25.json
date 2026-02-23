@@ -1,0 +1,146 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "nation",
+        "korean": "[명] 1. 국가 2. 국민",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "border",
+        "korean": "[명] 1. 국경, 경계 2. 가장자리, 변두리",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "capital",
+        "korean": "[명] 1. 수도 2. (알파벳) 대문자 3. 자본, 자본금",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "citizen",
+        "korean": "[명] 시민, 국민",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "local",
+        "korean": "[형] 지역의, 현지의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "native",
+        "korean": "[형] 1. 출생지의 2. (어디) 태생의, 토박이의 3. 타고난, 선천적인 4. (언어가) 모국어인\n[명] 1. (~에서) 태어난 사람, 출신자 2. 원주민, 토착민",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "ethnic",
+        "korean": "[형] 민족의, 종족의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "racial",
+        "korean": "[형] 인종의, 민족의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "flag",
+        "korean": "[명] 깃발",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "symbol",
+        "korean": "[명] 1. 상징 2. 기호, 부호",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "global",
+        "korean": "[형] 1. 전 세계의, 지구상의 2. 전체적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "international",
+        "korean": "[형] 국제적인, 국제의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "foreign",
+        "korean": "[형] 외국의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "abroad",
+        "korean": "[부] 외국에, 외국으로",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "overseas",
+        "korean": "[형] 해외의, 외국의\n[부] 해외에, 외국으로",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "union",
+        "korean": "[명] 1. (국가 등의) 연합, 연방 2. (노동)조합",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "population",
+        "korean": "[명] 인구",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "language",
+        "korean": "[명] 언어, 말",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "translate",
+        "korean": "[동] 번역하다, 통역하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "organization",
+        "korean": "[명] 단체, 기구, 조직",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "affair",
+        "korean": "[명] 1. (-s) (공적으로 중요한) 일, 문제 2. 일, 사건",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "aid",
+        "korean": "[명] 도움, 원조, 지원\n[동] 돕다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "various",
+        "korean": "[형] 다양한, 여러 가지의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "aware",
+        "korean": "[형] 의식하고 있는, 깨닫고 있는",
+        "level": "eohwi_kkuet"
+    }
+]

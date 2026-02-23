@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "farm",
+        "korean": "농장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "field",
+        "korean": "밭",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "cowboy",
+        "korean": "카우보이, 목동",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "horse",
+        "korean": "말",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "bull",
+        "korean": "황소",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "chicken",
+        "korean": "닭",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "goat",
+        "korean": "염소",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "pig",
+        "korean": "돼지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "buffalo",
+        "korean": "버팔로, 물소, 들소",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "crop",
+        "korean": "(농)작물; 수확량",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "meadow",
+        "korean": "목초지, 초원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "barn",
+        "korean": "헛간",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "hay",
+        "korean": "건초",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "harvest",
+        "korean": "수확하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "calf",
+        "korean": "송아지",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "cattle",
+        "korean": "소",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "lay",
+        "korean": "알을 낳다; ~을 …에 두다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "cotton",
+        "korean": "면",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "shepherd",
+        "korean": "양치기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "farmhouse",
+        "korean": "농가, 농가에 딸린 집",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "cultivate",
+        "korean": "경작하다, 재배하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "orchard",
+        "korean": "과수원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "shed",
+        "korean": "(작은) 헛간, 오두막; 창고",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "ranch",
+        "korean": "농장, 목축장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "pasture",
+        "korean": "목장; 방목하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "scarecrow",
+        "korean": "허수아비",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "livestock",
+        "korean": "가축류",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "vineyard",
+        "korean": "포도밭, 포도원",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "take care of",
+        "korean": "~을 돌보다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "run away",
+        "korean": "도망치다, 달아나다",
+        "level": "wm_skill"
+    }
+]

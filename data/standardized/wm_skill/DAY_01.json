@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "wise",
+        "korean": "지혜로운, 슬기로운",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "foolish",
+        "korean": "바보 같은, 어리석은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "proud",
+        "korean": "자랑스러워하는; 거만한, 잘난 체하는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "honest",
+        "korean": "정직한, 솔직한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "careful",
+        "korean": "조심성 있는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "brave",
+        "korean": "용감한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "lazy",
+        "korean": "게으른",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "calm",
+        "korean": "차분한, 침착한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "rude",
+        "korean": "무례한, 예의 없는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "active",
+        "korean": "활동적인, 적극적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "character",
+        "korean": "성격, 기질",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "serious",
+        "korean": "진지한, 진심의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "strict",
+        "korean": "엄한, 엄격한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "cruel",
+        "korean": "잔인한, 무자비한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "mean",
+        "korean": "못된, 심술궂은",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "selfish",
+        "korean": "이기적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "evil",
+        "korean": "나쁜, 사악한; 악",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "curious",
+        "korean": "호기심이 많은, 알고 싶어 하는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "cheerful",
+        "korean": "쾌활한, 명랑한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "friendly",
+        "korean": "친한, 친절한; 호의적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "modest",
+        "korean": "겸손한, 신중한; 중도적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "generous",
+        "korean": "관대한, (인심이) 후한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "sensitive",
+        "korean": "민감한, 예민한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "confident",
+        "korean": "자신만만한; 확신하는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "positive",
+        "korean": "긍정적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "negative",
+        "korean": "부정적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "optimistic",
+        "korean": "낙관적인, 낙천적인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "cautious",
+        "korean": "조심스러운, 신중한, 조심하는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "make fun of",
+        "korean": "~을 놀리다, 비웃다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "cheer up",
+        "korean": "기운을 내다, ~을 격려하다",
+        "level": "wm_skill"
+    }
+]

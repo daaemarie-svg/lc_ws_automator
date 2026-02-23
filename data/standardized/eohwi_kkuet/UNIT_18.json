@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "ancient",
+        "korean": "[형] 고대의, 아주 오래된",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "settle",
+        "korean": "[동] 1. 정착하다 2. 해결하다, 합의를 보다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "original",
+        "korean": "[형] 1. 원래의, 본래의 2. 독창적인\n[명] 원본, 원형",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "tradition",
+        "korean": "[명] 전통",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "custom",
+        "korean": "[명] 관습, 풍습",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "liberty",
+        "korean": "[명] 자유",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "treasure",
+        "korean": "[명] 보물, 보배",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "generation",
+        "korean": "[명] 세대",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "kingdom",
+        "korean": "[명] 왕국",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "empire",
+        "korean": "[명] 제국",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "dynasty",
+        "korean": "[명] 왕조",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "royal",
+        "korean": "[형] 왕의, 국왕의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "noble",
+        "korean": "[형] 1. 고결한, 숭고한 2. 귀족의\n[명] 귀족",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "servant",
+        "korean": "[명] 하인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "religion",
+        "korean": "[명] 종교",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "bless",
+        "korean": "[동] (신의) 축복을 빌다, 가호를 빌다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "rely",
+        "korean": "[동] 의지하다, 의존하다 (on)",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "heaven",
+        "korean": "[명] 천국, 천당",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "soul",
+        "korean": "[명] 영혼, 정신",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "pray",
+        "korean": "[동] (신에게) 기도하다, 빌다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "faith",
+        "korean": "[명] 믿음, 신뢰",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "holy",
+        "korean": "[형] 신성한, 성스러운",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "miracle",
+        "korean": "[명] 기적",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "temple",
+        "korean": "[명] 절, 사원, 신전",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "evil",
+        "korean": "[형] 사악한, 악랄한\n[명] 악, 악행",
+        "level": "eohwi_kkuet"
+    }
+]

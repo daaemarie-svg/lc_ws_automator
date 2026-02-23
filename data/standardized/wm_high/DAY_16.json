@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "appreciate",
+        "korean": "감상하다, 평가하다; 감사하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "craft",
+        "korean": "공예(품), 기교, 기술",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "exhibit",
+        "korean": "전시하다, 전시회를 열다; 전시, 전람",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "literature",
+        "korean": "문학",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "version",
+        "korean": "번역, 번역서; 각색, 개작",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "copyright",
+        "korean": "판권, 저작권; 저작권이 있는; 저작권을 취득하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "tone",
+        "korean": "어조; 음색, 음조",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "noble",
+        "korean": "고귀한, 고상한; 귀족의; 귀족",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "conduct",
+        "korean": "지휘하다; 행동하다, 실시하다; 지휘; 행동",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "tune",
+        "korean": "조율하다, (TV·라디오 등의) 프로그램에 맞추다; 곡조, 가락",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "director",
+        "korean": "감독, 연출자, 지도자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "theme",
+        "korean": "주제, 테마",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "chorus",
+        "korean": "합창, 합창곡; 합창단",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "interval",
+        "korean": "(연극·연주 등의) 막간, 휴식 시간; (시간적) 간격",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "rehearse",
+        "korean": "(연극·연설·음악의) 예행연습을 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "compose",
+        "korean": "작곡하다, 작문하다; 구성하다; (마음·태도를) 가라앉히다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "sculpture",
+        "korean": "조각(술); 조각하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "masterpiece",
+        "korean": "걸작, 명작",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "classic",
+        "korean": "(예술품이) 일류의; 고전의; 일류 작가, 일류 작품",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "imitate",
+        "korean": "모방하다; 모조하다, 모사하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "tradition",
+        "korean": "전통, 관례",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "exclaim",
+        "korean": "(감동하여) 외치다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "creature",
+        "korean": "생물, 창조물; 동물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "distinct",
+        "korean": "다른, 별개의; 뚜렷한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "context",
+        "korean": "문맥, 전후 관계; 정황, 주변 상황",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "monologue",
+        "korean": "(극의) 독백",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "tragedy",
+        "korean": "비극 (작품); 재난, 참사",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "line up",
+        "korean": "줄을 서다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "live up to",
+        "korean": "(다른 사람의 기대에) 부응하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "be into",
+        "korean": "~에 푹 빠져 있다, ~에 관심이 많다",
+        "level": "wm_high"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "communicate",
+        "korean": "[동] 의사소통을 하다, 연락을 주고받다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "interact",
+        "korean": "[동] 1. 상호 작용하다 2. 소통하다, 교류하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "mention",
+        "korean": "[동] 말하다, 언급하다 \n[명] 언급, 진술",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "respond",
+        "korean": "[동] 1. 대답하다, 응답하다 2. 반응을 보이다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "react",
+        "korean": "[동] 반응하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "whisper",
+        "korean": "[동] 속삭이다, 귓속말하다 \n[명] 속삭임",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "announce",
+        "korean": "[동] 발표하다, 알리다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "emphasize",
+        "korean": "[동] 강조하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "attention",
+        "korean": "[명] 1. 주의, 주목 2. 관심, 흥미",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "claim",
+        "korean": "[동] 1. (~이 사실이라고) 주장하다 2. (권리·소유 등을) 요구[요청]하다 3. (보상금 등을) 요청하다 \n[명] 1. 주장 2. 청구",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "insist",
+        "korean": "[동] ~을 강력히 주장하다, 고집하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "debate",
+        "korean": "[명] 1. 토론, 논의 2. 논쟁\n[동] 토론하다, 논의하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "beg",
+        "korean": "[동] 1. 간청하다, 애원하다 2. 구걸하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "persuade",
+        "korean": "[동] ~을 하도록 설득하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "convince",
+        "korean": "[동] 1. 납득시키다, 확신시키다 2. 설득하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "refuse",
+        "korean": "[동] 거절하다, 거부하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "blame",
+        "korean": "[동] 탓하다, 비난하다 \n[명] 책임, 탓",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "admit",
+        "korean": "[동] 1. 인정하다, 시인하다 2. 허가하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "ignore",
+        "korean": "[동] ~을 무시하다, 못 본 척하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "avoid",
+        "korean": "[동] 1. (회)피하다 2. 막다, 방지하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "interrupt",
+        "korean": "[동] 1. 방해하다 2. 중단시키다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "warn",
+        "korean": "[동] 경고하다, 주의를 주다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "encourage",
+        "korean": "[동] 1. 격려하다 2. 권장하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "trust",
+        "korean": "[명] 신뢰, 믿음 \n[동] 신뢰하다, 믿다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "pretend",
+        "korean": "[동] ~인 척하다",
+        "level": "eohwi_kkuet"
+    }
+]

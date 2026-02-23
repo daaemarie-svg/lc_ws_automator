@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "academic",
+        "korean": "[형] 학교의, 학업의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "institute",
+        "korean": "[명] 기관, 협회",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "auditorium",
+        "korean": "[명] 1. 강당 2. 객석, 관람석",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "locker",
+        "korean": "[명] 로커, 사물함",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "poster",
+        "korean": "[명] 포스터, 벽보",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "term",
+        "korean": "[명] 1. 학기 2. 용어, 말",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "semester",
+        "korean": "[명] 학기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "course",
+        "korean": "[명] 1. 강의, 과목 2. (일의) 진행, 과정 3. (선박·항공기의) 항로",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "junior",
+        "korean": "[형] 연하의, 하급의\n[명] 1. 손아랫사람 2. 후배, 하급자",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "senior",
+        "korean": "[형] (나이나 계급이) 높은, 상급의\n[명] 1. 연장자, 손윗사람 2. 상급생",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "peer",
+        "korean": "[명] 또래, 동료",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "principal",
+        "korean": "[형] 주요한, 주된 \n[명] 교장, 우두머리",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "detail",
+        "korean": "[명] 세부 사항",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "category",
+        "korean": "[명] 범주, 카테고리",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "chart",
+        "korean": "[명] 1. 도표, 차트 2. 인기 순위표",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "correct",
+        "korean": "[형] 맞는, 정확한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "topic",
+        "korean": "[명] 주제, 화제",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "principle",
+        "korean": "[명] 원칙, 원리",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "theory",
+        "korean": "[명] 이론, 학설",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "concept",
+        "korean": "[명] 개념, 생각",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "reason",
+        "korean": "[명] 이유, 근거",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "saying",
+        "korean": "[명] 속담, 격언",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "spell",
+        "korean": "[동] 철자를 말하다[쓰다]\n[명] 주문, 마법",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "presentation",
+        "korean": "[명] 1. 발표, 프레젠테이션 2. 증정",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "erase",
+        "korean": "[동] 지우다, 없애다",
+        "level": "eohwi_kkuet"
+    }
+]

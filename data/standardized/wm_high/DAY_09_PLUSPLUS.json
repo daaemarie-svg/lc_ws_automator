@@ -1,0 +1,434 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "manufacture",
+        "korean": "(대량으로 상품을) 제조[생산]하다; (이야기 등을) 지어내다; (상품의 대량) 제조[생산]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "manufacturer",
+        "korean": "제조자[사], 생산 회사",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "manage",
+        "korean": "경영[관리]하다, 운영하다; 그럭저럭 해내다(to)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "management",
+        "korean": "경영, 운영",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "operate",
+        "korean": "관리하다, 운영하다; 움직이다, 작동하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "operation",
+        "korean": "작동, 작용",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "expert",
+        "korean": "전문가, 숙련가, 달인; 숙련된, 노련한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "specialist",
+        "korean": "전문가, 숙련가, 달인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "expertise",
+        "korean": "전문적 기술[지식]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "senior",
+        "korean": "선임의, 선배의, 손위의; 선임자, 선배, 연장자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "junior",
+        "korean": "손아래의, 하위의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "subordinate",
+        "korean": "손아래의, 하위의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "psychologist",
+        "korean": "심리학자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "psychology",
+        "korean": "심리학",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "personnel",
+        "korean": "전 직원, 인원; 인사과; 직원의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "staff",
+        "korean": "전 직원, 인원",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "barber",
+        "korean": "이발사",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "counselor",
+        "korean": "지도 교사, 카운슬러; 상담역, 조언자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "counsel",
+        "korean": "(전문가에 의한) 조언[충고]; 상담을 하다, 조언[충고]하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "reward",
+        "korean": "보상, 보수; 보답하다, 보수를 주다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "penalty",
+        "korean": "벌, 벌금",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "wage",
+        "korean": "임금, 급료; 임금의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "pay",
+        "korean": "임금, 급료",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "shift",
+        "korean": "교체, 교대, 교대조; 바꾸다, 이동시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "night shift",
+        "korean": "야간 근무, 야간 교대(조)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "retire",
+        "korean": "퇴직하다, 은퇴하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "retirement",
+        "korean": "퇴직",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "supervise",
+        "korean": "감독하다, 관리하다, 지휘하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "keep an eye on",
+        "korean": "감독하다, 관리하다, 지휘하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "supervisor",
+        "korean": "관리자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "supervision",
+        "korean": "감독, 관리",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "accomplish",
+        "korean": "달성하다, 이루다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "achieve",
+        "korean": "달성하다, 이루다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "accomplishment",
+        "korean": "완성, 성취",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "architect",
+        "korean": "건축가, 설계자; 설계하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "designer",
+        "korean": "건축가, 설계자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "architecture",
+        "korean": "건축, 건축학",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "secretary",
+        "korean": "비서; 장관",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "experienced",
+        "korean": "경험이 있는, 숙달한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "skilled",
+        "korean": "경험이 있는, 숙달한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "inexperienced",
+        "korean": "미숙한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "experience",
+        "korean": "경험, 경험하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "vend",
+        "korean": "행상하다, 팔다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "vendor",
+        "korean": "행상인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "vending machine",
+        "korean": "자동판매기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "requirement",
+        "korean": "필요조건, 자격; 필요한 것",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "require",
+        "korean": "필요하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "superior",
+        "korean": "상사, 윗사람; 우수한, 상위의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "inferior",
+        "korean": "열등한, 하위의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "superiority",
+        "korean": "우위, 우월",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "immediate superior",
+        "korean": "직속상관",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "career",
+        "korean": "경력, 이력; (전문성이 있는) 직업",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "profession",
+        "korean": "직업, 전문직",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "occupation",
+        "korean": "직업, 전문직",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "professional",
+        "korean": "전문적인; 전문가, 직업 선수",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "application",
+        "korean": "신청서, 원서, 응모",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "apply",
+        "korean": "지원하다, 신청하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "job application",
+        "korean": "입사 지원서",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "salary",
+        "korean": "봉급, 급여",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "income",
+        "korean": "봉급, 급여",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "annual salary",
+        "korean": "연봉",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "labor",
+        "korean": "노동, 일, 업무",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "labor force",
+        "korean": "노동력",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "proficient",
+        "korean": "익숙한, 능숙한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "proficiency",
+        "korean": "능숙(도)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-066",
+        "word": "prompt",
+        "korean": "신속한; 시간을 엄수하는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-067",
+        "word": "quick",
+        "korean": "신속한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-068",
+        "word": "promptly",
+        "korean": "즉시, 제시간에",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-069",
+        "word": "insist on",
+        "korean": "~을 주장하다, ~을 (강력히) 고집[요구]하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-070",
+        "word": "turn down",
+        "korean": "거절하다, 거부하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-071",
+        "word": "refuse",
+        "korean": "거절하다, 거부하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-072",
+        "word": "reject",
+        "korean": "거절하다, 거부하다",
+        "level": "wm_high"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "visit",
+        "korean": "방문하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "zoo",
+        "korean": "동물원",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "bank",
+        "korean": "은행",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "park",
+        "korean": "공원",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "airport",
+        "korean": "공항",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "place",
+        "korean": "장소",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "town",
+        "korean": "(소)도시, 마을",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "village",
+        "korean": "마을, 부락",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "city",
+        "korean": "도시",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "bookstore",
+        "korean": "서점",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "market",
+        "korean": "시장",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "square",
+        "korean": "광장; 정사각형",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "theater",
+        "korean": "극장",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "bakery",
+        "korean": "빵집, 제과점",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "space",
+        "korean": "공간; 우주",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "station",
+        "korean": "역, 정류장",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "museum",
+        "korean": "박물관, 미술관",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "gallery",
+        "korean": "미술관, 화랑",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "line up",
+        "korean": "줄을 서다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "stop by",
+        "korean": "~에 잠시 들르다",
+        "level": "wm_basic"
+    }
+]

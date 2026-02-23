@@ -1,0 +1,410 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "gap",
+        "korean": "차이; 틈",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "difference",
+        "korean": "차이",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "generation gap",
+        "korean": "세대 차이",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "population",
+        "korean": "인구",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "populate",
+        "korean": "살다, 거주하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "crash",
+        "korean": "충돌, (차·비행기의) 사고; 충돌하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "collide",
+        "korean": "충돌하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "majority",
+        "korean": "(집단 내의) 가장 많은 수[대다수]",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "minority",
+        "korean": "소수",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "temptation",
+        "korean": "유혹",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "tempt",
+        "korean": "유혹하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "confuse",
+        "korean": "혼란시키다, 혼동하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "confusion",
+        "korean": "혼란",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "aspect",
+        "korean": "면, 양상; 외모",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "in all aspects",
+        "korean": "모든 면에서",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "violent",
+        "korean": "폭력적인, 강렬한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "violence",
+        "korean": "폭력",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "obstacle",
+        "korean": "장애, 장애물, 난관",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "barrier",
+        "korean": "장애, 장애물, 난관",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "overcome an obstacle",
+        "korean": "장애를 극복하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "isolate",
+        "korean": "고립시키다, 격리시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "segregate",
+        "korean": "고립시키다, 격리시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "separate",
+        "korean": "고립시키다, 격리시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "isolation",
+        "korean": "고립, 격리",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "be isolated from",
+        "korean": "~로부터 고립되다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "collide",
+        "korean": "충돌하다; (의견 등이) 일치하지 않다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "crash",
+        "korean": "충돌하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "collision",
+        "korean": "충돌",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "negative",
+        "korean": "부정의; 소극적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "positive",
+        "korean": "긍정의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "in the negative",
+        "korean": "부정적으로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "abnormal",
+        "korean": "비정상적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "unusual",
+        "korean": "비정상적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "normal",
+        "korean": "정상적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "abnormally",
+        "korean": "비정상적으로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "unite",
+        "korean": "통합하다, 단결하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "separate",
+        "korean": "분리하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "unify",
+        "korean": "통합",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "poverty",
+        "korean": "가난, 빈곤",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "wealth",
+        "korean": "부",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "abuse",
+        "korean": "남용, 오용; 학대; (지위·특권을) 남용하다; 학대하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "child abuse",
+        "korean": "어린이 학대",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "distress",
+        "korean": "고통, 고충; 빈곤; 슬프게 하다, 고민하게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "divorce",
+        "korean": "이혼; 이혼하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "arise",
+        "korean": "일어나다, 나타나다; ~에 기인하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "rise up",
+        "korean": "일어나다, 나타나다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "degenerate",
+        "korean": "퇴보하다, 타락하다; 퇴화한, 타락한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "incident",
+        "korean": "사건, 사고",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "event",
+        "korean": "사건, 사고",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "without incident",
+        "korean": "무사히",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "defect",
+        "korean": "결점, 단점; 부족, 결핍",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "lack",
+        "korean": "부족, 결핍",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "defective",
+        "korean": "결함이 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "in defect",
+        "korean": "결핍하여",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "manipulate",
+        "korean": "조종하다, 조작하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "control",
+        "korean": "조종하다, 조작하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "mislead",
+        "korean": "잘못 인도하다, 속이다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "alcohol",
+        "korean": "술, 알코올",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "addict",
+        "korean": "중독자; (나쁜 버릇에) 빠지게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "addiction",
+        "korean": "중독, 탐닉",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "addictive",
+        "korean": "중독성의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "be addicted to",
+        "korean": "~에 중독되다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "premature",
+        "korean": "시기상조의, 조급한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "premature birth",
+        "korean": "조산",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "abandon",
+        "korean": "버리다, 포기하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-066",
+        "word": "give up",
+        "korean": "버리다, 포기하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-067",
+        "word": "do away with",
+        "korean": "~을 없애다, 끝내다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-068",
+        "word": "keep away (from)",
+        "korean": "(~을) 멀리하다, 피하다",
+        "level": "wm_high"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "cough",
+        "korean": "기침; 기침하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "fever",
+        "korean": "열, 발열",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "sore",
+        "korean": "아픈, 쑤시는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "cut",
+        "korean": "베인 상처; 상처를 내다, ~을 베다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "pain",
+        "korean": "고통",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "medicine",
+        "korean": "약",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "virus",
+        "korean": "바이러스",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "ache",
+        "korean": "통증, 아픔; 통증이 있다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "dizzy",
+        "korean": "어지러운",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "disease",
+        "korean": "병, 질병",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "cancer",
+        "korean": "암",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "blind",
+        "korean": "눈이 먼, 시각 장애의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "deaf",
+        "korean": "귀가 먹은, 청각 장애가 있는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "patient",
+        "korean": "환자; 끈기 있는, 참을성 있는",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "cure",
+        "korean": "치료법; 치료하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "relax",
+        "korean": "쉬게 하다, 편히 쉬다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "burn",
+        "korean": "화상; 화상을 입다[입히다], (햇볕에) 타다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "symptom",
+        "korean": "증상",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "wound",
+        "korean": "상처; 상처를 내다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "vomit",
+        "korean": "토하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "sneeze",
+        "korean": "재채기하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "bruise",
+        "korean": "멍, 타박상",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "examine",
+        "korean": "진찰하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "recover",
+        "korean": "회복하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "prevent",
+        "korean": "예방하다, 막다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "medical",
+        "korean": "의학의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "operate",
+        "korean": "수술하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "emergency",
+        "korean": "비상사태, 응급",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "catch a cold",
+        "korean": "감기에 걸리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "see a doctor",
+        "korean": "의사의 진찰을 받다, 병원에 가다",
+        "level": "wm_skill"
+    }
+]

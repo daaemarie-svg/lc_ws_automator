@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "iron",
+        "korean": "다리미; 철; 다림질하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "lift",
+        "korean": "올리다, 들어올리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "wash",
+        "korean": "세탁물; 씻다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "mop",
+        "korean": "대걸레; 대걸레로 닦다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "daily",
+        "korean": "매일의, 나날의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "hang",
+        "korean": "걸다, 매달리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "hammer",
+        "korean": "망치",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "switch",
+        "korean": "스위치",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "dust",
+        "korean": "먼지, 티끌; 먼지를 털다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "ladder",
+        "korean": "사다리",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "carry",
+        "korean": "나르다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "tool",
+        "korean": "도구, 연장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "drill",
+        "korean": "송곳; 구멍을 뚫다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "saw",
+        "korean": "톱; 톱질하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "bucket",
+        "korean": "물통, 양동이",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "housework",
+        "korean": "가사, 집안일",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "dig",
+        "korean": "파다, 파헤치다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "sweep",
+        "korean": "청소하다, 쓸다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "fold",
+        "korean": "개다, 접다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "rake",
+        "korean": "갈퀴; 긁어모으다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "trim",
+        "korean": "깎아 다듬다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "polish",
+        "korean": "닦다, 윤을 내다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "screw",
+        "korean": "나사; 나사로 죄다, 비틀다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "broom",
+        "korean": "빗자루",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "shovel",
+        "korean": "삽",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "wrench",
+        "korean": "렌치(너트를 죄는 기구)",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "flashlight",
+        "korean": "손전등",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "outlet",
+        "korean": "(전기) 콘센트; 출구, 배출구",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "set up",
+        "korean": "세우다, 설치[설립]하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "clean up",
+        "korean": "치우다, 청소하다",
+        "level": "wm_skill"
+    }
+]

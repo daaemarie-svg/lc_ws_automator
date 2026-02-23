@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "eat",
+        "korean": "먹다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "drink",
+        "korean": "마시다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "knife",
+        "korean": "칼",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "cup",
+        "korean": "컵, 잔",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "dish",
+        "korean": "접시; 요리",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "juice",
+        "korean": "주스, 즙",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "soup",
+        "korean": "수프, 국",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "salad",
+        "korean": "샐러드",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "seafood",
+        "korean": "해산물",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "menu",
+        "korean": "메뉴, 식단표",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "hungry",
+        "korean": "배고픈",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "thirsty",
+        "korean": "목이 마른",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "open",
+        "korean": "열다; 열린",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "order",
+        "korean": "주문하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "chef",
+        "korean": "요리사, 주방장",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "serve",
+        "korean": "(음식을) 제공하다, 차려 내다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "dessert",
+        "korean": "디저트, 후식",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "restaurant",
+        "korean": "식당, 레스토랑",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "eat out",
+        "korean": "외식하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "wait for",
+        "korean": "~을 기다리다",
+        "level": "wm_basic"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "homework",
+        "korean": "숙제, 과제",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "lesson",
+        "korean": "수업; (교재의) 과; 교훈",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "study",
+        "korean": "공부하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "difficult",
+        "korean": "어려운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "classroom",
+        "korean": "교실",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "review",
+        "korean": "재검토하다, 복습하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "write",
+        "korean": "쓰다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "solve",
+        "korean": "해결하다, 풀다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "correct",
+        "korean": "옳은, 맞는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "wrong",
+        "korean": "틀린, 잘못된",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "diary",
+        "korean": "일기",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "report",
+        "korean": "보고서; 보고하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "fail",
+        "korean": "실패하다; (시험에) 떨어지다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "note(-s)",
+        "korean": "필기; 쪽지",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "speech",
+        "korean": "연설",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "finish",
+        "korean": "끝내다, 끝나다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "mistake",
+        "korean": "실수, 잘못",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "absent",
+        "korean": "결석한, (자리에) 없는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "take a break",
+        "korean": "휴식을 취하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "get up",
+        "korean": "일어나다",
+        "level": "wm_basic"
+    }
+]

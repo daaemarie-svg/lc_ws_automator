@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "feature",
+        "korean": "[명] 1. 특징, 특색 2. 얼굴 생김새, 이목구비 3. 특집 (기사)\n[동] (잡지 등에) 특집으로 싣다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "depth",
+        "korean": "[명] 깊이",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "length",
+        "korean": "[명] 1. 길이 2. 기간",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "typical",
+        "korean": "[형] 전형적인, 대표적인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "particular",
+        "korean": "[형] 1. 특정한 2. 특별한 ",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "pile",
+        "korean": "[동] 쌓다, 포개다\n[명] 더미, 무더기",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "bundle",
+        "korean": "[명] 꾸러미, 묶음",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "broad",
+        "korean": "[형] 넓은",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "tight",
+        "korean": "[형] 1. (옷 등이) 꽉 끼는 2. 단단한 \n[부] 단단히, 꽉",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "loose",
+        "korean": "[형] 느슨한, 헐거운",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "smooth",
+        "korean": "[형] (표면이) 매끄러운",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "rough",
+        "korean": "[형] 1. 매끈하지 않은, 거친 2. 대강의, 대충의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "surface",
+        "korean": "[명] 겉, 표면",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "thick",
+        "korean": "[형] 두꺼운, 굵은",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "neat",
+        "korean": "[형] 단정한, 정돈된",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "complex",
+        "korean": "[형] 복잡한\n[명] 복합 건물, 단지",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "brief",
+        "korean": "[형] 1. 간결한 2. 잠깐의",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "fancy",
+        "korean": "[형] 1. 고급의, 일류의 2. 화려한, 장식이 많은\n[명] 공상",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "rapid",
+        "korean": "[형] 빠른, 신속한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "faint",
+        "korean": "[형] 1. 희미한, 어렴풋한 2. 현기증이 나는\n[동] 기절하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "enormous",
+        "korean": "[형] 거대한, 막대한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "mild",
+        "korean": "[형] 1. 가벼운, 순한 2. (날씨가) 온화한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "pure",
+        "korean": "[형] 1. 순수한 2. 깨끗한, 맑은 3. 완전한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "separate",
+        "korean": "[형] 분리된, 별개의\n[동] 분리하다, 나누다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "tough",
+        "korean": "[형] 1. 힘든, 어려운 2. 강인한, 굳센",
+        "level": "eohwi_kkuet"
+    }
+]

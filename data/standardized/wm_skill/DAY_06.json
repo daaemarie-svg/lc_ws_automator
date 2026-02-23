@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "butter",
+        "korean": "버터",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "bread",
+        "korean": "빵",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "jam",
+        "korean": "잼",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "meat",
+        "korean": "고기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "sugar",
+        "korean": "설탕",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "salt",
+        "korean": "소금",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "soup",
+        "korean": "수프",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "fish",
+        "korean": "생선",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "grab",
+        "korean": "간단히 먹다; 잡다, 붙들다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "beef",
+        "korean": "소고기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "steak",
+        "korean": "스테이크",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "pork",
+        "korean": "돼지고기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "pepper",
+        "korean": "후추; 고추",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "diet",
+        "korean": "다이어트, 식이요법",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "snack",
+        "korean": "간식",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "egg",
+        "korean": "달걀",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "rice",
+        "korean": "밥",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "flour",
+        "korean": "밀가루",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "honey",
+        "korean": "꿀",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "mustard",
+        "korean": "겨자",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "noodle",
+        "korean": "국수",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "pickle",
+        "korean": "(오이 등을) 절인 것, 피클; 절이다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "stew",
+        "korean": "스튜, 찌개",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "cereal",
+        "korean": "곡물 식품, 시리얼; 곡물의",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "meal",
+        "korean": "식사",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "side dish",
+        "korean": "반찬, 주된 요리에 곁들이는 요리",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "appetizer",
+        "korean": "애피타이저, 식욕을 돋우는 것",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "powder",
+        "korean": "가루",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "set the table",
+        "korean": "식탁[밥상]을 차리다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "eat out",
+        "korean": "외식하다",
+        "level": "wm_skill"
+    }
+]

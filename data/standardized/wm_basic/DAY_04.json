@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "body",
+        "korean": "몸, 신체",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "ear",
+        "korean": "귀",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "eye",
+        "korean": "눈",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "nose",
+        "korean": "코",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "mouth",
+        "korean": "입",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "skin",
+        "korean": "피부",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "tooth",
+        "korean": "이, 치아",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "tongue",
+        "korean": "혀",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "head",
+        "korean": "머리",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "hair",
+        "korean": "머리카락, 털",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "arm",
+        "korean": "팔",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "shoulder",
+        "korean": "어깨",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "hand",
+        "korean": "손",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "finger",
+        "korean": "손가락",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "leg",
+        "korean": "다리",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "knee",
+        "korean": "무릎",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "foot",
+        "korean": "발",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "toe",
+        "korean": "발가락",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "grow up",
+        "korean": "성장하다, 자라다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "watch out",
+        "korean": "조심하다",
+        "level": "wm_basic"
+    }
+]

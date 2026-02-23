@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "festival",
+        "korean": "축제",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-002",
+        "word": "Valentine",
+        "korean": "밸런타인",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-003",
+        "word": "blow",
+        "korean": "불다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-004",
+        "word": "Christmas",
+        "korean": "크리스마스",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-005",
+        "word": "candy",
+        "korean": "사탕",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-006",
+        "word": "year",
+        "korean": "해, 년",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-007",
+        "word": "wish",
+        "korean": "소원; 기원하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-008",
+        "word": "mask",
+        "korean": "가면",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-009",
+        "word": "celebrate",
+        "korean": "기념하다, 축하하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-010",
+        "word": "gather",
+        "korean": "(사람들이) 모이다, 모으다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-011",
+        "word": "honeymoon",
+        "korean": "신혼여행",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-012",
+        "word": "Easter",
+        "korean": "부활절",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-013",
+        "word": "hide",
+        "korean": "숨기다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-014",
+        "word": "invitation",
+        "korean": "초대; 초대장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-015",
+        "word": "Eve",
+        "korean": "전날 밤, 이브",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-016",
+        "word": "decorate",
+        "korean": "장식하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-017",
+        "word": "witch",
+        "korean": "마녀",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-018",
+        "word": "trick",
+        "korean": "속이다; 속임수",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-019",
+        "word": "costume",
+        "korean": "복장, 의상; 분장, 변장",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-020",
+        "word": "turkey",
+        "korean": "칠면조, 칠면조 고기",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-021",
+        "word": "anniversary",
+        "korean": "기념일",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-022",
+        "word": "congratulate",
+        "korean": "축하하다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-023",
+        "word": "Thanksgiving",
+        "korean": "추수 감사절",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-024",
+        "word": "Halloween",
+        "korean": "핼러윈",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-025",
+        "word": "reindeer",
+        "korean": "순록",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-026",
+        "word": "lantern",
+        "korean": "랜턴",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-027",
+        "word": "stuff",
+        "korean": "(속을) 채우다; 것, 물건",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-028",
+        "word": "crowded",
+        "korean": "붐비는, 혼잡한",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-029",
+        "word": "take place",
+        "korean": "(회의, 행사 등이) 열리다, 개최되다",
+        "level": "wm_skill"
+    },
+    {
+        "id": "WM_-030",
+        "word": "be similar to",
+        "korean": "~와 비슷하다, 유사하다",
+        "level": "wm_skill"
+    }
+]

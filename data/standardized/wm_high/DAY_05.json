@@ -1,0 +1,182 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "uniform",
+        "korean": "유니폼, 제복; 일정한, 균등한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "costume",
+        "korean": "의상, 복장; 분장",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "collar",
+        "korean": "깃, 칼라",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "thread",
+        "korean": "실; 실을 꿰다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "length",
+        "korean": "길이, 기간",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "casual",
+        "korean": "격식을 차리지 않은, 평상복의; 우연의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "fashion",
+        "korean": "유행, 인기; 패션",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "loose",
+        "korean": "헐거운, 느슨한; 풀린, 벗겨진",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "stripe",
+        "korean": "줄무늬",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "comfort",
+        "korean": "편안함; 위로, 위안; 편하게 하다; 위로하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "fade",
+        "korean": "(색이) 바래다, (색을) 바래게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "fold",
+        "korean": "(종이·천 등을) 접다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "plain",
+        "korean": "(의복 등이) 수수한; 무늬가 없는; 명백한, 분명한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "premium",
+        "korean": "고가의, 고급의; 할증금, 포상금",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "formal",
+        "korean": "공식적인, 격식을 차린",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "fancy",
+        "korean": "화려한, 장식적인; 값비싼",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "outfit",
+        "korean": "(특별한 날 입는) 옷, 의상 한 벌",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "sew",
+        "korean": "바느질하다, (바느질로) 만들다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "alter",
+        "korean": "변경하다, (옷을) 고쳐 만들다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "trousers",
+        "korean": "바지",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "suit",
+        "korean": "정장; 어울리다, 잘 맞다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "vest",
+        "korean": "조끼",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "fabric",
+        "korean": "천, 직물; 직물의 짜임새",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "cotton",
+        "korean": "솜, 면화; 면직물, 무명실",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "fur",
+        "korean": "모피",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "laundry",
+        "korean": "세탁물; 세탁소",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "detergent",
+        "korean": "세탁 세제, 세정제",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "dress up",
+        "korean": "옷을 갖춰[격식을 차려] 입다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "wear out",
+        "korean": "많이 써서 낡게 하다, 닳다; 지치게 하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "show off",
+        "korean": "~을 과시하다",
+        "level": "wm_high"
+    }
+]

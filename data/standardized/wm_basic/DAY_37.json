@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "warm",
+        "korean": "따뜻한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "cold",
+        "korean": "추운, 차가운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "cool",
+        "korean": "시원한; 멋진",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "hot",
+        "korean": "더운, 뜨거운",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "rain",
+        "korean": "비가 오다; 비",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "snow",
+        "korean": "눈이 오다; 눈",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "clear",
+        "korean": "(날씨가) 맑은",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "sunny",
+        "korean": "화창한",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "windy",
+        "korean": "바람이 많이 부는",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "cloudy",
+        "korean": "흐린, 구름 낀",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "spring",
+        "korean": "봄",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "summer",
+        "korean": "여름",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "fall",
+        "korean": "가을; 떨어지다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "winter",
+        "korean": "겨울",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "season",
+        "korean": "계절; 시기, 철",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "blow",
+        "korean": "(바람이) 불다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "weather",
+        "korean": "날씨, 기상",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "forecast",
+        "korean": "예측, 예보; 예측하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "at first",
+        "korean": "처음에",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "all day (long)",
+        "korean": "하루 종일",
+        "level": "wm_basic"
+    }
+]

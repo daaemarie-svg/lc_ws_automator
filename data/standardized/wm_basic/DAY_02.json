@@ -1,0 +1,122 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "family",
+        "korean": "가족",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-002",
+        "word": "father",
+        "korean": "아버지",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-003",
+        "word": "mother",
+        "korean": "어머니",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-004",
+        "word": "son",
+        "korean": "아들",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-005",
+        "word": "daughter",
+        "korean": "딸",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-006",
+        "word": "brother",
+        "korean": "형, 오빠, 남동생",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-007",
+        "word": "sister",
+        "korean": "언니, 누나, 여동생",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-008",
+        "word": "marry",
+        "korean": "결혼하다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-009",
+        "word": "husband",
+        "korean": "남편",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-010",
+        "word": "wife",
+        "korean": "아내, 부인",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-011",
+        "word": "parent(-s)",
+        "korean": "부모",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-012",
+        "word": "uncle",
+        "korean": "삼촌",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-013",
+        "word": "aunt",
+        "korean": "고모, 이모, 숙모",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-014",
+        "word": "grandparent(-s)",
+        "korean": "조부모",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-015",
+        "word": "cousin",
+        "korean": "사촌",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-016",
+        "word": "member",
+        "korean": "구성원, 일원",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-017",
+        "word": "pet",
+        "korean": "반려동물",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-018",
+        "word": "relative",
+        "korean": "친척",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-019",
+        "word": "be born",
+        "korean": "태어나다",
+        "level": "wm_basic"
+    },
+    {
+        "id": "WM_-020",
+        "word": "take care of",
+        "korean": "~을 돌보다",
+        "level": "wm_basic"
+    }
+]

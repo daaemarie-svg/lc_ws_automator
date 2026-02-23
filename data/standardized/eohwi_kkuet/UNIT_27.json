@@ -1,0 +1,152 @@
+[
+    {
+        "id": "EOH-001",
+        "word": "sell",
+        "korean": "[동] 팔다, 판매하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-002",
+        "word": "purchase",
+        "korean": "[동] 사다, 구입하다\n[명] 구입(품)",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-003",
+        "word": "charge",
+        "korean": "[동] 1. (요금을) 청구하다 2. 고소하다 3. (임무를) 맡기다\n[명] 1. 요금 2. 비난, 고발 3. 책임, 담당",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-004",
+        "word": "spend",
+        "korean": "[동] (돈·시간을) 쓰다, 소비하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-005",
+        "word": "pay",
+        "korean": "[동] 지불하다, 내다\n[명] 급료, 보수",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-006",
+        "word": "afford",
+        "korean": "[동] ~할 여유가 있다, ~할 형편이 되다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-007",
+        "word": "worth",
+        "korean": "[형] ~할 가치가 있는\n[명] 가치, 값어치",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-008",
+        "word": "priceless",
+        "korean": "[형] 값을 매길 수 없는, 귀중한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-009",
+        "word": "own",
+        "korean": "[형] 자기 소유의, 자기 자신의\n[동] 소유하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-010",
+        "word": "consumer",
+        "korean": "[명] 소비자",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-011",
+        "word": "customer",
+        "korean": "[명] 손님, 고객",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-012",
+        "word": "client",
+        "korean": "[명] 의뢰인, 손님, 고객",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-013",
+        "word": "cost",
+        "korean": "[명] 1. 값, 비용 2. 노력, 희생, 손실 \n[동] 1. (비용·대가가) 들다 2. 희생시키다, 대가를 치르게 하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-014",
+        "word": "allowance",
+        "korean": "[명] 1. 용돈 2. 허용량",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-015",
+        "word": "reasonable",
+        "korean": "[형] 1. 합리적인 2. (가격이) 적정한",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-016",
+        "word": "produce",
+        "korean": "[동] 생산하다, 제조하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-017",
+        "word": "option",
+        "korean": "[명] 선택할 수 있는 것, 옵션, 선택권",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-018",
+        "word": "discount",
+        "korean": "[동] 할인하다\n[명] 할인",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-019",
+        "word": "lower",
+        "korean": "[동] 낮추다, 내리다\n[형] 더 낮은",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-020",
+        "word": "guarantee",
+        "korean": "[동] 1. 품질을 보증하다 2. 보장하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-021",
+        "word": "quality",
+        "korean": "[명] 1. 질(質), 품질 2. 양질, 고급 3. 특성, 자질",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-022",
+        "word": "package",
+        "korean": "[명] 1. 소포, 꾸러미 2. 포장용 상자, 포장물",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-023",
+        "word": "deliver",
+        "korean": "[동] 1. 배달하다 2. (연설·강연을) 하다",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-024",
+        "word": "exchange",
+        "korean": "[동] 1. 교환하다 2. 환전하다\n[명] 1. 교환, 주고받기 2. 환전",
+        "level": "eohwi_kkuet"
+    },
+    {
+        "id": "EOH-025",
+        "word": "refund",
+        "korean": "[명] 환불\n[동] 환불하다",
+        "level": "eohwi_kkuet"
+    }
+]

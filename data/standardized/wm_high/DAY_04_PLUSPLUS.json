@@ -1,0 +1,422 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "fiber",
+        "korean": "섬유, 섬유질",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "dietary fiber",
+        "korean": "식이 섬유",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "contain",
+        "korean": "담고 있다, 포함하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "container",
+        "korean": "용기, 그릇",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "instant",
+        "korean": "즉석요리의, 인스턴트의; 즉각적인; 순간",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "immediate",
+        "korean": "즉각적인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "moment",
+        "korean": "순간",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "instantly",
+        "korean": "즉시",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "in an instant",
+        "korean": "즉시, 눈 깜짝할 사이에",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "peel",
+        "korean": "(과일·채소 등의) 껍질을 벗기다; 벗겨지다; 과일 껍질",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "nourish",
+        "korean": "영양분을 공급하다, (사람·생물을) 기르다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "feed",
+        "korean": "영양분을 공급하다, (사람·생물을) 기르다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "nourishment",
+        "korean": "영양분, 음식물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "chop",
+        "korean": "자르다, 썰다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "cut",
+        "korean": "자르다, 썰다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "grind",
+        "korean": "잘게 갈다[빻다], 가루로 만들다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "mill",
+        "korean": "잘게 갈다[빻다], 가루로 만들다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "roast",
+        "korean": "굽다, 볶다; 구운",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "rotten",
+        "korean": "썩은, 부패한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "decayed",
+        "korean": "썩은, 부패한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "fresh",
+        "korean": "신선한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "rot",
+        "korean": "썩다, 부패하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "cuisine",
+        "korean": "요리",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "cooking",
+        "korean": "요리",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "French cuisine",
+        "korean": "프랑스 요리",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "cooked",
+        "korean": "조리된",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "raw",
+        "korean": "날것의; 가공하지 않은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "unrefined",
+        "korean": "가공하지 않은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "natural",
+        "korean": "가공하지 않은",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "raw material",
+        "korean": "원료, 원자재",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "grill",
+        "korean": "석쇠; 석쇠에 굽다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "broil",
+        "korean": "석쇠에 굽다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "outdoor grill",
+        "korean": "야외용 석쇠",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "edible",
+        "korean": "먹을 수 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "eatable",
+        "korean": "먹을 수 있는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "inedible",
+        "korean": "먹을 수 없는",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "nutrition",
+        "korean": "영양, 영양물 섭취",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "malnutrition",
+        "korean": "영양실조, 영양 결핍",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "nutritional",
+        "korean": "영양상의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "vegetarian",
+        "korean": "채식주의자; 채식주의(자)의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "vegetarianism",
+        "korean": "채식주의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "vegetarian diet",
+        "korean": "채식주의 식단",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "dairy",
+        "korean": "우유의, 유제품의; 유제품 판매점",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "kettle",
+        "korean": "주전자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "tray",
+        "korean": "쟁반",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "serving tray",
+        "korean": "음식을 낼 때 쓰는 쟁반",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "seasoning",
+        "korean": "조미료, 양념",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "spice",
+        "korean": "조미료, 양념",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "flavor",
+        "korean": "(재료 특유의) 맛과 향; 풍미를 더하다(with)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "savor",
+        "korean": "(재료 특유의) 맛과 향",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "give flavor to",
+        "korean": "~에 맛을 더하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "scent",
+        "korean": "향기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "smell",
+        "korean": "향기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "fragrance",
+        "korean": "향기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "leftover",
+        "korean": "남은; 남은 음식",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "swallow",
+        "korean": "삼키다; 삼키기",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "beverage",
+        "korean": "음료",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "drink",
+        "korean": "음료",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "squeeze",
+        "korean": "짜다, 압착하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "ripen",
+        "korean": "익다; 익히다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "ripe",
+        "korean": "익은, 숙성된",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "paste",
+        "korean": "반죽; 풀; 붙이다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "glue",
+        "korean": "붙이다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "blend",
+        "korean": "섞다; 조화되다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "mix",
+        "korean": "섞다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-066",
+        "word": "go well with",
+        "korean": "조화되다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-067",
+        "word": "match",
+        "korean": "조화되다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-068",
+        "word": "go off",
+        "korean": "(음식 등이) 상하다, 부패하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-069",
+        "word": "decay, spoil",
+        "korean": "(음식 등이) 상하다, 부패하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-070",
+        "word": "feed on",
+        "korean": "~을 먹고 살다",
+        "level": "wm_high"
+    }
+]

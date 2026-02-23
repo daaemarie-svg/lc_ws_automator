@@ -1,0 +1,392 @@
+[
+    {
+        "id": "WM_-001",
+        "word": "pile",
+        "korean": "더미; 쌓아 올리다; 쌓이다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-002",
+        "word": "stack",
+        "korean": "더미",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-003",
+        "word": "colleague",
+        "korean": "(같은 직장이나 직종에 종사하는) 동료",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-004",
+        "word": "attach",
+        "korean": "붙이다, 첨부하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-005",
+        "word": "add, adhere",
+        "korean": "붙이다, 첨부하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-006",
+        "word": "attached",
+        "korean": "첨부된, 부속의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-007",
+        "word": "attachment",
+        "korean": "애착, 지지; 부착물",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-008",
+        "word": "photocopy",
+        "korean": "사진 복사물; 사진 복사하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-009",
+        "word": "copy",
+        "korean": "사진 복사물; 사진 복사하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-010",
+        "word": "xerox",
+        "korean": "사진 복사하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-011",
+        "word": "appoint",
+        "korean": "임명하다, 지명하다; 약속하다, 정하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-012",
+        "word": "appointment",
+        "korean": "임명; 약속",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-013",
+        "word": "agency",
+        "korean": "대리점, 대행 회사",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-014",
+        "word": "basis",
+        "korean": "기준 (단위); 기초",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-015",
+        "word": "base",
+        "korean": "기초",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-016",
+        "word": "on a regular basis",
+        "korean": "정기적으로",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-017",
+        "word": "index",
+        "korean": "지수, 지표; 색인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-018",
+        "word": "consumer price index",
+        "korean": "소비자 물가 지수",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-019",
+        "word": "deny",
+        "korean": "거절하다; 부인하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-020",
+        "word": "decline",
+        "korean": "거절하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-021",
+        "word": "stationery",
+        "korean": "문방구, 문구류",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-022",
+        "word": "staple",
+        "korean": "스테이플러 철사 침; 스테이플러로 고정시키다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-023",
+        "word": "confirm",
+        "korean": "승인하다, 확인하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-024",
+        "word": "confirmative",
+        "korean": "확인의",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-025",
+        "word": "confirmation",
+        "korean": "확인",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-026",
+        "word": "detail",
+        "korean": "세부 사항",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-027",
+        "word": "in detail",
+        "korean": "상세히",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-028",
+        "word": "classify",
+        "korean": "분류하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-029",
+        "word": "categorize",
+        "korean": "분류하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-030",
+        "word": "classified (ad)",
+        "korean": "안내 광고 (구인·구직 등의 항목별 광고)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-031",
+        "word": "document",
+        "korean": "문서, 서류",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-032",
+        "word": "documentary",
+        "korean": "문서의; 사실을 기록한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-033",
+        "word": "misplace",
+        "korean": "잘못 두다, 둔 곳을 잊다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-034",
+        "word": "procedure",
+        "korean": "절차, 순서",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-035",
+        "word": "process",
+        "korean": "절차, 순서",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-036",
+        "word": "firm",
+        "korean": "회사; 굳은, 확고한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-037",
+        "word": "client",
+        "korean": "의뢰인, 고객",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-038",
+        "word": "customer",
+        "korean": "의뢰인, 고객",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-039",
+        "word": "frequent",
+        "korean": "자주 일어나는, 빈번한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-040",
+        "word": "constant",
+        "korean": "자주 일어나는, 빈번한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-041",
+        "word": "rare",
+        "korean": "드문, 희귀한",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-042",
+        "word": "commute",
+        "korean": "통근하다, 통학하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-043",
+        "word": "commuter",
+        "korean": "통근자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-044",
+        "word": "division",
+        "korean": "부서; 분열",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-045",
+        "word": "department",
+        "korean": "부서",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-046",
+        "word": "separation",
+        "korean": "분열",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-047",
+        "word": "notify",
+        "korean": "통지[통보]하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-048",
+        "word": "inform",
+        "korean": "통지[통보]하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-049",
+        "word": "notification",
+        "korean": "통지, 공고",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-050",
+        "word": "assign",
+        "korean": "할당하다; 임명하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-051",
+        "word": "allot",
+        "korean": "할당하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-052",
+        "word": "appoint",
+        "korean": "임명하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-053",
+        "word": "assignment",
+        "korean": "할당; 임명; 숙제",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-054",
+        "word": "assign a task",
+        "korean": "임무를 할당하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-055",
+        "word": "booth",
+        "korean": "부스(칸막이한 작은 공간)",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-056",
+        "word": "ticket booth",
+        "korean": "매표소",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-057",
+        "word": "brochure",
+        "korean": "안내 소책자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-058",
+        "word": "pamphlet",
+        "korean": "안내 소책자",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-059",
+        "word": "distribute",
+        "korean": "분배하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-060",
+        "word": "hand out",
+        "korean": "분배하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-061",
+        "word": "distribution",
+        "korean": "분배",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-062",
+        "word": "make up for",
+        "korean": "만회하다, 보충하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-063",
+        "word": "compensate",
+        "korean": "~을 만회하다, 보충하다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-064",
+        "word": "get ahead",
+        "korean": "성공하다, 출세하다, ~을 앞서다",
+        "level": "wm_high"
+    },
+    {
+        "id": "WM_-065",
+        "word": "take over",
+        "korean": "인계받다, 일을 넘겨받다",
+        "level": "wm_high"
+    }
+]
