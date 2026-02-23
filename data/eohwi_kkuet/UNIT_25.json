@@ -1,0 +1,122 @@
+[
+    {
+        "word": "nation",
+        "meaning": "[명] 1. 국가 2. 국민",
+        "bolded": "**nation**"
+    },
+    {
+        "word": "border",
+        "meaning": "[명] 1. 국경, 경계 2. 가장자리, 변두리",
+        "bolded": "**border**"
+    },
+    {
+        "word": "capital",
+        "meaning": "[명] 1. 수도 2. (알파벳) 대문자 3. 자본, 자본금",
+        "bolded": "**capital**"
+    },
+    {
+        "word": "citizen",
+        "meaning": "[명] 시민, 국민",
+        "bolded": "**citizen**"
+    },
+    {
+        "word": "local",
+        "meaning": "[형] 지역의, 현지의",
+        "bolded": "**local**"
+    },
+    {
+        "word": "native",
+        "meaning": "[형] 1. 출생지의 2. (어디) 태생의, 토박이의 3. 타고난, 선천적인 4. (언어가) 모국어인\n[명] 1. (~에서) 태어난 사람, 출신자 2. 원주민, 토착민",
+        "bolded": "**native**"
+    },
+    {
+        "word": "ethnic",
+        "meaning": "[형] 민족의, 종족의",
+        "bolded": "**ethnic**"
+    },
+    {
+        "word": "racial",
+        "meaning": "[형] 인종의, 민족의",
+        "bolded": "**racial**"
+    },
+    {
+        "word": "flag",
+        "meaning": "[명] 깃발",
+        "bolded": "**flag**"
+    },
+    {
+        "word": "symbol",
+        "meaning": "[명] 1. 상징 2. 기호, 부호",
+        "bolded": "**symbol**"
+    },
+    {
+        "word": "global",
+        "meaning": "[형] 1. 전 세계의, 지구상의 2. 전체적인",
+        "bolded": "**global**"
+    },
+    {
+        "word": "international",
+        "meaning": "[형] 국제적인, 국제의",
+        "bolded": "**international**"
+    },
+    {
+        "word": "foreign",
+        "meaning": "[형] 외국의",
+        "bolded": "**foreign**"
+    },
+    {
+        "word": "abroad",
+        "meaning": "[부] 외국에, 외국으로",
+        "bolded": "**abroad**"
+    },
+    {
+        "word": "overseas",
+        "meaning": "[형] 해외의, 외국의\n[부] 해외에, 외국으로",
+        "bolded": "**overseas**"
+    },
+    {
+        "word": "union",
+        "meaning": "[명] 1. (국가 등의) 연합, 연방 2. (노동)조합",
+        "bolded": "**union**"
+    },
+    {
+        "word": "population",
+        "meaning": "[명] 인구",
+        "bolded": "**population**"
+    },
+    {
+        "word": "language",
+        "meaning": "[명] 언어, 말",
+        "bolded": "**language**"
+    },
+    {
+        "word": "translate",
+        "meaning": "[동] 번역하다, 통역하다",
+        "bolded": "**translate**"
+    },
+    {
+        "word": "organization",
+        "meaning": "[명] 단체, 기구, 조직",
+        "bolded": "**organization**"
+    },
+    {
+        "word": "affair",
+        "meaning": "[명] 1. (-s) (공적으로 중요한) 일, 문제 2. 일, 사건",
+        "bolded": "**affair**"
+    },
+    {
+        "word": "aid",
+        "meaning": "[명] 도움, 원조, 지원\n[동] 돕다",
+        "bolded": "**aid**"
+    },
+    {
+        "word": "various",
+        "meaning": "[형] 다양한, 여러 가지의",
+        "bolded": "**various**"
+    },
+    {
+        "word": "aware",
+        "meaning": "[형] 의식하고 있는, 깨닫고 있는",
+        "bolded": "**aware**"
+    }
+]

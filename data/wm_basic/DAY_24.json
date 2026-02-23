@@ -1,0 +1,102 @@
+[
+    {
+        "word": "huge",
+        "meaning": "(크기·양·정도가) 엄청난, 거대한",
+        "bolded": "**huge**"
+    },
+    {
+        "word": "small",
+        "meaning": "작은, 소규모의",
+        "bolded": "**small**"
+    },
+    {
+        "word": "narrow",
+        "meaning": "좁은",
+        "bolded": "**narrow**"
+    },
+    {
+        "word": "wide",
+        "meaning": "넓은",
+        "bolded": "**wide**"
+    },
+    {
+        "word": "round",
+        "meaning": "둥근, 동그란",
+        "bolded": "**round**"
+    },
+    {
+        "word": "part",
+        "meaning": "부분; 일부",
+        "bolded": "**part**"
+    },
+    {
+        "word": "line",
+        "meaning": "줄, 선",
+        "bolded": "**line**"
+    },
+    {
+        "word": "side",
+        "meaning": "쪽, 면; 옆, 측면",
+        "bolded": "**side**"
+    },
+    {
+        "word": "shape",
+        "meaning": "모양, 형태",
+        "bolded": "**shape**"
+    },
+    {
+        "word": "size",
+        "meaning": "크기; 치수",
+        "bolded": "**size**"
+    },
+    {
+        "word": "type",
+        "meaning": "종류, 유형",
+        "bolded": "**type**"
+    },
+    {
+        "word": "large",
+        "meaning": "(규모가) 큰, 넓은",
+        "bolded": "**large**"
+    },
+    {
+        "word": "high",
+        "meaning": "높은",
+        "bolded": "**high**"
+    },
+    {
+        "word": "low",
+        "meaning": "낮은",
+        "bolded": "**low**"
+    },
+    {
+        "word": "deep",
+        "meaning": "깊은",
+        "bolded": "**deep**"
+    },
+    {
+        "word": "thick",
+        "meaning": "두꺼운, 두툼한",
+        "bolded": "**thick**"
+    },
+    {
+        "word": "flat",
+        "meaning": "평평한, 납작한",
+        "bolded": "**flat**"
+    },
+    {
+        "word": "object",
+        "meaning": "물체, 물건",
+        "bolded": "**object**"
+    },
+    {
+        "word": "for example",
+        "meaning": "예를 들어",
+        "bolded": "**for example**"
+    },
+    {
+        "word": "a kind of",
+        "meaning": "일종의",
+        "bolded": "**a kind of**"
+    }
+]

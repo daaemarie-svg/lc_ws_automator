@@ -1,0 +1,127 @@
+[
+    {
+        "word": "research",
+        "meaning": "[명] 연구, 조사 \n[동] 연구하다, 조사하다",
+        "bolded": "**research**"
+    },
+    {
+        "word": "examine",
+        "meaning": "[동] 1. 조사하다, 검토하다 2. 진찰하다 3. 시험을 실시하다",
+        "bolded": "**examine**"
+    },
+    {
+        "word": "conduct",
+        "meaning": "[동] 1. (특정한 활동을) 하다 2. 지휘하다\n[명] 행위, 품행",
+        "bolded": "**conduct**"
+    },
+    {
+        "word": "collect",
+        "meaning": "[동] 수집하다, 모으다",
+        "bolded": "**collect**"
+    },
+    {
+        "word": "demonstrate",
+        "meaning": "[동] 1. 입증하다 2. 설명하다",
+        "bolded": "**demonstrate**"
+    },
+    {
+        "word": "method",
+        "meaning": "[명] 방법",
+        "bolded": "**method**"
+    },
+    {
+        "word": "analyze",
+        "meaning": "[동] 분석하다",
+        "bolded": "**analyze**"
+    },
+    {
+        "word": "factor",
+        "meaning": "[명] 요인, 인자, 요소",
+        "bolded": "**factor**"
+    },
+    {
+        "word": "cause",
+        "meaning": "[명] 원인, 이유 \n[동] ~의 원인이 되다",
+        "bolded": "**cause**"
+    },
+    {
+        "word": "experiment",
+        "meaning": "[명] (과학적인) 실험 \n[동] 실험을 하다",
+        "bolded": "**experiment**"
+    },
+    {
+        "word": "laboratory/lab",
+        "meaning": "[명] 실험실, 연구실",
+        "bolded": "**laboratory/lab**"
+    },
+    {
+        "word": "equipment",
+        "meaning": "[명] 장비, 용품",
+        "bolded": "**equipment**"
+    },
+    {
+        "word": "filter",
+        "meaning": "[명] 필터, 여과 장치 \n[동] 여과하다, 거르다",
+        "bolded": "**filter**"
+    },
+    {
+        "word": "material",
+        "meaning": "[명] 1. 재료, 물질 2. 옷감 3. 자료, 소재",
+        "bolded": "**material**"
+    },
+    {
+        "word": "element",
+        "meaning": "[명] 1. 요소, 성분 2. 원소",
+        "bolded": "**element**"
+    },
+    {
+        "word": "cell",
+        "meaning": "[명] 세포",
+        "bolded": "**cell**"
+    },
+    {
+        "word": "mixture",
+        "meaning": "[명] 혼합물, 혼합체",
+        "bolded": "**mixture**"
+    },
+    {
+        "word": "poison",
+        "meaning": "[명] 독, 독약",
+        "bolded": "**poison**"
+    },
+    {
+        "word": "electronic",
+        "meaning": "[형] 전자의",
+        "bolded": "**electronic**"
+    },
+    {
+        "word": "layer",
+        "meaning": "[명] 막, 층, 겹",
+        "bolded": "**layer**"
+    },
+    {
+        "word": "flame",
+        "meaning": "[명] 불꽃, 불길",
+        "bolded": "**flame**"
+    },
+    {
+        "word": "precise",
+        "meaning": "[형] 정확한, 정밀한",
+        "bolded": "**precise**"
+    },
+    {
+        "word": "error",
+        "meaning": "[명] 오류, 실수",
+        "bolded": "**error**"
+    },
+    {
+        "word": "angle",
+        "meaning": "[명] 1. 각도, 각 2. 시각, 관점",
+        "bolded": "**angle**"
+    },
+    {
+        "word": "expand",
+        "meaning": "[동] 확장하다, 팽창하다",
+        "bolded": "**expand**"
+    }
+]

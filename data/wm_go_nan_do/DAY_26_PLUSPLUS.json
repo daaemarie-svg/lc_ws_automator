@@ -1,0 +1,377 @@
+[
+    {
+        "word": "previous",
+        "meaning": "이전의, 앞의",
+        "bolded": "**previous**"
+    },
+    {
+        "word": "earlier",
+        "meaning": "이전의, 앞의",
+        "bolded": "**earlier**"
+    },
+    {
+        "word": "later",
+        "meaning": "뒤의, 나중의",
+        "bolded": "**later**"
+    },
+    {
+        "word": "prior",
+        "meaning": "이전의, 우선하는",
+        "bolded": "**prior**"
+    },
+    {
+        "word": "priority",
+        "meaning": "우선하는 것",
+        "bolded": "**priority**"
+    },
+    {
+        "word": "decade",
+        "meaning": "10년간",
+        "bolded": "**decade**"
+    },
+    {
+        "word": "biography",
+        "meaning": "전기, 일대기",
+        "bolded": "**biography**"
+    },
+    {
+        "word": "biographer",
+        "meaning": "전기 작가",
+        "bolded": "**biographer**"
+    },
+    {
+        "word": "devote",
+        "meaning": "바치다, 헌신하다",
+        "bolded": "**devote**"
+    },
+    {
+        "word": "devoted",
+        "meaning": "헌신적인",
+        "bolded": "**devoted**"
+    },
+    {
+        "word": "devotion",
+        "meaning": "헌신, 전념",
+        "bolded": "**devotion**"
+    },
+    {
+        "word": "devote oneself to",
+        "meaning": "~에 몰두하다",
+        "bolded": "**devote oneself to**"
+    },
+    {
+        "word": "faith",
+        "meaning": "신념, 믿음",
+        "bolded": "**faith**"
+    },
+    {
+        "word": "belief",
+        "meaning": "신념, 믿음",
+        "bolded": "**belief**"
+    },
+    {
+        "word": "faithful",
+        "meaning": "충실한",
+        "bolded": "**faithful**"
+    },
+    {
+        "word": "minority",
+        "meaning": "소수, 소수 민족",
+        "bolded": "**minority**"
+    },
+    {
+        "word": "majority",
+        "meaning": "다수",
+        "bolded": "**majority**"
+    },
+    {
+        "word": "minor",
+        "meaning": "소수의",
+        "bolded": "**minor**"
+    },
+    {
+        "word": "mummy",
+        "meaning": "미라",
+        "bolded": "**mummy**"
+    },
+    {
+        "word": "remains",
+        "meaning": "유해, 유골; 나머지",
+        "bolded": "**remains**"
+    },
+    {
+        "word": "rid",
+        "meaning": "제거하다; 자유롭게 하다",
+        "bolded": "**rid**"
+    },
+    {
+        "word": "get rid of",
+        "meaning": "~을 제거하다, 해소하다",
+        "bolded": "**get rid of**"
+    },
+    {
+        "word": "rid A of B",
+        "meaning": "A에서 B를 없애다",
+        "bolded": "**rid A of B**"
+    },
+    {
+        "word": "origin",
+        "meaning": "기원, 유래; 태생",
+        "bolded": "**origin**"
+    },
+    {
+        "word": "original",
+        "meaning": "원래의",
+        "bolded": "**original**"
+    },
+    {
+        "word": "originate",
+        "meaning": "유래하다",
+        "bolded": "**originate**"
+    },
+    {
+        "word": "civilization",
+        "meaning": "문명, 문화",
+        "bolded": "**civilization**"
+    },
+    {
+        "word": "culture",
+        "meaning": "문명, 문화",
+        "bolded": "**culture**"
+    },
+    {
+        "word": "civilize",
+        "meaning": "문명화하다",
+        "bolded": "**civilize**"
+    },
+    {
+        "word": "revolution",
+        "meaning": "혁명, 변혁",
+        "bolded": "**revolution**"
+    },
+    {
+        "word": "revolutionary",
+        "meaning": "혁명의",
+        "bolded": "**revolutionary**"
+    },
+    {
+        "word": "royal",
+        "meaning": "왕의, 왕실의",
+        "bolded": "**royal**"
+    },
+    {
+        "word": "royalty",
+        "meaning": "왕위, 왕권",
+        "bolded": "**royalty**"
+    },
+    {
+        "word": "heritage",
+        "meaning": "유산, 전통",
+        "bolded": "**heritage**"
+    },
+    {
+        "word": "missionary",
+        "meaning": "선교사, 전도사",
+        "bolded": "**missionary**"
+    },
+    {
+        "word": "mission",
+        "meaning": "임무, 선교",
+        "bolded": "**mission**"
+    },
+    {
+        "word": "sermon",
+        "meaning": "설교, 교훈",
+        "bolded": "**sermon**"
+    },
+    {
+        "word": "settle",
+        "meaning": "정착하다; 해결하다",
+        "bolded": "**settle**"
+    },
+    {
+        "word": "settlement",
+        "meaning": "정착; 합의, 해결",
+        "bolded": "**settlement**"
+    },
+    {
+        "word": "replace",
+        "meaning": "대신하다, 대체하다",
+        "bolded": "**replace**"
+    },
+    {
+        "word": "substitute",
+        "meaning": "대신하다, 대체하다",
+        "bolded": "**substitute**"
+    },
+    {
+        "word": "replacement",
+        "meaning": "대체, 교환",
+        "bolded": "**replacement**"
+    },
+    {
+        "word": "replace A with B",
+        "meaning": "A를 B로 바꾸다",
+        "bolded": "**replace A with B**"
+    },
+    {
+        "word": "signify",
+        "meaning": "의미하다, 나타내다",
+        "bolded": "**signify**"
+    },
+    {
+        "word": "mean",
+        "meaning": "의미하다, 나타내다",
+        "bolded": "**mean**"
+    },
+    {
+        "word": "significant",
+        "meaning": "중요한, 의미 있는",
+        "bolded": "**significant**"
+    },
+    {
+        "word": "significance",
+        "meaning": "중요성, 의미",
+        "bolded": "**significance**"
+    },
+    {
+        "word": "conserve",
+        "meaning": "보존하다",
+        "bolded": "**conserve**"
+    },
+    {
+        "word": "preserve",
+        "meaning": "보존하다",
+        "bolded": "**preserve**"
+    },
+    {
+        "word": "conservative",
+        "meaning": "보수적인",
+        "bolded": "**conservative**"
+    },
+    {
+        "word": "conservation",
+        "meaning": "보존, 보호",
+        "bolded": "**conservation**"
+    },
+    {
+        "word": "evaluate",
+        "meaning": "평가하다",
+        "bolded": "**evaluate**"
+    },
+    {
+        "word": "assess",
+        "meaning": "평가하다",
+        "bolded": "**assess**"
+    },
+    {
+        "word": "evaluation",
+        "meaning": "평가",
+        "bolded": "**evaluation**"
+    },
+    {
+        "word": "descend",
+        "meaning": "계통을 잇다, 내려가다",
+        "bolded": "**descend**"
+    },
+    {
+        "word": "ascend",
+        "meaning": "올라가다",
+        "bolded": "**ascend**"
+    },
+    {
+        "word": "descendant",
+        "meaning": "자손",
+        "bolded": "**descendant**"
+    },
+    {
+        "word": "descend from",
+        "meaning": "~의 자손이다",
+        "bolded": "**descend from**"
+    },
+    {
+        "word": "disappear",
+        "meaning": "사라지다",
+        "bolded": "**disappear**"
+    },
+    {
+        "word": "vanish",
+        "meaning": "사라지다",
+        "bolded": "**vanish**"
+    },
+    {
+        "word": "appear",
+        "meaning": "나타나다",
+        "bolded": "**appear**"
+    },
+    {
+        "word": "disappearance",
+        "meaning": "소멸, 실종",
+        "bolded": "**disappearance**"
+    },
+    {
+        "word": "sequence",
+        "meaning": "순서, 연속",
+        "bolded": "**sequence**"
+    },
+    {
+        "word": "sequential",
+        "meaning": "순차적인",
+        "bolded": "**sequential**"
+    },
+    {
+        "word": "out of sequence",
+        "meaning": "순서가 엉망인",
+        "bolded": "**out of sequence**"
+    },
+    {
+        "word": "gradual",
+        "meaning": "점차적인, 단계적인",
+        "bolded": "**gradual**"
+    },
+    {
+        "word": "sudden",
+        "meaning": "갑작스러운",
+        "bolded": "**sudden**"
+    },
+    {
+        "word": "gradually",
+        "meaning": "점차로",
+        "bolded": "**gradually**"
+    },
+    {
+        "word": "sacred",
+        "meaning": "신성한, 성스러운, 종교적인",
+        "bolded": "**sacred**"
+    },
+    {
+        "word": "religious",
+        "meaning": "신성한, 성스러운, 종교적인",
+        "bolded": "**religious**"
+    },
+    {
+        "word": "sacredness",
+        "meaning": "신성함",
+        "bolded": "**sacredness**"
+    },
+    {
+        "word": "break out",
+        "meaning": "(화재·전쟁 등이) 발생하다, 발발하다",
+        "bolded": "**break out**"
+    },
+    {
+        "word": "derive from",
+        "meaning": "~에서 유래하다, 파생하다",
+        "bolded": "**derive from**"
+    },
+    {
+        "word": "hand down",
+        "meaning": "~을 전하다, 후세에 물려주다",
+        "bolded": "**hand down**"
+    },
+    {
+        "word": "pass down",
+        "meaning": "~을 전하다, 후세에 물려주다",
+        "bolded": "**pass down**"
+    }
+]

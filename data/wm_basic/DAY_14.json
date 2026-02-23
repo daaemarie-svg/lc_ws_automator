@@ -1,0 +1,102 @@
+[
+    {
+        "word": "wall",
+        "meaning": "담, 벽",
+        "bolded": "**wall**"
+    },
+    {
+        "word": "garden",
+        "meaning": "정원, 뜰",
+        "bolded": "**garden**"
+    },
+    {
+        "word": "bathroom",
+        "meaning": "욕실, 화장실",
+        "bolded": "**bathroom**"
+    },
+    {
+        "word": "stair",
+        "meaning": "계단",
+        "bolded": "**stair**"
+    },
+    {
+        "word": "wash",
+        "meaning": "씻다, 빨래하다",
+        "bolded": "**wash**"
+    },
+    {
+        "word": "gate",
+        "meaning": "문, 출입구",
+        "bolded": "**gate**"
+    },
+    {
+        "word": "umbrella",
+        "meaning": "우산",
+        "bolded": "**umbrella**"
+    },
+    {
+        "word": "roof",
+        "meaning": "지붕",
+        "bolded": "**roof**"
+    },
+    {
+        "word": "kitchen",
+        "meaning": "부엌, 주방",
+        "bolded": "**kitchen**"
+    },
+    {
+        "word": "refrigerator",
+        "meaning": "냉장고",
+        "bolded": "**refrigerator**"
+    },
+    {
+        "word": "floor",
+        "meaning": "바닥, 층",
+        "bolded": "**floor**"
+    },
+    {
+        "word": "living room",
+        "meaning": "거실",
+        "bolded": "**living room**"
+    },
+    {
+        "word": "bedroom",
+        "meaning": "침실",
+        "bolded": "**bedroom**"
+    },
+    {
+        "word": "address",
+        "meaning": "주소",
+        "bolded": "**address**"
+    },
+    {
+        "word": "stay",
+        "meaning": "머무르다",
+        "bolded": "**stay**"
+    },
+    {
+        "word": "garbage",
+        "meaning": "쓰레기",
+        "bolded": "**garbage**"
+    },
+    {
+        "word": "housework",
+        "meaning": "가사, 집안일",
+        "bolded": "**housework**"
+    },
+    {
+        "word": "comfortable",
+        "meaning": "편안한, 쾌적한",
+        "bolded": "**comfortable**"
+    },
+    {
+        "word": "turn off",
+        "meaning": "~을 끄다",
+        "bolded": "**turn off**"
+    },
+    {
+        "word": "go to bed",
+        "meaning": "잠자리에 들다",
+        "bolded": "**go to bed**"
+    }
+]

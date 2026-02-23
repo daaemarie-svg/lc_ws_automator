@@ -1,0 +1,102 @@
+[
+    {
+        "word": "first",
+        "meaning": "첫 번째의",
+        "bolded": "**first**"
+    },
+    {
+        "word": "second",
+        "meaning": "두 번째의",
+        "bolded": "**second**"
+    },
+    {
+        "word": "third",
+        "meaning": "세 번째의",
+        "bolded": "**third**"
+    },
+    {
+        "word": "again",
+        "meaning": "한 번 더, 다시",
+        "bolded": "**again**"
+    },
+    {
+        "word": "before",
+        "meaning": "~전에",
+        "bolded": "**before**"
+    },
+    {
+        "word": "after",
+        "meaning": "~후에[뒤에]",
+        "bolded": "**after**"
+    },
+    {
+        "word": "never",
+        "meaning": "절대[결코] ~ 않다",
+        "bolded": "**never**"
+    },
+    {
+        "word": "sometimes",
+        "meaning": "때때로, 가끔",
+        "bolded": "**sometimes**"
+    },
+    {
+        "word": "often",
+        "meaning": "자주, 종종",
+        "bolded": "**often**"
+    },
+    {
+        "word": "usually",
+        "meaning": "보통, 대개",
+        "bolded": "**usually**"
+    },
+    {
+        "word": "always",
+        "meaning": "항상, 언제나",
+        "bolded": "**always**"
+    },
+    {
+        "word": "once",
+        "meaning": "한 번",
+        "bolded": "**once**"
+    },
+    {
+        "word": "final",
+        "meaning": "마지막의",
+        "bolded": "**final**"
+    },
+    {
+        "word": "last",
+        "meaning": "마지막의; 지난",
+        "bolded": "**last**"
+    },
+    {
+        "word": "next",
+        "meaning": "다음의",
+        "bolded": "**next**"
+    },
+    {
+        "word": "step",
+        "meaning": "단계; 걸음",
+        "bolded": "**step**"
+    },
+    {
+        "word": "repeat",
+        "meaning": "반복하다, 되풀이하다",
+        "bolded": "**repeat**"
+    },
+    {
+        "word": "suddenly",
+        "meaning": "갑자기",
+        "bolded": "**suddenly**"
+    },
+    {
+        "word": "all the time",
+        "meaning": "항상, 줄곧, 내내",
+        "bolded": "**all the time**"
+    },
+    {
+        "word": "from time to time",
+        "meaning": "가끔, 때때로",
+        "bolded": "**from time to time**"
+    }
+]

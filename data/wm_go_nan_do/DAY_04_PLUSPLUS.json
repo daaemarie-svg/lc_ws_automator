@@ -1,0 +1,352 @@
+[
+    {
+        "word": "fiber",
+        "meaning": "섬유, 섬유질",
+        "bolded": "**fiber**"
+    },
+    {
+        "word": "dietary fiber",
+        "meaning": "식이 섬유",
+        "bolded": "**dietary fiber**"
+    },
+    {
+        "word": "contain",
+        "meaning": "담고 있다, 포함하다",
+        "bolded": "**contain**"
+    },
+    {
+        "word": "container",
+        "meaning": "용기, 그릇",
+        "bolded": "**container**"
+    },
+    {
+        "word": "instant",
+        "meaning": "즉석요리의, 인스턴트의; 즉각적인; 순간",
+        "bolded": "**instant**"
+    },
+    {
+        "word": "immediate",
+        "meaning": "즉각적인",
+        "bolded": "**immediate**"
+    },
+    {
+        "word": "moment",
+        "meaning": "순간",
+        "bolded": "**moment**"
+    },
+    {
+        "word": "instantly",
+        "meaning": "즉시",
+        "bolded": "**instantly**"
+    },
+    {
+        "word": "in an instant",
+        "meaning": "즉시, 눈 깜짝할 사이에",
+        "bolded": "**in an instant**"
+    },
+    {
+        "word": "peel",
+        "meaning": "(과일·채소 등의) 껍질을 벗기다; 벗겨지다; 과일 껍질",
+        "bolded": "**peel**"
+    },
+    {
+        "word": "nourish",
+        "meaning": "영양분을 공급하다, (사람·생물을) 기르다",
+        "bolded": "**nourish**"
+    },
+    {
+        "word": "feed",
+        "meaning": "영양분을 공급하다, (사람·생물을) 기르다",
+        "bolded": "**feed**"
+    },
+    {
+        "word": "nourishment",
+        "meaning": "영양분, 음식물",
+        "bolded": "**nourishment**"
+    },
+    {
+        "word": "chop",
+        "meaning": "자르다, 썰다",
+        "bolded": "**chop**"
+    },
+    {
+        "word": "cut",
+        "meaning": "자르다, 썰다",
+        "bolded": "**cut**"
+    },
+    {
+        "word": "grind",
+        "meaning": "잘게 갈다[빻다], 가루로 만들다",
+        "bolded": "**grind**"
+    },
+    {
+        "word": "mill",
+        "meaning": "잘게 갈다[빻다], 가루로 만들다",
+        "bolded": "**mill**"
+    },
+    {
+        "word": "roast",
+        "meaning": "굽다, 볶다; 구운",
+        "bolded": "**roast**"
+    },
+    {
+        "word": "rotten",
+        "meaning": "썩은, 부패한",
+        "bolded": "**rotten**"
+    },
+    {
+        "word": "decayed",
+        "meaning": "썩은, 부패한",
+        "bolded": "**decayed**"
+    },
+    {
+        "word": "fresh",
+        "meaning": "신선한",
+        "bolded": "**fresh**"
+    },
+    {
+        "word": "rot",
+        "meaning": "썩다, 부패하다",
+        "bolded": "**rot**"
+    },
+    {
+        "word": "cuisine",
+        "meaning": "요리",
+        "bolded": "**cuisine**"
+    },
+    {
+        "word": "cooking",
+        "meaning": "요리",
+        "bolded": "**cooking**"
+    },
+    {
+        "word": "French cuisine",
+        "meaning": "프랑스 요리",
+        "bolded": "**French cuisine**"
+    },
+    {
+        "word": "cooked",
+        "meaning": "조리된",
+        "bolded": "**cooked**"
+    },
+    {
+        "word": "raw",
+        "meaning": "날것의; 가공하지 않은",
+        "bolded": "**raw**"
+    },
+    {
+        "word": "unrefined",
+        "meaning": "가공하지 않은",
+        "bolded": "**unrefined**"
+    },
+    {
+        "word": "natural",
+        "meaning": "가공하지 않은",
+        "bolded": "**natural**"
+    },
+    {
+        "word": "raw material",
+        "meaning": "원료, 원자재",
+        "bolded": "**raw material**"
+    },
+    {
+        "word": "grill",
+        "meaning": "석쇠; 석쇠에 굽다",
+        "bolded": "**grill**"
+    },
+    {
+        "word": "broil",
+        "meaning": "석쇠에 굽다",
+        "bolded": "**broil**"
+    },
+    {
+        "word": "outdoor grill",
+        "meaning": "야외용 석쇠",
+        "bolded": "**outdoor grill**"
+    },
+    {
+        "word": "edible",
+        "meaning": "먹을 수 있는",
+        "bolded": "**edible**"
+    },
+    {
+        "word": "eatable",
+        "meaning": "먹을 수 있는",
+        "bolded": "**eatable**"
+    },
+    {
+        "word": "inedible",
+        "meaning": "먹을 수 없는",
+        "bolded": "**inedible**"
+    },
+    {
+        "word": "nutrition",
+        "meaning": "영양, 영양물 섭취",
+        "bolded": "**nutrition**"
+    },
+    {
+        "word": "malnutrition",
+        "meaning": "영양실조, 영양 결핍",
+        "bolded": "**malnutrition**"
+    },
+    {
+        "word": "nutritional",
+        "meaning": "영양상의",
+        "bolded": "**nutritional**"
+    },
+    {
+        "word": "vegetarian",
+        "meaning": "채식주의자; 채식주의(자)의",
+        "bolded": "**vegetarian**"
+    },
+    {
+        "word": "vegetarianism",
+        "meaning": "채식주의",
+        "bolded": "**vegetarianism**"
+    },
+    {
+        "word": "vegetarian diet",
+        "meaning": "채식주의 식단",
+        "bolded": "**vegetarian diet**"
+    },
+    {
+        "word": "dairy",
+        "meaning": "우유의, 유제품의; 유제품 판매점",
+        "bolded": "**dairy**"
+    },
+    {
+        "word": "kettle",
+        "meaning": "주전자",
+        "bolded": "**kettle**"
+    },
+    {
+        "word": "tray",
+        "meaning": "쟁반",
+        "bolded": "**tray**"
+    },
+    {
+        "word": "serving tray",
+        "meaning": "음식을 낼 때 쓰는 쟁반",
+        "bolded": "**serving tray**"
+    },
+    {
+        "word": "seasoning",
+        "meaning": "조미료, 양념",
+        "bolded": "**seasoning**"
+    },
+    {
+        "word": "spice",
+        "meaning": "조미료, 양념",
+        "bolded": "**spice**"
+    },
+    {
+        "word": "flavor",
+        "meaning": "(재료 특유의) 맛과 향; 풍미를 더하다(with)",
+        "bolded": "**flavor**"
+    },
+    {
+        "word": "savor",
+        "meaning": "(재료 특유의) 맛과 향",
+        "bolded": "**savor**"
+    },
+    {
+        "word": "give flavor to",
+        "meaning": "~에 맛을 더하다",
+        "bolded": "**give flavor to**"
+    },
+    {
+        "word": "scent",
+        "meaning": "향기",
+        "bolded": "**scent**"
+    },
+    {
+        "word": "smell",
+        "meaning": "향기",
+        "bolded": "**smell**"
+    },
+    {
+        "word": "fragrance",
+        "meaning": "향기",
+        "bolded": "**fragrance**"
+    },
+    {
+        "word": "leftover",
+        "meaning": "남은; 남은 음식",
+        "bolded": "**leftover**"
+    },
+    {
+        "word": "swallow",
+        "meaning": "삼키다; 삼키기",
+        "bolded": "**swallow**"
+    },
+    {
+        "word": "beverage",
+        "meaning": "음료",
+        "bolded": "**beverage**"
+    },
+    {
+        "word": "drink",
+        "meaning": "음료",
+        "bolded": "**drink**"
+    },
+    {
+        "word": "squeeze",
+        "meaning": "짜다, 압착하다",
+        "bolded": "**squeeze**"
+    },
+    {
+        "word": "ripen",
+        "meaning": "익다; 익히다",
+        "bolded": "**ripen**"
+    },
+    {
+        "word": "ripe",
+        "meaning": "익은, 숙성된",
+        "bolded": "**ripe**"
+    },
+    {
+        "word": "paste",
+        "meaning": "반죽; 풀; 붙이다",
+        "bolded": "**paste**"
+    },
+    {
+        "word": "glue",
+        "meaning": "붙이다",
+        "bolded": "**glue**"
+    },
+    {
+        "word": "blend",
+        "meaning": "섞다; 조화되다",
+        "bolded": "**blend**"
+    },
+    {
+        "word": "mix",
+        "meaning": "섞다",
+        "bolded": "**mix**"
+    },
+    {
+        "word": "go well with",
+        "meaning": "조화되다",
+        "bolded": "**go well with**"
+    },
+    {
+        "word": "match",
+        "meaning": "조화되다",
+        "bolded": "**match**"
+    },
+    {
+        "word": "go off",
+        "meaning": "(음식 등이) 상하다, 부패하다",
+        "bolded": "**go off**"
+    },
+    {
+        "word": "decay, spoil",
+        "meaning": "(음식 등이) 상하다, 부패하다",
+        "bolded": "**decay, spoil**"
+    },
+    {
+        "word": "feed on",
+        "meaning": "~을 먹고 살다",
+        "bolded": "**feed on**"
+    }
+]

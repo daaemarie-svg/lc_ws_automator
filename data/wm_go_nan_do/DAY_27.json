@@ -1,0 +1,152 @@
+[
+    {
+        "word": "biology",
+        "meaning": "생물학",
+        "bolded": "**biology**"
+    },
+    {
+        "word": "chemistry",
+        "meaning": "화학",
+        "bolded": "**chemistry**"
+    },
+    {
+        "word": "element",
+        "meaning": "요소, 성분; 원소",
+        "bolded": "**element**"
+    },
+    {
+        "word": "acid",
+        "meaning": "[화학] 산; 산(성)의, 신맛의",
+        "bolded": "**acid**"
+    },
+    {
+        "word": "storage",
+        "meaning": "저장, 저장소",
+        "bolded": "**storage**"
+    },
+    {
+        "word": "steam",
+        "meaning": "증기",
+        "bolded": "**steam**"
+    },
+    {
+        "word": "gene",
+        "meaning": "유전자",
+        "bolded": "**gene**"
+    },
+    {
+        "word": "mammal",
+        "meaning": "포유동물",
+        "bolded": "**mammal**"
+    },
+    {
+        "word": "melt",
+        "meaning": "녹다, 녹이다; 용해",
+        "bolded": "**melt**"
+    },
+    {
+        "word": "cell",
+        "meaning": "세포; 작은 방, 독방",
+        "bolded": "**cell**"
+    },
+    {
+        "word": "microscope",
+        "meaning": "현미경",
+        "bolded": "**microscope**"
+    },
+    {
+        "word": "reproduce",
+        "meaning": "번식하다; 재생[재현]하다; 복제하다",
+        "bolded": "**reproduce**"
+    },
+    {
+        "word": "evolution",
+        "meaning": "진화",
+        "bolded": "**evolution**"
+    },
+    {
+        "word": "extinct",
+        "meaning": "멸종된, 사라진; 활동을 멈춘",
+        "bolded": "**extinct**"
+    },
+    {
+        "word": "clone",
+        "meaning": "복제하다; 복제 생물",
+        "bolded": "**clone**"
+    },
+    {
+        "word": "identical",
+        "meaning": "동일한",
+        "bolded": "**identical**"
+    },
+    {
+        "word": "animate",
+        "meaning": "살아 있는, 생물인",
+        "bolded": "**animate**"
+    },
+    {
+        "word": "carbon",
+        "meaning": "탄소",
+        "bolded": "**carbon**"
+    },
+    {
+        "word": "mixture",
+        "meaning": "혼합물, 혼합",
+        "bolded": "**mixture**"
+    },
+    {
+        "word": "substance",
+        "meaning": "물질",
+        "bolded": "**substance**"
+    },
+    {
+        "word": "liquid",
+        "meaning": "액체; 액체의",
+        "bolded": "**liquid**"
+    },
+    {
+        "word": "filter",
+        "meaning": "거르다, 여과하다; 여과 장치",
+        "bolded": "**filter**"
+    },
+    {
+        "word": "absorb",
+        "meaning": "흡수하다; 열중시키다",
+        "bolded": "**absorb**"
+    },
+    {
+        "word": "toxic",
+        "meaning": "유독한",
+        "bolded": "**toxic**"
+    },
+    {
+        "word": "ray",
+        "meaning": "빛, 광선",
+        "bolded": "**ray**"
+    },
+    {
+        "word": "compound",
+        "meaning": "화합물; 혼합[복합/합성]물",
+        "bolded": "**compound**"
+    },
+    {
+        "word": "detach",
+        "meaning": "떼어 놓다, 분리하다",
+        "bolded": "**detach**"
+    },
+    {
+        "word": "turn A into B",
+        "meaning": "A를 B로 바꾸다[변하게 하다]",
+        "bolded": "**turn A into B**"
+    },
+    {
+        "word": "tell from",
+        "meaning": "~을 구별하다[구분하다]",
+        "bolded": "**tell from**"
+    },
+    {
+        "word": "give off",
+        "meaning": "(냄새·열·빛 등을) 내다, 방출하다, 발산하다",
+        "bolded": "**give off**"
+    }
+]

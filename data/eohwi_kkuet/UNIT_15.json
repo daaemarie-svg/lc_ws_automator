@@ -1,0 +1,127 @@
+[
+    {
+        "word": "disease",
+        "meaning": "[명] 병, 질병",
+        "bolded": "**disease**"
+    },
+    {
+        "word": "ill",
+        "meaning": "[형] 1. 병든, 아픈 2. 나쁜, 유해한",
+        "bolded": "**ill**"
+    },
+    {
+        "word": "flu",
+        "meaning": "[명] 독감",
+        "bolded": "**flu**"
+    },
+    {
+        "word": "cancer",
+        "meaning": "[명] 암",
+        "bolded": "**cancer**"
+    },
+    {
+        "word": "blind",
+        "meaning": "[형] 눈먼, 맹인의",
+        "bolded": "**blind**"
+    },
+    {
+        "word": "deaf",
+        "meaning": "[형] 청각 장애의",
+        "bolded": "**deaf**"
+    },
+    {
+        "word": "pain",
+        "meaning": "[명] 통증, 아픔",
+        "bolded": "**pain**"
+    },
+    {
+        "word": "ache",
+        "meaning": "[명] 아픔, 통증 \n[동] 아프다",
+        "bolded": "**ache**"
+    },
+    {
+        "word": "sore",
+        "meaning": "[형] 아픈, 따가운, 쓰린",
+        "bolded": "**sore**"
+    },
+    {
+        "word": "decay",
+        "meaning": "[동] 썩다, 부패하다",
+        "bolded": "**decay**"
+    },
+    {
+        "word": "fever",
+        "meaning": "[명] 1. 열, 발열 2. 열병",
+        "bolded": "**fever**"
+    },
+    {
+        "word": "headache",
+        "meaning": "[명] 두통",
+        "bolded": "**headache**"
+    },
+    {
+        "word": "cough",
+        "meaning": "[명] 기침 \n[동] 기침하다",
+        "bolded": "**cough**"
+    },
+    {
+        "word": "stress",
+        "meaning": "[명] 1. 스트레스 2. 강조 \n[동] 강조하다",
+        "bolded": "**stress**"
+    },
+    {
+        "word": "medical",
+        "meaning": "[형] 의료의, 의학의",
+        "bolded": "**medical**"
+    },
+    {
+        "word": "cure",
+        "meaning": "[명] 치료, 치료법 \n[동] 병을 고치다, 낫게 하다",
+        "bolded": "**cure**"
+    },
+    {
+        "word": "treat",
+        "meaning": "[동] 1. 치료하다 2. 다루다, 취급하다",
+        "bolded": "**treat**"
+    },
+    {
+        "word": "heal",
+        "meaning": "[동] 낫게 하다, 치유하다",
+        "bolded": "**heal**"
+    },
+    {
+        "word": "clinic",
+        "meaning": "[명] 병원, 진료소",
+        "bolded": "**clinic**"
+    },
+    {
+        "word": "medicine",
+        "meaning": "[명] 1. 약, 약물 2. 의학, 의술",
+        "bolded": "**medicine**"
+    },
+    {
+        "word": "drug",
+        "meaning": "[명] 1. 약, 의약품 2. (불법적인) 약물, 마약",
+        "bolded": "**drug**"
+    },
+    {
+        "word": "pill",
+        "meaning": "[명] 알약",
+        "bolded": "**pill**"
+    },
+    {
+        "word": "patient",
+        "meaning": "[명] 환자\n[형] 인내심 있는, 참을성 있는",
+        "bolded": "**patient**"
+    },
+    {
+        "word": "recover",
+        "meaning": "[동] 회복하다, 낫다",
+        "bolded": "**recover**"
+    },
+    {
+        "word": "condition",
+        "meaning": "[명] 1. 상태 2. 건강 상태 3. 상황, 형편 4. 조건",
+        "bolded": "**condition**"
+    }
+]

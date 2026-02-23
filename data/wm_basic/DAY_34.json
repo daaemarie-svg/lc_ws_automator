@@ -1,0 +1,102 @@
+[
+    {
+        "word": "grass",
+        "meaning": "풀, 잔디",
+        "bolded": "**grass**"
+    },
+    {
+        "word": "flower",
+        "meaning": "꽃",
+        "bolded": "**flower**"
+    },
+    {
+        "word": "tree",
+        "meaning": "나무",
+        "bolded": "**tree**"
+    },
+    {
+        "word": "leaf",
+        "meaning": "잎, 나뭇잎",
+        "bolded": "**leaf**"
+    },
+    {
+        "word": "stone",
+        "meaning": "돌",
+        "bolded": "**stone**"
+    },
+    {
+        "word": "wood",
+        "meaning": "나무, 목재; (-s) 숲",
+        "bolded": "**wood**"
+    },
+    {
+        "word": "fruit",
+        "meaning": "과일, 열매",
+        "bolded": "**fruit**"
+    },
+    {
+        "word": "branch",
+        "meaning": "나뭇가지",
+        "bolded": "**branch**"
+    },
+    {
+        "word": "ground",
+        "meaning": "땅, 토양",
+        "bolded": "**ground**"
+    },
+    {
+        "word": "soil",
+        "meaning": "토양, 흙",
+        "bolded": "**soil**"
+    },
+    {
+        "word": "field",
+        "meaning": "들판, 밭; 현장; 경기장",
+        "bolded": "**field**"
+    },
+    {
+        "word": "farm",
+        "meaning": "농장, 농원",
+        "bolded": "**farm**"
+    },
+    {
+        "word": "water",
+        "meaning": "물; 물을 주다",
+        "bolded": "**water**"
+    },
+    {
+        "word": "dig",
+        "meaning": "파다, 캐내다",
+        "bolded": "**dig**"
+    },
+    {
+        "word": "grow",
+        "meaning": "재배하다, 기르다; 자라다",
+        "bolded": "**grow**"
+    },
+    {
+        "word": "plant",
+        "meaning": "식물; 심다",
+        "bolded": "**plant**"
+    },
+    {
+        "word": "bean",
+        "meaning": "콩",
+        "bolded": "**bean**"
+    },
+    {
+        "word": "vegetable",
+        "meaning": "채소",
+        "bolded": "**vegetable**"
+    },
+    {
+        "word": "right away",
+        "meaning": "즉시, 곧바로",
+        "bolded": "**right away**"
+    },
+    {
+        "word": "pick up",
+        "meaning": "~을 집다; ~을 (차에) 태우러 가다",
+        "bolded": "**pick up**"
+    }
+]

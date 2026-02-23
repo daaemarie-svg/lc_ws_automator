@@ -1,0 +1,152 @@
+[
+    {
+        "word": "cough",
+        "meaning": "기침; 기침하다",
+        "bolded": "**cough**"
+    },
+    {
+        "word": "fever",
+        "meaning": "열, 발열",
+        "bolded": "**fever**"
+    },
+    {
+        "word": "sore",
+        "meaning": "아픈, 쑤시는",
+        "bolded": "**sore**"
+    },
+    {
+        "word": "cut",
+        "meaning": "베인 상처; 상처를 내다, ~을 베다",
+        "bolded": "**cut**"
+    },
+    {
+        "word": "pain",
+        "meaning": "고통",
+        "bolded": "**pain**"
+    },
+    {
+        "word": "medicine",
+        "meaning": "약",
+        "bolded": "**medicine**"
+    },
+    {
+        "word": "virus",
+        "meaning": "바이러스",
+        "bolded": "**virus**"
+    },
+    {
+        "word": "ache",
+        "meaning": "통증, 아픔; 통증이 있다",
+        "bolded": "**ache**"
+    },
+    {
+        "word": "dizzy",
+        "meaning": "어지러운",
+        "bolded": "**dizzy**"
+    },
+    {
+        "word": "disease",
+        "meaning": "병, 질병",
+        "bolded": "**disease**"
+    },
+    {
+        "word": "cancer",
+        "meaning": "암",
+        "bolded": "**cancer**"
+    },
+    {
+        "word": "blind",
+        "meaning": "눈이 먼, 시각 장애의",
+        "bolded": "**blind**"
+    },
+    {
+        "word": "deaf",
+        "meaning": "귀가 먹은, 청각 장애가 있는",
+        "bolded": "**deaf**"
+    },
+    {
+        "word": "patient",
+        "meaning": "환자; 끈기 있는, 참을성 있는",
+        "bolded": "**patient**"
+    },
+    {
+        "word": "cure",
+        "meaning": "치료법; 치료하다",
+        "bolded": "**cure**"
+    },
+    {
+        "word": "relax",
+        "meaning": "쉬게 하다, 편히 쉬다",
+        "bolded": "**relax**"
+    },
+    {
+        "word": "burn",
+        "meaning": "화상; 화상을 입다[입히다], (햇볕에) 타다",
+        "bolded": "**burn**"
+    },
+    {
+        "word": "symptom",
+        "meaning": "증상",
+        "bolded": "**symptom**"
+    },
+    {
+        "word": "wound",
+        "meaning": "상처; 상처를 내다",
+        "bolded": "**wound**"
+    },
+    {
+        "word": "vomit",
+        "meaning": "토하다",
+        "bolded": "**vomit**"
+    },
+    {
+        "word": "sneeze",
+        "meaning": "재채기하다",
+        "bolded": "**sneeze**"
+    },
+    {
+        "word": "bruise",
+        "meaning": "멍, 타박상",
+        "bolded": "**bruise**"
+    },
+    {
+        "word": "examine",
+        "meaning": "진찰하다",
+        "bolded": "**examine**"
+    },
+    {
+        "word": "recover",
+        "meaning": "회복하다",
+        "bolded": "**recover**"
+    },
+    {
+        "word": "prevent",
+        "meaning": "예방하다, 막다",
+        "bolded": "**prevent**"
+    },
+    {
+        "word": "medical",
+        "meaning": "의학의",
+        "bolded": "**medical**"
+    },
+    {
+        "word": "operate",
+        "meaning": "수술하다",
+        "bolded": "**operate**"
+    },
+    {
+        "word": "emergency",
+        "meaning": "비상사태, 응급",
+        "bolded": "**emergency**"
+    },
+    {
+        "word": "catch a cold",
+        "meaning": "감기에 걸리다",
+        "bolded": "**catch a cold**"
+    },
+    {
+        "word": "see a doctor",
+        "meaning": "의사의 진찰을 받다, 병원에 가다",
+        "bolded": "**see a doctor**"
+    }
+]

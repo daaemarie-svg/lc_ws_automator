@@ -1,0 +1,152 @@
+[
+    {
+        "word": "clean",
+        "meaning": "깨끗한; 청소하다, 깨끗이 하다",
+        "bolded": "**clean**"
+    },
+    {
+        "word": "high",
+        "meaning": "높은",
+        "bolded": "**high**"
+    },
+    {
+        "word": "low",
+        "meaning": "낮은",
+        "bolded": "**low**"
+    },
+    {
+        "word": "open",
+        "meaning": "열린; 열다",
+        "bolded": "**open**"
+    },
+    {
+        "word": "heavy",
+        "meaning": "무거운",
+        "bolded": "**heavy**"
+    },
+    {
+        "word": "full",
+        "meaning": "가득 찬; 배부른",
+        "bolded": "**full**"
+    },
+    {
+        "word": "flat",
+        "meaning": "평평한, 편평한",
+        "bolded": "**flat**"
+    },
+    {
+        "word": "dark",
+        "meaning": "어두운",
+        "bolded": "**dark**"
+    },
+    {
+        "word": "deep",
+        "meaning": "깊은",
+        "bolded": "**deep**"
+    },
+    {
+        "word": "round",
+        "meaning": "둥근; 한 바퀴를 도는",
+        "bolded": "**round**"
+    },
+    {
+        "word": "light",
+        "meaning": "가벼운, (양이) 적은; 빛",
+        "bolded": "**light**"
+    },
+    {
+        "word": "famous",
+        "meaning": "유명한",
+        "bolded": "**famous**"
+    },
+    {
+        "word": "colorful",
+        "meaning": "다채로운, 화려한",
+        "bolded": "**colorful**"
+    },
+    {
+        "word": "empty",
+        "meaning": "텅 빈",
+        "bolded": "**empty**"
+    },
+    {
+        "word": "metal",
+        "meaning": "금속",
+        "bolded": "**metal**"
+    },
+    {
+        "word": "plastic",
+        "meaning": "플라스틱의, 비닐의; 성형의",
+        "bolded": "**plastic**"
+    },
+    {
+        "word": "wide",
+        "meaning": "넓은",
+        "bolded": "**wide**"
+    },
+    {
+        "word": "tight",
+        "meaning": "꽉 조이는",
+        "bolded": "**tight**"
+    },
+    {
+        "word": "loose",
+        "meaning": "헐렁한",
+        "bolded": "**loose**"
+    },
+    {
+        "word": "sharp",
+        "meaning": "날카로운",
+        "bolded": "**sharp**"
+    },
+    {
+        "word": "shallow",
+        "meaning": "얕은",
+        "bolded": "**shallow**"
+    },
+    {
+        "word": "oval",
+        "meaning": "달걀 모양, 타원형; 달걀 모양의, 타원형의",
+        "bolded": "**oval**"
+    },
+    {
+        "word": "square",
+        "meaning": "정사각형; 광장; 정사각형의, 사각의",
+        "bolded": "**square**"
+    },
+    {
+        "word": "triangle",
+        "meaning": "삼각형",
+        "bolded": "**triangle**"
+    },
+    {
+        "word": "crack",
+        "meaning": "(갈라진) 틈, 틈새",
+        "bolded": "**crack**"
+    },
+    {
+        "word": "glitter",
+        "meaning": "빛나다",
+        "bolded": "**glitter**"
+    },
+    {
+        "word": "firm",
+        "meaning": "단단한, 굳은; 회사",
+        "bolded": "**firm**"
+    },
+    {
+        "word": "wooden",
+        "meaning": "나무로 만든",
+        "bolded": "**wooden**"
+    },
+    {
+        "word": "be covered with",
+        "meaning": "~으로 덮여 있다",
+        "bolded": "**be covered with**"
+    },
+    {
+        "word": "prefer A to B",
+        "meaning": "B보다 A를 더 선호하다",
+        "bolded": "**prefer A to B**"
+    }
+]

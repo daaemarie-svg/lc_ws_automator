@@ -1,0 +1,152 @@
+[
+    {
+        "word": "earth",
+        "meaning": "지구",
+        "bolded": "**earth**"
+    },
+    {
+        "word": "planet",
+        "meaning": "행성",
+        "bolded": "**planet**"
+    },
+    {
+        "word": "universe",
+        "meaning": "우주",
+        "bolded": "**universe**"
+    },
+    {
+        "word": "solar",
+        "meaning": "태양의",
+        "bolded": "**solar**"
+    },
+    {
+        "word": "lunar",
+        "meaning": "달의",
+        "bolded": "**lunar**"
+    },
+    {
+        "word": "crew",
+        "meaning": "(비행기나 배의) 승무원",
+        "bolded": "**crew**"
+    },
+    {
+        "word": "rocket",
+        "meaning": "로켓; 로켓으로 쏘아 올리다",
+        "bolded": "**rocket**"
+    },
+    {
+        "word": "outer",
+        "meaning": "외부의, 외곽의",
+        "bolded": "**outer**"
+    },
+    {
+        "word": "surface",
+        "meaning": "표면",
+        "bolded": "**surface**"
+    },
+    {
+        "word": "Mercury",
+        "meaning": "수성; 수은",
+        "bolded": "**Mercury**"
+    },
+    {
+        "word": "Venus",
+        "meaning": "금성",
+        "bolded": "**Venus**"
+    },
+    {
+        "word": "Mars",
+        "meaning": "화성",
+        "bolded": "**Mars**"
+    },
+    {
+        "word": "Jupiter",
+        "meaning": "목성",
+        "bolded": "**Jupiter**"
+    },
+    {
+        "word": "Saturn",
+        "meaning": "토성",
+        "bolded": "**Saturn**"
+    },
+    {
+        "word": "ring",
+        "meaning": "고리, 반지",
+        "bolded": "**ring**"
+    },
+    {
+        "word": "comet",
+        "meaning": "혜성",
+        "bolded": "**comet**"
+    },
+    {
+        "word": "telescope",
+        "meaning": "망원경",
+        "bolded": "**telescope**"
+    },
+    {
+        "word": "Milky Way",
+        "meaning": "은하수",
+        "bolded": "**Milky Way**"
+    },
+    {
+        "word": "space shuttle",
+        "meaning": "우주 왕복선",
+        "bolded": "**space shuttle**"
+    },
+    {
+        "word": "space station",
+        "meaning": "우주 정거장",
+        "bolded": "**space station**"
+    },
+    {
+        "word": "eclipse",
+        "meaning": "식(蝕)",
+        "bolded": "**eclipse**"
+    },
+    {
+        "word": "satellite",
+        "meaning": "위성",
+        "bolded": "**satellite**"
+    },
+    {
+        "word": "orbit",
+        "meaning": "궤도; 궤도를 그리며 돌다",
+        "bolded": "**orbit**"
+    },
+    {
+        "word": "galaxy",
+        "meaning": "은하",
+        "bolded": "**galaxy**"
+    },
+    {
+        "word": "astronomy",
+        "meaning": "천문학",
+        "bolded": "**astronomy**"
+    },
+    {
+        "word": "astronomer",
+        "meaning": "천문학자",
+        "bolded": "**astronomer**"
+    },
+    {
+        "word": "Big Bang",
+        "meaning": "빅뱅(우주 생성의 시발이 된 것으로 여겨지는 대폭발)",
+        "bolded": "**Big Bang**"
+    },
+    {
+        "word": "light year",
+        "meaning": "광년(빛이 1년에 나아가는 거리로 약 9조 4670억 킬로미터)",
+        "bolded": "**light year**"
+    },
+    {
+        "word": "far from",
+        "meaning": "~에서 멀리; 전혀 ~이 아닌",
+        "bolded": "**far from**"
+    },
+    {
+        "word": "by chance",
+        "meaning": "우연히, 뜻밖에",
+        "bolded": "**by chance**"
+    }
+]

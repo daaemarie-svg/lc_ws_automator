@@ -1,0 +1,102 @@
+[
+    {
+        "word": "event",
+        "meaning": "사건, 행사",
+        "bolded": "**event**"
+    },
+    {
+        "word": "start",
+        "meaning": "시작하다; 시작",
+        "bolded": "**start**"
+    },
+    {
+        "word": "end",
+        "meaning": "끝나다; 끝, 결말",
+        "bolded": "**end**"
+    },
+    {
+        "word": "enter",
+        "meaning": "들어가다; 참가하다",
+        "bolded": "**enter**"
+    },
+    {
+        "word": "luck",
+        "meaning": "행운, 운",
+        "bolded": "**luck**"
+    },
+    {
+        "word": "important",
+        "meaning": "중요한",
+        "bolded": "**important**"
+    },
+    {
+        "word": "building",
+        "meaning": "건물",
+        "bolded": "**building**"
+    },
+    {
+        "word": "law",
+        "meaning": "법",
+        "bolded": "**law**"
+    },
+    {
+        "word": "history",
+        "meaning": "역사",
+        "bolded": "**history**"
+    },
+    {
+        "word": "hometown",
+        "meaning": "고향",
+        "bolded": "**hometown**"
+    },
+    {
+        "word": "local",
+        "meaning": "지역의, 현지의",
+        "bolded": "**local**"
+    },
+    {
+        "word": "create",
+        "meaning": "창조하다, 만들다",
+        "bolded": "**create**"
+    },
+    {
+        "word": "project",
+        "meaning": "계획; 연구 과제",
+        "bolded": "**project**"
+    },
+    {
+        "word": "citizen",
+        "meaning": "시민, 국민",
+        "bolded": "**citizen**"
+    },
+    {
+        "word": "president",
+        "meaning": "대통령; 회장",
+        "bolded": "**president**"
+    },
+    {
+        "word": "information",
+        "meaning": "정보, 자료",
+        "bolded": "**information**"
+    },
+    {
+        "word": "program",
+        "meaning": "(TV 등의) 프로그램",
+        "bolded": "**program**"
+    },
+    {
+        "word": "traditional",
+        "meaning": "전통적인",
+        "bolded": "**traditional**"
+    },
+    {
+        "word": "ask for",
+        "meaning": "~을 요청[요구]하다",
+        "bolded": "**ask for**"
+    },
+    {
+        "word": "these days",
+        "meaning": "요즘",
+        "bolded": "**these days**"
+    }
+]

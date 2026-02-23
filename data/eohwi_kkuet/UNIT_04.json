@@ -1,0 +1,127 @@
+[
+    {
+        "word": "communicate",
+        "meaning": "[동] 의사소통을 하다, 연락을 주고받다",
+        "bolded": "**communicate**"
+    },
+    {
+        "word": "interact",
+        "meaning": "[동] 1. 상호 작용하다 2. 소통하다, 교류하다",
+        "bolded": "**interact**"
+    },
+    {
+        "word": "mention",
+        "meaning": "[동] 말하다, 언급하다 \n[명] 언급, 진술",
+        "bolded": "**mention**"
+    },
+    {
+        "word": "respond",
+        "meaning": "[동] 1. 대답하다, 응답하다 2. 반응을 보이다",
+        "bolded": "**respond**"
+    },
+    {
+        "word": "react",
+        "meaning": "[동] 반응하다",
+        "bolded": "**react**"
+    },
+    {
+        "word": "whisper",
+        "meaning": "[동] 속삭이다, 귓속말하다 \n[명] 속삭임",
+        "bolded": "**whisper**"
+    },
+    {
+        "word": "announce",
+        "meaning": "[동] 발표하다, 알리다",
+        "bolded": "**announce**"
+    },
+    {
+        "word": "emphasize",
+        "meaning": "[동] 강조하다",
+        "bolded": "**emphasize**"
+    },
+    {
+        "word": "attention",
+        "meaning": "[명] 1. 주의, 주목 2. 관심, 흥미",
+        "bolded": "**attention**"
+    },
+    {
+        "word": "claim",
+        "meaning": "[동] 1. (~이 사실이라고) 주장하다 2. (권리·소유 등을) 요구[요청]하다 3. (보상금 등을) 요청하다 \n[명] 1. 주장 2. 청구",
+        "bolded": "**claim**"
+    },
+    {
+        "word": "insist",
+        "meaning": "[동] ~을 강력히 주장하다, 고집하다",
+        "bolded": "**insist**"
+    },
+    {
+        "word": "debate",
+        "meaning": "[명] 1. 토론, 논의 2. 논쟁\n[동] 토론하다, 논의하다",
+        "bolded": "**debate**"
+    },
+    {
+        "word": "beg",
+        "meaning": "[동] 1. 간청하다, 애원하다 2. 구걸하다",
+        "bolded": "**beg**"
+    },
+    {
+        "word": "persuade",
+        "meaning": "[동] ~을 하도록 설득하다",
+        "bolded": "**persuade**"
+    },
+    {
+        "word": "convince",
+        "meaning": "[동] 1. 납득시키다, 확신시키다 2. 설득하다",
+        "bolded": "**convince**"
+    },
+    {
+        "word": "refuse",
+        "meaning": "[동] 거절하다, 거부하다",
+        "bolded": "**refuse**"
+    },
+    {
+        "word": "blame",
+        "meaning": "[동] 탓하다, 비난하다 \n[명] 책임, 탓",
+        "bolded": "**blame**"
+    },
+    {
+        "word": "admit",
+        "meaning": "[동] 1. 인정하다, 시인하다 2. 허가하다",
+        "bolded": "**admit**"
+    },
+    {
+        "word": "ignore",
+        "meaning": "[동] ~을 무시하다, 못 본 척하다",
+        "bolded": "**ignore**"
+    },
+    {
+        "word": "avoid",
+        "meaning": "[동] 1. (회)피하다 2. 막다, 방지하다",
+        "bolded": "**avoid**"
+    },
+    {
+        "word": "interrupt",
+        "meaning": "[동] 1. 방해하다 2. 중단시키다",
+        "bolded": "**interrupt**"
+    },
+    {
+        "word": "warn",
+        "meaning": "[동] 경고하다, 주의를 주다",
+        "bolded": "**warn**"
+    },
+    {
+        "word": "encourage",
+        "meaning": "[동] 1. 격려하다 2. 권장하다",
+        "bolded": "**encourage**"
+    },
+    {
+        "word": "trust",
+        "meaning": "[명] 신뢰, 믿음 \n[동] 신뢰하다, 믿다",
+        "bolded": "**trust**"
+    },
+    {
+        "word": "pretend",
+        "meaning": "[동] ~인 척하다",
+        "bolded": "**pretend**"
+    }
+]

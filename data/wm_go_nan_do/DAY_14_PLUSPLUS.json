@@ -1,0 +1,342 @@
+[
+    {
+        "word": "champion",
+        "meaning": "챔피언, 우승자; 우승한",
+        "bolded": "**champion**"
+    },
+    {
+        "word": "champ",
+        "meaning": "챔피언, 우승자",
+        "bolded": "**champ**"
+    },
+    {
+        "word": "winner",
+        "meaning": "챔피언, 우승자",
+        "bolded": "**winner**"
+    },
+    {
+        "word": "championship",
+        "meaning": "선수권; (pl.) 선수권 대회",
+        "bolded": "**championship**"
+    },
+    {
+        "word": "match",
+        "meaning": "경기; ~와 대결하다; ~에 어울리다",
+        "bolded": "**match**"
+    },
+    {
+        "word": "game",
+        "meaning": "경기",
+        "bolded": "**game**"
+    },
+    {
+        "word": "competition",
+        "meaning": "경기",
+        "bolded": "**competition**"
+    },
+    {
+        "word": "tournament",
+        "meaning": "토너먼트, 승자 진출전",
+        "bolded": "**tournament**"
+    },
+    {
+        "word": "tourney",
+        "meaning": "토너먼트에 참가하다",
+        "bolded": "**tourney**"
+    },
+    {
+        "word": "rival",
+        "meaning": "경쟁자, 경쟁 상대; ~와 경쟁하다",
+        "bolded": "**rival**"
+    },
+    {
+        "word": "competitor",
+        "meaning": "경쟁자, 경쟁 상대",
+        "bolded": "**competitor**"
+    },
+    {
+        "word": "opponent",
+        "meaning": "경쟁자, 경쟁 상대",
+        "bolded": "**opponent**"
+    },
+    {
+        "word": "rank",
+        "meaning": "(순위를) 매기다; 순위, 계급",
+        "bolded": "**rank**"
+    },
+    {
+        "word": "ranking",
+        "meaning": "순위; 일류의",
+        "bolded": "**ranking**"
+    },
+    {
+        "word": "coach",
+        "meaning": "(스포츠 팀의) 코치, 감독; 코치하다, 지도하다",
+        "bolded": "**coach**"
+    },
+    {
+        "word": "serve",
+        "meaning": "공을 서브하다; (식당·상점에서) 손님을 응대하다",
+        "bolded": "**serve**"
+    },
+    {
+        "word": "service",
+        "meaning": "봉사, 서비스",
+        "bolded": "**service**"
+    },
+    {
+        "word": "glide",
+        "meaning": "미끄러지다, 활주하다; 미끄러짐",
+        "bolded": "**glide**"
+    },
+    {
+        "word": "slide",
+        "meaning": "미끄러짐",
+        "bolded": "**slide**"
+    },
+    {
+        "word": "beat",
+        "meaning": "이기다; 심장이 뛰다",
+        "bolded": "**beat**"
+    },
+    {
+        "word": "compete",
+        "meaning": "경쟁하다, 겨루다",
+        "bolded": "**compete**"
+    },
+    {
+        "word": "competition",
+        "meaning": "경쟁, 대회",
+        "bolded": "**competition**"
+    },
+    {
+        "word": "competitive",
+        "meaning": "경쟁적인",
+        "bolded": "**competitive**"
+    },
+    {
+        "word": "ability",
+        "meaning": "능력, 할 수 있음",
+        "bolded": "**ability**"
+    },
+    {
+        "word": "able",
+        "meaning": "할 수 있는",
+        "bolded": "**able**"
+    },
+    {
+        "word": "leisure",
+        "meaning": "여가, 레저, 자유 시간; 한가한",
+        "bolded": "**leisure**"
+    },
+    {
+        "word": "pastime",
+        "meaning": "취미, 오락",
+        "bolded": "**pastime**"
+    },
+    {
+        "word": "hobby",
+        "meaning": "취미, 오락",
+        "bolded": "**hobby**"
+    },
+    {
+        "word": "outdoor",
+        "meaning": "야외의, 집 밖의",
+        "bolded": "**outdoor**"
+    },
+    {
+        "word": "indoor",
+        "meaning": "실내의, 집 안의",
+        "bolded": "**indoor**"
+    },
+    {
+        "word": "defeat",
+        "meaning": "패배; 패배시키다, 물리치다",
+        "bolded": "**defeat**"
+    },
+    {
+        "word": "amateur",
+        "meaning": "아마추어, 비전문가; 비전문가의",
+        "bolded": "**amateur**"
+    },
+    {
+        "word": "professional",
+        "meaning": "전문가의",
+        "bolded": "**professional**"
+    },
+    {
+        "word": "amateurish",
+        "meaning": "미숙한",
+        "bolded": "**amateurish**"
+    },
+    {
+        "word": "mound",
+        "meaning": "(투수의) 마운드",
+        "bolded": "**mound**"
+    },
+    {
+        "word": "athletic",
+        "meaning": "운동 경기의, 운동선수다운",
+        "bolded": "**athletic**"
+    },
+    {
+        "word": "athlete",
+        "meaning": "운동선수",
+        "bolded": "**athlete**"
+    },
+    {
+        "word": "opponent",
+        "meaning": "적수, 반대자; 반대하는",
+        "bolded": "**opponent**"
+    },
+    {
+        "word": "rival",
+        "meaning": "적수, 반대자",
+        "bolded": "**rival**"
+    },
+    {
+        "word": "competitor",
+        "meaning": "적수, 반대자",
+        "bolded": "**competitor**"
+    },
+    {
+        "word": "oppose",
+        "meaning": "반대하다",
+        "bolded": "**oppose**"
+    },
+    {
+        "word": "referee",
+        "meaning": "(경기·시합의) 심판, 중재자",
+        "bolded": "**referee**"
+    },
+    {
+        "word": "fair",
+        "meaning": "공평한, 정정당당한",
+        "bolded": "**fair**"
+    },
+    {
+        "word": "unfair",
+        "meaning": "불공평한",
+        "bolded": "**unfair**"
+    },
+    {
+        "word": "fairness",
+        "meaning": "공평함",
+        "bolded": "**fairness**"
+    },
+    {
+        "word": "fair play",
+        "meaning": "(규칙을 어기지 않는) 정정당당한 경기 태도, 페어플레이",
+        "bolded": "**fair play**"
+    },
+    {
+        "word": "penalty",
+        "meaning": "(스포츠 경기에서) 벌칙, 페널티; 처벌, 형벌",
+        "bolded": "**penalty**"
+    },
+    {
+        "word": "penal",
+        "meaning": "처벌의, 형벌의",
+        "bolded": "**penal**"
+    },
+    {
+        "word": "foul",
+        "meaning": "반칙하다, 파울을 범하다; 반칙인, 규칙 위반인",
+        "bolded": "**foul**"
+    },
+    {
+        "word": "foully",
+        "meaning": "부정하게",
+        "bolded": "**foully**"
+    },
+    {
+        "word": "outstanding",
+        "meaning": "눈에 띄는, 우수한",
+        "bolded": "**outstanding**"
+    },
+    {
+        "word": "outstand",
+        "meaning": "눈에 띄다",
+        "bolded": "**outstand**"
+    },
+    {
+        "word": "participate",
+        "meaning": "참여하다, 참가하다",
+        "bolded": "**participate**"
+    },
+    {
+        "word": "take part in",
+        "meaning": "참여하다, 참가하다",
+        "bolded": "**take part in**"
+    },
+    {
+        "word": "participation",
+        "meaning": "참가",
+        "bolded": "**participation**"
+    },
+    {
+        "word": "applaud",
+        "meaning": "박수 치다",
+        "bolded": "**applaud**"
+    },
+    {
+        "word": "clap",
+        "meaning": "박수 치다",
+        "bolded": "**clap**"
+    },
+    {
+        "word": "applause",
+        "meaning": "박수갈채",
+        "bolded": "**applause**"
+    },
+    {
+        "word": "encourage",
+        "meaning": "용기를 북돋다, 격려하다",
+        "bolded": "**encourage**"
+    },
+    {
+        "word": "discourage",
+        "meaning": "낙담시키다",
+        "bolded": "**discourage**"
+    },
+    {
+        "word": "encouragement",
+        "meaning": "격려",
+        "bolded": "**encouragement**"
+    },
+    {
+        "word": "extreme",
+        "meaning": "극단적인",
+        "bolded": "**extreme**"
+    },
+    {
+        "word": "extremely",
+        "meaning": "극도로, 매우",
+        "bolded": "**extremely**"
+    },
+    {
+        "word": "extreme sports",
+        "meaning": "극한 스포츠(빠른 스피드와 위험을 즐기는 스포츠)",
+        "bolded": "**extreme sports**"
+    },
+    {
+        "word": "call off",
+        "meaning": "~을 취소하다, 철회하다",
+        "bolded": "**call off**"
+    },
+    {
+        "word": "cancel",
+        "meaning": "~을 취소하다, 철회하다",
+        "bolded": "**cancel**"
+    },
+    {
+        "word": "take place",
+        "meaning": "개최되다, 열리다",
+        "bolded": "**take place**"
+    },
+    {
+        "word": "be held",
+        "meaning": "개최되다, 열리다",
+        "bolded": "**be held**"
+    }
+]

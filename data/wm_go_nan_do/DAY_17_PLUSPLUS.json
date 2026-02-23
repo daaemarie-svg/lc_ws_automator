@@ -1,0 +1,332 @@
+[
+    {
+        "word": "condition",
+        "meaning": "건강 상태, 컨디션; 상황, 조건",
+        "bolded": "**condition**"
+    },
+    {
+        "word": "be in good condition",
+        "meaning": "건강 상태가 좋다",
+        "bolded": "**be in good condition**"
+    },
+    {
+        "word": "chemical",
+        "meaning": "화학 물질; 화학의, 화학적인",
+        "bolded": "**chemical**"
+    },
+    {
+        "word": "digest",
+        "meaning": "소화하다",
+        "bolded": "**digest**"
+    },
+    {
+        "word": "take in",
+        "meaning": "소화하다",
+        "bolded": "**take in**"
+    },
+    {
+        "word": "digestion",
+        "meaning": "소화",
+        "bolded": "**digestion**"
+    },
+    {
+        "word": "disorder",
+        "meaning": "(가벼운) 병, (신체 기능의) 장애[이상]; 무질서, 혼란 (상태)",
+        "bolded": "**disorder**"
+    },
+    {
+        "word": "worsen",
+        "meaning": "악화되다",
+        "bolded": "**worsen**"
+    },
+    {
+        "word": "worse",
+        "meaning": "악화된, 더 심한",
+        "bolded": "**worse**"
+    },
+    {
+        "word": "dental",
+        "meaning": "치아의",
+        "bolded": "**dental**"
+    },
+    {
+        "word": "dental clinic",
+        "meaning": "치과",
+        "bolded": "**dental clinic**"
+    },
+    {
+        "word": "medical",
+        "meaning": "의학의, 의술의, 의료용의",
+        "bolded": "**medical**"
+    },
+    {
+        "word": "medical examination",
+        "meaning": "건강 검진",
+        "bolded": "**medical examination**"
+    },
+    {
+        "word": "mental",
+        "meaning": "정신의, 심적인",
+        "bolded": "**mental**"
+    },
+    {
+        "word": "physical",
+        "meaning": "신체의, 육체의",
+        "bolded": "**physical**"
+    },
+    {
+        "word": "mental illness",
+        "meaning": "정신질환",
+        "bolded": "**mental illness**"
+    },
+    {
+        "word": "recover",
+        "meaning": "회복하다, 되찾다",
+        "bolded": "**recover**"
+    },
+    {
+        "word": "recovery",
+        "meaning": "회복",
+        "bolded": "**recovery**"
+    },
+    {
+        "word": "emergency",
+        "meaning": "비상사태, 위급",
+        "bolded": "**emergency**"
+    },
+    {
+        "word": "crisis",
+        "meaning": "비상사태, 위급",
+        "bolded": "**crisis**"
+    },
+    {
+        "word": "danger",
+        "meaning": "비상사태, 위급",
+        "bolded": "**danger**"
+    },
+    {
+        "word": "emergent",
+        "meaning": "긴급한, 응급의",
+        "bolded": "**emergent**"
+    },
+    {
+        "word": "emergency room (ER)",
+        "meaning": "응급실",
+        "bolded": "**emergency room (ER)**"
+    },
+    {
+        "word": "allergy",
+        "meaning": "알레르기",
+        "bolded": "**allergy**"
+    },
+    {
+        "word": "sensitivity",
+        "meaning": "알레르기",
+        "bolded": "**sensitivity**"
+    },
+    {
+        "word": "allergic",
+        "meaning": "알레르기의",
+        "bolded": "**allergic**"
+    },
+    {
+        "word": "joint",
+        "meaning": "관절, 접합",
+        "bolded": "**joint**"
+    },
+    {
+        "word": "spine",
+        "meaning": "척추, 등뼈",
+        "bolded": "**spine**"
+    },
+    {
+        "word": "backbone",
+        "meaning": "척추, 등뼈",
+        "bolded": "**backbone**"
+    },
+    {
+        "word": "sight",
+        "meaning": "시각, 시력",
+        "bolded": "**sight**"
+    },
+    {
+        "word": "vision",
+        "meaning": "시각, 시력",
+        "bolded": "**vision**"
+    },
+    {
+        "word": "eyesight",
+        "meaning": "시각, 시력",
+        "bolded": "**eyesight**"
+    },
+    {
+        "word": "have good sight",
+        "meaning": "시력이 좋다",
+        "bolded": "**have good sight**"
+    },
+    {
+        "word": "pulse",
+        "meaning": "맥박, 고동",
+        "bolded": "**pulse**"
+    },
+    {
+        "word": "infection",
+        "meaning": "감염, 전염(병)",
+        "bolded": "**infection**"
+    },
+    {
+        "word": "infect",
+        "meaning": "감염시키다",
+        "bolded": "**infect**"
+    },
+    {
+        "word": "infectious",
+        "meaning": "전염성의",
+        "bolded": "**infectious**"
+    },
+    {
+        "word": "sanitary",
+        "meaning": "위생의, 위생적인, 깨끗한",
+        "bolded": "**sanitary**"
+    },
+    {
+        "word": "insanitary",
+        "meaning": "비위생적인",
+        "bolded": "**insanitary**"
+    },
+    {
+        "word": "sanitate",
+        "meaning": "위생적으로 하다",
+        "bolded": "**sanitate**"
+    },
+    {
+        "word": "symptom",
+        "meaning": "징후, 증상",
+        "bolded": "**symptom**"
+    },
+    {
+        "word": "sign",
+        "meaning": "징후, 증상",
+        "bolded": "**sign**"
+    },
+    {
+        "word": "mark",
+        "meaning": "징후, 증상",
+        "bolded": "**mark**"
+    },
+    {
+        "word": "disabled",
+        "meaning": "장애를 입은, 장애의",
+        "bolded": "**disabled**"
+    },
+    {
+        "word": "physically challenged",
+        "meaning": "장애를 입은, 장애의",
+        "bolded": "**physically challenged**"
+    },
+    {
+        "word": "disability",
+        "meaning": "장애",
+        "bolded": "**disability**"
+    },
+    {
+        "word": "inject",
+        "meaning": "주사하다, 투여하다",
+        "bolded": "**inject**"
+    },
+    {
+        "word": "injection",
+        "meaning": "주사",
+        "bolded": "**injection**"
+    },
+    {
+        "word": "prescribe",
+        "meaning": "처방하다",
+        "bolded": "**prescribe**"
+    },
+    {
+        "word": "prescription",
+        "meaning": "처방",
+        "bolded": "**prescription**"
+    },
+    {
+        "word": "tablet",
+        "meaning": "알약, 정제",
+        "bolded": "**tablet**"
+    },
+    {
+        "word": "wound",
+        "meaning": "상처, 부상; 상처입히다, 상하게 하다",
+        "bolded": "**wound**"
+    },
+    {
+        "word": "injure",
+        "meaning": "상처를 입히다, 다치게 하다",
+        "bolded": "**injure**"
+    },
+    {
+        "word": "injury",
+        "meaning": "상처",
+        "bolded": "**injury**"
+    },
+    {
+        "word": "heal",
+        "meaning": "치유되다, 치료하다, 고치다",
+        "bolded": "**heal**"
+    },
+    {
+        "word": "get well",
+        "meaning": "치유되다, 치료하다, 고치다",
+        "bolded": "**get well**"
+    },
+    {
+        "word": "get better",
+        "meaning": "치유되다, 치료하다, 고치다",
+        "bolded": "**get better**"
+    },
+    {
+        "word": "heal up",
+        "meaning": "상처가 완치되다",
+        "bolded": "**heal up**"
+    },
+    {
+        "word": "immune",
+        "meaning": "면역의",
+        "bolded": "**immune**"
+    },
+    {
+        "word": "immunity",
+        "meaning": "면역",
+        "bolded": "**immunity**"
+    },
+    {
+        "word": "strain",
+        "meaning": "긴장, 큰 부담; 긴장시키다, (발목을) 접질리다",
+        "bolded": "**strain**"
+    },
+    {
+        "word": "strain oneself",
+        "meaning": "무리하다, 무리하여 건강을 해치다",
+        "bolded": "**strain oneself**"
+    },
+    {
+        "word": "bruise",
+        "meaning": "멍, 타박상, 좌상; 타박상을 입히다",
+        "bolded": "**bruise**"
+    },
+    {
+        "word": "get a bruise",
+        "meaning": "타박상을 입다",
+        "bolded": "**get a bruise**"
+    },
+    {
+        "word": "come down with",
+        "meaning": "~의 병에 걸리다",
+        "bolded": "**come down with**"
+    },
+    {
+        "word": "ease off",
+        "meaning": "누그러지다, 완화되다[시키다]",
+        "bolded": "**ease off**"
+    }
+]

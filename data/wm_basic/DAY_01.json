@@ -1,0 +1,102 @@
+[
+    {
+        "word": "name",
+        "meaning": "이름",
+        "bolded": "**name**"
+    },
+    {
+        "word": "boy",
+        "meaning": "소년, 남자아이",
+        "bolded": "**boy**"
+    },
+    {
+        "word": "girl",
+        "meaning": "소녀, 여자아이",
+        "bolded": "**girl**"
+    },
+    {
+        "word": "baby",
+        "meaning": "아기",
+        "bolded": "**baby**"
+    },
+    {
+        "word": "man",
+        "meaning": "(성인) 남자, 남성",
+        "bolded": "**man**"
+    },
+    {
+        "word": "woman",
+        "meaning": "(성인) 여자, 여성",
+        "bolded": "**woman**"
+    },
+    {
+        "word": "age",
+        "meaning": "나이",
+        "bolded": "**age**"
+    },
+    {
+        "word": "dear",
+        "meaning": "사랑하는, 소중한",
+        "bolded": "**dear**"
+    },
+    {
+        "word": "child",
+        "meaning": "아이, 어린이",
+        "bolded": "**child**"
+    },
+    {
+        "word": "teenager",
+        "meaning": "십 대",
+        "bolded": "**teenager**"
+    },
+    {
+        "word": "adult",
+        "meaning": "성인, 어른",
+        "bolded": "**adult**"
+    },
+    {
+        "word": "someone",
+        "meaning": "누군가, 어떤 사람",
+        "bolded": "**someone**"
+    },
+    {
+        "word": "everyone",
+        "meaning": "모두, 모든 사람",
+        "bolded": "**everyone**"
+    },
+    {
+        "word": "lady",
+        "meaning": "여성, 숙녀, 부인",
+        "bolded": "**lady**"
+    },
+    {
+        "word": "gentleman",
+        "meaning": "신사, 양반",
+        "bolded": "**gentleman**"
+    },
+    {
+        "word": "person",
+        "meaning": "사람, 개인",
+        "bolded": "**person**"
+    },
+    {
+        "word": "people",
+        "meaning": "사람들",
+        "bolded": "**people**"
+    },
+    {
+        "word": "own",
+        "meaning": "자기 자신의",
+        "bolded": "**own**"
+    },
+    {
+        "word": "each other",
+        "meaning": "서로",
+        "bolded": "**each other**"
+    },
+    {
+        "word": "be[come] from",
+        "meaning": "~출신이다, ~에서 오다",
+        "bolded": "**be[come] from**"
+    }
+]

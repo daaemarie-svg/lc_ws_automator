@@ -1,0 +1,102 @@
+[
+    {
+        "word": "salt",
+        "meaning": "소금",
+        "bolded": "**salt**"
+    },
+    {
+        "word": "sugar",
+        "meaning": "설탕",
+        "bolded": "**sugar**"
+    },
+    {
+        "word": "meat",
+        "meaning": "고기",
+        "bolded": "**meat**"
+    },
+    {
+        "word": "snack",
+        "meaning": "간단한 식사, 간식",
+        "bolded": "**snack**"
+    },
+    {
+        "word": "fresh",
+        "meaning": "신선한, 상쾌한",
+        "bolded": "**fresh**"
+    },
+    {
+        "word": "sauce",
+        "meaning": "소스, 양념",
+        "bolded": "**sauce**"
+    },
+    {
+        "word": "rice",
+        "meaning": "쌀, 밥",
+        "bolded": "**rice**"
+    },
+    {
+        "word": "bottle",
+        "meaning": "병",
+        "bolded": "**bottle**"
+    },
+    {
+        "word": "heat",
+        "meaning": "가열하다; 열기",
+        "bolded": "**heat**"
+    },
+    {
+        "word": "bake",
+        "meaning": "굽다",
+        "bolded": "**bake**"
+    },
+    {
+        "word": "meal",
+        "meaning": "식사, 끼니",
+        "bolded": "**meal**"
+    },
+    {
+        "word": "cook",
+        "meaning": "요리하다; 요리사",
+        "bolded": "**cook**"
+    },
+    {
+        "word": "mix",
+        "meaning": "섞다, 혼합하다",
+        "bolded": "**mix**"
+    },
+    {
+        "word": "pour",
+        "meaning": "붓다, 따르다",
+        "bolded": "**pour**"
+    },
+    {
+        "word": "melt",
+        "meaning": "녹다, 녹이다",
+        "bolded": "**melt**"
+    },
+    {
+        "word": "delicious",
+        "meaning": "아주 맛있는",
+        "bolded": "**delicious**"
+    },
+    {
+        "word": "freeze",
+        "meaning": "얼다, 얼리다",
+        "bolded": "**freeze**"
+    },
+    {
+        "word": "recipe",
+        "meaning": "요리법, 레시피",
+        "bolded": "**recipe**"
+    },
+    {
+        "word": "such as",
+        "meaning": "~와 같은",
+        "bolded": "**such as**"
+    },
+    {
+        "word": "do the dishes",
+        "meaning": "설거지를 하다",
+        "bolded": "**do the dishes**"
+    }
+]

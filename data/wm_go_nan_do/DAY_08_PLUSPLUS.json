@@ -1,0 +1,367 @@
+[
+    {
+        "word": "educate",
+        "meaning": "교육하다",
+        "bolded": "**educate**"
+    },
+    {
+        "word": "education",
+        "meaning": "교육",
+        "bolded": "**education**"
+    },
+    {
+        "word": "educator",
+        "meaning": "교육자, 교사",
+        "bolded": "**educator**"
+    },
+    {
+        "word": "instruct",
+        "meaning": "교육하다, 가르치다; 지시하다",
+        "bolded": "**instruct**"
+    },
+    {
+        "word": "teach",
+        "meaning": "교육하다, 가르치다",
+        "bolded": "**teach**"
+    },
+    {
+        "word": "instructive",
+        "meaning": "교육적인, 유익한",
+        "bolded": "**instructive**"
+    },
+    {
+        "word": "lecture",
+        "meaning": "강의; 훈계; 강의하다; 훈계하다",
+        "bolded": "**lecture**"
+    },
+    {
+        "word": "due",
+        "meaning": "기일이 다 된",
+        "bolded": "**due**"
+    },
+    {
+        "word": "due date",
+        "meaning": "예정일, 마감일",
+        "bolded": "**due date**"
+    },
+    {
+        "word": "term",
+        "meaning": "학기; 기간; 용어",
+        "bolded": "**term**"
+    },
+    {
+        "word": "period",
+        "meaning": "기간",
+        "bolded": "**period**"
+    },
+    {
+        "word": "word",
+        "meaning": "용어",
+        "bolded": "**word**"
+    },
+    {
+        "word": "midterm",
+        "meaning": "(학기·임기 등의) 중간의",
+        "bolded": "**midterm**"
+    },
+    {
+        "word": "term paper",
+        "meaning": "학기말 과제",
+        "bolded": "**term paper**"
+    },
+    {
+        "word": "examine",
+        "meaning": "(지식·자격 등을) 시험하다; 검사[조사]하다; 진찰하다",
+        "bolded": "**examine**"
+    },
+    {
+        "word": "test",
+        "meaning": "(지식·자격 등을) 시험하다",
+        "bolded": "**test**"
+    },
+    {
+        "word": "examination",
+        "meaning": "시험, 조사",
+        "bolded": "**examination**"
+    },
+    {
+        "word": "award",
+        "meaning": "상; 상을 주다",
+        "bolded": "**award**"
+    },
+    {
+        "word": "prize",
+        "meaning": "상",
+        "bolded": "**prize**"
+    },
+    {
+        "word": "multiply",
+        "meaning": "곱하다; 증식하다, 증식시키다",
+        "bolded": "**multiply**"
+    },
+    {
+        "word": "increase",
+        "meaning": "증식하다, 증식시키다",
+        "bolded": "**increase**"
+    },
+    {
+        "word": "multiplication",
+        "meaning": "곱셈; 증식",
+        "bolded": "**multiplication**"
+    },
+    {
+        "word": "calculate",
+        "meaning": "계산하다",
+        "bolded": "**calculate**"
+    },
+    {
+        "word": "miscalculate",
+        "meaning": "잘못 계산하다",
+        "bolded": "**miscalculate**"
+    },
+    {
+        "word": "calculation",
+        "meaning": "계산",
+        "bolded": "**calculation**"
+    },
+    {
+        "word": "calculator",
+        "meaning": "계산기",
+        "bolded": "**calculator**"
+    },
+    {
+        "word": "memorize",
+        "meaning": "기억하다, 암기하다",
+        "bolded": "**memorize**"
+    },
+    {
+        "word": "memory",
+        "meaning": "기억(력), 추억",
+        "bolded": "**memory**"
+    },
+    {
+        "word": "institute",
+        "meaning": "(교육·연구 등을 위한) 협회, 연구소, 대학",
+        "bolded": "**institute**"
+    },
+    {
+        "word": "institution",
+        "meaning": "학회; 제도",
+        "bolded": "**institution**"
+    },
+    {
+        "word": "laboratory",
+        "meaning": "실험실, 연구실",
+        "bolded": "**laboratory**"
+    },
+    {
+        "word": "lab",
+        "meaning": "실험실, 연구실",
+        "bolded": "**lab**"
+    },
+    {
+        "word": "dormitory",
+        "meaning": "기숙사",
+        "bolded": "**dormitory**"
+    },
+    {
+        "word": "dorm",
+        "meaning": "기숙사",
+        "bolded": "**dorm**"
+    },
+    {
+        "word": "dormitory dean",
+        "meaning": "사감",
+        "bolded": "**dormitory dean**"
+    },
+    {
+        "word": "principal",
+        "meaning": "(학교 등의) 장; 주된",
+        "bolded": "**principal**"
+    },
+    {
+        "word": "head teacher",
+        "meaning": "(학교 등의) 장",
+        "bolded": "**head teacher**"
+    },
+    {
+        "word": "main",
+        "meaning": "주된",
+        "bolded": "**main**"
+    },
+    {
+        "word": "aisle",
+        "meaning": "(교실·극장·버스 등의) 통로, 복도",
+        "bolded": "**aisle**"
+    },
+    {
+        "word": "semester",
+        "meaning": "학기",
+        "bolded": "**semester**"
+    },
+    {
+        "word": "absent",
+        "meaning": "결석한, 불참한",
+        "bolded": "**absent**"
+    },
+    {
+        "word": "present",
+        "meaning": "출석한",
+        "bolded": "**present**"
+    },
+    {
+        "word": "absence",
+        "meaning": "결석",
+        "bolded": "**absence**"
+    },
+    {
+        "word": "attendance",
+        "meaning": "출석, 참석",
+        "bolded": "**attendance**"
+    },
+    {
+        "word": "attend",
+        "meaning": "출석하다",
+        "bolded": "**attend**"
+    },
+    {
+        "word": "take attendance",
+        "meaning": "출석을 점검하다",
+        "bolded": "**take attendance**"
+    },
+    {
+        "word": "motivate",
+        "meaning": "동기를 부여하다",
+        "bolded": "**motivate**"
+    },
+    {
+        "word": "inspire",
+        "meaning": "동기를 부여하다",
+        "bolded": "**inspire**"
+    },
+    {
+        "word": "motivation",
+        "meaning": "동기 부여",
+        "bolded": "**motivation**"
+    },
+    {
+        "word": "attitude",
+        "meaning": "태도, 마음가짐",
+        "bolded": "**attitude**"
+    },
+    {
+        "word": "eager",
+        "meaning": "열성적인, 간절히 ~하고자 하는",
+        "bolded": "**eager**"
+    },
+    {
+        "word": "keen",
+        "meaning": "열성적인, 간절히 ~하고자 하는",
+        "bolded": "**keen**"
+    },
+    {
+        "word": "eagerness",
+        "meaning": "열의",
+        "bolded": "**eagerness**"
+    },
+    {
+        "word": "eagerly",
+        "meaning": "열심히, 간절히",
+        "bolded": "**eagerly**"
+    },
+    {
+        "word": "entrance",
+        "meaning": "입학; 입장; 입구",
+        "bolded": "**entrance**"
+    },
+    {
+        "word": "exit",
+        "meaning": "출구",
+        "bolded": "**exit**"
+    },
+    {
+        "word": "enter",
+        "meaning": "들어가다",
+        "bolded": "**enter**"
+    },
+    {
+        "word": "entrance fee",
+        "meaning": "입장료",
+        "bolded": "**entrance fee**"
+    },
+    {
+        "word": "submit",
+        "meaning": "제출하다; (어쩔 수 없이) 따르다, 굴복하다",
+        "bolded": "**submit**"
+    },
+    {
+        "word": "hand in",
+        "meaning": "제출하다",
+        "bolded": "**hand in**"
+    },
+    {
+        "word": "submission",
+        "meaning": "복종, 순종",
+        "bolded": "**submission**"
+    },
+    {
+        "word": "portfolio",
+        "meaning": "(그림·사진 등의) 작품 모음, 포트폴리오",
+        "bolded": "**portfolio**"
+    },
+    {
+        "word": "peer",
+        "meaning": "(나이·신분 등이) 동등한 사람, 또래",
+        "bolded": "**peer**"
+    },
+    {
+        "word": "scholarship",
+        "meaning": "장학금",
+        "bolded": "**scholarship**"
+    },
+    {
+        "word": "grant",
+        "meaning": "장학금",
+        "bolded": "**grant**"
+    },
+    {
+        "word": "scholar",
+        "meaning": "학자",
+        "bolded": "**scholar**"
+    },
+    {
+        "word": "scholastic",
+        "meaning": "학교의, 학자의",
+        "bolded": "**scholastic**"
+    },
+    {
+        "word": "grant",
+        "meaning": "장학금; 주다; 허가하다",
+        "bolded": "**grant**"
+    },
+    {
+        "word": "give",
+        "meaning": "주다",
+        "bolded": "**give**"
+    },
+    {
+        "word": "grantee",
+        "meaning": "장학금 수혜자",
+        "bolded": "**grantee**"
+    },
+    {
+        "word": "get along with",
+        "meaning": "~와 잘 지내다",
+        "bolded": "**get along with**"
+    },
+    {
+        "word": "catch up with",
+        "meaning": "(정도나 수준이 앞선 것을) 따라잡다, 만회하다; (먼저 간 사람을) 따라잡다",
+        "bolded": "**catch up with**"
+    },
+    {
+        "word": "drop out (of)",
+        "meaning": "중퇴하다; 빠지다, 손을 떼다",
+        "bolded": "**drop out (of)**"
+    }
+]

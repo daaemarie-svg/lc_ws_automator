@@ -1,0 +1,127 @@
+[
+    {
+        "word": "figure",
+        "meaning": "[명] 1. 수치, 숫자 2. 인물 3. 모습",
+        "bolded": "**figure**"
+    },
+    {
+        "word": "plural",
+        "meaning": "[형] 복수의",
+        "bolded": "**plural**"
+    },
+    {
+        "word": "volume",
+        "meaning": "[명] 1. 음량 2. 양, 분량",
+        "bolded": "**volume**"
+    },
+    {
+        "word": "quantity",
+        "meaning": "[명] 양, 수량",
+        "bolded": "**quantity**"
+    },
+    {
+        "word": "calculate",
+        "meaning": "[동] 계산하다",
+        "bolded": "**calculate**"
+    },
+    {
+        "word": "random",
+        "meaning": "[형] 임의의, 무작위의",
+        "bolded": "**random**"
+    },
+    {
+        "word": "plenty",
+        "meaning": "[대] 많은 양[수]\n[명] 풍부함\n[형] 많은, 풍부한",
+        "bolded": "**plenty**"
+    },
+    {
+        "word": "sufficient",
+        "meaning": "[형] 충분한",
+        "bolded": "**sufficient**"
+    },
+    {
+        "word": "maximum",
+        "meaning": "[형] 최고의, 최대의\n[명] 최고, 최대",
+        "bolded": "**maximum**"
+    },
+    {
+        "word": "least",
+        "meaning": "[명] 최소\n[형] 가장 적은",
+        "bolded": "**least**"
+    },
+    {
+        "word": "less",
+        "meaning": "[형] 더 적은, 덜한",
+        "bolded": "**less**"
+    },
+    {
+        "word": "none",
+        "meaning": "[대] 아무것도[아무도, 조금도] ~않다",
+        "bolded": "**none**"
+    },
+    {
+        "word": "dozen",
+        "meaning": "[명] 12개",
+        "bolded": "**dozen**"
+    },
+    {
+        "word": "several",
+        "meaning": "[형] 몇몇의",
+        "bolded": "**several**"
+    },
+    {
+        "word": "single",
+        "meaning": "[명] 독신\n[형] 1. 하나의, 한 개의 2. 1인용의",
+        "bolded": "**single**"
+    },
+    {
+        "word": "quarter",
+        "meaning": "[명] 1. 4분의 1 2. 15분 3. 사분기 ((1년을 넷으로 나눈 기간 중 하나))",
+        "bolded": "**quarter**"
+    },
+    {
+        "word": "section",
+        "meaning": "[명] 부분, 부문",
+        "bolded": "**section**"
+    },
+    {
+        "word": "percent",
+        "meaning": "[명] 백분율, 퍼센트",
+        "bolded": "**percent**"
+    },
+    {
+        "word": "rate",
+        "meaning": "[명] 1. 비율 2. 속도 3. 요금\n[동] 평가하다",
+        "bolded": "**rate**"
+    },
+    {
+        "word": "total",
+        "meaning": "[형] 총, 전체의",
+        "bolded": "**total**"
+    },
+    {
+        "word": "whole",
+        "meaning": "[형] 1. 전체의, 모든 2. 통째로 된\n[명] 전체",
+        "bolded": "**whole**"
+    },
+    {
+        "word": "entire",
+        "meaning": "[형] 전체의, 완전한",
+        "bolded": "**entire**"
+    },
+    {
+        "word": "average",
+        "meaning": "[형] 평균의\n[명] 평균",
+        "bolded": "**average**"
+    },
+    {
+        "word": "balance",
+        "meaning": "[명] 1. 균형, 평형 2. 잔고, 잔액\n[동] 균형을 잡다",
+        "bolded": "**balance**"
+    },
+    {
+        "word": "equal",
+        "meaning": "[형] 1. 같은, 동일한 2. 평등한",
+        "bolded": "**equal**"
+    }
+]

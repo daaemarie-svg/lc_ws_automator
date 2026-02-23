@@ -1,0 +1,102 @@
+[
+    {
+        "word": "teacher",
+        "meaning": "교사, 선생",
+        "bolded": "**teacher**"
+    },
+    {
+        "word": "student",
+        "meaning": "학생",
+        "bolded": "**student**"
+    },
+    {
+        "word": "test",
+        "meaning": "시험; 검사, 실험",
+        "bolded": "**test**"
+    },
+    {
+        "word": "library",
+        "meaning": "도서관",
+        "bolded": "**library**"
+    },
+    {
+        "word": "playground",
+        "meaning": "운동장, 놀이터",
+        "bolded": "**playground**"
+    },
+    {
+        "word": "gym",
+        "meaning": "체육관",
+        "bolded": "**gym**"
+    },
+    {
+        "word": "contest",
+        "meaning": "대회, 콘테스트",
+        "bolded": "**contest**"
+    },
+    {
+        "word": "follow",
+        "meaning": "따르다, 따라가다",
+        "bolded": "**follow**"
+    },
+    {
+        "word": "school uniform",
+        "meaning": "교복",
+        "bolded": "**school uniform**"
+    },
+    {
+        "word": "hall",
+        "meaning": "복도, 홀, 강당",
+        "bolded": "**hall**"
+    },
+    {
+        "word": "cafeteria",
+        "meaning": "구내식당, 카페테리아",
+        "bolded": "**cafeteria**"
+    },
+    {
+        "word": "locker",
+        "meaning": "사물함",
+        "bolded": "**locker**"
+    },
+    {
+        "word": "homeroom",
+        "meaning": "홈룸, 출석 반",
+        "bolded": "**homeroom**"
+    },
+    {
+        "word": "grade",
+        "meaning": "성적; 학년",
+        "bolded": "**grade**"
+    },
+    {
+        "word": "teach",
+        "meaning": "가르치다",
+        "bolded": "**teach**"
+    },
+    {
+        "word": "learn",
+        "meaning": "배우다",
+        "bolded": "**learn**"
+    },
+    {
+        "word": "subject",
+        "meaning": "과목",
+        "bolded": "**subject**"
+    },
+    {
+        "word": "borrow",
+        "meaning": "빌리다",
+        "bolded": "**borrow**"
+    },
+    {
+        "word": "make friends (with)",
+        "meaning": "(~와) 친구가 되다, 친해지다",
+        "bolded": "**make friends (with)**"
+    },
+    {
+        "word": "after school",
+        "meaning": "방과 후에",
+        "bolded": "**after school**"
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "word": "vehicle",
+        "meaning": "[명] 탈것, 차량",
+        "bolded": "**vehicle**"
+    },
+    {
+        "word": "automobile",
+        "meaning": "[명] 자동차",
+        "bolded": "**automobile**"
+    },
+    {
+        "word": "rail",
+        "meaning": "[명] 1. 기차, 철도 2. 난간",
+        "bolded": "**rail**"
+    },
+    {
+        "word": "aircraft",
+        "meaning": "[명] 항공기",
+        "bolded": "**aircraft**"
+    },
+    {
+        "word": "path",
+        "meaning": "[명] 길, 통로, 오솔길",
+        "bolded": "**path**"
+    },
+    {
+        "word": "route",
+        "meaning": "[명] 길, 노선, 경로",
+        "bolded": "**route**"
+    },
+    {
+        "word": "track",
+        "meaning": "[명] 1. 길 2. (기차) 선로 3. 경주로, 트랙",
+        "bolded": "**track**"
+    },
+    {
+        "word": "avenue",
+        "meaning": "[명] 대로, 거리, (거리 이름으로) -가",
+        "bolded": "**avenue**"
+    },
+    {
+        "word": "curve",
+        "meaning": "[명] 곡선, 커브",
+        "bolded": "**curve**"
+    },
+    {
+        "word": "crosswalk",
+        "meaning": "[명] 횡단보도",
+        "bolded": "**crosswalk**"
+    },
+    {
+        "word": "pedestrian",
+        "meaning": "[명] 보행자",
+        "bolded": "**pedestrian**"
+    },
+    {
+        "word": "sidewalk",
+        "meaning": "[명] 보도, 인도",
+        "bolded": "**sidewalk**"
+    },
+    {
+        "word": "extend",
+        "meaning": "[동] 1. 연장하다 2. 확장하다",
+        "bolded": "**extend**"
+    },
+    {
+        "word": "complicate",
+        "meaning": "[동] 복잡하게 하다, 어렵게 만들다",
+        "bolded": "**complicate**"
+    },
+    {
+        "word": "rush",
+        "meaning": "[동] 서두르다, 돌진하다\n[명] 1. 돌진 2. 혼잡",
+        "bolded": "**rush**"
+    },
+    {
+        "word": "transfer",
+        "meaning": "[동] 1. 옮기다, 이동하다 2. 갈아타다 \n[명] 이동",
+        "bolded": "**transfer**"
+    },
+    {
+        "word": "transport",
+        "meaning": "[동] 수송하다, ~을 운반하다",
+        "bolded": "**transport**"
+    },
+    {
+        "word": "load",
+        "meaning": "[동] (많이) 싣다, 태우다\n[명] (많은 양의) 짐",
+        "bolded": "**load**"
+    },
+    {
+        "word": "passenger",
+        "meaning": "[명] 승객, 여객",
+        "bolded": "**passenger**"
+    },
+    {
+        "word": "aboard",
+        "meaning": "[부] [전] (배·기차·비행기 등에) 탄, 탑승한",
+        "bolded": "**aboard**"
+    },
+    {
+        "word": "intersection",
+        "meaning": "[명] 교차로",
+        "bolded": "**intersection**"
+    },
+    {
+        "word": "license",
+        "meaning": "[명] 면허, 면허증",
+        "bolded": "**license**"
+    },
+    {
+        "word": "fasten",
+        "meaning": "[동] 1. (벨트 등을) 매다, 채우다 2. 잠그다",
+        "bolded": "**fasten**"
+    },
+    {
+        "word": "pace",
+        "meaning": "[명] 속도",
+        "bolded": "**pace**"
+    },
+    {
+        "word": "destination",
+        "meaning": "[명] 목적지, 도착지",
+        "bolded": "**destination**"
+    }
+]

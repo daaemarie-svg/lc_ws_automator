@@ -1,0 +1,302 @@
+[
+    {
+        "word": "astronaut",
+        "meaning": "우주 비행사",
+        "bolded": "**astronaut**"
+    },
+    {
+        "word": "solar",
+        "meaning": "태양의",
+        "bolded": "**solar**"
+    },
+    {
+        "word": "solar system",
+        "meaning": "태양계",
+        "bolded": "**solar system**"
+    },
+    {
+        "word": "lunar",
+        "meaning": "달의",
+        "bolded": "**lunar**"
+    },
+    {
+        "word": "remote",
+        "meaning": "먼; 외진",
+        "bolded": "**remote**"
+    },
+    {
+        "word": "benefit",
+        "meaning": "이익",
+        "bolded": "**benefit**"
+    },
+    {
+        "word": "advantage",
+        "meaning": "이익",
+        "bolded": "**advantage**"
+    },
+    {
+        "word": "efficiency",
+        "meaning": "효율, 능률",
+        "bolded": "**efficiency**"
+    },
+    {
+        "word": "effectiveness",
+        "meaning": "효율, 능률",
+        "bolded": "**effectiveness**"
+    },
+    {
+        "word": "efficient",
+        "meaning": "능률적인",
+        "bolded": "**efficient**"
+    },
+    {
+        "word": "enable",
+        "meaning": "할 수 있게 하다, 가능하게 하다",
+        "bolded": "**enable**"
+    },
+    {
+        "word": "discover",
+        "meaning": "발견하다",
+        "bolded": "**discover**"
+    },
+    {
+        "word": "find out",
+        "meaning": "발견하다",
+        "bolded": "**find out**"
+    },
+    {
+        "word": "discovery",
+        "meaning": "발견",
+        "bolded": "**discovery**"
+    },
+    {
+        "word": "observe",
+        "meaning": "관찰하다; (규칙 등을) 따르다, 준수하다",
+        "bolded": "**observe**"
+    },
+    {
+        "word": "watch",
+        "meaning": "관찰하다",
+        "bolded": "**watch**"
+    },
+    {
+        "word": "observe the principle",
+        "meaning": "원칙을 지키다",
+        "bolded": "**observe the principle**"
+    },
+    {
+        "word": "digital",
+        "meaning": "디지털의",
+        "bolded": "**digital**"
+    },
+    {
+        "word": "digital age",
+        "meaning": "디지털 시대",
+        "bolded": "**digital age**"
+    },
+    {
+        "word": "shuttle",
+        "meaning": "우주 왕복선; 왕복하다",
+        "bolded": "**shuttle**"
+    },
+    {
+        "word": "astronomer",
+        "meaning": "천문학자",
+        "bolded": "**astronomer**"
+    },
+    {
+        "word": "astronomy",
+        "meaning": "천문학",
+        "bolded": "**astronomy**"
+    },
+    {
+        "word": "orbit",
+        "meaning": "궤도",
+        "bolded": "**orbit**"
+    },
+    {
+        "word": "orbital",
+        "meaning": "궤도의",
+        "bolded": "**orbital**"
+    },
+    {
+        "word": "galaxy",
+        "meaning": "은하, 은하계",
+        "bolded": "**galaxy**"
+    },
+    {
+        "word": "rotate",
+        "meaning": "회전하다[시키다]; 교대하다",
+        "bolded": "**rotate**"
+    },
+    {
+        "word": "revolve",
+        "meaning": "회전하다[시키다]",
+        "bolded": "**revolve**"
+    },
+    {
+        "word": "rotation",
+        "meaning": "회전",
+        "bolded": "**rotation**"
+    },
+    {
+        "word": "satellite",
+        "meaning": "위성, 인공위성",
+        "bolded": "**satellite**"
+    },
+    {
+        "word": "launch",
+        "meaning": "발사하다, 쏘아 올리다; 출시하다",
+        "bolded": "**launch**"
+    },
+    {
+        "word": "lunar",
+        "meaning": "달의",
+        "bolded": "**lunar**"
+    },
+    {
+        "word": "lunar new year’s day",
+        "meaning": "음력설",
+        "bolded": "**lunar new year’s day**"
+    },
+    {
+        "word": "lunar calendar",
+        "meaning": "음력",
+        "bolded": "**lunar calendar**"
+    },
+    {
+        "word": "electronic",
+        "meaning": "전자의",
+        "bolded": "**electronic**"
+    },
+    {
+        "word": "eclipse",
+        "meaning": "(해·달의) 식(蝕); 무색하게[빛을 잃게] 하다",
+        "bolded": "**eclipse**"
+    },
+    {
+        "word": "total eclipse",
+        "meaning": "개기식",
+        "bolded": "**total eclipse**"
+    },
+    {
+        "word": "lunar eclipse",
+        "meaning": "월식",
+        "bolded": "**lunar eclipse**"
+    },
+    {
+        "word": "solar eclipse",
+        "meaning": "일식",
+        "bolded": "**solar eclipse**"
+    },
+    {
+        "word": "gravity",
+        "meaning": "중력",
+        "bolded": "**gravity**"
+    },
+    {
+        "word": "gravitation",
+        "meaning": "중력",
+        "bolded": "**gravitation**"
+    },
+    {
+        "word": "automatic",
+        "meaning": "자동의",
+        "bolded": "**automatic**"
+    },
+    {
+        "word": "automated",
+        "meaning": "자동의",
+        "bolded": "**automated**"
+    },
+    {
+        "word": "automatic teller machine (ATM)",
+        "meaning": "현금 자동 지급기",
+        "bolded": "**automatic teller machine (ATM)**"
+    },
+    {
+        "word": "device",
+        "meaning": "도구, 장치",
+        "bolded": "**device**"
+    },
+    {
+        "word": "gadget",
+        "meaning": "도구, 장치",
+        "bolded": "**gadget**"
+    },
+    {
+        "word": "manual",
+        "meaning": "손의, 수동의; 안내서",
+        "bolded": "**manual**"
+    },
+    {
+        "word": "manual labor",
+        "meaning": "손일, 육체노동",
+        "bolded": "**manual labor**"
+    },
+    {
+        "word": "accurate",
+        "meaning": "정확한",
+        "bolded": "**accurate**"
+    },
+    {
+        "word": "precise",
+        "meaning": "정확한",
+        "bolded": "**precise**"
+    },
+    {
+        "word": "analyze",
+        "meaning": "분석하다, 분해하다",
+        "bolded": "**analyze**"
+    },
+    {
+        "word": "adjust",
+        "meaning": "조절하다, 조정하다; 적응하다",
+        "bolded": "**adjust**"
+    },
+    {
+        "word": "adapt",
+        "meaning": "조절하다, 조정하다",
+        "bolded": "**adapt**"
+    },
+    {
+        "word": "adjustment",
+        "meaning": "조절",
+        "bolded": "**adjustment**"
+    },
+    {
+        "word": "accelerate",
+        "meaning": "가속하다",
+        "bolded": "**accelerate**"
+    },
+    {
+        "word": "speed up",
+        "meaning": "가속하다",
+        "bolded": "**speed up**"
+    },
+    {
+        "word": "accelerator",
+        "meaning": "가속 장치",
+        "bolded": "**accelerator**"
+    },
+    {
+        "word": "bring about",
+        "meaning": "~을 불러일으키다[초래하다]",
+        "bolded": "**bring about**"
+    },
+    {
+        "word": "cause",
+        "meaning": "~을 불러일으키다[초래하다]",
+        "bolded": "**cause**"
+    },
+    {
+        "word": "sort out",
+        "meaning": "~을 분류하다[선별하다]",
+        "bolded": "**sort out**"
+    },
+    {
+        "word": "substitute for",
+        "meaning": "~을 대신하다, 대리하다",
+        "bolded": "**substitute for**"
+    }
+]

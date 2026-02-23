@@ -1,0 +1,102 @@
+[
+    {
+        "word": "hill",
+        "meaning": "언덕",
+        "bolded": "**hill**"
+    },
+    {
+        "word": "land",
+        "meaning": "육지, 땅",
+        "bolded": "**land**"
+    },
+    {
+        "word": "river",
+        "meaning": "강",
+        "bolded": "**river**"
+    },
+    {
+        "word": "lake",
+        "meaning": "호수",
+        "bolded": "**lake**"
+    },
+    {
+        "word": "desert",
+        "meaning": "사막",
+        "bolded": "**desert**"
+    },
+    {
+        "word": "forest",
+        "meaning": "숲",
+        "bolded": "**forest**"
+    },
+    {
+        "word": "valley",
+        "meaning": "계곡, 골짜기",
+        "bolded": "**valley**"
+    },
+    {
+        "word": "island",
+        "meaning": "섬",
+        "bolded": "**island**"
+    },
+    {
+        "word": "jungle",
+        "meaning": "밀림, 정글",
+        "bolded": "**jungle**"
+    },
+    {
+        "word": "mountain",
+        "meaning": "산",
+        "bolded": "**mountain**"
+    },
+    {
+        "word": "pond",
+        "meaning": "연못",
+        "bolded": "**pond**"
+    },
+    {
+        "word": "ocean",
+        "meaning": "대양, 바다",
+        "bolded": "**ocean**"
+    },
+    {
+        "word": "cave",
+        "meaning": "동굴",
+        "bolded": "**cave**"
+    },
+    {
+        "word": "polar",
+        "meaning": "북극[남극]의",
+        "bolded": "**polar**"
+    },
+    {
+        "word": "nature",
+        "meaning": "자연",
+        "bolded": "**nature**"
+    },
+    {
+        "word": "mystery",
+        "meaning": "미스터리, 불가사의",
+        "bolded": "**mystery**"
+    },
+    {
+        "word": "wave",
+        "meaning": "파도, 물결; 흔들다",
+        "bolded": "**wave**"
+    },
+    {
+        "word": "discover",
+        "meaning": "발견하다",
+        "bolded": "**discover**"
+    },
+    {
+        "word": "look at",
+        "meaning": "~을 보다",
+        "bolded": "**look at**"
+    },
+    {
+        "word": "take turns",
+        "meaning": "교대로 하다",
+        "bolded": "**take turns**"
+    }
+]

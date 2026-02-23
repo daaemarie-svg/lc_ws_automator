@@ -1,0 +1,127 @@
+[
+    {
+        "word": "supply",
+        "meaning": "[동] 공급하다\n[명] 공급",
+        "bolded": "**supply**"
+    },
+    {
+        "word": "demand",
+        "meaning": "[명] 1. 요구 2. 수요\n[동] 요구하다",
+        "bolded": "**demand**"
+    },
+    {
+        "word": "decline",
+        "meaning": "[동] 감소하다\n[명] 감소",
+        "bolded": "**decline**"
+    },
+    {
+        "word": "stable",
+        "meaning": "[형] 안정적인, 안정된",
+        "bolded": "**stable**"
+    },
+    {
+        "word": "steady",
+        "meaning": "[형] 1. 꾸준한 2. 안정된, 고정적인",
+        "bolded": "**steady**"
+    },
+    {
+        "word": "estimate",
+        "meaning": "[명] 추정(치)\n[동] 추정하다, 견적하다",
+        "bolded": "**estimate**"
+    },
+    {
+        "word": "export",
+        "meaning": "[동] 수출하다\n[명] 수출품",
+        "bolded": "**export**"
+    },
+    {
+        "word": "output",
+        "meaning": "[명] 생산량, 산출량",
+        "bolded": "**output**"
+    },
+    {
+        "word": "possess",
+        "meaning": "[동] 소유하다, 가지다",
+        "bolded": "**possess**"
+    },
+    {
+        "word": "potential",
+        "meaning": "[형] 가능성이 있는, 잠재적인\n[명] 가능성, 잠재력",
+        "bolded": "**potential**"
+    },
+    {
+        "word": "target",
+        "meaning": "[명] 1. 목표, 대상 2. 표적, 과녁",
+        "bolded": "**target**"
+    },
+    {
+        "word": "burden",
+        "meaning": "[명] 부담, (무거운) 짐",
+        "bolded": "**burden**"
+    },
+    {
+        "word": "fake",
+        "meaning": "[형] 가짜의, 모조의",
+        "bolded": "**fake**"
+    },
+    {
+        "word": "finance",
+        "meaning": "[명] 1. 재정, 금융 2. (-s) 자금",
+        "bolded": "**finance**"
+    },
+    {
+        "word": "fund",
+        "meaning": "[명] 1. (특정 목적을 위한) 기금 2. (-s) 자금",
+        "bolded": "**fund**"
+    },
+    {
+        "word": "budget",
+        "meaning": "[명] 예산, 예산안",
+        "bolded": "**budget**"
+    },
+    {
+        "word": "fortune",
+        "meaning": "[명] 1. 운, 행운 2. 재산, 부",
+        "bolded": "**fortune**"
+    },
+    {
+        "word": "property",
+        "meaning": "[명] 재산, 소유물",
+        "bolded": "**property**"
+    },
+    {
+        "word": "income",
+        "meaning": "[명] 소득, 수입",
+        "bolded": "**income**"
+    },
+    {
+        "word": "rent",
+        "meaning": "[명] 집세, 방세\n[동] 1. 빌리다 2. 세를 얻다, 빌리다 3. 세를 놓다, 임대하다",
+        "bolded": "**rent**"
+    },
+    {
+        "word": "account",
+        "meaning": "[명] 1. 계좌 2. (정보 서비스) 계정\n[동] 설명하다 (for)",
+        "bolded": "**account**"
+    },
+    {
+        "word": "credit",
+        "meaning": "[명] 신용, 신뢰\n[동] 믿다, 신용하다",
+        "bolded": "**credit**"
+    },
+    {
+        "word": "invest",
+        "meaning": "[동] (수익을 위해) 투자하다",
+        "bolded": "**invest**"
+    },
+    {
+        "word": "loss",
+        "meaning": "[명] 1. 손실, 분실 2. (금전적) 손해",
+        "bolded": "**loss**"
+    },
+    {
+        "word": "outcome",
+        "meaning": "[명] 결과",
+        "bolded": "**outcome**"
+    }
+]

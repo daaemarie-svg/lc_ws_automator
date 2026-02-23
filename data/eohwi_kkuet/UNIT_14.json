@@ -1,0 +1,127 @@
+[
+    {
+        "word": "accident",
+        "meaning": "[명] 1. 사고 2. 우연",
+        "bolded": "**accident**"
+    },
+    {
+        "word": "bump",
+        "meaning": "[동] 부딪치다",
+        "bolded": "**bump**"
+    },
+    {
+        "word": "crash",
+        "meaning": "[동] 1. 충돌하다 2. 추락하다 \n[명] 충돌 (사고)",
+        "bolded": "**crash**"
+    },
+    {
+        "word": "disaster",
+        "meaning": "[명] 재난, 재해",
+        "bolded": "**disaster**"
+    },
+    {
+        "word": "danger",
+        "meaning": "[명] 위험, 위험한 상태",
+        "bolded": "**danger**"
+    },
+    {
+        "word": "state",
+        "meaning": "[명] 1. 상태 2. 주(州)\n[동] 진술하다, 서술하다",
+        "bolded": "**state**"
+    },
+    {
+        "word": "terrible",
+        "meaning": "[형] 끔찍한, 무서운",
+        "bolded": "**terrible**"
+    },
+    {
+        "word": "panic",
+        "meaning": "[명] 공황, 공포",
+        "bolded": "**panic**"
+    },
+    {
+        "word": "urgent",
+        "meaning": "[형] 긴급한, 긴박한",
+        "bolded": "**urgent**"
+    },
+    {
+        "word": "severe",
+        "meaning": "[형] 극심한, 심각한",
+        "bolded": "**severe**"
+    },
+    {
+        "word": "unexpected",
+        "meaning": "[형] 예기치 않은, 뜻밖의",
+        "bolded": "**unexpected**"
+    },
+    {
+        "word": "emergency",
+        "meaning": "[명] 비상(사태), 위급",
+        "bolded": "**emergency**"
+    },
+    {
+        "word": "harm",
+        "meaning": "[명] 손상, 손해\n[동] 해치다",
+        "bolded": "**harm**"
+    },
+    {
+        "word": "hurt",
+        "meaning": "[동] 1. 다치게 하다 2. 아프다",
+        "bolded": "**hurt**"
+    },
+    {
+        "word": "injure",
+        "meaning": "[동] 다치게 하다, 상처를 입히다",
+        "bolded": "**injure**"
+    },
+    {
+        "word": "wound",
+        "meaning": "[명] 상처, 부상 \n[동] 상처를 입히다",
+        "bolded": "**wound**"
+    },
+    {
+        "word": "crack",
+        "meaning": "[동] 깨지다, 금이 가다\n[명] 갈라진 금, 틈",
+        "bolded": "**crack**"
+    },
+    {
+        "word": "sink",
+        "meaning": "[동] 가라앉다, 침몰하다 \n[명] 개수대, 싱크대",
+        "bolded": "**sink**"
+    },
+    {
+        "word": "slip",
+        "meaning": "[동] 미끄러지다",
+        "bolded": "**slip**"
+    },
+    {
+        "word": "suffer",
+        "meaning": "[동] 1. 고통받다, 괴로워하다 2. (고통·부상 등을) 겪다, 당하다",
+        "bolded": "**suffer**"
+    },
+    {
+        "word": "rescue",
+        "meaning": "[동] 구하다, 구조하다 \n[명] 구조",
+        "bolded": "**rescue**"
+    },
+    {
+        "word": "ambulance",
+        "meaning": "[명] 구급차",
+        "bolded": "**ambulance**"
+    },
+    {
+        "word": "symptom",
+        "meaning": "[명] 증상",
+        "bolded": "**symptom**"
+    },
+    {
+        "word": "safety",
+        "meaning": "[명] 안전",
+        "bolded": "**safety**"
+    },
+    {
+        "word": "secure",
+        "meaning": "[형] 1. (해를 입지 않고) 안전한 2. 안심하는\n[동] 1. 안전하게 지키다 2. 확보하다",
+        "bolded": "**secure**"
+    }
+]

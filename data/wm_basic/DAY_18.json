@@ -1,0 +1,102 @@
+[
+    {
+        "word": "subway",
+        "meaning": "지하철",
+        "bolded": "**subway**"
+    },
+    {
+        "word": "bike",
+        "meaning": "자전거",
+        "bolded": "**bike**"
+    },
+    {
+        "word": "airplane",
+        "meaning": "비행기",
+        "bolded": "**airplane**"
+    },
+    {
+        "word": "truck",
+        "meaning": "트럭",
+        "bolded": "**truck**"
+    },
+    {
+        "word": "boat",
+        "meaning": "보트, 배",
+        "bolded": "**boat**"
+    },
+    {
+        "word": "ride",
+        "meaning": "타다, 몰다",
+        "bolded": "**ride**"
+    },
+    {
+        "word": "street",
+        "meaning": "거리, 도로",
+        "bolded": "**street**"
+    },
+    {
+        "word": "road",
+        "meaning": "도로, 길",
+        "bolded": "**road**"
+    },
+    {
+        "word": "drive",
+        "meaning": "운전하다",
+        "bolded": "**drive**"
+    },
+    {
+        "word": "right",
+        "meaning": "오른쪽; 오른쪽의; 오른쪽으로",
+        "bolded": "**right**"
+    },
+    {
+        "word": "left",
+        "meaning": "왼쪽; 왼쪽의; 왼쪽으로",
+        "bolded": "**left**"
+    },
+    {
+        "word": "block",
+        "meaning": "막다, 차단하다; 블록, 구역",
+        "bolded": "**block**"
+    },
+    {
+        "word": "straight",
+        "meaning": "곧은, 똑바른; 똑바로, 곧장",
+        "bolded": "**straight**"
+    },
+    {
+        "word": "bridge",
+        "meaning": "다리",
+        "bolded": "**bridge**"
+    },
+    {
+        "word": "across",
+        "meaning": "가로질러, 맞은편에",
+        "bolded": "**across**"
+    },
+    {
+        "word": "sign",
+        "meaning": "표지판; 서명하다",
+        "bolded": "**sign**"
+    },
+    {
+        "word": "corner",
+        "meaning": "모퉁이, 구석",
+        "bolded": "**corner**"
+    },
+    {
+        "word": "stop",
+        "meaning": "멈추다; 정류장",
+        "bolded": "**stop**"
+    },
+    {
+        "word": "get on",
+        "meaning": "~에 타다",
+        "bolded": "**get on**"
+    },
+    {
+        "word": "hurry up",
+        "meaning": "서두르다",
+        "bolded": "**hurry up**"
+    }
+]

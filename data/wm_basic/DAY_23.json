@@ -1,0 +1,102 @@
+[
+    {
+        "word": "clean",
+        "meaning": "깨끗한",
+        "bolded": "**clean**"
+    },
+    {
+        "word": "dirty",
+        "meaning": "더러운",
+        "bolded": "**dirty**"
+    },
+    {
+        "word": "busy",
+        "meaning": "바쁜",
+        "bolded": "**busy**"
+    },
+    {
+        "word": "poor",
+        "meaning": "가난한",
+        "bolded": "**poor**"
+    },
+    {
+        "word": "slow",
+        "meaning": "느린",
+        "bolded": "**slow**"
+    },
+    {
+        "word": "fast",
+        "meaning": "빠른; 빨리, 빠르게",
+        "bolded": "**fast**"
+    },
+    {
+        "word": "quickly",
+        "meaning": "빨리, 빠르게",
+        "bolded": "**quickly**"
+    },
+    {
+        "word": "sleepy",
+        "meaning": "졸린, 졸음이 오는",
+        "bolded": "**sleepy**"
+    },
+    {
+        "word": "heavy",
+        "meaning": "무거운",
+        "bolded": "**heavy**"
+    },
+    {
+        "word": "light",
+        "meaning": "가벼운; 밝은; 빛",
+        "bolded": "**light**"
+    },
+    {
+        "word": "safe",
+        "meaning": "안전한",
+        "bolded": "**safe**"
+    },
+    {
+        "word": "wet",
+        "meaning": "젖은",
+        "bolded": "**wet**"
+    },
+    {
+        "word": "ready",
+        "meaning": "준비가 된",
+        "bolded": "**ready**"
+    },
+    {
+        "word": "dark",
+        "meaning": "어두운, 캄캄한",
+        "bolded": "**dark**"
+    },
+    {
+        "word": "bright",
+        "meaning": "밝은, 빛나는",
+        "bolded": "**bright**"
+    },
+    {
+        "word": "perfect",
+        "meaning": "완벽한",
+        "bolded": "**perfect**"
+    },
+    {
+        "word": "different",
+        "meaning": "다른",
+        "bolded": "**different**"
+    },
+    {
+        "word": "terrible",
+        "meaning": "끔찍한, 형편없는",
+        "bolded": "**terrible**"
+    },
+    {
+        "word": "be full of",
+        "meaning": "~로 가득 차다",
+        "bolded": "**be full of**"
+    },
+    {
+        "word": "for a while",
+        "meaning": "잠시 동안",
+        "bolded": "**for a while**"
+    }
+]

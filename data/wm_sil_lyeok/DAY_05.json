@@ -1,0 +1,152 @@
+[
+    {
+        "word": "pants",
+        "meaning": "바지",
+        "bolded": "**pants**"
+    },
+    {
+        "word": "sweater",
+        "meaning": "스웨터",
+        "bolded": "**sweater**"
+    },
+    {
+        "word": "skirt",
+        "meaning": "치마",
+        "bolded": "**skirt**"
+    },
+    {
+        "word": "tie",
+        "meaning": "넥타이; ~을 묶다, 매다",
+        "bolded": "**tie**"
+    },
+    {
+        "word": "belt",
+        "meaning": "벨트, 허리띠",
+        "bolded": "**belt**"
+    },
+    {
+        "word": "uniform",
+        "meaning": "유니폼, 제복",
+        "bolded": "**uniform**"
+    },
+    {
+        "word": "socks",
+        "meaning": "양말",
+        "bolded": "**socks**"
+    },
+    {
+        "word": "material",
+        "meaning": "직물, 천; 재료",
+        "bolded": "**material**"
+    },
+    {
+        "word": "gloves",
+        "meaning": "장갑",
+        "bolded": "**gloves**"
+    },
+    {
+        "word": "boots",
+        "meaning": "장화, 부츠, 목이 긴 구두",
+        "bolded": "**boots**"
+    },
+    {
+        "word": "dress",
+        "meaning": "옷, 의복; 옷을 입다",
+        "bolded": "**dress**"
+    },
+    {
+        "word": "scarf",
+        "meaning": "스카프, 목도리",
+        "bolded": "**scarf**"
+    },
+    {
+        "word": "jacket",
+        "meaning": "재킷, 상의, 웃옷",
+        "bolded": "**jacket**"
+    },
+    {
+        "word": "shorts",
+        "meaning": "반바지, 운동 팬츠",
+        "bolded": "**shorts**"
+    },
+    {
+        "word": "button",
+        "meaning": "단추; ~에 단추를 채우다",
+        "bolded": "**button**"
+    },
+    {
+        "word": "jeans",
+        "meaning": "청바지",
+        "bolded": "**jeans**"
+    },
+    {
+        "word": "suit",
+        "meaning": "정장, 슈트; ~에게 잘 어울리다",
+        "bolded": "**suit**"
+    },
+    {
+        "word": "pocket",
+        "meaning": "주머니",
+        "bolded": "**pocket**"
+    },
+    {
+        "word": "bow tie",
+        "meaning": "나비넥타이",
+        "bolded": "**bow tie**"
+    },
+    {
+        "word": "heels",
+        "meaning": "굽 높은 구두",
+        "bolded": "**heels**"
+    },
+    {
+        "word": "stockings",
+        "meaning": "긴 양말, 스타킹",
+        "bolded": "**stockings**"
+    },
+    {
+        "word": "sandals",
+        "meaning": "샌들",
+        "bolded": "**sandals**"
+    },
+    {
+        "word": "wallet",
+        "meaning": "지갑",
+        "bolded": "**wallet**"
+    },
+    {
+        "word": "purse",
+        "meaning": "돈주머니, 지갑",
+        "bolded": "**purse**"
+    },
+    {
+        "word": "vest",
+        "meaning": "조끼",
+        "bolded": "**vest**"
+    },
+    {
+        "word": "overalls",
+        "meaning": "멜빵 바지",
+        "bolded": "**overalls**"
+    },
+    {
+        "word": "athletic shoes",
+        "meaning": "운동화",
+        "bolded": "**athletic shoes**"
+    },
+    {
+        "word": "put on",
+        "meaning": "(옷을) 입다, (모자, 안경 등을) 쓰다",
+        "bolded": "**put on**"
+    },
+    {
+        "word": "try on",
+        "meaning": "~을 입어[신어] 보다",
+        "bolded": "**try on**"
+    },
+    {
+        "word": "take off",
+        "meaning": "(옷 등을) 벗다; 이륙하다",
+        "bolded": "**take off**"
+    }
+]

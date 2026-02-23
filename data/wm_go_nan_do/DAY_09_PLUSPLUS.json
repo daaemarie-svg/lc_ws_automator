@@ -1,0 +1,362 @@
+[
+    {
+        "word": "manufacture",
+        "meaning": "(대량으로 상품을) 제조[생산]하다; (이야기 등을) 지어내다; (상품의 대량) 제조[생산]",
+        "bolded": "**manufacture**"
+    },
+    {
+        "word": "manufacturer",
+        "meaning": "제조자[사], 생산 회사",
+        "bolded": "**manufacturer**"
+    },
+    {
+        "word": "manage",
+        "meaning": "경영[관리]하다, 운영하다; 그럭저럭 해내다(to)",
+        "bolded": "**manage**"
+    },
+    {
+        "word": "management",
+        "meaning": "경영, 운영",
+        "bolded": "**management**"
+    },
+    {
+        "word": "operate",
+        "meaning": "관리하다, 운영하다; 움직이다, 작동하다",
+        "bolded": "**operate**"
+    },
+    {
+        "word": "operation",
+        "meaning": "작동, 작용",
+        "bolded": "**operation**"
+    },
+    {
+        "word": "expert",
+        "meaning": "전문가, 숙련가, 달인; 숙련된, 노련한",
+        "bolded": "**expert**"
+    },
+    {
+        "word": "specialist",
+        "meaning": "전문가, 숙련가, 달인",
+        "bolded": "**specialist**"
+    },
+    {
+        "word": "expertise",
+        "meaning": "전문적 기술[지식]",
+        "bolded": "**expertise**"
+    },
+    {
+        "word": "senior",
+        "meaning": "선임의, 선배의, 손위의; 선임자, 선배, 연장자",
+        "bolded": "**senior**"
+    },
+    {
+        "word": "junior",
+        "meaning": "손아래의, 하위의",
+        "bolded": "**junior**"
+    },
+    {
+        "word": "subordinate",
+        "meaning": "손아래의, 하위의",
+        "bolded": "**subordinate**"
+    },
+    {
+        "word": "psychologist",
+        "meaning": "심리학자",
+        "bolded": "**psychologist**"
+    },
+    {
+        "word": "psychology",
+        "meaning": "심리학",
+        "bolded": "**psychology**"
+    },
+    {
+        "word": "personnel",
+        "meaning": "전 직원, 인원; 인사과; 직원의",
+        "bolded": "**personnel**"
+    },
+    {
+        "word": "staff",
+        "meaning": "전 직원, 인원",
+        "bolded": "**staff**"
+    },
+    {
+        "word": "barber",
+        "meaning": "이발사",
+        "bolded": "**barber**"
+    },
+    {
+        "word": "counselor",
+        "meaning": "지도 교사, 카운슬러; 상담역, 조언자",
+        "bolded": "**counselor**"
+    },
+    {
+        "word": "counsel",
+        "meaning": "(전문가에 의한) 조언[충고]; 상담을 하다, 조언[충고]하다",
+        "bolded": "**counsel**"
+    },
+    {
+        "word": "reward",
+        "meaning": "보상, 보수; 보답하다, 보수를 주다",
+        "bolded": "**reward**"
+    },
+    {
+        "word": "penalty",
+        "meaning": "벌, 벌금",
+        "bolded": "**penalty**"
+    },
+    {
+        "word": "wage",
+        "meaning": "임금, 급료; 임금의",
+        "bolded": "**wage**"
+    },
+    {
+        "word": "pay",
+        "meaning": "임금, 급료",
+        "bolded": "**pay**"
+    },
+    {
+        "word": "shift",
+        "meaning": "교체, 교대, 교대조; 바꾸다, 이동시키다",
+        "bolded": "**shift**"
+    },
+    {
+        "word": "night shift",
+        "meaning": "야간 근무, 야간 교대(조)",
+        "bolded": "**night shift**"
+    },
+    {
+        "word": "retire",
+        "meaning": "퇴직하다, 은퇴하다",
+        "bolded": "**retire**"
+    },
+    {
+        "word": "retirement",
+        "meaning": "퇴직",
+        "bolded": "**retirement**"
+    },
+    {
+        "word": "supervise",
+        "meaning": "감독하다, 관리하다, 지휘하다",
+        "bolded": "**supervise**"
+    },
+    {
+        "word": "keep an eye on",
+        "meaning": "감독하다, 관리하다, 지휘하다",
+        "bolded": "**keep an eye on**"
+    },
+    {
+        "word": "supervisor",
+        "meaning": "관리자",
+        "bolded": "**supervisor**"
+    },
+    {
+        "word": "supervision",
+        "meaning": "감독, 관리",
+        "bolded": "**supervision**"
+    },
+    {
+        "word": "accomplish",
+        "meaning": "달성하다, 이루다",
+        "bolded": "**accomplish**"
+    },
+    {
+        "word": "achieve",
+        "meaning": "달성하다, 이루다",
+        "bolded": "**achieve**"
+    },
+    {
+        "word": "accomplishment",
+        "meaning": "완성, 성취",
+        "bolded": "**accomplishment**"
+    },
+    {
+        "word": "architect",
+        "meaning": "건축가, 설계자; 설계하다",
+        "bolded": "**architect**"
+    },
+    {
+        "word": "designer",
+        "meaning": "건축가, 설계자",
+        "bolded": "**designer**"
+    },
+    {
+        "word": "architecture",
+        "meaning": "건축, 건축학",
+        "bolded": "**architecture**"
+    },
+    {
+        "word": "secretary",
+        "meaning": "비서; 장관",
+        "bolded": "**secretary**"
+    },
+    {
+        "word": "experienced",
+        "meaning": "경험이 있는, 숙달한",
+        "bolded": "**experienced**"
+    },
+    {
+        "word": "skilled",
+        "meaning": "경험이 있는, 숙달한",
+        "bolded": "**skilled**"
+    },
+    {
+        "word": "inexperienced",
+        "meaning": "미숙한",
+        "bolded": "**inexperienced**"
+    },
+    {
+        "word": "experience",
+        "meaning": "경험, 경험하다",
+        "bolded": "**experience**"
+    },
+    {
+        "word": "vend",
+        "meaning": "행상하다, 팔다",
+        "bolded": "**vend**"
+    },
+    {
+        "word": "vendor",
+        "meaning": "행상인",
+        "bolded": "**vendor**"
+    },
+    {
+        "word": "vending machine",
+        "meaning": "자동판매기",
+        "bolded": "**vending machine**"
+    },
+    {
+        "word": "requirement",
+        "meaning": "필요조건, 자격; 필요한 것",
+        "bolded": "**requirement**"
+    },
+    {
+        "word": "require",
+        "meaning": "필요하다",
+        "bolded": "**require**"
+    },
+    {
+        "word": "superior",
+        "meaning": "상사, 윗사람; 우수한, 상위의",
+        "bolded": "**superior**"
+    },
+    {
+        "word": "inferior",
+        "meaning": "열등한, 하위의",
+        "bolded": "**inferior**"
+    },
+    {
+        "word": "superiority",
+        "meaning": "우위, 우월",
+        "bolded": "**superiority**"
+    },
+    {
+        "word": "immediate superior",
+        "meaning": "직속상관",
+        "bolded": "**immediate superior**"
+    },
+    {
+        "word": "career",
+        "meaning": "경력, 이력; (전문성이 있는) 직업",
+        "bolded": "**career**"
+    },
+    {
+        "word": "profession",
+        "meaning": "직업, 전문직",
+        "bolded": "**profession**"
+    },
+    {
+        "word": "occupation",
+        "meaning": "직업, 전문직",
+        "bolded": "**occupation**"
+    },
+    {
+        "word": "professional",
+        "meaning": "전문적인; 전문가, 직업 선수",
+        "bolded": "**professional**"
+    },
+    {
+        "word": "application",
+        "meaning": "신청서, 원서, 응모",
+        "bolded": "**application**"
+    },
+    {
+        "word": "apply",
+        "meaning": "지원하다, 신청하다",
+        "bolded": "**apply**"
+    },
+    {
+        "word": "job application",
+        "meaning": "입사 지원서",
+        "bolded": "**job application**"
+    },
+    {
+        "word": "salary",
+        "meaning": "봉급, 급여",
+        "bolded": "**salary**"
+    },
+    {
+        "word": "income",
+        "meaning": "봉급, 급여",
+        "bolded": "**income**"
+    },
+    {
+        "word": "annual salary",
+        "meaning": "연봉",
+        "bolded": "**annual salary**"
+    },
+    {
+        "word": "labor",
+        "meaning": "노동, 일, 업무",
+        "bolded": "**labor**"
+    },
+    {
+        "word": "labor force",
+        "meaning": "노동력",
+        "bolded": "**labor force**"
+    },
+    {
+        "word": "proficient",
+        "meaning": "익숙한, 능숙한",
+        "bolded": "**proficient**"
+    },
+    {
+        "word": "proficiency",
+        "meaning": "능숙(도)",
+        "bolded": "**proficiency**"
+    },
+    {
+        "word": "prompt",
+        "meaning": "신속한; 시간을 엄수하는",
+        "bolded": "**prompt**"
+    },
+    {
+        "word": "quick",
+        "meaning": "신속한",
+        "bolded": "**quick**"
+    },
+    {
+        "word": "promptly",
+        "meaning": "즉시, 제시간에",
+        "bolded": "**promptly**"
+    },
+    {
+        "word": "insist on",
+        "meaning": "~을 주장하다, ~을 (강력히) 고집[요구]하다",
+        "bolded": "**insist on**"
+    },
+    {
+        "word": "turn down",
+        "meaning": "거절하다, 거부하다",
+        "bolded": "**turn down**"
+    },
+    {
+        "word": "refuse",
+        "meaning": "거절하다, 거부하다",
+        "bolded": "**refuse**"
+    },
+    {
+        "word": "reject",
+        "meaning": "거절하다, 거부하다",
+        "bolded": "**reject**"
+    }
+]

@@ -1,0 +1,477 @@
+[
+    {
+        "word": "shape",
+        "meaning": "모양, 꼴, 모습",
+        "bolded": "**shape**"
+    },
+    {
+        "word": "form",
+        "meaning": "모양, 꼴, 모습",
+        "bolded": "**form**"
+    },
+    {
+        "word": "shaped",
+        "meaning": "~모양의",
+        "bolded": "**shaped**"
+    },
+    {
+        "word": "in (good) shape",
+        "meaning": "(건강·몸 상태 등이) 좋은",
+        "bolded": "**in (good) shape**"
+    },
+    {
+        "word": "appearance",
+        "meaning": "출현, 나타남; 외관, 겉모습",
+        "bolded": "**appearance**"
+    },
+    {
+        "word": "look",
+        "meaning": "외관, 겉모습",
+        "bolded": "**look**"
+    },
+    {
+        "word": "appear",
+        "meaning": "나타나다; ~인 것같이 보이다",
+        "bolded": "**appear**"
+    },
+    {
+        "word": "in appearance",
+        "meaning": "보기에는, 외관상",
+        "bolded": "**in appearance**"
+    },
+    {
+        "word": "personality",
+        "meaning": "성격, 인성; 개성",
+        "bolded": "**personality**"
+    },
+    {
+        "word": "individuality",
+        "meaning": "개성",
+        "bolded": "**individuality**"
+    },
+    {
+        "word": "personal",
+        "meaning": "개인의, 개인적인",
+        "bolded": "**personal**"
+    },
+    {
+        "word": "gender",
+        "meaning": "성별",
+        "bolded": "**gender**"
+    },
+    {
+        "word": "impression",
+        "meaning": "인상; 감동, 감명",
+        "bolded": "**impression**"
+    },
+    {
+        "word": "impress",
+        "meaning": "인상을 주다",
+        "bolded": "**impress**"
+    },
+    {
+        "word": "impressive",
+        "meaning": "강한 인상을 주는, 감명을 주는",
+        "bolded": "**impressive**"
+    },
+    {
+        "word": "typical",
+        "meaning": "전형적인",
+        "bolded": "**typical**"
+    },
+    {
+        "word": "type",
+        "meaning": "종류, 유형",
+        "bolded": "**type**"
+    },
+    {
+        "word": "capable",
+        "meaning": "유능한; ~할 능력이 있는",
+        "bolded": "**capable**"
+    },
+    {
+        "word": "able",
+        "meaning": "유능한",
+        "bolded": "**able**"
+    },
+    {
+        "word": "incapable",
+        "meaning": "~할 수 없는",
+        "bolded": "**incapable**"
+    },
+    {
+        "word": "capability",
+        "meaning": "능력",
+        "bolded": "**capability**"
+    },
+    {
+        "word": "attractive",
+        "meaning": "매력적인; 사람을 끄는",
+        "bolded": "**attractive**"
+    },
+    {
+        "word": "charming",
+        "meaning": "매력적인",
+        "bolded": "**charming**"
+    },
+    {
+        "word": "appealing",
+        "meaning": "사람을 끄는",
+        "bolded": "**appealing**"
+    },
+    {
+        "word": "attract",
+        "meaning": "끌어당기다, 매혹하다",
+        "bolded": "**attract**"
+    },
+    {
+        "word": "tourist attraction",
+        "meaning": "인기 관광지",
+        "bolded": "**tourist attraction**"
+    },
+    {
+        "word": "active",
+        "meaning": "적극적인, 활동적인",
+        "bolded": "**active**"
+    },
+    {
+        "word": "lively",
+        "meaning": "적극적인, 활동적인",
+        "bolded": "**lively**"
+    },
+    {
+        "word": "energetic",
+        "meaning": "적극적인, 활동적인",
+        "bolded": "**energetic**"
+    },
+    {
+        "word": "passive",
+        "meaning": "소극적인",
+        "bolded": "**passive**"
+    },
+    {
+        "word": "act",
+        "meaning": "행동하다",
+        "bolded": "**act**"
+    },
+    {
+        "word": "activity",
+        "meaning": "활동",
+        "bolded": "**activity**"
+    },
+    {
+        "word": "passive",
+        "meaning": "소극적인, 수동적인",
+        "bolded": "**passive**"
+    },
+    {
+        "word": "inactive",
+        "meaning": "소극적인, 수동적인",
+        "bolded": "**inactive**"
+    },
+    {
+        "word": "diligent",
+        "meaning": "근면 성실한, 부지런한",
+        "bolded": "**diligent**"
+    },
+    {
+        "word": "lazy",
+        "meaning": "게으른",
+        "bolded": "**lazy**"
+    },
+    {
+        "word": "diligence",
+        "meaning": "근면함, 부지런함",
+        "bolded": "**diligence**"
+    },
+    {
+        "word": "bold",
+        "meaning": "대담한, 용감한; (문자·선 등이)굵은",
+        "bolded": "**bold**"
+    },
+    {
+        "word": "brave",
+        "meaning": "대담한, 용감한",
+        "bolded": "**brave**"
+    },
+    {
+        "word": "daring",
+        "meaning": "대담한, 용감한",
+        "bolded": "**daring**"
+    },
+    {
+        "word": "confident",
+        "meaning": "자신만만한; 확신하는",
+        "bolded": "**confident**"
+    },
+    {
+        "word": "boldness",
+        "meaning": "배짱",
+        "bolded": "**boldness**"
+    },
+    {
+        "word": "positive",
+        "meaning": "자신만만한",
+        "bolded": "**positive**"
+    },
+    {
+        "word": "sure, convinced",
+        "meaning": "확신하는",
+        "bolded": "**sure, convinced**"
+    },
+    {
+        "word": "confidence",
+        "meaning": "자신감, 확신",
+        "bolded": "**confidence**"
+    },
+    {
+        "word": "be confident of",
+        "meaning": "~을 확신하다",
+        "bolded": "**be confident of**"
+    },
+    {
+        "word": "impatient",
+        "meaning": "성급한, 참을성 없는",
+        "bolded": "**impatient**"
+    },
+    {
+        "word": "patient",
+        "meaning": "참을성 있는",
+        "bolded": "**patient**"
+    },
+    {
+        "word": "impatience",
+        "meaning": "성급함",
+        "bolded": "**impatience**"
+    },
+    {
+        "word": "impatiently",
+        "meaning": "성급하게",
+        "bolded": "**impatiently**"
+    },
+    {
+        "word": "ambitious",
+        "meaning": "야망이 있는, 야심 찬",
+        "bolded": "**ambitious**"
+    },
+    {
+        "word": "unambitious",
+        "meaning": "야망이 없는",
+        "bolded": "**unambitious**"
+    },
+    {
+        "word": "ambition",
+        "meaning": "야망, 포부",
+        "bolded": "**ambition**"
+    },
+    {
+        "word": "brilliant",
+        "meaning": "훌륭한, 눈부신, (재능이) 뛰어난; 빛나는",
+        "bolded": "**brilliant**"
+    },
+    {
+        "word": "bright",
+        "meaning": "훌륭한, 눈부신, (재능이) 뛰어난",
+        "bolded": "**bright**"
+    },
+    {
+        "word": "intelligent",
+        "meaning": "훌륭한, 눈부신, (재능이) 뛰어난",
+        "bolded": "**intelligent**"
+    },
+    {
+        "word": "glittering",
+        "meaning": "빛나는",
+        "bolded": "**glittering**"
+    },
+    {
+        "word": "brilliance",
+        "meaning": "탁월함",
+        "bolded": "**brilliance**"
+    },
+    {
+        "word": "brilliant idea",
+        "meaning": "훌륭한 생각",
+        "bolded": "**brilliant idea**"
+    },
+    {
+        "word": "elegant",
+        "meaning": "우아한, 품위 있는",
+        "bolded": "**elegant**"
+    },
+    {
+        "word": "elegance",
+        "meaning": "우아, 고상함",
+        "bolded": "**elegance**"
+    },
+    {
+        "word": "humble",
+        "meaning": "겸손한; 초라한, 소박한",
+        "bolded": "**humble**"
+    },
+    {
+        "word": "modest",
+        "meaning": "겸손한",
+        "bolded": "**modest**"
+    },
+    {
+        "word": "humbleness",
+        "meaning": "겸손, 겸양",
+        "bolded": "**humbleness**"
+    },
+    {
+        "word": "arrogant",
+        "meaning": "오만한, 거만한",
+        "bolded": "**arrogant**"
+    },
+    {
+        "word": "proud, haughty",
+        "meaning": "오만한, 거만한",
+        "bolded": "**proud, haughty**"
+    },
+    {
+        "word": "arrogance",
+        "meaning": "오만, 거만, 불손",
+        "bolded": "**arrogance**"
+    },
+    {
+        "word": "aggressive",
+        "meaning": "공격적인; 매우 적극적인",
+        "bolded": "**aggressive**"
+    },
+    {
+        "word": "offensive",
+        "meaning": "공격적인",
+        "bolded": "**offensive**"
+    },
+    {
+        "word": "active",
+        "meaning": "매우 적극적인",
+        "bolded": "**active**"
+    },
+    {
+        "word": "aggression",
+        "meaning": "공격, 침략",
+        "bolded": "**aggression**"
+    },
+    {
+        "word": "fierce",
+        "meaning": "사나운, 흉포한; 격렬한",
+        "bolded": "**fierce**"
+    },
+    {
+        "word": "intense",
+        "meaning": "격렬한",
+        "bolded": "**intense**"
+    },
+    {
+        "word": "fiercely",
+        "meaning": "사납게, 맹렬하게, 지독하게",
+        "bolded": "**fiercely**"
+    },
+    {
+        "word": "fierce pain",
+        "meaning": "격렬한 고통",
+        "bolded": "**fierce pain**"
+    },
+    {
+        "word": "kindness",
+        "meaning": "친절, 다정함",
+        "bolded": "**kindness**"
+    },
+    {
+        "word": "oval",
+        "meaning": "타원형의, 달걀형의; 달걀 모양, 타원체",
+        "bolded": "**oval**"
+    },
+    {
+        "word": "egg-shaped",
+        "meaning": "타원형의, 달걀형의",
+        "bolded": "**egg-shaped**"
+    },
+    {
+        "word": "odd",
+        "meaning": "이상한, 기묘한; 홀수의",
+        "bolded": "**odd**"
+    },
+    {
+        "word": "strange",
+        "meaning": "이상한, 기묘한",
+        "bolded": "**strange**"
+    },
+    {
+        "word": "peculiar",
+        "meaning": "이상한, 기묘한",
+        "bolded": "**peculiar**"
+    },
+    {
+        "word": "even",
+        "meaning": "짝수의",
+        "bolded": "**even**"
+    },
+    {
+        "word": "forehead",
+        "meaning": "이마",
+        "bolded": "**forehead**"
+    },
+    {
+        "word": "brow",
+        "meaning": "이마",
+        "bolded": "**brow**"
+    },
+    {
+        "word": "ignorant",
+        "meaning": "무지한, 무식한; (정보가 없어) 모르는",
+        "bolded": "**ignorant**"
+    },
+    {
+        "word": "uninformed",
+        "meaning": "(정보가 없어) 모르는",
+        "bolded": "**uninformed**"
+    },
+    {
+        "word": "ignorance",
+        "meaning": "무지, 무식",
+        "bolded": "**ignorance**"
+    },
+    {
+        "word": "wrinkle",
+        "meaning": "주름; 주름지게 하다",
+        "bolded": "**wrinkle**"
+    },
+    {
+        "word": "line",
+        "meaning": "주름",
+        "bolded": "**line**"
+    },
+    {
+        "word": "crease",
+        "meaning": "주름지게 하다",
+        "bolded": "**crease**"
+    },
+    {
+        "word": "greed",
+        "meaning": "욕심, 탐욕",
+        "bolded": "**greed**"
+    },
+    {
+        "word": "greedy",
+        "meaning": "탐욕스러운",
+        "bolded": "**greedy**"
+    },
+    {
+        "word": "take after",
+        "meaning": "~을 닮다",
+        "bolded": "**take after**"
+    },
+    {
+        "word": "resemble",
+        "meaning": "~을 닮다",
+        "bolded": "**resemble**"
+    },
+    {
+        "word": "stand out",
+        "meaning": "눈에 띄다, 빼어나다",
+        "bolded": "**stand out**"
+    }
+]

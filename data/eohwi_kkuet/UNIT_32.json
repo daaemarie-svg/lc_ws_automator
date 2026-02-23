@@ -1,0 +1,127 @@
+[
+    {
+        "word": "literature",
+        "meaning": "[명] 문학",
+        "bolded": "**literature**"
+    },
+    {
+        "word": "author",
+        "meaning": "[명] 저자, 작가",
+        "bolded": "**author**"
+    },
+    {
+        "word": "edit",
+        "meaning": "[동] 편집하다, 교정하다",
+        "bolded": "**edit**"
+    },
+    {
+        "word": "fiction",
+        "meaning": "[명] 1. 소설 2. 허구, 지어낸 이야기",
+        "bolded": "**fiction**"
+    },
+    {
+        "word": "novel",
+        "meaning": "[명] (장편) 소설",
+        "bolded": "**novel**"
+    },
+    {
+        "word": "mystery",
+        "meaning": "[명] 1. 수수께끼, 미스터리 2. 추리소설",
+        "bolded": "**mystery**"
+    },
+    {
+        "word": "myth",
+        "meaning": "[명] 신화",
+        "bolded": "**myth**"
+    },
+    {
+        "word": "legend",
+        "meaning": "[명] 전설",
+        "bolded": "**legend**"
+    },
+    {
+        "word": "fairy",
+        "meaning": "[명] (이야기 속의) 요정",
+        "bolded": "**fairy**"
+    },
+    {
+        "word": "tale",
+        "meaning": "[명] 이야기",
+        "bolded": "**tale**"
+    },
+    {
+        "word": "imaginary",
+        "meaning": "[형] 상상의, 가상의",
+        "bolded": "**imaginary**"
+    },
+    {
+        "word": "romantic",
+        "meaning": "[형] 로맨틱한, 연애[애정]의",
+        "bolded": "**romantic**"
+    },
+    {
+        "word": "poem",
+        "meaning": "[명] (한 편의) 시",
+        "bolded": "**poem**"
+    },
+    {
+        "word": "biography",
+        "meaning": "[명] 전기, 일대기",
+        "bolded": "**biography**"
+    },
+    {
+        "word": "tragedy",
+        "meaning": "[명] 비극",
+        "bolded": "**tragedy**"
+    },
+    {
+        "word": "dramatic",
+        "meaning": "[형] 1. 극적인 2. 연극의",
+        "bolded": "**dramatic**"
+    },
+    {
+        "word": "article",
+        "meaning": "[명] 1. 기사, 논설 2. 물품, 물건",
+        "bolded": "**article**"
+    },
+    {
+        "word": "phrase",
+        "meaning": "[명] 구, 어구",
+        "bolded": "**phrase**"
+    },
+    {
+        "word": "sentence",
+        "meaning": "[명] 문장\n[동] (형을) 선고하다",
+        "bolded": "**sentence**"
+    },
+    {
+        "word": "theme",
+        "meaning": "[명] 주제, 테마",
+        "bolded": "**theme**"
+    },
+    {
+        "word": "text",
+        "meaning": "[명] 1. (책의) 본문 2. 글, 문서\n[동] (휴대 전화로) 문자를 보내다",
+        "bolded": "**text**"
+    },
+    {
+        "word": "context",
+        "meaning": "[명] 문맥, 맥락",
+        "bolded": "**context**"
+    },
+    {
+        "word": "content",
+        "meaning": "[명] 1. 내용 2. (상자 등의) 내용물\n[형] 만족하는",
+        "bolded": "**content**"
+    },
+    {
+        "word": "chapter",
+        "meaning": "[명] 장, 챕터",
+        "bolded": "**chapter**"
+    },
+    {
+        "word": "summary",
+        "meaning": "[명] 요약, 개요",
+        "bolded": "**summary**"
+    }
+]

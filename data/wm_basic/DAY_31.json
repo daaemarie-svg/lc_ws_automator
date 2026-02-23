@@ -1,0 +1,102 @@
+[
+    {
+        "word": "art",
+        "meaning": "미술, 예술",
+        "bolded": "**art**"
+    },
+    {
+        "word": "music",
+        "meaning": "음악",
+        "bolded": "**music**"
+    },
+    {
+        "word": "singer",
+        "meaning": "가수",
+        "bolded": "**singer**"
+    },
+    {
+        "word": "ticket",
+        "meaning": "표, 입장권",
+        "bolded": "**ticket**"
+    },
+    {
+        "word": "film",
+        "meaning": "영화",
+        "bolded": "**film**"
+    },
+    {
+        "word": "story",
+        "meaning": "이야기",
+        "bolded": "**story**"
+    },
+    {
+        "word": "famous",
+        "meaning": "유명한",
+        "bolded": "**famous**"
+    },
+    {
+        "word": "band",
+        "meaning": "악단, 밴드",
+        "bolded": "**band**"
+    },
+    {
+        "word": "actor",
+        "meaning": "(남자) 배우",
+        "bolded": "**actor**"
+    },
+    {
+        "word": "actress",
+        "meaning": "(여자) 배우",
+        "bolded": "**actress**"
+    },
+    {
+        "word": "painting",
+        "meaning": "(물감으로 그린) 그림",
+        "bolded": "**painting**"
+    },
+    {
+        "word": "stage",
+        "meaning": "무대; 단계",
+        "bolded": "**stage**"
+    },
+    {
+        "word": "artist",
+        "meaning": "화가, 예술가",
+        "bolded": "**artist**"
+    },
+    {
+        "word": "magic",
+        "meaning": "마법, 마술; 마법[마술]의",
+        "bolded": "**magic**"
+    },
+    {
+        "word": "novel",
+        "meaning": "소설",
+        "bolded": "**novel**"
+    },
+    {
+        "word": "concert",
+        "meaning": "콘서트, 연주회",
+        "bolded": "**concert**"
+    },
+    {
+        "word": "role",
+        "meaning": "역할",
+        "bolded": "**role**"
+    },
+    {
+        "word": "main",
+        "meaning": "주된",
+        "bolded": "**main**"
+    },
+    {
+        "word": "be over",
+        "meaning": "끝나다",
+        "bolded": "**be over**"
+    },
+    {
+        "word": "go to the movies",
+        "meaning": "영화를 보러 가다",
+        "bolded": "**go to the movies**"
+    }
+]

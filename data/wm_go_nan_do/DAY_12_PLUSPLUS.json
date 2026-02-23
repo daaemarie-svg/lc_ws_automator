@@ -1,0 +1,397 @@
+[
+    {
+        "word": "variety",
+        "meaning": "다양성, 변화",
+        "bolded": "**variety**"
+    },
+    {
+        "word": "vary",
+        "meaning": "바뀌다, 다르다",
+        "bolded": "**vary**"
+    },
+    {
+        "word": "variable",
+        "meaning": "바뀔 수 있는",
+        "bolded": "**variable**"
+    },
+    {
+        "word": "a variety of",
+        "meaning": "다양한",
+        "bolded": "**a variety of**"
+    },
+    {
+        "word": "square",
+        "meaning": "정사각형; 제곱; 광장; 정사각형의",
+        "bolded": "**square**"
+    },
+    {
+        "word": "delicate",
+        "meaning": "연약한, 허약한; 섬세한, 우아한",
+        "bolded": "**delicate**"
+    },
+    {
+        "word": "flat",
+        "meaning": "편평한; (英) 플랫, 아파트",
+        "bolded": "**flat**"
+    },
+    {
+        "word": "level",
+        "meaning": "편평한",
+        "bolded": "**level**"
+    },
+    {
+        "word": "uneven",
+        "meaning": "울퉁불퉁한",
+        "bolded": "**uneven**"
+    },
+    {
+        "word": "apartment",
+        "meaning": "(美) 아파트",
+        "bolded": "**apartment**"
+    },
+    {
+        "word": "flatten",
+        "meaning": "평평하게 하다",
+        "bolded": "**flatten**"
+    },
+    {
+        "word": "flat (tire)",
+        "meaning": "바람 빠진 타이어",
+        "bolded": "**flat (tire)**"
+    },
+    {
+        "word": "broad",
+        "meaning": "폭 넓은, 광범위한",
+        "bolded": "**broad**"
+    },
+    {
+        "word": "wide",
+        "meaning": "폭 넓은, 광범위한",
+        "bolded": "**wide**"
+    },
+    {
+        "word": "compact",
+        "meaning": "소형의, 간편한; 빽빽한, 촘촘한",
+        "bolded": "**compact**"
+    },
+    {
+        "word": "narrow",
+        "meaning": "좁은",
+        "bolded": "**narrow**"
+    },
+    {
+        "word": "brief",
+        "meaning": "간단한, 짧은",
+        "bolded": "**brief**"
+    },
+    {
+        "word": "in brief",
+        "meaning": "간단히 말해서, 요컨대",
+        "bolded": "**in brief**"
+    },
+    {
+        "word": "sharp",
+        "meaning": "날카로운; 급격한; 예리한",
+        "bolded": "**sharp**"
+    },
+    {
+        "word": "keen",
+        "meaning": "날카로운",
+        "bolded": "**keen**"
+    },
+    {
+        "word": "dull",
+        "meaning": "무딘",
+        "bolded": "**dull**"
+    },
+    {
+        "word": "sharpen",
+        "meaning": "날카롭게 하다",
+        "bolded": "**sharpen**"
+    },
+    {
+        "word": "precious",
+        "meaning": "소중한, 값비싼",
+        "bolded": "**precious**"
+    },
+    {
+        "word": "valuable",
+        "meaning": "소중한, 값비싼",
+        "bolded": "**valuable**"
+    },
+    {
+        "word": "preciousness",
+        "meaning": "귀중함",
+        "bolded": "**preciousness**"
+    },
+    {
+        "word": "artificial",
+        "meaning": "인공적인; 가짜의",
+        "bolded": "**artificial**"
+    },
+    {
+        "word": "natural",
+        "meaning": "자연적인",
+        "bolded": "**natural**"
+    },
+    {
+        "word": "authentic",
+        "meaning": "진짜의",
+        "bolded": "**authentic**"
+    },
+    {
+        "word": "gigantic",
+        "meaning": "거인 같은, 거대한",
+        "bolded": "**gigantic**"
+    },
+    {
+        "word": "tiny",
+        "meaning": "작은",
+        "bolded": "**tiny**"
+    },
+    {
+        "word": "giant",
+        "meaning": "거인; 거대한",
+        "bolded": "**giant**"
+    },
+    {
+        "word": "enormous",
+        "meaning": "엄청난, 거대한",
+        "bolded": "**enormous**"
+    },
+    {
+        "word": "ultimate",
+        "meaning": "궁극적인, 최후의",
+        "bolded": "**ultimate**"
+    },
+    {
+        "word": "final",
+        "meaning": "궁극적인, 최후의",
+        "bolded": "**final**"
+    },
+    {
+        "word": "faint",
+        "meaning": "희미한, 어렴풋한; 기절하다",
+        "bolded": "**faint**"
+    },
+    {
+        "word": "dim",
+        "meaning": "희미한, 어렴풋한",
+        "bolded": "**dim**"
+    },
+    {
+        "word": "clear",
+        "meaning": "명확한",
+        "bolded": "**clear**"
+    },
+    {
+        "word": "steep",
+        "meaning": "가파른, 경사가 급한",
+        "bolded": "**steep**"
+    },
+    {
+        "word": "steep rise",
+        "meaning": "가파른 상승",
+        "bolded": "**steep rise**"
+    },
+    {
+        "word": "fundamental",
+        "meaning": "근본[기본]적인, 중요한; 근본",
+        "bolded": "**fundamental**"
+    },
+    {
+        "word": "basic",
+        "meaning": "근본[기본]적인, 중요한",
+        "bolded": "**basic**"
+    },
+    {
+        "word": "essential",
+        "meaning": "근본[기본]적인, 중요한",
+        "bolded": "**essential**"
+    },
+    {
+        "word": "shallow",
+        "meaning": "얕은, 얄팍한",
+        "bolded": "**shallow**"
+    },
+    {
+        "word": "deep",
+        "meaning": "깊은",
+        "bolded": "**deep**"
+    },
+    {
+        "word": "shallowness",
+        "meaning": "얕음, 천박함",
+        "bolded": "**shallowness**"
+    },
+    {
+        "word": "symbolic",
+        "meaning": "상징적인",
+        "bolded": "**symbolic**"
+    },
+    {
+        "word": "symbol",
+        "meaning": "상징",
+        "bolded": "**symbol**"
+    },
+    {
+        "word": "appropriate",
+        "meaning": "적당한, 알맞은",
+        "bolded": "**appropriate**"
+    },
+    {
+        "word": "proper",
+        "meaning": "적당한, 알맞은",
+        "bolded": "**proper**"
+    },
+    {
+        "word": "inappropriate",
+        "meaning": "부적당한",
+        "bolded": "**inappropriate**"
+    },
+    {
+        "word": "extreme",
+        "meaning": "극단의",
+        "bolded": "**extreme**"
+    },
+    {
+        "word": "moderate",
+        "meaning": "중간 정도의, 적당한",
+        "bolded": "**moderate**"
+    },
+    {
+        "word": "moderation",
+        "meaning": "알맞음, 중용",
+        "bolded": "**moderation**"
+    },
+    {
+        "word": "moderator",
+        "meaning": "중재자",
+        "bolded": "**moderator**"
+    },
+    {
+        "word": "flexible",
+        "meaning": "유연성 있는, 융통성 있는",
+        "bolded": "**flexible**"
+    },
+    {
+        "word": "inflexible",
+        "meaning": "융통성 없는",
+        "bolded": "**inflexible**"
+    },
+    {
+        "word": "flexibility",
+        "meaning": "유연성",
+        "bolded": "**flexibility**"
+    },
+    {
+        "word": "monotonous",
+        "meaning": "단조로운, 변화 없는, 지루한",
+        "bolded": "**monotonous**"
+    },
+    {
+        "word": "boring",
+        "meaning": "단조로운, 변화 없는, 지루한",
+        "bolded": "**boring**"
+    },
+    {
+        "word": "varied",
+        "meaning": "다양한",
+        "bolded": "**varied**"
+    },
+    {
+        "word": "monotone",
+        "meaning": "단조로움, (높낮이나 강약의) 변화가 없음",
+        "bolded": "**monotone**"
+    },
+    {
+        "word": "unclear",
+        "meaning": "애매한, 분명하지 않은",
+        "bolded": "**unclear**"
+    },
+    {
+        "word": "obscurity",
+        "meaning": "불분명",
+        "bolded": "**obscurity**"
+    },
+    {
+        "word": "obscure",
+        "meaning": "애매한, 분명하지 않은",
+        "bolded": "**obscure**"
+    },
+    {
+        "word": "drawback",
+        "meaning": "결점, 문제점",
+        "bolded": "**drawback**"
+    },
+    {
+        "word": "disadvantage",
+        "meaning": "결점, 문제점",
+        "bolded": "**disadvantage**"
+    },
+    {
+        "word": "paradox",
+        "meaning": "역설, 패러독스(모순되어 보이나 사실은 그 속에 진리가 있는 말)",
+        "bolded": "**paradox**"
+    },
+    {
+        "word": "paradoxical",
+        "meaning": "역설적인",
+        "bolded": "**paradoxical**"
+    },
+    {
+        "word": "describe",
+        "meaning": "묘사하다",
+        "bolded": "**describe**"
+    },
+    {
+        "word": "description",
+        "meaning": "묘사",
+        "bolded": "**description**"
+    },
+    {
+        "word": "descriptive",
+        "meaning": "묘사적인, 설명적인",
+        "bolded": "**descriptive**"
+    },
+    {
+        "word": "marvel",
+        "meaning": "놀라운 일; 놀라다, 감탄하다",
+        "bolded": "**marvel**"
+    },
+    {
+        "word": "wonder",
+        "meaning": "놀라다, 감탄하다",
+        "bolded": "**wonder**"
+    },
+    {
+        "word": "marvelous",
+        "meaning": "놀라운, 멋진",
+        "bolded": "**marvelous**"
+    },
+    {
+        "word": "glitter",
+        "meaning": "반짝이다; 반짝거림",
+        "bolded": "**glitter**"
+    },
+    {
+        "word": "differ from",
+        "meaning": "~와 다르다",
+        "bolded": "**differ from**"
+    },
+    {
+        "word": "stand for",
+        "meaning": "~을 상징하다, 나타내다; ~을 옹호[찬성]하다",
+        "bolded": "**stand for**"
+    },
+    {
+        "word": "represent",
+        "meaning": "~을 상징하다, 나타내다",
+        "bolded": "**represent**"
+    },
+    {
+        "word": "advocate",
+        "meaning": "~을 옹호[찬성]하다",
+        "bolded": "**advocate**"
+    }
+]

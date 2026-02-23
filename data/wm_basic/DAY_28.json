@@ -1,0 +1,102 @@
+[
+    {
+        "word": "sport",
+        "meaning": "스포츠, 운동",
+        "bolded": "**sport**"
+    },
+    {
+        "word": "race",
+        "meaning": "경주, 경기, 달리기 (시합)",
+        "bolded": "**race**"
+    },
+    {
+        "word": "baseball",
+        "meaning": "야구",
+        "bolded": "**baseball**"
+    },
+    {
+        "word": "basketball",
+        "meaning": "농구",
+        "bolded": "**basketball**"
+    },
+    {
+        "word": "soccer",
+        "meaning": "축구",
+        "bolded": "**soccer**"
+    },
+    {
+        "word": "catch",
+        "meaning": "잡다, 받다",
+        "bolded": "**catch**"
+    },
+    {
+        "word": "win",
+        "meaning": "이기다",
+        "bolded": "**win**"
+    },
+    {
+        "word": "lose",
+        "meaning": "지다; 잃어버리다",
+        "bolded": "**lose**"
+    },
+    {
+        "word": "stadium",
+        "meaning": "경기장",
+        "bolded": "**stadium**"
+    },
+    {
+        "word": "cheer",
+        "meaning": "환호[응원]하다, 격려하다",
+        "bolded": "**cheer**"
+    },
+    {
+        "word": "practice",
+        "meaning": "연습하다; 연습",
+        "bolded": "**practice**"
+    },
+    {
+        "word": "rule",
+        "meaning": "규칙",
+        "bolded": "**rule**"
+    },
+    {
+        "word": "player",
+        "meaning": "선수",
+        "bolded": "**player**"
+    },
+    {
+        "word": "teamwork",
+        "meaning": "협동 작업, 팀워크",
+        "bolded": "**teamwork**"
+    },
+    {
+        "word": "match",
+        "meaning": "경기, 시합; 성냥",
+        "bolded": "**match**"
+    },
+    {
+        "word": "hold",
+        "meaning": "개최하다; 잡다",
+        "bolded": "**hold**"
+    },
+    {
+        "word": "score",
+        "meaning": "득점, 점수",
+        "bolded": "**score**"
+    },
+    {
+        "word": "possible",
+        "meaning": "가능한",
+        "bolded": "**possible**"
+    },
+    {
+        "word": "work out",
+        "meaning": "운동하다",
+        "bolded": "**work out**"
+    },
+    {
+        "word": "do one's best",
+        "meaning": "최선을 다하다",
+        "bolded": "**do one's best**"
+    }
+]

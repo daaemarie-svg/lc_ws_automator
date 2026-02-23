@@ -1,0 +1,327 @@
+[
+    {
+        "word": "pile",
+        "meaning": "더미; 쌓아 올리다; 쌓이다",
+        "bolded": "**pile**"
+    },
+    {
+        "word": "stack",
+        "meaning": "더미",
+        "bolded": "**stack**"
+    },
+    {
+        "word": "colleague",
+        "meaning": "(같은 직장이나 직종에 종사하는) 동료",
+        "bolded": "**colleague**"
+    },
+    {
+        "word": "attach",
+        "meaning": "붙이다, 첨부하다",
+        "bolded": "**attach**"
+    },
+    {
+        "word": "add, adhere",
+        "meaning": "붙이다, 첨부하다",
+        "bolded": "**add, adhere**"
+    },
+    {
+        "word": "attached",
+        "meaning": "첨부된, 부속의",
+        "bolded": "**attached**"
+    },
+    {
+        "word": "attachment",
+        "meaning": "애착, 지지; 부착물",
+        "bolded": "**attachment**"
+    },
+    {
+        "word": "photocopy",
+        "meaning": "사진 복사물; 사진 복사하다",
+        "bolded": "**photocopy**"
+    },
+    {
+        "word": "copy",
+        "meaning": "사진 복사물; 사진 복사하다",
+        "bolded": "**copy**"
+    },
+    {
+        "word": "xerox",
+        "meaning": "사진 복사하다",
+        "bolded": "**xerox**"
+    },
+    {
+        "word": "appoint",
+        "meaning": "임명하다, 지명하다; 약속하다, 정하다",
+        "bolded": "**appoint**"
+    },
+    {
+        "word": "appointment",
+        "meaning": "임명; 약속",
+        "bolded": "**appointment**"
+    },
+    {
+        "word": "agency",
+        "meaning": "대리점, 대행 회사",
+        "bolded": "**agency**"
+    },
+    {
+        "word": "basis",
+        "meaning": "기준 (단위); 기초",
+        "bolded": "**basis**"
+    },
+    {
+        "word": "base",
+        "meaning": "기초",
+        "bolded": "**base**"
+    },
+    {
+        "word": "on a regular basis",
+        "meaning": "정기적으로",
+        "bolded": "**on a regular basis**"
+    },
+    {
+        "word": "index",
+        "meaning": "지수, 지표; 색인",
+        "bolded": "**index**"
+    },
+    {
+        "word": "consumer price index",
+        "meaning": "소비자 물가 지수",
+        "bolded": "**consumer price index**"
+    },
+    {
+        "word": "deny",
+        "meaning": "거절하다; 부인하다",
+        "bolded": "**deny**"
+    },
+    {
+        "word": "decline",
+        "meaning": "거절하다",
+        "bolded": "**decline**"
+    },
+    {
+        "word": "stationery",
+        "meaning": "문방구, 문구류",
+        "bolded": "**stationery**"
+    },
+    {
+        "word": "staple",
+        "meaning": "스테이플러 철사 침; 스테이플러로 고정시키다",
+        "bolded": "**staple**"
+    },
+    {
+        "word": "confirm",
+        "meaning": "승인하다, 확인하다",
+        "bolded": "**confirm**"
+    },
+    {
+        "word": "confirmative",
+        "meaning": "확인의",
+        "bolded": "**confirmative**"
+    },
+    {
+        "word": "confirmation",
+        "meaning": "확인",
+        "bolded": "**confirmation**"
+    },
+    {
+        "word": "detail",
+        "meaning": "세부 사항",
+        "bolded": "**detail**"
+    },
+    {
+        "word": "in detail",
+        "meaning": "상세히",
+        "bolded": "**in detail**"
+    },
+    {
+        "word": "classify",
+        "meaning": "분류하다",
+        "bolded": "**classify**"
+    },
+    {
+        "word": "categorize",
+        "meaning": "분류하다",
+        "bolded": "**categorize**"
+    },
+    {
+        "word": "classified (ad)",
+        "meaning": "안내 광고 (구인·구직 등의 항목별 광고)",
+        "bolded": "**classified (ad)**"
+    },
+    {
+        "word": "document",
+        "meaning": "문서, 서류",
+        "bolded": "**document**"
+    },
+    {
+        "word": "documentary",
+        "meaning": "문서의; 사실을 기록한",
+        "bolded": "**documentary**"
+    },
+    {
+        "word": "misplace",
+        "meaning": "잘못 두다, 둔 곳을 잊다",
+        "bolded": "**misplace**"
+    },
+    {
+        "word": "procedure",
+        "meaning": "절차, 순서",
+        "bolded": "**procedure**"
+    },
+    {
+        "word": "process",
+        "meaning": "절차, 순서",
+        "bolded": "**process**"
+    },
+    {
+        "word": "firm",
+        "meaning": "회사; 굳은, 확고한",
+        "bolded": "**firm**"
+    },
+    {
+        "word": "client",
+        "meaning": "의뢰인, 고객",
+        "bolded": "**client**"
+    },
+    {
+        "word": "customer",
+        "meaning": "의뢰인, 고객",
+        "bolded": "**customer**"
+    },
+    {
+        "word": "frequent",
+        "meaning": "자주 일어나는, 빈번한",
+        "bolded": "**frequent**"
+    },
+    {
+        "word": "constant",
+        "meaning": "자주 일어나는, 빈번한",
+        "bolded": "**constant**"
+    },
+    {
+        "word": "rare",
+        "meaning": "드문, 희귀한",
+        "bolded": "**rare**"
+    },
+    {
+        "word": "commute",
+        "meaning": "통근하다, 통학하다",
+        "bolded": "**commute**"
+    },
+    {
+        "word": "commuter",
+        "meaning": "통근자",
+        "bolded": "**commuter**"
+    },
+    {
+        "word": "division",
+        "meaning": "부서; 분열",
+        "bolded": "**division**"
+    },
+    {
+        "word": "department",
+        "meaning": "부서",
+        "bolded": "**department**"
+    },
+    {
+        "word": "separation",
+        "meaning": "분열",
+        "bolded": "**separation**"
+    },
+    {
+        "word": "notify",
+        "meaning": "통지[통보]하다",
+        "bolded": "**notify**"
+    },
+    {
+        "word": "inform",
+        "meaning": "통지[통보]하다",
+        "bolded": "**inform**"
+    },
+    {
+        "word": "notification",
+        "meaning": "통지, 공고",
+        "bolded": "**notification**"
+    },
+    {
+        "word": "assign",
+        "meaning": "할당하다; 임명하다",
+        "bolded": "**assign**"
+    },
+    {
+        "word": "allot",
+        "meaning": "할당하다",
+        "bolded": "**allot**"
+    },
+    {
+        "word": "appoint",
+        "meaning": "임명하다",
+        "bolded": "**appoint**"
+    },
+    {
+        "word": "assignment",
+        "meaning": "할당; 임명; 숙제",
+        "bolded": "**assignment**"
+    },
+    {
+        "word": "assign a task",
+        "meaning": "임무를 할당하다",
+        "bolded": "**assign a task**"
+    },
+    {
+        "word": "booth",
+        "meaning": "부스(칸막이한 작은 공간)",
+        "bolded": "**booth**"
+    },
+    {
+        "word": "ticket booth",
+        "meaning": "매표소",
+        "bolded": "**ticket booth**"
+    },
+    {
+        "word": "brochure",
+        "meaning": "안내 소책자",
+        "bolded": "**brochure**"
+    },
+    {
+        "word": "pamphlet",
+        "meaning": "안내 소책자",
+        "bolded": "**pamphlet**"
+    },
+    {
+        "word": "distribute",
+        "meaning": "분배하다",
+        "bolded": "**distribute**"
+    },
+    {
+        "word": "hand out",
+        "meaning": "분배하다",
+        "bolded": "**hand out**"
+    },
+    {
+        "word": "distribution",
+        "meaning": "분배",
+        "bolded": "**distribution**"
+    },
+    {
+        "word": "make up for",
+        "meaning": "만회하다, 보충하다",
+        "bolded": "**make up for**"
+    },
+    {
+        "word": "compensate",
+        "meaning": "~을 만회하다, 보충하다",
+        "bolded": "**compensate**"
+    },
+    {
+        "word": "get ahead",
+        "meaning": "성공하다, 출세하다, ~을 앞서다",
+        "bolded": "**get ahead**"
+    },
+    {
+        "word": "take over",
+        "meaning": "인계받다, 일을 넘겨받다",
+        "bolded": "**take over**"
+    }
+]

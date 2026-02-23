@@ -1,0 +1,397 @@
+[
+    {
+        "word": "goods",
+        "meaning": "상품",
+        "bolded": "**goods**"
+    },
+    {
+        "word": "merchandise",
+        "meaning": "상품",
+        "bolded": "**merchandise**"
+    },
+    {
+        "word": "label",
+        "meaning": "꼬리표, 상표",
+        "bolded": "**label**"
+    },
+    {
+        "word": "tag",
+        "meaning": "꼬리표",
+        "bolded": "**tag**"
+    },
+    {
+        "word": "price tag",
+        "meaning": "가격표",
+        "bolded": "**price tag**"
+    },
+    {
+        "word": "wrap",
+        "meaning": "감싸다, 포장하다",
+        "bolded": "**wrap**"
+    },
+    {
+        "word": "unwrap",
+        "meaning": "포장을 풀다",
+        "bolded": "**unwrap**"
+    },
+    {
+        "word": "bargain",
+        "meaning": "싼 물건; 값싼 물건의",
+        "bolded": "**bargain**"
+    },
+    {
+        "word": "bargain sale",
+        "meaning": "염가 판매 (싼값으로 판매하는 것)",
+        "bolded": "**bargain sale**"
+    },
+    {
+        "word": "purchase",
+        "meaning": "사다; 구입, 구입품",
+        "bolded": "**purchase**"
+    },
+    {
+        "word": "buy",
+        "meaning": "사다",
+        "bolded": "**buy**"
+    },
+    {
+        "word": "purchaser",
+        "meaning": "구매자",
+        "bolded": "**purchaser**"
+    },
+    {
+        "word": "make a purchase of",
+        "meaning": "~을 구입하다",
+        "bolded": "**make a purchase of**"
+    },
+    {
+        "word": "total",
+        "meaning": "합계, 전체; 전체의; 완전한",
+        "bolded": "**total**"
+    },
+    {
+        "word": "sum",
+        "meaning": "합계, 전체",
+        "bolded": "**sum**"
+    },
+    {
+        "word": "part",
+        "meaning": "일부",
+        "bolded": "**part**"
+    },
+    {
+        "word": "partial",
+        "meaning": "일부의",
+        "bolded": "**partial**"
+    },
+    {
+        "word": "quality",
+        "meaning": "질; 특성; 양질의, 고급의",
+        "bolded": "**quality**"
+    },
+    {
+        "word": "characteristic",
+        "meaning": "특성",
+        "bolded": "**characteristic**"
+    },
+    {
+        "word": "qualify",
+        "meaning": "~에게 자격을 주다",
+        "bolded": "**qualify**"
+    },
+    {
+        "word": "quality time",
+        "meaning": "양질의 시간",
+        "bolded": "**quality time**"
+    },
+    {
+        "word": "value",
+        "meaning": "가치 있게 여기다, 평가하다; 가치",
+        "bolded": "**value**"
+    },
+    {
+        "word": "valuable",
+        "meaning": "가치가 있는, 값비싼",
+        "bolded": "**valuable**"
+    },
+    {
+        "word": "reduce",
+        "meaning": "줄이다, 낮추다",
+        "bolded": "**reduce**"
+    },
+    {
+        "word": "reduction",
+        "meaning": "축소, 삭감",
+        "bolded": "**reduction**"
+    },
+    {
+        "word": "trend",
+        "meaning": "유행; 경향, 흐름",
+        "bolded": "**trend**"
+    },
+    {
+        "word": "fashion",
+        "meaning": "유행",
+        "bolded": "**fashion**"
+    },
+    {
+        "word": "vogue",
+        "meaning": "유행",
+        "bolded": "**vogue**"
+    },
+    {
+        "word": "tendency",
+        "meaning": "경향, 흐름",
+        "bolded": "**tendency**"
+    },
+    {
+        "word": "trendy",
+        "meaning": "최신 유행의",
+        "bolded": "**trendy**"
+    },
+    {
+        "word": "quantity",
+        "meaning": "양",
+        "bolded": "**quantity**"
+    },
+    {
+        "word": "amount",
+        "meaning": "양",
+        "bolded": "**amount**"
+    },
+    {
+        "word": "quality",
+        "meaning": "질",
+        "bolded": "**quality**"
+    },
+    {
+        "word": "quantify",
+        "meaning": "양을 측정하다",
+        "bolded": "**quantify**"
+    },
+    {
+        "word": "retail",
+        "meaning": "소매",
+        "bolded": "**retail**"
+    },
+    {
+        "word": "wholesale",
+        "meaning": "도매",
+        "bolded": "**wholesale**"
+    },
+    {
+        "word": "retailer",
+        "meaning": "소매상",
+        "bolded": "**retailer**"
+    },
+    {
+        "word": "merchandise",
+        "meaning": "상품",
+        "bolded": "**merchandise**"
+    },
+    {
+        "word": "goods",
+        "meaning": "상품",
+        "bolded": "**goods**"
+    },
+    {
+        "word": "merchandiser",
+        "meaning": "판매자",
+        "bolded": "**merchandiser**"
+    },
+    {
+        "word": "insert",
+        "meaning": "집어넣다",
+        "bolded": "**insert**"
+    },
+    {
+        "word": "insertion",
+        "meaning": "주입, 삽입",
+        "bolded": "**insertion**"
+    },
+    {
+        "word": "necessity",
+        "meaning": "필요(성); 필수품",
+        "bolded": "**necessity**"
+    },
+    {
+        "word": "essential",
+        "meaning": "필수품",
+        "bolded": "**essential**"
+    },
+    {
+        "word": "luxury",
+        "meaning": "사치품",
+        "bolded": "**luxury**"
+    },
+    {
+        "word": "necessary",
+        "meaning": "필수적인",
+        "bolded": "**necessary**"
+    },
+    {
+        "word": "luxury",
+        "meaning": "호화, 사치(품); 사치(품)의",
+        "bolded": "**luxury**"
+    },
+    {
+        "word": "extravagance",
+        "meaning": "호화, 사치(품)",
+        "bolded": "**extravagance**"
+    },
+    {
+        "word": "luxurious",
+        "meaning": "사치스러운",
+        "bolded": "**luxurious**"
+    },
+    {
+        "word": "auction",
+        "meaning": "경매에서 팔다; 경매",
+        "bolded": "**auction**"
+    },
+    {
+        "word": "receipt",
+        "meaning": "영수증; 받음, 영수",
+        "bolded": "**receipt**"
+    },
+    {
+        "word": "sales slip",
+        "meaning": "영수증",
+        "bolded": "**sales slip**"
+    },
+    {
+        "word": "receive",
+        "meaning": "받다",
+        "bolded": "**receive**"
+    },
+    {
+        "word": "refund",
+        "meaning": "환불(액); 환불하다",
+        "bolded": "**refund**"
+    },
+    {
+        "word": "exchange",
+        "meaning": "교환하다; 교환(물)",
+        "bolded": "**exchange**"
+    },
+    {
+        "word": "in exchange for",
+        "meaning": "~와 교환으로",
+        "bolded": "**in exchange for**"
+    },
+    {
+        "word": "claim",
+        "meaning": "요구하다; 주장하다; 요구; 주장",
+        "bolded": "**claim**"
+    },
+    {
+        "word": "demand",
+        "meaning": "요구하다",
+        "bolded": "**demand**"
+    },
+    {
+        "word": "satisfy",
+        "meaning": "만족시키다; (조건을) 충족시키다",
+        "bolded": "**satisfy**"
+    },
+    {
+        "word": "dissatisfy",
+        "meaning": "불만을 느끼게 하다",
+        "bolded": "**dissatisfy**"
+    },
+    {
+        "word": "meet",
+        "meaning": "(조건을) 충족시키다",
+        "bolded": "**meet**"
+    },
+    {
+        "word": "satisfaction",
+        "meaning": "만족",
+        "bolded": "**satisfaction**"
+    },
+    {
+        "word": "satisfactory",
+        "meaning": "만족스러운",
+        "bolded": "**satisfactory**"
+    },
+    {
+        "word": "guarantee",
+        "meaning": "보증(서); 보증하다",
+        "bolded": "**guarantee**"
+    },
+    {
+        "word": "warranty",
+        "meaning": "보증(서)",
+        "bolded": "**warranty**"
+    },
+    {
+        "word": "ensure",
+        "meaning": "보증하다",
+        "bolded": "**ensure**"
+    },
+    {
+        "word": "money-back guarantee",
+        "meaning": "환불 보증",
+        "bolded": "**money-back guarantee**"
+    },
+    {
+        "word": "exclude",
+        "meaning": "배제하다",
+        "bolded": "**exclude**"
+    },
+    {
+        "word": "include",
+        "meaning": "포함하다",
+        "bolded": "**include**"
+    },
+    {
+        "word": "reasonable",
+        "meaning": "합리적인, 적절한",
+        "bolded": "**reasonable**"
+    },
+    {
+        "word": "reason",
+        "meaning": "이유, 이치",
+        "bolded": "**reason**"
+    },
+    {
+        "word": "at a reasonable price",
+        "meaning": "적당한 가격에",
+        "bolded": "**at a reasonable price**"
+    },
+    {
+        "word": "steady",
+        "meaning": "안정된, 꾸준한",
+        "bolded": "**steady**"
+    },
+    {
+        "word": "unsteady",
+        "meaning": "불안정한",
+        "bolded": "**unsteady**"
+    },
+    {
+        "word": "pay for",
+        "meaning": "대금을 지불하다; ~의 대가를 치르다",
+        "bolded": "**pay for**"
+    },
+    {
+        "word": "leave out",
+        "meaning": "~을 빠뜨리다, 생략하다",
+        "bolded": "**leave out**"
+    },
+    {
+        "word": "exclude",
+        "meaning": "~을 빠뜨리다, 생략하다",
+        "bolded": "**exclude**"
+    },
+    {
+        "word": "omit",
+        "meaning": "~을 빠뜨리다, 생략하다",
+        "bolded": "**omit**"
+    },
+    {
+        "word": "add up",
+        "meaning": "합산하다",
+        "bolded": "**add up**"
+    }
+]

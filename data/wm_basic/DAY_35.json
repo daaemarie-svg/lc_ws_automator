@@ -1,0 +1,102 @@
+[
+    {
+        "word": "bee",
+        "meaning": "벌",
+        "bolded": "**bee**"
+    },
+    {
+        "word": "fly",
+        "meaning": "파리; 날다",
+        "bolded": "**fly**"
+    },
+    {
+        "word": "wolf",
+        "meaning": "늑대",
+        "bolded": "**wolf**"
+    },
+    {
+        "word": "monkey",
+        "meaning": "원숭이",
+        "bolded": "**monkey**"
+    },
+    {
+        "word": "elephant",
+        "meaning": "코끼리",
+        "bolded": "**elephant**"
+    },
+    {
+        "word": "zebra",
+        "meaning": "얼룩말",
+        "bolded": "**zebra**"
+    },
+    {
+        "word": "whale",
+        "meaning": "고래",
+        "bolded": "**whale**"
+    },
+    {
+        "word": "chicken",
+        "meaning": "닭",
+        "bolded": "**chicken**"
+    },
+    {
+        "word": "snake",
+        "meaning": "뱀",
+        "bolded": "**snake**"
+    },
+    {
+        "word": "mouse",
+        "meaning": "쥐, 생쥐",
+        "bolded": "**mouse**"
+    },
+    {
+        "word": "sheep",
+        "meaning": "양",
+        "bolded": "**sheep**"
+    },
+    {
+        "word": "giraffe",
+        "meaning": "기린",
+        "bolded": "**giraffe**"
+    },
+    {
+        "word": "wild",
+        "meaning": "야생의",
+        "bolded": "**wild**"
+    },
+    {
+        "word": "animal",
+        "meaning": "동물",
+        "bolded": "**animal**"
+    },
+    {
+        "word": "hunt",
+        "meaning": "사냥하다",
+        "bolded": "**hunt**"
+    },
+    {
+        "word": "tail",
+        "meaning": "꼬리",
+        "bolded": "**tail**"
+    },
+    {
+        "word": "colorful",
+        "meaning": "알록달록한, 다채로운",
+        "bolded": "**colorful**"
+    },
+    {
+        "word": "feed",
+        "meaning": "먹이를 주다",
+        "bolded": "**feed**"
+    },
+    {
+        "word": "by the way",
+        "meaning": "그런데, 그나저나",
+        "bolded": "**by the way**"
+    },
+    {
+        "word": "look for",
+        "meaning": "~을 찾다",
+        "bolded": "**look for**"
+    }
+]

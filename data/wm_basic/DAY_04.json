@@ -1,0 +1,102 @@
+[
+    {
+        "word": "body",
+        "meaning": "몸, 신체",
+        "bolded": "**body**"
+    },
+    {
+        "word": "ear",
+        "meaning": "귀",
+        "bolded": "**ear**"
+    },
+    {
+        "word": "eye",
+        "meaning": "눈",
+        "bolded": "**eye**"
+    },
+    {
+        "word": "nose",
+        "meaning": "코",
+        "bolded": "**nose**"
+    },
+    {
+        "word": "mouth",
+        "meaning": "입",
+        "bolded": "**mouth**"
+    },
+    {
+        "word": "skin",
+        "meaning": "피부",
+        "bolded": "**skin**"
+    },
+    {
+        "word": "tooth",
+        "meaning": "이, 치아",
+        "bolded": "**tooth**"
+    },
+    {
+        "word": "tongue",
+        "meaning": "혀",
+        "bolded": "**tongue**"
+    },
+    {
+        "word": "head",
+        "meaning": "머리",
+        "bolded": "**head**"
+    },
+    {
+        "word": "hair",
+        "meaning": "머리카락, 털",
+        "bolded": "**hair**"
+    },
+    {
+        "word": "arm",
+        "meaning": "팔",
+        "bolded": "**arm**"
+    },
+    {
+        "word": "shoulder",
+        "meaning": "어깨",
+        "bolded": "**shoulder**"
+    },
+    {
+        "word": "hand",
+        "meaning": "손",
+        "bolded": "**hand**"
+    },
+    {
+        "word": "finger",
+        "meaning": "손가락",
+        "bolded": "**finger**"
+    },
+    {
+        "word": "leg",
+        "meaning": "다리",
+        "bolded": "**leg**"
+    },
+    {
+        "word": "knee",
+        "meaning": "무릎",
+        "bolded": "**knee**"
+    },
+    {
+        "word": "foot",
+        "meaning": "발",
+        "bolded": "**foot**"
+    },
+    {
+        "word": "toe",
+        "meaning": "발가락",
+        "bolded": "**toe**"
+    },
+    {
+        "word": "grow up",
+        "meaning": "성장하다, 자라다",
+        "bolded": "**grow up**"
+    },
+    {
+        "word": "watch out",
+        "meaning": "조심하다",
+        "bolded": "**watch out**"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "word": "nurse",
+        "meaning": "간호사",
+        "bolded": "**nurse**"
+    },
+    {
+        "word": "sick",
+        "meaning": "아픈, 병든",
+        "bolded": "**sick**"
+    },
+    {
+        "word": "weak",
+        "meaning": "약한, 힘이 없는",
+        "bolded": "**weak**"
+    },
+    {
+        "word": "strong",
+        "meaning": "튼튼한, 건강한",
+        "bolded": "**strong**"
+    },
+    {
+        "word": "fever",
+        "meaning": "열",
+        "bolded": "**fever**"
+    },
+    {
+        "word": "cough",
+        "meaning": "기침; 기침하다",
+        "bolded": "**cough**"
+    },
+    {
+        "word": "pain",
+        "meaning": "고통, 통증",
+        "bolded": "**pain**"
+    },
+    {
+        "word": "hospital",
+        "meaning": "병원",
+        "bolded": "**hospital**"
+    },
+    {
+        "word": "headache",
+        "meaning": "두통",
+        "bolded": "**headache**"
+    },
+    {
+        "word": "medicine",
+        "meaning": "약, 약물",
+        "bolded": "**medicine**"
+    },
+    {
+        "word": "weight",
+        "meaning": "무게, 체중",
+        "bolded": "**weight**"
+    },
+    {
+        "word": "tired",
+        "meaning": "피곤한, 지친",
+        "bolded": "**tired**"
+    },
+    {
+        "word": "hurt",
+        "meaning": "다치게 하다; 아프다",
+        "bolded": "**hurt**"
+    },
+    {
+        "word": "treat",
+        "meaning": "치료하다; 다루다, 대하다",
+        "bolded": "**treat**"
+    },
+    {
+        "word": "relax",
+        "meaning": "휴식을 취하다, 쉬다",
+        "bolded": "**relax**"
+    },
+    {
+        "word": "advice",
+        "meaning": "조언, 충고",
+        "bolded": "**advice**"
+    },
+    {
+        "word": "health",
+        "meaning": "건강",
+        "bolded": "**health**"
+    },
+    {
+        "word": "stomach",
+        "meaning": "위, 배",
+        "bolded": "**stomach**"
+    },
+    {
+        "word": "see a doctor",
+        "meaning": "병원에 가다, 진찰을 받다",
+        "bolded": "**see a doctor**"
+    },
+    {
+        "word": "catch a cold",
+        "meaning": "감기에 걸리다",
+        "bolded": "**catch a cold**"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "word": "park",
+        "meaning": "주차하다; 공원",
+        "bolded": "**park**"
+    },
+    {
+        "word": "stop",
+        "meaning": "정류장; 정차하다, 그만두다",
+        "bolded": "**stop**"
+    },
+    {
+        "word": "drive",
+        "meaning": "운전하다",
+        "bolded": "**drive**"
+    },
+    {
+        "word": "subway",
+        "meaning": "지하철",
+        "bolded": "**subway**"
+    },
+    {
+        "word": "seat",
+        "meaning": "좌석",
+        "bolded": "**seat**"
+    },
+    {
+        "word": "road",
+        "meaning": "길, 도로",
+        "bolded": "**road**"
+    },
+    {
+        "word": "fare",
+        "meaning": "요금",
+        "bolded": "**fare**"
+    },
+    {
+        "word": "bicycle",
+        "meaning": "자전거",
+        "bolded": "**bicycle**"
+    },
+    {
+        "word": "limit",
+        "meaning": "한계, 제한; 제한하다",
+        "bolded": "**limit**"
+    },
+    {
+        "word": "route",
+        "meaning": "길, 경로, 루트; (버스, 기차 등의) 노선",
+        "bolded": "**route**"
+    },
+    {
+        "word": "cross",
+        "meaning": "~을 건너다; 십자가",
+        "bolded": "**cross**"
+    },
+    {
+        "word": "track",
+        "meaning": "철도 선로, 궤도",
+        "bolded": "**track**"
+    },
+    {
+        "word": "rail",
+        "meaning": "철로",
+        "bolded": "**rail**"
+    },
+    {
+        "word": "curve",
+        "meaning": "굽이, 커브, 굴곡; 구부러지다",
+        "bolded": "**curve**"
+    },
+    {
+        "word": "sign",
+        "meaning": "표지(판); 서명하다",
+        "bolded": "**sign**"
+    },
+    {
+        "word": "station",
+        "meaning": "역, 정거장; (관공)서, 국",
+        "bolded": "**station**"
+    },
+    {
+        "word": "wheel",
+        "meaning": "바퀴",
+        "bolded": "**wheel**"
+    },
+    {
+        "word": "license",
+        "meaning": "면허증",
+        "bolded": "**license**"
+    },
+    {
+        "word": "accident",
+        "meaning": "사고",
+        "bolded": "**accident**"
+    },
+    {
+        "word": "traffic",
+        "meaning": "교통(량); 교통의",
+        "bolded": "**traffic**"
+    },
+    {
+        "word": "forward",
+        "meaning": "앞으로, 앞을 향하여",
+        "bolded": "**forward**"
+    },
+    {
+        "word": "transfer",
+        "meaning": "옮기다; 환승하다",
+        "bolded": "**transfer**"
+    },
+    {
+        "word": "passenger",
+        "meaning": "승객",
+        "bolded": "**passenger**"
+    },
+    {
+        "word": "harbor",
+        "meaning": "항구",
+        "bolded": "**harbor**"
+    },
+    {
+        "word": "gas",
+        "meaning": "휘발유, 가솔린",
+        "bolded": "**gas**"
+    },
+    {
+        "word": "platform",
+        "meaning": "(역의) 플랫폼, 승강장",
+        "bolded": "**platform**"
+    },
+    {
+        "word": "transport",
+        "meaning": "수송하다, 운송하다",
+        "bolded": "**transport**"
+    },
+    {
+        "word": "crash",
+        "meaning": "충돌; 충돌하다",
+        "bolded": "**crash**"
+    },
+    {
+        "word": "get on",
+        "meaning": "(탈것에) 타다, 승차하다",
+        "bolded": "**get on**"
+    },
+    {
+        "word": "on foot",
+        "meaning": "걸어서, 도보로",
+        "bolded": "**on foot**"
+    }
+]

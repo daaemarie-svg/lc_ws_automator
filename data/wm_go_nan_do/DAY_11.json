@@ -1,0 +1,152 @@
+[
+    {
+        "word": "report",
+        "meaning": "보도하다, 전하다; 보도, 보고",
+        "bolded": "**report**"
+    },
+    {
+        "word": "press",
+        "meaning": "신문, 잡지, 언론; 언론인, 기자",
+        "bolded": "**press**"
+    },
+    {
+        "word": "article",
+        "meaning": "(신문·잡지의) 기사, 논설; (문법) 관사",
+        "bolded": "**article**"
+    },
+    {
+        "word": "journal",
+        "meaning": "잡지, 정기 간행물; (일간) 신문; 일기, 일지",
+        "bolded": "**journal**"
+    },
+    {
+        "word": "broadcast",
+        "meaning": "방송하다, 방영하다; 방송, 방영",
+        "bolded": "**broadcast**"
+    },
+    {
+        "word": "post",
+        "meaning": "(안내문 등을) 게시[공고]하다; 게시글, 포스트 (블로그·소셜 네트워크 등에 올리는 사진이나 글)",
+        "bolded": "**post**"
+    },
+    {
+        "word": "pose",
+        "meaning": "(사진 등을 위한) 자세를 취하다; 자세, 포즈",
+        "bolded": "**pose**"
+    },
+    {
+        "word": "scene",
+        "meaning": "(연극·영화의) 장면, 무대; 현장",
+        "bolded": "**scene**"
+    },
+    {
+        "word": "survey",
+        "meaning": "조사, 검사, 측량; 조사하다, 살펴보다",
+        "bolded": "**survey**"
+    },
+    {
+        "word": "mass",
+        "meaning": "대중, 집단; 다수 대중의",
+        "bolded": "**mass**"
+    },
+    {
+        "word": "factual",
+        "meaning": "사실의, 사실에 입각한",
+        "bolded": "**factual**"
+    },
+    {
+        "word": "fame",
+        "meaning": "명성, 평판",
+        "bolded": "**fame**"
+    },
+    {
+        "word": "poll",
+        "meaning": "투표, 여론 조사; 투표하다, 여론 조사를 하다",
+        "bolded": "**poll**"
+    },
+    {
+        "word": "channel",
+        "meaning": "채널; 수로, 해협",
+        "bolded": "**channel**"
+    },
+    {
+        "word": "criticize",
+        "meaning": "비판하다, 혹평하다",
+        "bolded": "**criticize**"
+    },
+    {
+        "word": "compliment",
+        "meaning": "칭찬, 칭찬의 말; 칭찬하다",
+        "bolded": "**compliment**"
+    },
+    {
+        "word": "series",
+        "meaning": "연속물, (TV 프로그램의) 연속 프로",
+        "bolded": "**series**"
+    },
+    {
+        "word": "feature",
+        "meaning": "(신문·잡지 등의) 연재 기사, 특집 기사; 특징; (사건을) 대서특필하다; 특색으로 삼다",
+        "bolded": "**feature**"
+    },
+    {
+        "word": "script",
+        "meaning": "(방송의) 대본, 각본; 필기 문자",
+        "bolded": "**script**"
+    },
+    {
+        "word": "bulletin",
+        "meaning": "보고, 게시; 뉴스 속보",
+        "bolded": "**bulletin**"
+    },
+    {
+        "word": "preview",
+        "meaning": "(영화의) 시사회, 미리보기, 예고편; 예습하다",
+        "bolded": "**preview**"
+    },
+    {
+        "word": "column",
+        "meaning": "신문의 칸, 특정 기고를 하는 공간[란]",
+        "bolded": "**column**"
+    },
+    {
+        "word": "release",
+        "meaning": "(레코드를) 발매하다, (영화를) 개봉하다; (뉴스를) 발표하다, 공개하다",
+        "bolded": "**release**"
+    },
+    {
+        "word": "announce",
+        "meaning": "알리다, 공표하다, 공고하다",
+        "bolded": "**announce**"
+    },
+    {
+        "word": "reveal",
+        "meaning": "드러내다, 폭로하다",
+        "bolded": "**reveal**"
+    },
+    {
+        "word": "audience",
+        "meaning": "청중, 관중, 관객",
+        "bolded": "**audience**"
+    },
+    {
+        "word": "panel",
+        "meaning": "패널, (토론회의) 토론자단, 심사위원단",
+        "bolded": "**panel**"
+    },
+    {
+        "word": "focus",
+        "meaning": "초점을 맞추다, 관심을 집중하다(on); 초점, 집중점",
+        "bolded": "**focus**"
+    },
+    {
+        "word": "argue over",
+        "meaning": "~을 두고 논쟁하다, 왈가왈부하다",
+        "bolded": "**argue over**"
+    },
+    {
+        "word": "come up with",
+        "meaning": "~을 생각해 내다, 창안하다",
+        "bolded": "**come up with**"
+    }
+]

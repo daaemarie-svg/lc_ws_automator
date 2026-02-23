@@ -1,0 +1,102 @@
+[
+    {
+        "word": "warm",
+        "meaning": "따뜻한",
+        "bolded": "**warm**"
+    },
+    {
+        "word": "cold",
+        "meaning": "추운, 차가운",
+        "bolded": "**cold**"
+    },
+    {
+        "word": "cool",
+        "meaning": "시원한; 멋진",
+        "bolded": "**cool**"
+    },
+    {
+        "word": "hot",
+        "meaning": "더운, 뜨거운",
+        "bolded": "**hot**"
+    },
+    {
+        "word": "rain",
+        "meaning": "비가 오다; 비",
+        "bolded": "**rain**"
+    },
+    {
+        "word": "snow",
+        "meaning": "눈이 오다; 눈",
+        "bolded": "**snow**"
+    },
+    {
+        "word": "clear",
+        "meaning": "(날씨가) 맑은",
+        "bolded": "**clear**"
+    },
+    {
+        "word": "sunny",
+        "meaning": "화창한",
+        "bolded": "**sunny**"
+    },
+    {
+        "word": "windy",
+        "meaning": "바람이 많이 부는",
+        "bolded": "**windy**"
+    },
+    {
+        "word": "cloudy",
+        "meaning": "흐린, 구름 낀",
+        "bolded": "**cloudy**"
+    },
+    {
+        "word": "spring",
+        "meaning": "봄",
+        "bolded": "**spring**"
+    },
+    {
+        "word": "summer",
+        "meaning": "여름",
+        "bolded": "**summer**"
+    },
+    {
+        "word": "fall",
+        "meaning": "가을; 떨어지다",
+        "bolded": "**fall**"
+    },
+    {
+        "word": "winter",
+        "meaning": "겨울",
+        "bolded": "**winter**"
+    },
+    {
+        "word": "season",
+        "meaning": "계절; 시기, 철",
+        "bolded": "**season**"
+    },
+    {
+        "word": "blow",
+        "meaning": "(바람이) 불다",
+        "bolded": "**blow**"
+    },
+    {
+        "word": "weather",
+        "meaning": "날씨, 기상",
+        "bolded": "**weather**"
+    },
+    {
+        "word": "forecast",
+        "meaning": "예측, 예보; 예측하다",
+        "bolded": "**forecast**"
+    },
+    {
+        "word": "at first",
+        "meaning": "처음에",
+        "bolded": "**at first**"
+    },
+    {
+        "word": "all day (long)",
+        "meaning": "하루 종일",
+        "bolded": "**all day (long)**"
+    }
+]

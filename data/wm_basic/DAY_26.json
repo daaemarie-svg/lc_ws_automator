@@ -1,0 +1,102 @@
+[
+    {
+        "word": "south",
+        "meaning": "남쪽; 남쪽의; 남쪽으로",
+        "bolded": "**south**"
+    },
+    {
+        "word": "east",
+        "meaning": "동쪽; 동쪽의; 동쪽으로",
+        "bolded": "**east**"
+    },
+    {
+        "word": "west",
+        "meaning": "서쪽; 서쪽의; 서쪽으로",
+        "bolded": "**west**"
+    },
+    {
+        "word": "north",
+        "meaning": "북쪽; 북쪽의; 북쪽으로",
+        "bolded": "**north**"
+    },
+    {
+        "word": "under",
+        "meaning": "~아래에",
+        "bolded": "**under**"
+    },
+    {
+        "word": "below",
+        "meaning": "(~보다) 아래에[아래로]",
+        "bolded": "**below**"
+    },
+    {
+        "word": "behind",
+        "meaning": "~뒤에",
+        "bolded": "**behind**"
+    },
+    {
+        "word": "between",
+        "meaning": "~사이에",
+        "bolded": "**between**"
+    },
+    {
+        "word": "center",
+        "meaning": "중심, 중앙",
+        "bolded": "**center**"
+    },
+    {
+        "word": "around",
+        "meaning": "~주위[둘레]에",
+        "bolded": "**around**"
+    },
+    {
+        "word": "toward",
+        "meaning": "~쪽으로, ~을 향하여",
+        "bolded": "**toward**"
+    },
+    {
+        "word": "above",
+        "meaning": "(~보다) 위에[위로]",
+        "bolded": "**above**"
+    },
+    {
+        "word": "over",
+        "meaning": "~위에[위로]",
+        "bolded": "**over**"
+    },
+    {
+        "word": "far",
+        "meaning": "먼; 멀리",
+        "bolded": "**far**"
+    },
+    {
+        "word": "inside",
+        "meaning": "안에[안으로]",
+        "bolded": "**inside**"
+    },
+    {
+        "word": "outside",
+        "meaning": "밖에(서), 바깥에",
+        "bolded": "**outside**"
+    },
+    {
+        "word": "top",
+        "meaning": "맨 위, 정상; 맨 위의, 정상의",
+        "bolded": "**top**"
+    },
+    {
+        "word": "bottom",
+        "meaning": "맨 아래, 바닥; 맨 아래의",
+        "bolded": "**bottom**"
+    },
+    {
+        "word": "next to",
+        "meaning": "~옆에, ~ 다음의",
+        "bolded": "**next to**"
+    },
+    {
+        "word": "in front of",
+        "meaning": "~앞에",
+        "bolded": "**in front of**"
+    }
+]

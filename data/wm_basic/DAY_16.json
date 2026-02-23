@@ -1,0 +1,102 @@
+[
+    {
+        "word": "eat",
+        "meaning": "먹다",
+        "bolded": "**eat**"
+    },
+    {
+        "word": "drink",
+        "meaning": "마시다",
+        "bolded": "**drink**"
+    },
+    {
+        "word": "knife",
+        "meaning": "칼",
+        "bolded": "**knife**"
+    },
+    {
+        "word": "cup",
+        "meaning": "컵, 잔",
+        "bolded": "**cup**"
+    },
+    {
+        "word": "dish",
+        "meaning": "접시; 요리",
+        "bolded": "**dish**"
+    },
+    {
+        "word": "juice",
+        "meaning": "주스, 즙",
+        "bolded": "**juice**"
+    },
+    {
+        "word": "soup",
+        "meaning": "수프, 국",
+        "bolded": "**soup**"
+    },
+    {
+        "word": "salad",
+        "meaning": "샐러드",
+        "bolded": "**salad**"
+    },
+    {
+        "word": "seafood",
+        "meaning": "해산물",
+        "bolded": "**seafood**"
+    },
+    {
+        "word": "menu",
+        "meaning": "메뉴, 식단표",
+        "bolded": "**menu**"
+    },
+    {
+        "word": "hungry",
+        "meaning": "배고픈",
+        "bolded": "**hungry**"
+    },
+    {
+        "word": "thirsty",
+        "meaning": "목이 마른",
+        "bolded": "**thirsty**"
+    },
+    {
+        "word": "open",
+        "meaning": "열다; 열린",
+        "bolded": "**open**"
+    },
+    {
+        "word": "order",
+        "meaning": "주문하다",
+        "bolded": "**order**"
+    },
+    {
+        "word": "chef",
+        "meaning": "요리사, 주방장",
+        "bolded": "**chef**"
+    },
+    {
+        "word": "serve",
+        "meaning": "(음식을) 제공하다, 차려 내다",
+        "bolded": "**serve**"
+    },
+    {
+        "word": "dessert",
+        "meaning": "디저트, 후식",
+        "bolded": "**dessert**"
+    },
+    {
+        "word": "restaurant",
+        "meaning": "식당, 레스토랑",
+        "bolded": "**restaurant**"
+    },
+    {
+        "word": "eat out",
+        "meaning": "외식하다",
+        "bolded": "**eat out**"
+    },
+    {
+        "word": "wait for",
+        "meaning": "~을 기다리다",
+        "bolded": "**wait for**"
+    }
+]

@@ -1,0 +1,307 @@
+[
+    {
+        "word": "temperature",
+        "meaning": "온도, 기온",
+        "bolded": "**temperature**"
+    },
+    {
+        "word": "forecast",
+        "meaning": "예보; 예상하다, 예보하다",
+        "bolded": "**forecast**"
+    },
+    {
+        "word": "predict",
+        "meaning": "예상하다, 예보하다",
+        "bolded": "**predict**"
+    },
+    {
+        "word": "weather forecast",
+        "meaning": "일기 예보",
+        "bolded": "**weather forecast**"
+    },
+    {
+        "word": "climate",
+        "meaning": "기후",
+        "bolded": "**climate**"
+    },
+    {
+        "word": "rubber",
+        "meaning": "고무; 고무의",
+        "bolded": "**rubber**"
+    },
+    {
+        "word": "severe",
+        "meaning": "극심한, 심각한; 가혹한; 위험한",
+        "bolded": "**severe**"
+    },
+    {
+        "word": "severely",
+        "meaning": "심하게",
+        "bolded": "**severely**"
+    },
+    {
+        "word": "severe weather conditions",
+        "meaning": "악천후",
+        "bolded": "**severe weather conditions**"
+    },
+    {
+        "word": "resource",
+        "meaning": "자원, 재원",
+        "bolded": "**resource**"
+    },
+    {
+        "word": "natural resources",
+        "meaning": "천연자원",
+        "bolded": "**natural resources**"
+    },
+    {
+        "word": "spark",
+        "meaning": "도화선이 되다, 불꽃을 튀기다; 불꽃",
+        "bolded": "**spark**"
+    },
+    {
+        "word": "Arctic",
+        "meaning": "북극 지방; 북극의",
+        "bolded": "**Arctic**"
+    },
+    {
+        "word": "Antarctic",
+        "meaning": "남극의",
+        "bolded": "**Antarctic**"
+    },
+    {
+        "word": "depth (the -s)",
+        "meaning": "심해; 깊이, 난해함",
+        "bolded": "**depth (the -s)**"
+    },
+    {
+        "word": "deep",
+        "meaning": "깊은",
+        "bolded": "**deep**"
+    },
+    {
+        "word": "deepen",
+        "meaning": "깊게 하다",
+        "bolded": "**deepen**"
+    },
+    {
+        "word": "shield",
+        "meaning": "보호하다; 방패, 보호",
+        "bolded": "**shield**"
+    },
+    {
+        "word": "protect",
+        "meaning": "보호하다",
+        "bolded": "**protect**"
+    },
+    {
+        "word": "wildlife",
+        "meaning": "야생 생물",
+        "bolded": "**wildlife**"
+    },
+    {
+        "word": "disaster",
+        "meaning": "재난, 재해, 재앙",
+        "bolded": "**disaster**"
+    },
+    {
+        "word": "natural disaster",
+        "meaning": "자연 재해",
+        "bolded": "**natural disaster**"
+    },
+    {
+        "word": "occur",
+        "meaning": "발생하다, 일어나다; 떠오르다(to)",
+        "bolded": "**occur**"
+    },
+    {
+        "word": "happen",
+        "meaning": "발생하다, 일어나다",
+        "bolded": "**happen**"
+    },
+    {
+        "word": "occurrence",
+        "meaning": "발생",
+        "bolded": "**occurrence**"
+    },
+    {
+        "word": "Atlantic",
+        "meaning": "대서양; 대서양의",
+        "bolded": "**Atlantic**"
+    },
+    {
+        "word": "canyon",
+        "meaning": "협곡",
+        "bolded": "**canyon**"
+    },
+    {
+        "word": "valley",
+        "meaning": "협곡",
+        "bolded": "**valley**"
+    },
+    {
+        "word": "swamp",
+        "meaning": "늪; 늪에 빠져들다, 물에 잠기게 하다",
+        "bolded": "**swamp**"
+    },
+    {
+        "word": "marsh",
+        "meaning": "늪",
+        "bolded": "**marsh**"
+    },
+    {
+        "word": "swampy",
+        "meaning": "늪에 있는",
+        "bolded": "**swampy**"
+    },
+    {
+        "word": "swamp down",
+        "meaning": "꿀꺽 삼키다",
+        "bolded": "**swamp down**"
+    },
+    {
+        "word": "moisture",
+        "meaning": "수분, 습기",
+        "bolded": "**moisture**"
+    },
+    {
+        "word": "moist",
+        "meaning": "습한, 촉촉한",
+        "bolded": "**moist**"
+    },
+    {
+        "word": "reflect",
+        "meaning": "반사하다; 반영하다; 심사숙고하다",
+        "bolded": "**reflect**"
+    },
+    {
+        "word": "mirror",
+        "meaning": "반사하다",
+        "bolded": "**mirror**"
+    },
+    {
+        "word": "reflection",
+        "meaning": "반사, 반영",
+        "bolded": "**reflection**"
+    },
+    {
+        "word": "reflect on",
+        "meaning": "~을 곰곰이 생각하다",
+        "bolded": "**reflect on**"
+    },
+    {
+        "word": "Celsius",
+        "meaning": "섭씨",
+        "bolded": "**Celsius**"
+    },
+    {
+        "word": "centigrade",
+        "meaning": "섭씨",
+        "bolded": "**centigrade**"
+    },
+    {
+        "word": "thermometer",
+        "meaning": "온도계",
+        "bolded": "**thermometer**"
+    },
+    {
+        "word": "destructive",
+        "meaning": "파괴적인, 해로운",
+        "bolded": "**destructive**"
+    },
+    {
+        "word": "constructive",
+        "meaning": "건설적인",
+        "bolded": "**constructive**"
+    },
+    {
+        "word": "wreck",
+        "meaning": "난파, 잔해; 난파하다, 파괴하다",
+        "bolded": "**wreck**"
+    },
+    {
+        "word": "destroy",
+        "meaning": "난파하다, 파괴하다",
+        "bolded": "**destroy**"
+    },
+    {
+        "word": "peak",
+        "meaning": "정상, 봉우리; 절정; 최고의",
+        "bolded": "**peak**"
+    },
+    {
+        "word": "erupt",
+        "meaning": "폭발하다, 분출하다; (감정을) 분출하다",
+        "bolded": "**erupt**"
+    },
+    {
+        "word": "eject",
+        "meaning": "폭발하다, 분출하다",
+        "bolded": "**eject**"
+    },
+    {
+        "word": "eruption",
+        "meaning": "(화산의) 폭발, 분출",
+        "bolded": "**eruption**"
+    },
+    {
+        "word": "eject",
+        "meaning": "내뿜다, 배출하다; 쫓아내다, 추방하다",
+        "bolded": "**eject**"
+    },
+    {
+        "word": "ejection",
+        "meaning": "배출",
+        "bolded": "**ejection**"
+    },
+    {
+        "word": "purify",
+        "meaning": "정화하다, 정제하다",
+        "bolded": "**purify**"
+    },
+    {
+        "word": "pure",
+        "meaning": "순수한",
+        "bolded": "**pure**"
+    },
+    {
+        "word": "purification",
+        "meaning": "정화",
+        "bolded": "**purification**"
+    },
+    {
+        "word": "surround",
+        "meaning": "둘러싸다, 포위하다",
+        "bolded": "**surround**"
+    },
+    {
+        "word": "be surrounded with[by]",
+        "meaning": "~로 둘러싸이다",
+        "bolded": "**be surrounded with[by]**"
+    },
+    {
+        "word": "wash away",
+        "meaning": "~을 쓸어 가다[유실되게 하다]",
+        "bolded": "**wash away**"
+    },
+    {
+        "word": "wipe out",
+        "meaning": "~을 완전히 파괴하다[없애 버리다]",
+        "bolded": "**wipe out**"
+    },
+    {
+        "word": "use up",
+        "meaning": "다 써 버리다; 소비하다, 소모하다",
+        "bolded": "**use up**"
+    },
+    {
+        "word": "deplete",
+        "meaning": "다 써 버리다",
+        "bolded": "**deplete**"
+    },
+    {
+        "word": "consume",
+        "meaning": "소비하다, 소모하다",
+        "bolded": "**consume**"
+    }
+]

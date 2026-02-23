@@ -1,0 +1,357 @@
+[
+    {
+        "word": "enrich",
+        "meaning": "풍부하게 하다, 부유하게 하다",
+        "bolded": "**enrich**"
+    },
+    {
+        "word": "enrichment",
+        "meaning": "풍부하게 함, 비옥화",
+        "bolded": "**enrichment**"
+    },
+    {
+        "word": "barrel",
+        "meaning": "배럴(용량의 단위로 약 159리터); 통",
+        "bolded": "**barrel**"
+    },
+    {
+        "word": "herd",
+        "meaning": "(가축의) 떼, 무리",
+        "bolded": "**herd**"
+    },
+    {
+        "word": "group",
+        "meaning": "(가축의) 떼, 무리",
+        "bolded": "**group**"
+    },
+    {
+        "word": "crisis",
+        "meaning": "위기",
+        "bolded": "**crisis**"
+    },
+    {
+        "word": "emergency",
+        "meaning": "위기",
+        "bolded": "**emergency**"
+    },
+    {
+        "word": "critical",
+        "meaning": "비판적인, 위태로운",
+        "bolded": "**critical**"
+    },
+    {
+        "word": "provide",
+        "meaning": "공급하다(with); 준비하다(for, against)",
+        "bolded": "**provide**"
+    },
+    {
+        "word": "supply",
+        "meaning": "공급하다",
+        "bolded": "**supply**"
+    },
+    {
+        "word": "provider",
+        "meaning": "공급자",
+        "bolded": "**provider**"
+    },
+    {
+        "word": "material",
+        "meaning": "물질, 재료; 물질적인, 세속적인",
+        "bolded": "**material**"
+    },
+    {
+        "word": "substance",
+        "meaning": "물질, 재료",
+        "bolded": "**substance**"
+    },
+    {
+        "word": "matter",
+        "meaning": "물질, 재료",
+        "bolded": "**matter**"
+    },
+    {
+        "word": "materially",
+        "meaning": "물질적으로",
+        "bolded": "**materially**"
+    },
+    {
+        "word": "raw material",
+        "meaning": "원료, 소재",
+        "bolded": "**raw material**"
+    },
+    {
+        "word": "export",
+        "meaning": "수출하다; 수출",
+        "bolded": "**export**"
+    },
+    {
+        "word": "import",
+        "meaning": "수입하다",
+        "bolded": "**import**"
+    },
+    {
+        "word": "exportation",
+        "meaning": "수출",
+        "bolded": "**exportation**"
+    },
+    {
+        "word": "exportable",
+        "meaning": "수출할 수 있는",
+        "bolded": "**exportable**"
+    },
+    {
+        "word": "construct",
+        "meaning": "건설하다, 조립하다",
+        "bolded": "**construct**"
+    },
+    {
+        "word": "build",
+        "meaning": "건설하다, 조립하다",
+        "bolded": "**build**"
+    },
+    {
+        "word": "pollution",
+        "meaning": "오염, 공해",
+        "bolded": "**pollution**"
+    },
+    {
+        "word": "pollute",
+        "meaning": "오염시키다",
+        "bolded": "**pollute**"
+    },
+    {
+        "word": "agriculture",
+        "meaning": "농업",
+        "bolded": "**agriculture**"
+    },
+    {
+        "word": "farming",
+        "meaning": "농업",
+        "bolded": "**farming**"
+    },
+    {
+        "word": "graze",
+        "meaning": "(가축이) 풀을 뜯어 먹다",
+        "bolded": "**graze**"
+    },
+    {
+        "word": "feed",
+        "meaning": "(가축이) 풀을 뜯어 먹다",
+        "bolded": "**feed**"
+    },
+    {
+        "word": "pasture",
+        "meaning": "목초지",
+        "bolded": "**pasture**"
+    },
+    {
+        "word": "grassland",
+        "meaning": "목초지",
+        "bolded": "**grassland**"
+    },
+    {
+        "word": "meadow",
+        "meaning": "목초지",
+        "bolded": "**meadow**"
+    },
+    {
+        "word": "cattle",
+        "meaning": "소; 가축",
+        "bolded": "**cattle**"
+    },
+    {
+        "word": "livestock",
+        "meaning": "가축",
+        "bolded": "**livestock**"
+    },
+    {
+        "word": "cultivate",
+        "meaning": "경작하다, 재배하다",
+        "bolded": "**cultivate**"
+    },
+    {
+        "word": "farm",
+        "meaning": "경작하다, 재배하다",
+        "bolded": "**farm**"
+    },
+    {
+        "word": "cultivation",
+        "meaning": "경작",
+        "bolded": "**cultivation**"
+    },
+    {
+        "word": "concrete",
+        "meaning": "콘크리트; 구체적인; 콘크리트의",
+        "bolded": "**concrete**"
+    },
+    {
+        "word": "specific",
+        "meaning": "구체적인",
+        "bolded": "**specific**"
+    },
+    {
+        "word": "concrete evidence",
+        "meaning": "구체적인 증거",
+        "bolded": "**concrete evidence**"
+    },
+    {
+        "word": "crane",
+        "meaning": "기중기",
+        "bolded": "**crane**"
+    },
+    {
+        "word": "invest",
+        "meaning": "투자하다",
+        "bolded": "**invest**"
+    },
+    {
+        "word": "investment",
+        "meaning": "투자",
+        "bolded": "**investment**"
+    },
+    {
+        "word": "expand",
+        "meaning": "확장하다; 팽창하다",
+        "bolded": "**expand**"
+    },
+    {
+        "word": "contract",
+        "meaning": "수축하다",
+        "bolded": "**contract**"
+    },
+    {
+        "word": "scale",
+        "meaning": "규모; 저울; 비늘",
+        "bolded": "**scale**"
+    },
+    {
+        "word": "size",
+        "meaning": "규모",
+        "bolded": "**size**"
+    },
+    {
+        "word": "full-scale",
+        "meaning": "전면적인, 본격적인",
+        "bolded": "**full-scale**"
+    },
+    {
+        "word": "proportion",
+        "meaning": "비율",
+        "bolded": "**proportion**"
+    },
+    {
+        "word": "percentage",
+        "meaning": "비율",
+        "bolded": "**percentage**"
+    },
+    {
+        "word": "surpass",
+        "meaning": "초월하다, ~보다 낫다",
+        "bolded": "**surpass**"
+    },
+    {
+        "word": "exceed",
+        "meaning": "초월하다, ~보다 낫다",
+        "bolded": "**exceed**"
+    },
+    {
+        "word": "generate",
+        "meaning": "발생시키다",
+        "bolded": "**generate**"
+    },
+    {
+        "word": "produce",
+        "meaning": "발생시키다",
+        "bolded": "**produce**"
+    },
+    {
+        "word": "constant",
+        "meaning": "일정한, 지속적인",
+        "bolded": "**constant**"
+    },
+    {
+        "word": "continuous",
+        "meaning": "일정한, 지속적인",
+        "bolded": "**continuous**"
+    },
+    {
+        "word": "optimistic",
+        "meaning": "낙관적인",
+        "bolded": "**optimistic**"
+    },
+    {
+        "word": "pessimistic",
+        "meaning": "비관적인",
+        "bolded": "**pessimistic**"
+    },
+    {
+        "word": "optimism",
+        "meaning": "낙관주의",
+        "bolded": "**optimism**"
+    },
+    {
+        "word": "optimist",
+        "meaning": "낙관주의자",
+        "bolded": "**optimist**"
+    },
+    {
+        "word": "undertake",
+        "meaning": "떠맡다, 착수하다",
+        "bolded": "**undertake**"
+    },
+    {
+        "word": "assemble",
+        "meaning": "조립하다; 모으다",
+        "bolded": "**assemble**"
+    },
+    {
+        "word": "disassemble",
+        "meaning": "분해하다",
+        "bolded": "**disassemble**"
+    },
+    {
+        "word": "gather",
+        "meaning": "모으다",
+        "bolded": "**gather**"
+    },
+    {
+        "word": "assembly",
+        "meaning": "조립",
+        "bolded": "**assembly**"
+    },
+    {
+        "word": "innovative",
+        "meaning": "획기적인, 혁신적인",
+        "bolded": "**innovative**"
+    },
+    {
+        "word": "innovation",
+        "meaning": "혁신, 획기적인 것",
+        "bolded": "**innovation**"
+    },
+    {
+        "word": "enterprise",
+        "meaning": "기업, 회사; (특히 모험적인) 사업",
+        "bolded": "**enterprise**"
+    },
+    {
+        "word": "business",
+        "meaning": "기업, 회사",
+        "bolded": "**business**"
+    },
+    {
+        "word": "entrepreneur",
+        "meaning": "(특히 모험적인) 사업가[기업가]",
+        "bolded": "**entrepreneur**"
+    },
+    {
+        "word": "shut down",
+        "meaning": "문을 닫다, 폐쇄하다",
+        "bolded": "**shut down**"
+    },
+    {
+        "word": "set up",
+        "meaning": "시작하다, 창설하다, 건립하다",
+        "bolded": "**set up**"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "word": "family",
+        "meaning": "가족",
+        "bolded": "**family**"
+    },
+    {
+        "word": "father",
+        "meaning": "아버지",
+        "bolded": "**father**"
+    },
+    {
+        "word": "mother",
+        "meaning": "어머니",
+        "bolded": "**mother**"
+    },
+    {
+        "word": "son",
+        "meaning": "아들",
+        "bolded": "**son**"
+    },
+    {
+        "word": "daughter",
+        "meaning": "딸",
+        "bolded": "**daughter**"
+    },
+    {
+        "word": "brother",
+        "meaning": "형, 오빠, 남동생",
+        "bolded": "**brother**"
+    },
+    {
+        "word": "sister",
+        "meaning": "언니, 누나, 여동생",
+        "bolded": "**sister**"
+    },
+    {
+        "word": "marry",
+        "meaning": "결혼하다",
+        "bolded": "**marry**"
+    },
+    {
+        "word": "husband",
+        "meaning": "남편",
+        "bolded": "**husband**"
+    },
+    {
+        "word": "wife",
+        "meaning": "아내, 부인",
+        "bolded": "**wife**"
+    },
+    {
+        "word": "parent(-s)",
+        "meaning": "부모",
+        "bolded": "**parent(-s)**"
+    },
+    {
+        "word": "uncle",
+        "meaning": "삼촌",
+        "bolded": "**uncle**"
+    },
+    {
+        "word": "aunt",
+        "meaning": "고모, 이모, 숙모",
+        "bolded": "**aunt**"
+    },
+    {
+        "word": "grandparent(-s)",
+        "meaning": "조부모",
+        "bolded": "**grandparent(-s)**"
+    },
+    {
+        "word": "cousin",
+        "meaning": "사촌",
+        "bolded": "**cousin**"
+    },
+    {
+        "word": "member",
+        "meaning": "구성원, 일원",
+        "bolded": "**member**"
+    },
+    {
+        "word": "pet",
+        "meaning": "반려동물",
+        "bolded": "**pet**"
+    },
+    {
+        "word": "relative",
+        "meaning": "친척",
+        "bolded": "**relative**"
+    },
+    {
+        "word": "be born",
+        "meaning": "태어나다",
+        "bolded": "**be born**"
+    },
+    {
+        "word": "take care of",
+        "meaning": "~을 돌보다",
+        "bolded": "**take care of**"
+    }
+]

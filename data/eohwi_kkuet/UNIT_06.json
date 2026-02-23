@@ -1,0 +1,127 @@
+[
+    {
+        "word": "furniture",
+        "meaning": "[명] 가구",
+        "bolded": "**furniture**"
+    },
+    {
+        "word": "closet",
+        "meaning": "[명] 벽장, 옷장",
+        "bolded": "**closet**"
+    },
+    {
+        "word": "drawer",
+        "meaning": "[명] 서랍",
+        "bolded": "**drawer**"
+    },
+    {
+        "word": "shelf",
+        "meaning": "[명] 선반",
+        "bolded": "**shelf**"
+    },
+    {
+        "word": "ladder",
+        "meaning": "[명] 사다리",
+        "bolded": "**ladder**"
+    },
+    {
+        "word": "screw",
+        "meaning": "[명] 나사",
+        "bolded": "**screw**"
+    },
+    {
+        "word": "scale",
+        "meaning": "[명] 1. 저울, 체중계 2. 규모, 정도",
+        "bolded": "**scale**"
+    },
+    {
+        "word": "wire",
+        "meaning": "[명] 1. 철사 2. 전선, 선",
+        "bolded": "**wire**"
+    },
+    {
+        "word": "string",
+        "meaning": "[명] 끈, 줄",
+        "bolded": "**string**"
+    },
+    {
+        "word": "tank",
+        "meaning": "[명] 1. (물·기름 등을 넣는) 큰 통 2. 전차, 탱크",
+        "bolded": "**tank**"
+    },
+    {
+        "word": "bucket",
+        "meaning": "[명] 양동이",
+        "bolded": "**bucket**"
+    },
+    {
+        "word": "lid",
+        "meaning": "[명] 뚜껑, 덮개",
+        "bolded": "**lid**"
+    },
+    {
+        "word": "faucet",
+        "meaning": "[명] 수도꼭지",
+        "bolded": "**faucet**"
+    },
+    {
+        "word": "stuff",
+        "meaning": "[명] 물건, 것\n[동] ~을 채워 넣다",
+        "bolded": "**stuff**"
+    },
+    {
+        "word": "refrigerator",
+        "meaning": "[명] 냉장고",
+        "bolded": "**refrigerator**"
+    },
+    {
+        "word": "microwave",
+        "meaning": "[명] 전자레인지",
+        "bolded": "**microwave**"
+    },
+    {
+        "word": "bulb",
+        "meaning": "[명] 전구",
+        "bolded": "**bulb**"
+    },
+    {
+        "word": "switch",
+        "meaning": "[명] 1. 스위치 2. 전환 \n[동] 바뀌다, 전환되다",
+        "bolded": "**switch**"
+    },
+    {
+        "word": "pillow",
+        "meaning": "[명] 베개",
+        "bolded": "**pillow**"
+    },
+    {
+        "word": "spray",
+        "meaning": "[명] 스프레이, 분무기 \n[동] 뿌리다, 살포하다",
+        "bolded": "**spray**"
+    },
+    {
+        "word": "rubber",
+        "meaning": "[명] 1. 고무 2. 지우개",
+        "bolded": "**rubber**"
+    },
+    {
+        "word": "stamp",
+        "meaning": "[명] 1. 우표 2. 도장, 스탬프\n[동] 1. (도장을) 찍다 2. 발을 구르다",
+        "bolded": "**stamp**"
+    },
+    {
+        "word": "broom",
+        "meaning": "[명] 빗자루, 비",
+        "bolded": "**broom**"
+    },
+    {
+        "word": "bathtub",
+        "meaning": "[명] 욕조",
+        "bolded": "**bathtub**"
+    },
+    {
+        "word": "toothbrush",
+        "meaning": "[명] 칫솔",
+        "bolded": "**toothbrush**"
+    }
+]

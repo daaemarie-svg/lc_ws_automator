@@ -1,0 +1,347 @@
+[
+    {
+        "word": "biology",
+        "meaning": "생물학",
+        "bolded": "**biology**"
+    },
+    {
+        "word": "biologist",
+        "meaning": "생물학자",
+        "bolded": "**biologist**"
+    },
+    {
+        "word": "biological",
+        "meaning": "생물학의",
+        "bolded": "**biological**"
+    },
+    {
+        "word": "chemistry",
+        "meaning": "화학",
+        "bolded": "**chemistry**"
+    },
+    {
+        "word": "chemist",
+        "meaning": "화학자",
+        "bolded": "**chemist**"
+    },
+    {
+        "word": "chemical",
+        "meaning": "화학의; 화학 제품, 화학 약품",
+        "bolded": "**chemical**"
+    },
+    {
+        "word": "element",
+        "meaning": "요소, 성분; 원소",
+        "bolded": "**element**"
+    },
+    {
+        "word": "elementary",
+        "meaning": "기본이 되는; 원소의; 초등학교의",
+        "bolded": "**elementary**"
+    },
+    {
+        "word": "chemical element",
+        "meaning": "화학 원소",
+        "bolded": "**chemical element**"
+    },
+    {
+        "word": "acid",
+        "meaning": "[화학] 산; 산(성)의, 신맛의",
+        "bolded": "**acid**"
+    },
+    {
+        "word": "acidic",
+        "meaning": "[화학] 산(성)의",
+        "bolded": "**acidic**"
+    },
+    {
+        "word": "storage",
+        "meaning": "저장, 저장소",
+        "bolded": "**storage**"
+    },
+    {
+        "word": "store",
+        "meaning": "저장하다",
+        "bolded": "**store**"
+    },
+    {
+        "word": "steam",
+        "meaning": "증기",
+        "bolded": "**steam**"
+    },
+    {
+        "word": "steamy",
+        "meaning": "증기의",
+        "bolded": "**steamy**"
+    },
+    {
+        "word": "gene",
+        "meaning": "유전자",
+        "bolded": "**gene**"
+    },
+    {
+        "word": "genetics",
+        "meaning": "유전학",
+        "bolded": "**genetics**"
+    },
+    {
+        "word": "genetic",
+        "meaning": "유전의, 유전학의",
+        "bolded": "**genetic**"
+    },
+    {
+        "word": "mammal",
+        "meaning": "포유동물",
+        "bolded": "**mammal**"
+    },
+    {
+        "word": "the higher[lower] mammals",
+        "meaning": "고등[하등] 포유동물",
+        "bolded": "**the higher[lower] mammals**"
+    },
+    {
+        "word": "melt",
+        "meaning": "녹다, 녹이다; 용해",
+        "bolded": "**melt**"
+    },
+    {
+        "word": "dissolve",
+        "meaning": "녹다, 녹이다",
+        "bolded": "**dissolve**"
+    },
+    {
+        "word": "freeze",
+        "meaning": "얼다",
+        "bolded": "**freeze**"
+    },
+    {
+        "word": "melt away",
+        "meaning": "서서히 사라지다",
+        "bolded": "**melt away**"
+    },
+    {
+        "word": "meltable",
+        "meaning": "녹기 쉬운",
+        "bolded": "**meltable**"
+    },
+    {
+        "word": "cell",
+        "meaning": "세포; 작은 방, 독방",
+        "bolded": "**cell**"
+    },
+    {
+        "word": "room",
+        "meaning": "작은 방, 독방",
+        "bolded": "**room**"
+    },
+    {
+        "word": "cellular",
+        "meaning": "세포의",
+        "bolded": "**cellular**"
+    },
+    {
+        "word": "red[white] blood cell",
+        "meaning": "적[백]혈구",
+        "bolded": "**red[white] blood cell**"
+    },
+    {
+        "word": "microscope",
+        "meaning": "현미경",
+        "bolded": "**microscope**"
+    },
+    {
+        "word": "microscopic",
+        "meaning": "현미경의, 현미경으로만 볼 수 있을 정도로 작은",
+        "bolded": "**microscopic**"
+    },
+    {
+        "word": "reproduce",
+        "meaning": "번식하다; 재생[재현]하다; 복제하다",
+        "bolded": "**reproduce**"
+    },
+    {
+        "word": "evolution",
+        "meaning": "진화",
+        "bolded": "**evolution**"
+    },
+    {
+        "word": "evolve",
+        "meaning": "전개되다, 진화하다",
+        "bolded": "**evolve**"
+    },
+    {
+        "word": "extinct",
+        "meaning": "멸종된, 사라진; 활동을 멈춘",
+        "bolded": "**extinct**"
+    },
+    {
+        "word": "living",
+        "meaning": "살아 있는",
+        "bolded": "**living**"
+    },
+    {
+        "word": "extinction",
+        "meaning": "멸종, 소멸",
+        "bolded": "**extinction**"
+    },
+    {
+        "word": "clone",
+        "meaning": "복제하다; 복제 생물",
+        "bolded": "**clone**"
+    },
+    {
+        "word": "copy",
+        "meaning": "복제하다",
+        "bolded": "**copy**"
+    },
+    {
+        "word": "reproduction",
+        "meaning": "재생, 복제, 번식",
+        "bolded": "**reproduction**"
+    },
+    {
+        "word": "identical",
+        "meaning": "동일한",
+        "bolded": "**identical**"
+    },
+    {
+        "word": "same",
+        "meaning": "동일한",
+        "bolded": "**same**"
+    },
+    {
+        "word": "identical twins",
+        "meaning": "일란성 쌍둥이",
+        "bolded": "**identical twins**"
+    },
+    {
+        "word": "animate",
+        "meaning": "살아 있는, 생물인",
+        "bolded": "**animate**"
+    },
+    {
+        "word": "living",
+        "meaning": "살아 있는, 생물인",
+        "bolded": "**living**"
+    },
+    {
+        "word": "inanimate",
+        "meaning": "죽은, 무생물의",
+        "bolded": "**inanimate**"
+    },
+    {
+        "word": "carbon",
+        "meaning": "탄소",
+        "bolded": "**carbon**"
+    },
+    {
+        "word": "mixture",
+        "meaning": "혼합물, 혼합",
+        "bolded": "**mixture**"
+    },
+    {
+        "word": "mix",
+        "meaning": "섞다, 혼합하다",
+        "bolded": "**mix**"
+    },
+    {
+        "word": "substance",
+        "meaning": "물질",
+        "bolded": "**substance**"
+    },
+    {
+        "word": "material",
+        "meaning": "물질",
+        "bolded": "**material**"
+    },
+    {
+        "word": "liquid",
+        "meaning": "액체; 액체의",
+        "bolded": "**liquid**"
+    },
+    {
+        "word": "filter",
+        "meaning": "거르다, 여과하다; 여과 장치",
+        "bolded": "**filter**"
+    },
+    {
+        "word": "absorb",
+        "meaning": "흡수하다; 열중시키다",
+        "bolded": "**absorb**"
+    },
+    {
+        "word": "be absorbed in",
+        "meaning": "~에 몰두하다",
+        "bolded": "**be absorbed in**"
+    },
+    {
+        "word": "toxic",
+        "meaning": "유독한",
+        "bolded": "**toxic**"
+    },
+    {
+        "word": "poisonous",
+        "meaning": "유독한",
+        "bolded": "**poisonous**"
+    },
+    {
+        "word": "toxin",
+        "meaning": "독소, 독성 물질",
+        "bolded": "**toxin**"
+    },
+    {
+        "word": "ray",
+        "meaning": "빛, 광선",
+        "bolded": "**ray**"
+    },
+    {
+        "word": "beam",
+        "meaning": "빛, 광선",
+        "bolded": "**beam**"
+    },
+    {
+        "word": "compound",
+        "meaning": "화합물; 혼합[복합/합성]물",
+        "bolded": "**compound**"
+    },
+    {
+        "word": "detach",
+        "meaning": "떼어 놓다, 분리하다",
+        "bolded": "**detach**"
+    },
+    {
+        "word": "attach",
+        "meaning": "붙이다",
+        "bolded": "**attach**"
+    },
+    {
+        "word": "detachment",
+        "meaning": "분리, 이탈",
+        "bolded": "**detachment**"
+    },
+    {
+        "word": "detach oneself from",
+        "meaning": "~에서 벗어나다, 이탈하다",
+        "bolded": "**detach oneself from**"
+    },
+    {
+        "word": "turn A into B",
+        "meaning": "A를 B로 바꾸다[변하게 하다]",
+        "bolded": "**turn A into B**"
+    },
+    {
+        "word": "tell from",
+        "meaning": "~을 구별하다[구분하다]",
+        "bolded": "**tell from**"
+    },
+    {
+        "word": "distinguish",
+        "meaning": "~을 구별[구분]하다",
+        "bolded": "**distinguish**"
+    },
+    {
+        "word": "give off",
+        "meaning": "(냄새·열·빛 등을) 내다, 방출하다, 발산하다",
+        "bolded": "**give off**"
+    }
+]

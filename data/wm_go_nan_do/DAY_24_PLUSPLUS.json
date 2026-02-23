@@ -1,0 +1,407 @@
+[
+    {
+        "word": "reserve",
+        "meaning": "(훗날을 위하여) 남겨[떼어] 두다, 비축하다; 예약하다; 비축; 보호 구역",
+        "bolded": "**reserve**"
+    },
+    {
+        "word": "reservation",
+        "meaning": "보류; 예약",
+        "bolded": "**reservation**"
+    },
+    {
+        "word": "occasion",
+        "meaning": "경우; 특별한 일",
+        "bolded": "**occasion**"
+    },
+    {
+        "word": "event",
+        "meaning": "특별한 일",
+        "bolded": "**event**"
+    },
+    {
+        "word": "local",
+        "meaning": "지역의; 지방민, 주민",
+        "bolded": "**local**"
+    },
+    {
+        "word": "regional",
+        "meaning": "지역의",
+        "bolded": "**regional**"
+    },
+    {
+        "word": "resident",
+        "meaning": "지방민, 주민",
+        "bolded": "**resident**"
+    },
+    {
+        "word": "civil",
+        "meaning": "시민의; 국내의",
+        "bolded": "**civil**"
+    },
+    {
+        "word": "civic",
+        "meaning": "시민의",
+        "bolded": "**civic**"
+    },
+    {
+        "word": "domestic",
+        "meaning": "국내의",
+        "bolded": "**domestic**"
+    },
+    {
+        "word": "Civil War",
+        "meaning": "미국 남북 전쟁",
+        "bolded": "**Civil War**"
+    },
+    {
+        "word": "inner",
+        "meaning": "내부의",
+        "bolded": "**inner**"
+    },
+    {
+        "word": "internal",
+        "meaning": "내부의",
+        "bolded": "**internal**"
+    },
+    {
+        "word": "outer",
+        "meaning": "외부의",
+        "bolded": "**outer**"
+    },
+    {
+        "word": "inner strength",
+        "meaning": "내면의 힘",
+        "bolded": "**inner strength**"
+    },
+    {
+        "word": "tax",
+        "meaning": "세금",
+        "bolded": "**tax**"
+    },
+    {
+        "word": "duty",
+        "meaning": "세금",
+        "bolded": "**duty**"
+    },
+    {
+        "word": "tax free",
+        "meaning": "면세의, 비과세의",
+        "bolded": "**tax free**"
+    },
+    {
+        "word": "harbor",
+        "meaning": "항구, 항만",
+        "bolded": "**harbor**"
+    },
+    {
+        "word": "port",
+        "meaning": "항구, 항만",
+        "bolded": "**port**"
+    },
+    {
+        "word": "equal",
+        "meaning": "같은, 평등한; 같다",
+        "bolded": "**equal**"
+    },
+    {
+        "word": "the same",
+        "meaning": "같은, 평등한",
+        "bolded": "**the same**"
+    },
+    {
+        "word": "equality",
+        "meaning": "평등",
+        "bolded": "**equality**"
+    },
+    {
+        "word": "equal right",
+        "meaning": "평등권",
+        "bolded": "**equal right**"
+    },
+    {
+        "word": "intend",
+        "meaning": "~할 작정이다, 의도하다",
+        "bolded": "**intend**"
+    },
+    {
+        "word": "mean",
+        "meaning": "~할 작정이다, 의도하다",
+        "bolded": "**mean**"
+    },
+    {
+        "word": "intention",
+        "meaning": "의도",
+        "bolded": "**intention**"
+    },
+    {
+        "word": "exhaust",
+        "meaning": "소진시키다",
+        "bolded": "**exhaust**"
+    },
+    {
+        "word": "use up",
+        "meaning": "소진시키다",
+        "bolded": "**use up**"
+    },
+    {
+        "word": "globalize",
+        "meaning": "세계화하다",
+        "bolded": "**globalize**"
+    },
+    {
+        "word": "global",
+        "meaning": "전 세계의",
+        "bolded": "**global**"
+    },
+    {
+        "word": "independence",
+        "meaning": "독립, 자주",
+        "bolded": "**independence**"
+    },
+    {
+        "word": "dependence",
+        "meaning": "의존",
+        "bolded": "**dependence**"
+    },
+    {
+        "word": "independent",
+        "meaning": "독립된",
+        "bolded": "**independent**"
+    },
+    {
+        "word": "territory",
+        "meaning": "영역, 영토",
+        "bolded": "**territory**"
+    },
+    {
+        "word": "zone",
+        "meaning": "영역, 영토",
+        "bolded": "**zone**"
+    },
+    {
+        "word": "reside",
+        "meaning": "거주하다",
+        "bolded": "**reside**"
+    },
+    {
+        "word": "live",
+        "meaning": "거주하다",
+        "bolded": "**live**"
+    },
+    {
+        "word": "resident",
+        "meaning": "거주자",
+        "bolded": "**resident**"
+    },
+    {
+        "word": "domestic",
+        "meaning": "국내의; 가정의",
+        "bolded": "**domestic**"
+    },
+    {
+        "word": "civil",
+        "meaning": "국내의",
+        "bolded": "**civil**"
+    },
+    {
+        "word": "international",
+        "meaning": "국제적인",
+        "bolded": "**international**"
+    },
+    {
+        "word": "domestic animal",
+        "meaning": "가축",
+        "bolded": "**domestic animal**"
+    },
+    {
+        "word": "immigrate",
+        "meaning": "이주해 들어오다",
+        "bolded": "**immigrate**"
+    },
+    {
+        "word": "immigration",
+        "meaning": "(다른 나라에 살러 오는) 이주[이민], 입국 심사",
+        "bolded": "**immigration**"
+    },
+    {
+        "word": "immigrate",
+        "meaning": "이주해 들어오다",
+        "bolded": "**immigrate**"
+    },
+    {
+        "word": "emigrate",
+        "meaning": "타국으로 이주하다",
+        "bolded": "**emigrate**"
+    },
+    {
+        "word": "emigration",
+        "meaning": "(타국으로의) 이주[이민]",
+        "bolded": "**emigration**"
+    },
+    {
+        "word": "custom",
+        "meaning": "풍습; (pl.) 관세, 세관",
+        "bolded": "**custom**"
+    },
+    {
+        "word": "tradition",
+        "meaning": "풍습",
+        "bolded": "**tradition**"
+    },
+    {
+        "word": "customs office",
+        "meaning": "세관",
+        "bolded": "**customs office**"
+    },
+    {
+        "word": "tribe",
+        "meaning": "부족",
+        "bolded": "**tribe**"
+    },
+    {
+        "word": "tribal",
+        "meaning": "종족의, 부족의; 동족적인",
+        "bolded": "**tribal**"
+    },
+    {
+        "word": "racial",
+        "meaning": "인종의",
+        "bolded": "**racial**"
+    },
+    {
+        "word": "ethnic",
+        "meaning": "인종의",
+        "bolded": "**ethnic**"
+    },
+    {
+        "word": "race",
+        "meaning": "인종",
+        "bolded": "**race**"
+    },
+    {
+        "word": "racial discrimination",
+        "meaning": "인종 차별",
+        "bolded": "**racial discrimination**"
+    },
+    {
+        "word": "trait",
+        "meaning": "특성, 특색",
+        "bolded": "**trait**"
+    },
+    {
+        "word": "characteristic",
+        "meaning": "특성, 특색",
+        "bolded": "**characteristic**"
+    },
+    {
+        "word": "ethnic",
+        "meaning": "민족의, 인종의; 이국적인",
+        "bolded": "**ethnic**"
+    },
+    {
+        "word": "attempt",
+        "meaning": "시도; 시도하다",
+        "bolded": "**attempt**"
+    },
+    {
+        "word": "try",
+        "meaning": "시도",
+        "bolded": "**try**"
+    },
+    {
+        "word": "make an attempt",
+        "meaning": "시도하다",
+        "bolded": "**make an attempt**"
+    },
+    {
+        "word": "dominate",
+        "meaning": "지배하다; ~보다 우세하다",
+        "bolded": "**dominate**"
+    },
+    {
+        "word": "dominance",
+        "meaning": "지배",
+        "bolded": "**dominance**"
+    },
+    {
+        "word": "dominant",
+        "meaning": "지배적인",
+        "bolded": "**dominant**"
+    },
+    {
+        "word": "resist",
+        "meaning": "저항하다",
+        "bolded": "**resist**"
+    },
+    {
+        "word": "oppose",
+        "meaning": "저항하다",
+        "bolded": "**oppose**"
+    },
+    {
+        "word": "resistance",
+        "meaning": "저항",
+        "bolded": "**resistance**"
+    },
+    {
+        "word": "invade",
+        "meaning": "침입하다, 침해하다",
+        "bolded": "**invade**"
+    },
+    {
+        "word": "invasion",
+        "meaning": "침입, 침략",
+        "bolded": "**invasion**"
+    },
+    {
+        "word": "cooperate",
+        "meaning": "협동하다, 협력하다",
+        "bolded": "**cooperate**"
+    },
+    {
+        "word": "cooperate with A for B",
+        "meaning": "B를 위해 A와 협동하다",
+        "bolded": "**cooperate with A for B**"
+    },
+    {
+        "word": "hold on to",
+        "meaning": "~을 (바꾸지 않고) 고수하다[지키다], (팔거나 주지 않고) 계속 보유하다",
+        "bolded": "**hold on to**"
+    },
+    {
+        "word": "long for",
+        "meaning": "~을 갈망하다[그리워하다]",
+        "bolded": "**long for**"
+    },
+    {
+        "word": "wish",
+        "meaning": "~을 갈망하다[그리워하다]",
+        "bolded": "**wish**"
+    },
+    {
+        "word": "yearn",
+        "meaning": "~을 갈망하다[그리워하다]",
+        "bolded": "**yearn**"
+    },
+    {
+        "word": "crave",
+        "meaning": "~을 갈망하다[그리워하다]",
+        "bolded": "**crave**"
+    },
+    {
+        "word": "consist of",
+        "meaning": "~로 구성되다, 이루어져 있다",
+        "bolded": "**consist of**"
+    },
+    {
+        "word": "consist in",
+        "meaning": "~에 있다",
+        "bolded": "**consist in**"
+    },
+    {
+        "word": "consist with",
+        "meaning": "~와 일치하다",
+        "bolded": "**consist with**"
+    }
+]

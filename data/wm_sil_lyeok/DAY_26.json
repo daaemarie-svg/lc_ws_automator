@@ -1,0 +1,152 @@
+[
+    {
+        "word": "clear",
+        "meaning": "청명한; 깨끗한; 명백한",
+        "bolded": "**clear**"
+    },
+    {
+        "word": "sunny",
+        "meaning": "햇빛이 밝은, 화창한",
+        "bolded": "**sunny**"
+    },
+    {
+        "word": "cloudy",
+        "meaning": "구름 낀",
+        "bolded": "**cloudy**"
+    },
+    {
+        "word": "rainy",
+        "meaning": "비가 오는",
+        "bolded": "**rainy**"
+    },
+    {
+        "word": "windy",
+        "meaning": "바람이 부는",
+        "bolded": "**windy**"
+    },
+    {
+        "word": "snowy",
+        "meaning": "눈이 내리는",
+        "bolded": "**snowy**"
+    },
+    {
+        "word": "mild",
+        "meaning": "온화한, 포근한",
+        "bolded": "**mild**"
+    },
+    {
+        "word": "foggy",
+        "meaning": "안개 낀",
+        "bolded": "**foggy**"
+    },
+    {
+        "word": "freezing",
+        "meaning": "몹시 추운, 얼어붙을 듯한",
+        "bolded": "**freezing**"
+    },
+    {
+        "word": "icy",
+        "meaning": "얼음의, 싸늘한",
+        "bolded": "**icy**"
+    },
+    {
+        "word": "dry",
+        "meaning": "건조한; 말리다, 건조하게 하다",
+        "bolded": "**dry**"
+    },
+    {
+        "word": "moist",
+        "meaning": "축축한, 습기 있는",
+        "bolded": "**moist**"
+    },
+    {
+        "word": "storm",
+        "meaning": "폭풍(우)",
+        "bolded": "**storm**"
+    },
+    {
+        "word": "rainfall",
+        "meaning": "강우, 강우량",
+        "bolded": "**rainfall**"
+    },
+    {
+        "word": "hail",
+        "meaning": "우박, 싸락눈",
+        "bolded": "**hail**"
+    },
+    {
+        "word": "snowstorm",
+        "meaning": "눈보라",
+        "bolded": "**snowstorm**"
+    },
+    {
+        "word": "blizzard",
+        "meaning": "강한 눈보라, 블리자드",
+        "bolded": "**blizzard**"
+    },
+    {
+        "word": "drizzle",
+        "meaning": "이슬비",
+        "bolded": "**drizzle**"
+    },
+    {
+        "word": "melt",
+        "meaning": "녹다, 녹이다",
+        "bolded": "**melt**"
+    },
+    {
+        "word": "gale",
+        "meaning": "강풍",
+        "bolded": "**gale**"
+    },
+    {
+        "word": "forecast",
+        "meaning": "예측, (일기의) 예보; 예측하다, (일기·기상을) 예보하다",
+        "bolded": "**forecast**"
+    },
+    {
+        "word": "condition",
+        "meaning": "상태, 상황",
+        "bolded": "**condition**"
+    },
+    {
+        "word": "drought",
+        "meaning": "가뭄",
+        "bolded": "**drought**"
+    },
+    {
+        "word": "climate",
+        "meaning": "기후",
+        "bolded": "**climate**"
+    },
+    {
+        "word": "degree",
+        "meaning": "(온도 단위인) 도",
+        "bolded": "**degree**"
+    },
+    {
+        "word": "temperature",
+        "meaning": "온도",
+        "bolded": "**temperature**"
+    },
+    {
+        "word": "humid",
+        "meaning": "습한, 눅눅한",
+        "bolded": "**humid**"
+    },
+    {
+        "word": "sticky",
+        "meaning": "끈적끈적한; 무더운",
+        "bolded": "**sticky**"
+    },
+    {
+        "word": "up to",
+        "meaning": "~까지",
+        "bolded": "**up to**"
+    },
+    {
+        "word": "on the way (to)",
+        "meaning": "~로 가는 길에",
+        "bolded": "**on the way (to)**"
+    }
+]

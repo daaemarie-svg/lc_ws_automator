@@ -1,0 +1,127 @@
+[
+    {
+        "word": "machine",
+        "meaning": "[명] 기계",
+        "bolded": "**machine**"
+    },
+    {
+        "word": "device",
+        "meaning": "[명] 장치, 기구",
+        "bolded": "**device**"
+    },
+    {
+        "word": "screen",
+        "meaning": "[명] 1. 화면, 스크린 2. 칸막이, 가리개",
+        "bolded": "**screen**"
+    },
+    {
+        "word": "steel",
+        "meaning": "[명] 강철, 강",
+        "bolded": "**steel**"
+    },
+    {
+        "word": "system",
+        "meaning": "[명] 체계, 제도, 시스템",
+        "bolded": "**system**"
+    },
+    {
+        "word": "operate",
+        "meaning": "[동] 1. (기계 등이) 작동하다 2. 수술하다 3. 경영하다, 운영하다",
+        "bolded": "**operate**"
+    },
+    {
+        "word": "drag",
+        "meaning": "[동] 1. (무거운 것을) 끌다, 끌어당기다 2. (마우스를) 드래그하다",
+        "bolded": "**drag**"
+    },
+    {
+        "word": "click",
+        "meaning": "[동] 1. (마우스를) 클릭하다 2. 딸깍하는 소리가 나다",
+        "bolded": "**click**"
+    },
+    {
+        "word": "tap",
+        "meaning": "[동] 가볍게 톡톡 두드리다 \n[명] 수도꼭지",
+        "bolded": "**tap**"
+    },
+    {
+        "word": "delete",
+        "meaning": "[동] 삭제하다",
+        "bolded": "**delete**"
+    },
+    {
+        "word": "select",
+        "meaning": "[동] 선택하다, 선발하다",
+        "bolded": "**select**"
+    },
+    {
+        "word": "mode",
+        "meaning": "[명] 방식, 모드",
+        "bolded": "**mode**"
+    },
+    {
+        "word": "install",
+        "meaning": "[동] 설치하다",
+        "bolded": "**install**"
+    },
+    {
+        "word": "website",
+        "meaning": "[명] 웹사이트",
+        "bolded": "**website**"
+    },
+    {
+        "word": "dot",
+        "meaning": "[명] 1. 점 2. 작은 반점, 얼룩",
+        "bolded": "**dot**"
+    },
+    {
+        "word": "link",
+        "meaning": "[명] 1. 관련(성), 관계 2. (교통·통신) 연결 3. ((컴퓨터)) 링크 \n[동] 연결하다, 잇다",
+        "bolded": "**link**"
+    },
+    {
+        "word": "search",
+        "meaning": "[동] 찾다, 검색하다, 수색하다\n[명] 1. 찾기, 수색 2. ((컴퓨터)) 검색",
+        "bolded": "**search**"
+    },
+    {
+        "word": "surf",
+        "meaning": "[동] 1. 파도타기를 하다 2. (인터넷) 검색을 하다",
+        "bolded": "**surf**"
+    },
+    {
+        "word": "upload",
+        "meaning": "[동] 업로드하다, 올리다",
+        "bolded": "**upload**"
+    },
+    {
+        "word": "password",
+        "meaning": "[명] 암호, 비밀번호",
+        "bolded": "**password**"
+    },
+    {
+        "word": "code",
+        "meaning": "[명] 1. 암호, 부호 2. ((컴퓨터)) 부호, 코드",
+        "bolded": "**code**"
+    },
+    {
+        "word": "virus",
+        "meaning": "[명] 바이러스",
+        "bolded": "**virus**"
+    },
+    {
+        "word": "vaccine",
+        "meaning": "[명] (예방) 백신",
+        "bolded": "**vaccine**"
+    },
+    {
+        "word": "mobile",
+        "meaning": "[형] 이동하는, 움직이는",
+        "bolded": "**mobile**"
+    },
+    {
+        "word": "automatic",
+        "meaning": "[형] 자동의",
+        "bolded": "**automatic**"
+    }
+]

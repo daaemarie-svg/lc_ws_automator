@@ -1,0 +1,102 @@
+[
+    {
+        "word": "number",
+        "meaning": "수, 숫자, 번호",
+        "bolded": "**number**"
+    },
+    {
+        "word": "some",
+        "meaning": "몇몇의, 약간의",
+        "bolded": "**some**"
+    },
+    {
+        "word": "each",
+        "meaning": "각각[각자]의",
+        "bolded": "**each**"
+    },
+    {
+        "word": "every",
+        "meaning": "모든",
+        "bolded": "**every**"
+    },
+    {
+        "word": "all",
+        "meaning": "모든",
+        "bolded": "**all**"
+    },
+    {
+        "word": "only",
+        "meaning": "유일한; 단지, 오직",
+        "bolded": "**only**"
+    },
+    {
+        "word": "many",
+        "meaning": "(수가) 많은",
+        "bolded": "**many**"
+    },
+    {
+        "word": "much",
+        "meaning": "(양이) 많은",
+        "bolded": "**much**"
+    },
+    {
+        "word": "half",
+        "meaning": "반, 절반",
+        "bolded": "**half**"
+    },
+    {
+        "word": "add",
+        "meaning": "추가하다; 더하다",
+        "bolded": "**add**"
+    },
+    {
+        "word": "empty",
+        "meaning": "빈, 비어 있는",
+        "bolded": "**empty**"
+    },
+    {
+        "word": "fill",
+        "meaning": "채우다",
+        "bolded": "**fill**"
+    },
+    {
+        "word": "count",
+        "meaning": "(수를) 세다",
+        "bolded": "**count**"
+    },
+    {
+        "word": "enough",
+        "meaning": "충분한; 충분히",
+        "bolded": "**enough**"
+    },
+    {
+        "word": "total",
+        "meaning": "전체의; 합계, 총액",
+        "bolded": "**total**"
+    },
+    {
+        "word": "piece",
+        "meaning": "조각, 한 개, 한 장",
+        "bolded": "**piece**"
+    },
+    {
+        "word": "nothing",
+        "meaning": "아무것도 ~ 아니다[없다]",
+        "bolded": "**nothing**"
+    },
+    {
+        "word": "a lot of",
+        "meaning": "(수, 양이) 많은",
+        "bolded": "**a lot of**"
+    },
+    {
+        "word": "a few",
+        "meaning": "(수가) 약간의, 조금의",
+        "bolded": "**a few**"
+    },
+    {
+        "word": "a little",
+        "meaning": "(양이) 약간의, 조금의",
+        "bolded": "**a little**"
+    }
+]

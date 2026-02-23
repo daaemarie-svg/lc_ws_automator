@@ -1,0 +1,342 @@
+[
+    {
+        "word": "gap",
+        "meaning": "차이; 틈",
+        "bolded": "**gap**"
+    },
+    {
+        "word": "difference",
+        "meaning": "차이",
+        "bolded": "**difference**"
+    },
+    {
+        "word": "generation gap",
+        "meaning": "세대 차이",
+        "bolded": "**generation gap**"
+    },
+    {
+        "word": "population",
+        "meaning": "인구",
+        "bolded": "**population**"
+    },
+    {
+        "word": "populate",
+        "meaning": "살다, 거주하다",
+        "bolded": "**populate**"
+    },
+    {
+        "word": "crash",
+        "meaning": "충돌, (차·비행기의) 사고; 충돌하다",
+        "bolded": "**crash**"
+    },
+    {
+        "word": "collide",
+        "meaning": "충돌하다",
+        "bolded": "**collide**"
+    },
+    {
+        "word": "majority",
+        "meaning": "(집단 내의) 가장 많은 수[대다수]",
+        "bolded": "**majority**"
+    },
+    {
+        "word": "minority",
+        "meaning": "소수",
+        "bolded": "**minority**"
+    },
+    {
+        "word": "temptation",
+        "meaning": "유혹",
+        "bolded": "**temptation**"
+    },
+    {
+        "word": "tempt",
+        "meaning": "유혹하다",
+        "bolded": "**tempt**"
+    },
+    {
+        "word": "confuse",
+        "meaning": "혼란시키다, 혼동하다",
+        "bolded": "**confuse**"
+    },
+    {
+        "word": "confusion",
+        "meaning": "혼란",
+        "bolded": "**confusion**"
+    },
+    {
+        "word": "aspect",
+        "meaning": "면, 양상; 외모",
+        "bolded": "**aspect**"
+    },
+    {
+        "word": "in all aspects",
+        "meaning": "모든 면에서",
+        "bolded": "**in all aspects**"
+    },
+    {
+        "word": "violent",
+        "meaning": "폭력적인, 강렬한",
+        "bolded": "**violent**"
+    },
+    {
+        "word": "violence",
+        "meaning": "폭력",
+        "bolded": "**violence**"
+    },
+    {
+        "word": "obstacle",
+        "meaning": "장애, 장애물, 난관",
+        "bolded": "**obstacle**"
+    },
+    {
+        "word": "barrier",
+        "meaning": "장애, 장애물, 난관",
+        "bolded": "**barrier**"
+    },
+    {
+        "word": "overcome an obstacle",
+        "meaning": "장애를 극복하다",
+        "bolded": "**overcome an obstacle**"
+    },
+    {
+        "word": "isolate",
+        "meaning": "고립시키다, 격리시키다",
+        "bolded": "**isolate**"
+    },
+    {
+        "word": "segregate",
+        "meaning": "고립시키다, 격리시키다",
+        "bolded": "**segregate**"
+    },
+    {
+        "word": "separate",
+        "meaning": "고립시키다, 격리시키다",
+        "bolded": "**separate**"
+    },
+    {
+        "word": "isolation",
+        "meaning": "고립, 격리",
+        "bolded": "**isolation**"
+    },
+    {
+        "word": "be isolated from",
+        "meaning": "~로부터 고립되다",
+        "bolded": "**be isolated from**"
+    },
+    {
+        "word": "collide",
+        "meaning": "충돌하다; (의견 등이) 일치하지 않다",
+        "bolded": "**collide**"
+    },
+    {
+        "word": "crash",
+        "meaning": "충돌하다",
+        "bolded": "**crash**"
+    },
+    {
+        "word": "collision",
+        "meaning": "충돌",
+        "bolded": "**collision**"
+    },
+    {
+        "word": "negative",
+        "meaning": "부정의; 소극적인",
+        "bolded": "**negative**"
+    },
+    {
+        "word": "positive",
+        "meaning": "긍정의",
+        "bolded": "**positive**"
+    },
+    {
+        "word": "in the negative",
+        "meaning": "부정적으로",
+        "bolded": "**in the negative**"
+    },
+    {
+        "word": "abnormal",
+        "meaning": "비정상적인",
+        "bolded": "**abnormal**"
+    },
+    {
+        "word": "unusual",
+        "meaning": "비정상적인",
+        "bolded": "**unusual**"
+    },
+    {
+        "word": "normal",
+        "meaning": "정상적인",
+        "bolded": "**normal**"
+    },
+    {
+        "word": "abnormally",
+        "meaning": "비정상적으로",
+        "bolded": "**abnormally**"
+    },
+    {
+        "word": "unite",
+        "meaning": "통합하다, 단결하다",
+        "bolded": "**unite**"
+    },
+    {
+        "word": "separate",
+        "meaning": "분리하다",
+        "bolded": "**separate**"
+    },
+    {
+        "word": "unify",
+        "meaning": "통합",
+        "bolded": "**unify**"
+    },
+    {
+        "word": "poverty",
+        "meaning": "가난, 빈곤",
+        "bolded": "**poverty**"
+    },
+    {
+        "word": "wealth",
+        "meaning": "부",
+        "bolded": "**wealth**"
+    },
+    {
+        "word": "abuse",
+        "meaning": "남용, 오용; 학대; (지위·특권을) 남용하다; 학대하다",
+        "bolded": "**abuse**"
+    },
+    {
+        "word": "child abuse",
+        "meaning": "어린이 학대",
+        "bolded": "**child abuse**"
+    },
+    {
+        "word": "distress",
+        "meaning": "고통, 고충; 빈곤; 슬프게 하다, 고민하게 하다",
+        "bolded": "**distress**"
+    },
+    {
+        "word": "divorce",
+        "meaning": "이혼; 이혼하다",
+        "bolded": "**divorce**"
+    },
+    {
+        "word": "arise",
+        "meaning": "일어나다, 나타나다; ~에 기인하다",
+        "bolded": "**arise**"
+    },
+    {
+        "word": "rise up",
+        "meaning": "일어나다, 나타나다",
+        "bolded": "**rise up**"
+    },
+    {
+        "word": "degenerate",
+        "meaning": "퇴보하다, 타락하다; 퇴화한, 타락한",
+        "bolded": "**degenerate**"
+    },
+    {
+        "word": "incident",
+        "meaning": "사건, 사고",
+        "bolded": "**incident**"
+    },
+    {
+        "word": "event",
+        "meaning": "사건, 사고",
+        "bolded": "**event**"
+    },
+    {
+        "word": "without incident",
+        "meaning": "무사히",
+        "bolded": "**without incident**"
+    },
+    {
+        "word": "defect",
+        "meaning": "결점, 단점; 부족, 결핍",
+        "bolded": "**defect**"
+    },
+    {
+        "word": "lack",
+        "meaning": "부족, 결핍",
+        "bolded": "**lack**"
+    },
+    {
+        "word": "defective",
+        "meaning": "결함이 있는",
+        "bolded": "**defective**"
+    },
+    {
+        "word": "in defect",
+        "meaning": "결핍하여",
+        "bolded": "**in defect**"
+    },
+    {
+        "word": "manipulate",
+        "meaning": "조종하다, 조작하다",
+        "bolded": "**manipulate**"
+    },
+    {
+        "word": "control",
+        "meaning": "조종하다, 조작하다",
+        "bolded": "**control**"
+    },
+    {
+        "word": "mislead",
+        "meaning": "잘못 인도하다, 속이다",
+        "bolded": "**mislead**"
+    },
+    {
+        "word": "alcohol",
+        "meaning": "술, 알코올",
+        "bolded": "**alcohol**"
+    },
+    {
+        "word": "addict",
+        "meaning": "중독자; (나쁜 버릇에) 빠지게 하다",
+        "bolded": "**addict**"
+    },
+    {
+        "word": "addiction",
+        "meaning": "중독, 탐닉",
+        "bolded": "**addiction**"
+    },
+    {
+        "word": "addictive",
+        "meaning": "중독성의",
+        "bolded": "**addictive**"
+    },
+    {
+        "word": "be addicted to",
+        "meaning": "~에 중독되다",
+        "bolded": "**be addicted to**"
+    },
+    {
+        "word": "premature",
+        "meaning": "시기상조의, 조급한",
+        "bolded": "**premature**"
+    },
+    {
+        "word": "premature birth",
+        "meaning": "조산",
+        "bolded": "**premature birth**"
+    },
+    {
+        "word": "abandon",
+        "meaning": "버리다, 포기하다",
+        "bolded": "**abandon**"
+    },
+    {
+        "word": "give up",
+        "meaning": "버리다, 포기하다",
+        "bolded": "**give up**"
+    },
+    {
+        "word": "do away with",
+        "meaning": "~을 없애다, 끝내다",
+        "bolded": "**do away with**"
+    },
+    {
+        "word": "keep away (from)",
+        "meaning": "(~을) 멀리하다, 피하다",
+        "bolded": "**keep away (from)**"
+    }
+]

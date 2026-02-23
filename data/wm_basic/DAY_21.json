@@ -1,0 +1,102 @@
+[
+    {
+        "word": "date",
+        "meaning": "날짜",
+        "bolded": "**date**"
+    },
+    {
+        "word": "week",
+        "meaning": "주, 일주일",
+        "bolded": "**week**"
+    },
+    {
+        "word": "from",
+        "meaning": "~에서, ~부터",
+        "bolded": "**from**"
+    },
+    {
+        "word": "month",
+        "meaning": "달, 월",
+        "bolded": "**month**"
+    },
+    {
+        "word": "year",
+        "meaning": "한 해, 1년",
+        "bolded": "**year**"
+    },
+    {
+        "word": "early",
+        "meaning": "일찍; 이른",
+        "bolded": "**early**"
+    },
+    {
+        "word": "today",
+        "meaning": "오늘",
+        "bolded": "**today**"
+    },
+    {
+        "word": "yesterday",
+        "meaning": "어제",
+        "bolded": "**yesterday**"
+    },
+    {
+        "word": "tomorrow",
+        "meaning": "내일",
+        "bolded": "**tomorrow**"
+    },
+    {
+        "word": "past",
+        "meaning": "과거, 지난날",
+        "bolded": "**past**"
+    },
+    {
+        "word": "tonight",
+        "meaning": "오늘 밤; 오늘 밤에",
+        "bolded": "**tonight**"
+    },
+    {
+        "word": "hour",
+        "meaning": "시간, 시각",
+        "bolded": "**hour**"
+    },
+    {
+        "word": "minute",
+        "meaning": "(시간 단위) 분",
+        "bolded": "**minute**"
+    },
+    {
+        "word": "soon",
+        "meaning": "곧, 머지않아",
+        "bolded": "**soon**"
+    },
+    {
+        "word": "calendar",
+        "meaning": "달력",
+        "bolded": "**calendar**"
+    },
+    {
+        "word": "during",
+        "meaning": "~동안[내내], ~ 중에",
+        "bolded": "**during**"
+    },
+    {
+        "word": "until",
+        "meaning": "~까지; ~할 때까지",
+        "bolded": "**until**"
+    },
+    {
+        "word": "moment",
+        "meaning": "(특정한) 순간; 잠시",
+        "bolded": "**moment**"
+    },
+    {
+        "word": "be late for",
+        "meaning": "~에 늦다[지각하다]",
+        "bolded": "**be late for**"
+    },
+    {
+        "word": "at the same time",
+        "meaning": "동시에",
+        "bolded": "**at the same time**"
+    }
+]

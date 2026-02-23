@@ -1,0 +1,127 @@
+[
+    {
+        "word": "construct",
+        "meaning": "[동] 건설하다",
+        "bolded": "**construct**"
+    },
+    {
+        "word": "structure",
+        "meaning": "[명] 1. 구조 2. 구조물, 건축물",
+        "bolded": "**structure**"
+    },
+    {
+        "word": "pipe",
+        "meaning": "[명] (액체나 기체가 흐르는) 관, 배관, 파이프",
+        "bolded": "**pipe**"
+    },
+    {
+        "word": "tube",
+        "meaning": "[명] 1. (기체나 액체를 실어 나르는) 관 2. 튜브, 통 3. (체내의) 관",
+        "bolded": "**tube**"
+    },
+    {
+        "word": "brick",
+        "meaning": "[명] 벽돌",
+        "bolded": "**brick**"
+    },
+    {
+        "word": "ceiling",
+        "meaning": "[명] 천장",
+        "bolded": "**ceiling**"
+    },
+    {
+        "word": "attic",
+        "meaning": "[명] 다락(방)",
+        "bolded": "**attic**"
+    },
+    {
+        "word": "chimney",
+        "meaning": "[명] 굴뚝",
+        "bolded": "**chimney**"
+    },
+    {
+        "word": "column",
+        "meaning": "[명] 1. 기둥 (모양의 것) 2. (신문, 잡지의) 칼럼",
+        "bolded": "**column**"
+    },
+    {
+        "word": "floor",
+        "meaning": "[명] 1. 바닥 2. 층",
+        "bolded": "**floor**"
+    },
+    {
+        "word": "lobby",
+        "meaning": "[명] 1. 대합실, 로비 2. 압력 단체",
+        "bolded": "**lobby**"
+    },
+    {
+        "word": "basement",
+        "meaning": "[명] 지하실, 지하층",
+        "bolded": "**basement**"
+    },
+    {
+        "word": "booth",
+        "meaning": "[명] (칸막이를 한) 작은 공간, 부스",
+        "bolded": "**booth**"
+    },
+    {
+        "word": "cafeteria",
+        "meaning": "[명] 구내식당",
+        "bolded": "**cafeteria**"
+    },
+    {
+        "word": "elevator",
+        "meaning": "[명] 엘리베이터, 승강기",
+        "bolded": "**elevator**"
+    },
+    {
+        "word": "escalator",
+        "meaning": "[명] 에스컬레이터",
+        "bolded": "**escalator**"
+    },
+    {
+        "word": "exit",
+        "meaning": "[명] 출구\n[동] 나가다, 퇴장하다",
+        "bolded": "**exit**"
+    },
+    {
+        "word": "stair",
+        "meaning": "[명] 계단",
+        "bolded": "**stair**"
+    },
+    {
+        "word": "aisle",
+        "meaning": "[명] 통로",
+        "bolded": "**aisle**"
+    },
+    {
+        "word": "garage",
+        "meaning": "[명] 차고, 주차장",
+        "bolded": "**garage**"
+    },
+    {
+        "word": "balcony",
+        "meaning": "[명] 발코니",
+        "bolded": "**balcony**"
+    },
+    {
+        "word": "garden",
+        "meaning": "[명] 정원, 뜰",
+        "bolded": "**garden**"
+    },
+    {
+        "word": "courtyard",
+        "meaning": "[명] 안마당, 안뜰",
+        "bolded": "**courtyard**"
+    },
+    {
+        "word": "yard",
+        "meaning": "[명] 1. 마당, 정원 2. ((단위)) 야드 (0.9144m)",
+        "bolded": "**yard**"
+    },
+    {
+        "word": "fence",
+        "meaning": "[명] 울타리",
+        "bolded": "**fence**"
+    }
+]

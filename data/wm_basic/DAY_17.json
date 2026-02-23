@@ -1,0 +1,102 @@
+[
+    {
+        "word": "pants",
+        "meaning": "바지",
+        "bolded": "**pants**"
+    },
+    {
+        "word": "belt",
+        "meaning": "벨트, 허리띠",
+        "bolded": "**belt**"
+    },
+    {
+        "word": "shirt",
+        "meaning": "셔츠",
+        "bolded": "**shirt**"
+    },
+    {
+        "word": "skirt",
+        "meaning": "치마",
+        "bolded": "**skirt**"
+    },
+    {
+        "word": "socks",
+        "meaning": "양말",
+        "bolded": "**socks**"
+    },
+    {
+        "word": "shoes",
+        "meaning": "신발",
+        "bolded": "**shoes**"
+    },
+    {
+        "word": "hat",
+        "meaning": "(테가 있는) 모자",
+        "bolded": "**hat**"
+    },
+    {
+        "word": "cap",
+        "meaning": "(앞에 챙이 달린) 모자",
+        "bolded": "**cap**"
+    },
+    {
+        "word": "sweater",
+        "meaning": "스웨터",
+        "bolded": "**sweater**"
+    },
+    {
+        "word": "jacket",
+        "meaning": "재킷, 상의",
+        "bolded": "**jacket**"
+    },
+    {
+        "word": "gloves",
+        "meaning": "장갑",
+        "bolded": "**gloves**"
+    },
+    {
+        "word": "pocket",
+        "meaning": "주머니",
+        "bolded": "**pocket**"
+    },
+    {
+        "word": "clothes",
+        "meaning": "옷, 의복",
+        "bolded": "**clothes**"
+    },
+    {
+        "word": "wear",
+        "meaning": "입다, 쓰다, 신다",
+        "bolded": "**wear**"
+    },
+    {
+        "word": "fashion",
+        "meaning": "패션",
+        "bolded": "**fashion**"
+    },
+    {
+        "word": "design",
+        "meaning": "디자인[설계]하다; 디자인, 설계",
+        "bolded": "**design**"
+    },
+    {
+        "word": "popular",
+        "meaning": "인기 있는, 대중적인",
+        "bolded": "**popular**"
+    },
+    {
+        "word": "style",
+        "meaning": "스타일; 방식",
+        "bolded": "**style**"
+    },
+    {
+        "word": "put on",
+        "meaning": "~을 입다[신다, 쓰다]",
+        "bolded": "**put on**"
+    },
+    {
+        "word": "take off",
+        "meaning": "~을 벗다; (비행기가) 이륙하다",
+        "bolded": "**take off**"
+    }
+]

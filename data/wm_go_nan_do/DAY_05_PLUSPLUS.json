@@ -1,0 +1,292 @@
+[
+    {
+        "word": "uniform",
+        "meaning": "유니폼, 제복; 일정한, 균등한",
+        "bolded": "**uniform**"
+    },
+    {
+        "word": "costume",
+        "meaning": "의상, 복장; 분장",
+        "bolded": "**costume**"
+    },
+    {
+        "word": "clothes",
+        "meaning": "의상, 복장",
+        "bolded": "**clothes**"
+    },
+    {
+        "word": "collar",
+        "meaning": "깃, 칼라",
+        "bolded": "**collar**"
+    },
+    {
+        "word": "thread",
+        "meaning": "실; 실을 꿰다",
+        "bolded": "**thread**"
+    },
+    {
+        "word": "length",
+        "meaning": "길이, 기간",
+        "bolded": "**length**"
+    },
+    {
+        "word": "lengthen",
+        "meaning": "길게 하다, 늘이다",
+        "bolded": "**lengthen**"
+    },
+    {
+        "word": "casual",
+        "meaning": "격식을 차리지 않은, 평상복의; 우연의",
+        "bolded": "**casual**"
+    },
+    {
+        "word": "fashion",
+        "meaning": "유행, 인기; 패션",
+        "bolded": "**fashion**"
+    },
+    {
+        "word": "vogue",
+        "meaning": "유행, 인기",
+        "bolded": "**vogue**"
+    },
+    {
+        "word": "fashionable",
+        "meaning": "최신 유행의, 유행하는",
+        "bolded": "**fashionable**"
+    },
+    {
+        "word": "be in fashion",
+        "meaning": "유행하고 있다",
+        "bolded": "**be in fashion**"
+    },
+    {
+        "word": "all the fashion",
+        "meaning": "한창 유행하는",
+        "bolded": "**all the fashion**"
+    },
+    {
+        "word": "loose",
+        "meaning": "헐거운, 느슨한; 풀린, 벗겨진",
+        "bolded": "**loose**"
+    },
+    {
+        "word": "tight",
+        "meaning": "꼭 맞는",
+        "bolded": "**tight**"
+    },
+    {
+        "word": "loosen",
+        "meaning": "느슨하게 하다, 느슨해지다",
+        "bolded": "**loosen**"
+    },
+    {
+        "word": "stripe",
+        "meaning": "줄무늬",
+        "bolded": "**stripe**"
+    },
+    {
+        "word": "striped",
+        "meaning": "줄무늬가 있는",
+        "bolded": "**striped**"
+    },
+    {
+        "word": "comfort",
+        "meaning": "편안함; 위로, 위안; 편하게 하다; 위로하다",
+        "bolded": "**comfort**"
+    },
+    {
+        "word": "discomfort",
+        "meaning": "불편",
+        "bolded": "**discomfort**"
+    },
+    {
+        "word": "comfortable",
+        "meaning": "편안한",
+        "bolded": "**comfortable**"
+    },
+    {
+        "word": "fade",
+        "meaning": "(색이) 바래다, (색을) 바래게 하다",
+        "bolded": "**fade**"
+    },
+    {
+        "word": "fade out",
+        "meaning": "점점 희미해지다",
+        "bolded": "**fade out**"
+    },
+    {
+        "word": "fold",
+        "meaning": "(종이·천 등을) 접다",
+        "bolded": "**fold**"
+    },
+    {
+        "word": "unfold",
+        "meaning": "펴다",
+        "bolded": "**unfold**"
+    },
+    {
+        "word": "plain",
+        "meaning": "(의복 등이) 수수한; 무늬가 없는; 명백한, 분명한",
+        "bolded": "**plain**"
+    },
+    {
+        "word": "apparent",
+        "meaning": "명백한, 분명한",
+        "bolded": "**apparent**"
+    },
+    {
+        "word": "premium",
+        "meaning": "고가의, 고급의; 할증금, 포상금",
+        "bolded": "**premium**"
+    },
+    {
+        "word": "superior",
+        "meaning": "고가의, 고급의",
+        "bolded": "**superior**"
+    },
+    {
+        "word": "formal",
+        "meaning": "공식적인, 격식을 차린",
+        "bolded": "**formal**"
+    },
+    {
+        "word": "informal",
+        "meaning": "비공식적인",
+        "bolded": "**informal**"
+    },
+    {
+        "word": "fancy",
+        "meaning": "화려한, 장식적인; 값비싼",
+        "bolded": "**fancy**"
+    },
+    {
+        "word": "decorative",
+        "meaning": "화려한, 장식적인",
+        "bolded": "**decorative**"
+    },
+    {
+        "word": "outfit",
+        "meaning": "(특별한 날 입는) 옷, 의상 한 벌",
+        "bolded": "**outfit**"
+    },
+    {
+        "word": "sew",
+        "meaning": "바느질하다, (바느질로) 만들다",
+        "bolded": "**sew**"
+    },
+    {
+        "word": "stitch",
+        "meaning": "바느질하다, (바느질로) 만들다",
+        "bolded": "**stitch**"
+    },
+    {
+        "word": "sewing machine",
+        "meaning": "재봉틀",
+        "bolded": "**sewing machine**"
+    },
+    {
+        "word": "alter",
+        "meaning": "변경하다, (옷을) 고쳐 만들다",
+        "bolded": "**alter**"
+    },
+    {
+        "word": "modify",
+        "meaning": "변경하다, (옷을) 고쳐 만들다",
+        "bolded": "**modify**"
+    },
+    {
+        "word": "alteration",
+        "meaning": "수정, 변경",
+        "bolded": "**alteration**"
+    },
+    {
+        "word": "trousers",
+        "meaning": "바지",
+        "bolded": "**trousers**"
+    },
+    {
+        "word": "suit",
+        "meaning": "정장; 어울리다, 잘 맞다",
+        "bolded": "**suit**"
+    },
+    {
+        "word": "suitable",
+        "meaning": "적당한, 상당한, 어울리는",
+        "bolded": "**suitable**"
+    },
+    {
+        "word": "vest",
+        "meaning": "조끼",
+        "bolded": "**vest**"
+    },
+    {
+        "word": "waistcoat",
+        "meaning": "조끼",
+        "bolded": "**waistcoat**"
+    },
+    {
+        "word": "fabric",
+        "meaning": "천, 직물; 직물의 짜임새",
+        "bolded": "**fabric**"
+    },
+    {
+        "word": "textile",
+        "meaning": "천, 직물",
+        "bolded": "**textile**"
+    },
+    {
+        "word": "cotton",
+        "meaning": "솜, 면화; 면직물, 무명실",
+        "bolded": "**cotton**"
+    },
+    {
+        "word": "cotton candy",
+        "meaning": "솜사탕",
+        "bolded": "**cotton candy**"
+    },
+    {
+        "word": "fur",
+        "meaning": "모피",
+        "bolded": "**fur**"
+    },
+    {
+        "word": "furry",
+        "meaning": "모피로 만든",
+        "bolded": "**furry**"
+    },
+    {
+        "word": "laundry",
+        "meaning": "세탁물; 세탁소",
+        "bolded": "**laundry**"
+    },
+    {
+        "word": "laundromat",
+        "meaning": "세탁소",
+        "bolded": "**laundromat**"
+    },
+    {
+        "word": "detergent",
+        "meaning": "세탁 세제, 세정제",
+        "bolded": "**detergent**"
+    },
+    {
+        "word": "cleaner",
+        "meaning": "세탁 세제, 세정제",
+        "bolded": "**cleaner**"
+    },
+    {
+        "word": "dress up",
+        "meaning": "옷을 갖춰[격식을 차려] 입다",
+        "bolded": "**dress up**"
+    },
+    {
+        "word": "wear out",
+        "meaning": "많이 써서 낡게 하다, 닳다; 지치게 하다",
+        "bolded": "**wear out**"
+    },
+    {
+        "word": "show off",
+        "meaning": "~을 과시하다",
+        "bolded": "**show off**"
+    }
+]

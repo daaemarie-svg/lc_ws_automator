@@ -1,0 +1,152 @@
+[
+    {
+        "word": "building",
+        "meaning": "건물",
+        "bolded": "**building**"
+    },
+    {
+        "word": "bakery",
+        "meaning": "제과점",
+        "bolded": "**bakery**"
+    },
+    {
+        "word": "fire station",
+        "meaning": "소방서",
+        "bolded": "**fire station**"
+    },
+    {
+        "word": "hospital",
+        "meaning": "병원",
+        "bolded": "**hospital**"
+    },
+    {
+        "word": "museum",
+        "meaning": "박물관",
+        "bolded": "**museum**"
+    },
+    {
+        "word": "city hall",
+        "meaning": "시청",
+        "bolded": "**city hall**"
+    },
+    {
+        "word": "police station",
+        "meaning": "경찰서",
+        "bolded": "**police station**"
+    },
+    {
+        "word": "left",
+        "meaning": "왼쪽",
+        "bolded": "**left**"
+    },
+    {
+        "word": "trash",
+        "meaning": "쓰레기",
+        "bolded": "**trash**"
+    },
+    {
+        "word": "village",
+        "meaning": "(시골) 마을, 촌락",
+        "bolded": "**village**"
+    },
+    {
+        "word": "direction",
+        "meaning": "방향",
+        "bolded": "**direction**"
+    },
+    {
+        "word": "street",
+        "meaning": "거리",
+        "bolded": "**street**"
+    },
+    {
+        "word": "avenue",
+        "meaning": "도시의 큰 대로, 넓은 길",
+        "bolded": "**avenue**"
+    },
+    {
+        "word": "block",
+        "meaning": "(도로의) 블록, 구획; 덩어리, 장애물; 막다, 봉쇄하다",
+        "bolded": "**block**"
+    },
+    {
+        "word": "straight",
+        "meaning": "똑바른, 직선의; 곧장, 일직선으로",
+        "bolded": "**straight**"
+    },
+    {
+        "word": "corner",
+        "meaning": "모퉁이, 구석",
+        "bolded": "**corner**"
+    },
+    {
+        "word": "turn",
+        "meaning": "회전; 방향 전환; 돌다",
+        "bolded": "**turn**"
+    },
+    {
+        "word": "drugstore",
+        "meaning": "약국",
+        "bolded": "**drugstore**"
+    },
+    {
+        "word": "pedestrian",
+        "meaning": "보행자",
+        "bolded": "**pedestrian**"
+    },
+    {
+        "word": "department store",
+        "meaning": "백화점",
+        "bolded": "**department store**"
+    },
+    {
+        "word": "sidewalk",
+        "meaning": "인도, 보도",
+        "bolded": "**sidewalk**"
+    },
+    {
+        "word": "crosswalk",
+        "meaning": "횡단보도",
+        "bolded": "**crosswalk**"
+    },
+    {
+        "word": "intersection",
+        "meaning": "교차로",
+        "bolded": "**intersection**"
+    },
+    {
+        "word": "patrol",
+        "meaning": "순찰대, 순찰 경관",
+        "bolded": "**patrol**"
+    },
+    {
+        "word": "signal",
+        "meaning": "신호, 신호기",
+        "bolded": "**signal**"
+    },
+    {
+        "word": "highway",
+        "meaning": "고속도로",
+        "bolded": "**highway**"
+    },
+    {
+        "word": "sewer",
+        "meaning": "하수구",
+        "bolded": "**sewer**"
+    },
+    {
+        "word": "give ~ a ride",
+        "meaning": "~를 태워 주다",
+        "bolded": "**give ~ a ride**"
+    },
+    {
+        "word": "be known for",
+        "meaning": "~로 알려져 있다, ~로 유명하다",
+        "bolded": "**be known for**"
+    },
+    {
+        "word": "in the middle of",
+        "meaning": "~의 중간[중앙]에, ~의 도중에",
+        "bolded": "**in the middle of**"
+    }
+]

@@ -1,0 +1,357 @@
+[
+    {
+        "word": "budget",
+        "meaning": "예산, 예산안",
+        "bolded": "**budget**"
+    },
+    {
+        "word": "make a budget",
+        "meaning": "예산을 편성하다",
+        "bolded": "**make a budget**"
+    },
+    {
+        "word": "capital",
+        "meaning": "자본; 수도; 대문자; 자본의; 주요한",
+        "bolded": "**capital**"
+    },
+    {
+        "word": "capitalism",
+        "meaning": "자본주의",
+        "bolded": "**capitalism**"
+    },
+    {
+        "word": "capital punishment",
+        "meaning": "사형, 극형",
+        "bolded": "**capital punishment**"
+    },
+    {
+        "word": "account",
+        "meaning": "거래, 예금 계좌; 계산, 회계",
+        "bolded": "**account**"
+    },
+    {
+        "word": "accountant",
+        "meaning": "회계사",
+        "bolded": "**accountant**"
+    },
+    {
+        "word": "have an account with",
+        "meaning": "~와 거래가 있다, ~에 계좌가 있다",
+        "bolded": "**have an account with**"
+    },
+    {
+        "word": "expense",
+        "meaning": "지출, 비용, 경비",
+        "bolded": "**expense**"
+    },
+    {
+        "word": "expensive",
+        "meaning": "값비싼",
+        "bolded": "**expensive**"
+    },
+    {
+        "word": "collapse",
+        "meaning": "붕괴되다, 무너지다, (가치가) 폭락하다; 붕괴, 실패",
+        "bolded": "**collapse**"
+    },
+    {
+        "word": "economic",
+        "meaning": "경제학의, 경제(상)의",
+        "bolded": "**economic**"
+    },
+    {
+        "word": "financial",
+        "meaning": "경제학의, 경제(상)의",
+        "bolded": "**financial**"
+    },
+    {
+        "word": "economy",
+        "meaning": "경제",
+        "bolded": "**economy**"
+    },
+    {
+        "word": "economist",
+        "meaning": "경제학자",
+        "bolded": "**economist**"
+    },
+    {
+        "word": "risk",
+        "meaning": "위험, 모험",
+        "bolded": "**risk**"
+    },
+    {
+        "word": "danger",
+        "meaning": "위험, 모험",
+        "bolded": "**danger**"
+    },
+    {
+        "word": "hazard",
+        "meaning": "위험, 모험",
+        "bolded": "**hazard**"
+    },
+    {
+        "word": "risky",
+        "meaning": "위험한",
+        "bolded": "**risky**"
+    },
+    {
+        "word": "at risk",
+        "meaning": "위험한 상태에",
+        "bolded": "**at risk**"
+    },
+    {
+        "word": "decline",
+        "meaning": "(가격) 하락; (가격·가치가) 하락하다",
+        "bolded": "**decline**"
+    },
+    {
+        "word": "stock",
+        "meaning": "주식, 주; 재고(품)",
+        "bolded": "**stock**"
+    },
+    {
+        "word": "shares",
+        "meaning": "주식, 주",
+        "bolded": "**shares**"
+    },
+    {
+        "word": "possess",
+        "meaning": "소유하다, 가지다",
+        "bolded": "**possess**"
+    },
+    {
+        "word": "own",
+        "meaning": "소유하다, 가지다",
+        "bolded": "**own**"
+    },
+    {
+        "word": "possession",
+        "meaning": "소유",
+        "bolded": "**possession**"
+    },
+    {
+        "word": "possessions",
+        "meaning": "재산, 소유물",
+        "bolded": "**possessions**"
+    },
+    {
+        "word": "property",
+        "meaning": "재산, 소유물; 부동산, 토지",
+        "bolded": "**property**"
+    },
+    {
+        "word": "asset",
+        "meaning": "자산, 재산",
+        "bolded": "**asset**"
+    },
+    {
+        "word": "money",
+        "meaning": "자산, 재산",
+        "bolded": "**money**"
+    },
+    {
+        "word": "effects",
+        "meaning": "자산, 재산",
+        "bolded": "**effects**"
+    },
+    {
+        "word": "finance",
+        "meaning": "재정, 재무",
+        "bolded": "**finance**"
+    },
+    {
+        "word": "financial",
+        "meaning": "재정의",
+        "bolded": "**financial**"
+    },
+    {
+        "word": "loan",
+        "meaning": "대출(금), 대여",
+        "bolded": "**loan**"
+    },
+    {
+        "word": "estimate",
+        "meaning": "평가하다, 견적하다; 평가, 견적",
+        "bolded": "**estimate**"
+    },
+    {
+        "word": "evaluate",
+        "meaning": "평가하다, 견적하다",
+        "bolded": "**evaluate**"
+    },
+    {
+        "word": "estimated sum",
+        "meaning": "견적액, 견적 비용",
+        "bolded": "**estimated sum**"
+    },
+    {
+        "word": "commerce",
+        "meaning": "상업, 통상, 교섭",
+        "bolded": "**commerce**"
+    },
+    {
+        "word": "commercial",
+        "meaning": "상업의",
+        "bolded": "**commercial**"
+    },
+    {
+        "word": "e-commerce (electronic commerce)",
+        "meaning": "전자 상거래",
+        "bolded": "**e-commerce (electronic commerce)**"
+    },
+    {
+        "word": "negotiate",
+        "meaning": "협상하다",
+        "bolded": "**negotiate**"
+    },
+    {
+        "word": "negotiation",
+        "meaning": "협상",
+        "bolded": "**negotiation**"
+    },
+    {
+        "word": "currency",
+        "meaning": "통화, 화폐; 유통",
+        "bolded": "**currency**"
+    },
+    {
+        "word": "current",
+        "meaning": "통용되는; 현재의",
+        "bolded": "**current**"
+    },
+    {
+        "word": "boost",
+        "meaning": "증대하다; 경기 부양, (가격의) 상승",
+        "bolded": "**boost**"
+    },
+    {
+        "word": "decrease",
+        "meaning": "감소하다",
+        "bolded": "**decrease**"
+    },
+    {
+        "word": "fortune",
+        "meaning": "재산, 부; 행운",
+        "bolded": "**fortune**"
+    },
+    {
+        "word": "wealth",
+        "meaning": "재산, 부",
+        "bolded": "**wealth**"
+    },
+    {
+        "word": "fortunate",
+        "meaning": "운 좋은",
+        "bolded": "**fortunate**"
+    },
+    {
+        "word": "unemployed",
+        "meaning": "실업의, 무직의",
+        "bolded": "**unemployed**"
+    },
+    {
+        "word": "employed",
+        "meaning": "고용된",
+        "bolded": "**employed**"
+    },
+    {
+        "word": "unemployment rate",
+        "meaning": "실업률",
+        "bolded": "**unemployment rate**"
+    },
+    {
+        "word": "income",
+        "meaning": "수입, 소득",
+        "bolded": "**income**"
+    },
+    {
+        "word": "earnings",
+        "meaning": "수입, 소득",
+        "bolded": "**earnings**"
+    },
+    {
+        "word": "expenditure",
+        "meaning": "지출",
+        "bolded": "**expenditure**"
+    },
+    {
+        "word": "annual",
+        "meaning": "1년의, 해마다의",
+        "bolded": "**annual**"
+    },
+    {
+        "word": "annually",
+        "meaning": "매년, 해마다",
+        "bolded": "**annually**"
+    },
+    {
+        "word": "strategy",
+        "meaning": "전략, 계획",
+        "bolded": "**strategy**"
+    },
+    {
+        "word": "plan",
+        "meaning": "전략, 계획",
+        "bolded": "**plan**"
+    },
+    {
+        "word": "approach",
+        "meaning": "전략, 계획",
+        "bolded": "**approach**"
+    },
+    {
+        "word": "temporary",
+        "meaning": "일시적인, 임시의",
+        "bolded": "**temporary**"
+    },
+    {
+        "word": "permanent",
+        "meaning": "영구적인, 불멸의",
+        "bolded": "**permanent**"
+    },
+    {
+        "word": "temporarily",
+        "meaning": "임시로",
+        "bolded": "**temporarily**"
+    },
+    {
+        "word": "outcome",
+        "meaning": "결과, (구체적인) 성과",
+        "bolded": "**outcome**"
+    },
+    {
+        "word": "effect",
+        "meaning": "결과(물), (구체적인) 성과",
+        "bolded": "**effect**"
+    },
+    {
+        "word": "potential",
+        "meaning": "잠재적인, 발전 가능성이 있는",
+        "bolded": "**potential**"
+    },
+    {
+        "word": "latent",
+        "meaning": "잠재적인, 발전 가능성이 있는",
+        "bolded": "**latent**"
+    },
+    {
+        "word": "potentially",
+        "meaning": "잠재적으로",
+        "bolded": "**potentially**"
+    },
+    {
+        "word": "pay off",
+        "meaning": "(빚 등을) 다 갚다; 성공하다, 성과를 올리다",
+        "bolded": "**pay off**"
+    },
+    {
+        "word": "lay off",
+        "meaning": "~을 해고하다",
+        "bolded": "**lay off**"
+    },
+    {
+        "word": "in need",
+        "meaning": "어려움에 처한, 궁핍한",
+        "bolded": "**in need**"
+    }
+]

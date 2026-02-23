@@ -1,0 +1,102 @@
+[
+    {
+        "word": "buy",
+        "meaning": "사다, 구입하다",
+        "bolded": "**buy**"
+    },
+    {
+        "word": "sell",
+        "meaning": "팔다, 팔리다",
+        "bolded": "**sell**"
+    },
+    {
+        "word": "spend",
+        "meaning": "(돈을) 쓰다, 소비하다",
+        "bolded": "**spend**"
+    },
+    {
+        "word": "list",
+        "meaning": "목록",
+        "bolded": "**list**"
+    },
+    {
+        "word": "item",
+        "meaning": "물품, 품목",
+        "bolded": "**item**"
+    },
+    {
+        "word": "sale",
+        "meaning": "판매; 할인 판매",
+        "bolded": "**sale**"
+    },
+    {
+        "word": "store",
+        "meaning": "가게, 상점",
+        "bolded": "**store**"
+    },
+    {
+        "word": "mall",
+        "meaning": "쇼핑몰, 쇼핑센터",
+        "bolded": "**mall**"
+    },
+    {
+        "word": "choose",
+        "meaning": "선택하다, 고르다",
+        "bolded": "**choose**"
+    },
+    {
+        "word": "pay",
+        "meaning": "지불하다",
+        "bolded": "**pay**"
+    },
+    {
+        "word": "coupon",
+        "meaning": "쿠폰, 할인권",
+        "bolded": "**coupon**"
+    },
+    {
+        "word": "waste",
+        "meaning": "낭비하다; 낭비",
+        "bolded": "**waste**"
+    },
+    {
+        "word": "price",
+        "meaning": "값, 가격",
+        "bolded": "**price**"
+    },
+    {
+        "word": "expensive",
+        "meaning": "비싼",
+        "bolded": "**expensive**"
+    },
+    {
+        "word": "cheap",
+        "meaning": "값싼, 저렴한",
+        "bolded": "**cheap**"
+    },
+    {
+        "word": "customer",
+        "meaning": "손님, 고객",
+        "bolded": "**customer**"
+    },
+    {
+        "word": "discount",
+        "meaning": "할인; 할인하다",
+        "bolded": "**discount**"
+    },
+    {
+        "word": "useful",
+        "meaning": "유용한",
+        "bolded": "**useful**"
+    },
+    {
+        "word": "try on",
+        "meaning": "~을 입어[신어] 보다",
+        "bolded": "**try on**"
+    },
+    {
+        "word": "look around",
+        "meaning": "(주위를) 둘러보다, 구경하다",
+        "bolded": "**look around**"
+    }
+]

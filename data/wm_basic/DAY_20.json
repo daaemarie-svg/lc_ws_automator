@@ -1,0 +1,102 @@
+[
+    {
+        "word": "homework",
+        "meaning": "숙제, 과제",
+        "bolded": "**homework**"
+    },
+    {
+        "word": "lesson",
+        "meaning": "수업; (교재의) 과; 교훈",
+        "bolded": "**lesson**"
+    },
+    {
+        "word": "study",
+        "meaning": "공부하다",
+        "bolded": "**study**"
+    },
+    {
+        "word": "difficult",
+        "meaning": "어려운",
+        "bolded": "**difficult**"
+    },
+    {
+        "word": "classroom",
+        "meaning": "교실",
+        "bolded": "**classroom**"
+    },
+    {
+        "word": "review",
+        "meaning": "재검토하다, 복습하다",
+        "bolded": "**review**"
+    },
+    {
+        "word": "write",
+        "meaning": "쓰다",
+        "bolded": "**write**"
+    },
+    {
+        "word": "solve",
+        "meaning": "해결하다, 풀다",
+        "bolded": "**solve**"
+    },
+    {
+        "word": "correct",
+        "meaning": "옳은, 맞는",
+        "bolded": "**correct**"
+    },
+    {
+        "word": "wrong",
+        "meaning": "틀린, 잘못된",
+        "bolded": "**wrong**"
+    },
+    {
+        "word": "diary",
+        "meaning": "일기",
+        "bolded": "**diary**"
+    },
+    {
+        "word": "report",
+        "meaning": "보고서; 보고하다",
+        "bolded": "**report**"
+    },
+    {
+        "word": "fail",
+        "meaning": "실패하다; (시험에) 떨어지다",
+        "bolded": "**fail**"
+    },
+    {
+        "word": "note(-s)",
+        "meaning": "필기; 쪽지",
+        "bolded": "**note(-s)**"
+    },
+    {
+        "word": "speech",
+        "meaning": "연설",
+        "bolded": "**speech**"
+    },
+    {
+        "word": "finish",
+        "meaning": "끝내다, 끝나다",
+        "bolded": "**finish**"
+    },
+    {
+        "word": "mistake",
+        "meaning": "실수, 잘못",
+        "bolded": "**mistake**"
+    },
+    {
+        "word": "absent",
+        "meaning": "결석한, (자리에) 없는",
+        "bolded": "**absent**"
+    },
+    {
+        "word": "take a break",
+        "meaning": "휴식을 취하다",
+        "bolded": "**take a break**"
+    },
+    {
+        "word": "get up",
+        "meaning": "일어나다",
+        "bolded": "**get up**"
+    }
+]

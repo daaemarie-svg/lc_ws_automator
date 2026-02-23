@@ -1,0 +1,127 @@
+[
+    {
+        "word": "despite",
+        "meaning": "[전] ~에도 불구하고",
+        "bolded": "**despite**"
+    },
+    {
+        "word": "still",
+        "meaning": "[부] 1. 아직 2. 그럼에도 불구하고 3. ((비교급 강조)) 훨씬\n[형] 가만히 있는, 정지한",
+        "bolded": "**still**"
+    },
+    {
+        "word": "nevertheless",
+        "meaning": "[부] 그럼에도 불구하고",
+        "bolded": "**nevertheless**"
+    },
+    {
+        "word": "otherwise",
+        "meaning": "[부] 1. 그렇지 않으면 2. 그 외에는",
+        "bolded": "**otherwise**"
+    },
+    {
+        "word": "(al)though",
+        "meaning": "[접] (비록) ~이긴 하지만",
+        "bolded": "**(al)though**"
+    },
+    {
+        "word": "unless",
+        "meaning": "[접] 만약 ~이 아니면, ~하지 않는 한",
+        "bolded": "**unless**"
+    },
+    {
+        "word": "whereas",
+        "meaning": "[접] 반면에, 그러나",
+        "bolded": "**whereas**"
+    },
+    {
+        "word": "therefore",
+        "meaning": "[부] 그러므로, 따라서",
+        "bolded": "**therefore**"
+    },
+    {
+        "word": "thus",
+        "meaning": "[부] 1. 이렇게, 이와 같이 2. 따라서, 그러므로",
+        "bolded": "**thus**"
+    },
+    {
+        "word": "closely",
+        "meaning": "[부] 1. 밀접하게, 친밀하게 2. 면밀히",
+        "bolded": "**closely**"
+    },
+    {
+        "word": "especially",
+        "meaning": "[부] 특히, 특별히",
+        "bolded": "**especially**"
+    },
+    {
+        "word": "exactly",
+        "meaning": "[부] 정확하게",
+        "bolded": "**exactly**"
+    },
+    {
+        "word": "except",
+        "meaning": "[전] ~을 제외하고",
+        "bolded": "**except**"
+    },
+    {
+        "word": "fortunately",
+        "meaning": "[부] 다행스럽게도, 운 좋게도",
+        "bolded": "**fortunately**"
+    },
+    {
+        "word": "frankly",
+        "meaning": "[부] 솔직히",
+        "bolded": "**frankly**"
+    },
+    {
+        "word": "furthermore",
+        "meaning": "[부] 뿐만 아니라, 더욱이",
+        "bolded": "**furthermore**"
+    },
+    {
+        "word": "moreover",
+        "meaning": "[부] 게다가, 더욱이",
+        "bolded": "**moreover**"
+    },
+    {
+        "word": "approximately",
+        "meaning": "[부] 대략, 거의",
+        "bolded": "**approximately**"
+    },
+    {
+        "word": "clearly",
+        "meaning": "[부] 뚜렷하게, 분명히",
+        "bolded": "**clearly**"
+    },
+    {
+        "word": "necessarily",
+        "meaning": "[부] 반드시, 필연적으로",
+        "bolded": "**necessarily**"
+    },
+    {
+        "word": "somehow",
+        "meaning": "[부] 1. 어떻게든 2. 왠지, 웬일인지",
+        "bolded": "**somehow**"
+    },
+    {
+        "word": "terribly",
+        "meaning": "[부] 몹시, 지독하게",
+        "bolded": "**terribly**"
+    },
+    {
+        "word": "even",
+        "meaning": "[부] 심지어, ~조차도\n[형] 1. 평평한 2. 고른, 일정한",
+        "bolded": "**even**"
+    },
+    {
+        "word": "yet",
+        "meaning": "[부] 아직, 여전히\n[접] 하지만, 그럼에도 불구하고",
+        "bolded": "**yet**"
+    },
+    {
+        "word": "due",
+        "meaning": "[형] 1. ~로 인한 (to) 2. ~하기로 예정된 3. (돈을) 지불해야 하는",
+        "bolded": "**due**"
+    }
+]

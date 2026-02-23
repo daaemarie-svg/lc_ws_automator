@@ -1,0 +1,317 @@
+[
+    {
+        "word": "report",
+        "meaning": "보도하다, 전하다; 보도, 보고",
+        "bolded": "**report**"
+    },
+    {
+        "word": "inform",
+        "meaning": "보도하다, 전하다",
+        "bolded": "**inform**"
+    },
+    {
+        "word": "reportable",
+        "meaning": "보도할 수 있는",
+        "bolded": "**reportable**"
+    },
+    {
+        "word": "press",
+        "meaning": "신문, 잡지, 언론; 언론인, 기자",
+        "bolded": "**press**"
+    },
+    {
+        "word": "press conference",
+        "meaning": "기자 회견",
+        "bolded": "**press conference**"
+    },
+    {
+        "word": "article",
+        "meaning": "(신문·잡지의) 기사, 논설; (문법) 관사",
+        "bolded": "**article**"
+    },
+    {
+        "word": "journal",
+        "meaning": "잡지, 정기 간행물; (일간) 신문; 일기, 일지",
+        "bolded": "**journal**"
+    },
+    {
+        "word": "journalist",
+        "meaning": "보도 기자, (신문·잡지의) 기자",
+        "bolded": "**journalist**"
+    },
+    {
+        "word": "broadcast",
+        "meaning": "방송하다, 방영하다; 방송, 방영",
+        "bolded": "**broadcast**"
+    },
+    {
+        "word": "air",
+        "meaning": "방송하다, 방영하다",
+        "bolded": "**air**"
+    },
+    {
+        "word": "broadcasting station",
+        "meaning": "방송국",
+        "bolded": "**broadcasting station**"
+    },
+    {
+        "word": "post",
+        "meaning": "(안내문 등을) 게시[공고]하다; 게시글, 포스트 (블로그·소셜 네트워크 등에 올리는 사진이나 글)",
+        "bolded": "**post**"
+    },
+    {
+        "word": "pose",
+        "meaning": "(사진 등을 위한) 자세를 취하다; 자세, 포즈",
+        "bolded": "**pose**"
+    },
+    {
+        "word": "posture",
+        "meaning": "자세, 포즈",
+        "bolded": "**posture**"
+    },
+    {
+        "word": "scene",
+        "meaning": "(연극·영화의) 장면, 무대; 현장",
+        "bolded": "**scene**"
+    },
+    {
+        "word": "scenic",
+        "meaning": "무대 장치의",
+        "bolded": "**scenic**"
+    },
+    {
+        "word": "survey",
+        "meaning": "조사, 검사, 측량; 조사하다, 살펴보다",
+        "bolded": "**survey**"
+    },
+    {
+        "word": "mass",
+        "meaning": "대중, 집단; 다수 대중의",
+        "bolded": "**mass**"
+    },
+    {
+        "word": "mass communication[media]",
+        "meaning": "대중 매체",
+        "bolded": "**mass communication[media]**"
+    },
+    {
+        "word": "factual",
+        "meaning": "사실의, 사실에 입각한",
+        "bolded": "**factual**"
+    },
+    {
+        "word": "fictitious",
+        "meaning": "허구의",
+        "bolded": "**fictitious**"
+    },
+    {
+        "word": "fact",
+        "meaning": "사실",
+        "bolded": "**fact**"
+    },
+    {
+        "word": "fame",
+        "meaning": "명성, 평판",
+        "bolded": "**fame**"
+    },
+    {
+        "word": "reputation",
+        "meaning": "명성, 평판",
+        "bolded": "**reputation**"
+    },
+    {
+        "word": "famous",
+        "meaning": "유명한",
+        "bolded": "**famous**"
+    },
+    {
+        "word": "poll",
+        "meaning": "투표, 여론 조사; 투표하다, 여론 조사를 하다",
+        "bolded": "**poll**"
+    },
+    {
+        "word": "channel",
+        "meaning": "채널; 수로, 해협",
+        "bolded": "**channel**"
+    },
+    {
+        "word": "criticize",
+        "meaning": "비판하다, 혹평하다",
+        "bolded": "**criticize**"
+    },
+    {
+        "word": "praise",
+        "meaning": "칭찬하다",
+        "bolded": "**praise**"
+    },
+    {
+        "word": "critic",
+        "meaning": "비평가, 평론가",
+        "bolded": "**critic**"
+    },
+    {
+        "word": "criticism",
+        "meaning": "비난, 비평",
+        "bolded": "**criticism**"
+    },
+    {
+        "word": "compliment",
+        "meaning": "칭찬, 칭찬의 말; 칭찬하다",
+        "bolded": "**compliment**"
+    },
+    {
+        "word": "complimentary",
+        "meaning": "칭찬의, 칭찬하는",
+        "bolded": "**complimentary**"
+    },
+    {
+        "word": "series",
+        "meaning": "연속물, (TV 프로그램의) 연속 프로",
+        "bolded": "**series**"
+    },
+    {
+        "word": "sequence",
+        "meaning": "연속물, (TV 프로그램의) 연속 프로",
+        "bolded": "**sequence**"
+    },
+    {
+        "word": "feature",
+        "meaning": "(신문·잡지 등의) 연재 기사, 특집 기사; 특징; (사건을) 대서특필하다; 특색으로 삼다",
+        "bolded": "**feature**"
+    },
+    {
+        "word": "feature story",
+        "meaning": "기사, 주요 읽을거리",
+        "bolded": "**feature story**"
+    },
+    {
+        "word": "script",
+        "meaning": "(방송의) 대본, 각본; 필기 문자",
+        "bolded": "**script**"
+    },
+    {
+        "word": "bulletin",
+        "meaning": "보고, 게시; 뉴스 속보",
+        "bolded": "**bulletin**"
+    },
+    {
+        "word": "bulletin board",
+        "meaning": "게시판",
+        "bolded": "**bulletin board**"
+    },
+    {
+        "word": "preview",
+        "meaning": "(영화의) 시사회, 미리보기, 예고편; 예습하다",
+        "bolded": "**preview**"
+    },
+    {
+        "word": "trailer",
+        "meaning": "(영화의) 시사회, 미리보기, 예고편",
+        "bolded": "**trailer**"
+    },
+    {
+        "word": "review",
+        "meaning": "비평, 서평; 복습하다",
+        "bolded": "**review**"
+    },
+    {
+        "word": "column",
+        "meaning": "신문의 칸, 특정 기고를 하는 공간[란]",
+        "bolded": "**column**"
+    },
+    {
+        "word": "columnist",
+        "meaning": "칼럼니스트, 기고가",
+        "bolded": "**columnist**"
+    },
+    {
+        "word": "release",
+        "meaning": "(레코드를) 발매하다, (영화를) 개봉하다; (뉴스를) 발표하다, 공개하다",
+        "bolded": "**release**"
+    },
+    {
+        "word": "issue",
+        "meaning": "(뉴스를) 발표하다, 공개하다",
+        "bolded": "**issue**"
+    },
+    {
+        "word": "release copy",
+        "meaning": "(공식 발표 등의) 보도 자료",
+        "bolded": "**release copy**"
+    },
+    {
+        "word": "announce",
+        "meaning": "알리다, 공표하다, 공고하다",
+        "bolded": "**announce**"
+    },
+    {
+        "word": "declare",
+        "meaning": "알리다, 공표하다, 공고하다",
+        "bolded": "**declare**"
+    },
+    {
+        "word": "announcer",
+        "meaning": "아나운서",
+        "bolded": "**announcer**"
+    },
+    {
+        "word": "public announcement",
+        "meaning": "공시, 공식적 발표",
+        "bolded": "**public announcement**"
+    },
+    {
+        "word": "reveal",
+        "meaning": "드러내다, 폭로하다",
+        "bolded": "**reveal**"
+    },
+    {
+        "word": "disclose",
+        "meaning": "드러내다, 폭로하다",
+        "bolded": "**disclose**"
+    },
+    {
+        "word": "audience",
+        "meaning": "청중, 관중, 관객",
+        "bolded": "**audience**"
+    },
+    {
+        "word": "spectator",
+        "meaning": "청중, 관중, 관객",
+        "bolded": "**spectator**"
+    },
+    {
+        "word": "crowd",
+        "meaning": "청중, 관중, 관객",
+        "bolded": "**crowd**"
+    },
+    {
+        "word": "audience research",
+        "meaning": "시청률 조사",
+        "bolded": "**audience research**"
+    },
+    {
+        "word": "panel",
+        "meaning": "패널, (토론회의) 토론자단, 심사위원단",
+        "bolded": "**panel**"
+    },
+    {
+        "word": "panel discussion",
+        "meaning": "공개 토론회(여러 명의 전문가나 대표자가 청중앞에서 진행하는 토론)",
+        "bolded": "**panel discussion**"
+    },
+    {
+        "word": "focus",
+        "meaning": "초점을 맞추다, 관심을 집중하다(on); 초점, 집중점",
+        "bolded": "**focus**"
+    },
+    {
+        "word": "argue over",
+        "meaning": "~을 두고 논쟁하다, 왈가왈부하다",
+        "bolded": "**argue over**"
+    },
+    {
+        "word": "come up with",
+        "meaning": "~을 생각해 내다, 창안하다",
+        "bolded": "**come up with**"
+    }
+]

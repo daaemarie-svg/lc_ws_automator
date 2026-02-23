@@ -1,0 +1,282 @@
+[
+    {
+        "word": "transport",
+        "meaning": "운송, 운송 수단; 운반하다",
+        "bolded": "**transport**"
+    },
+    {
+        "word": "convey",
+        "meaning": "운반하다",
+        "bolded": "**convey**"
+    },
+    {
+        "word": "transportation",
+        "meaning": "운송, 운송 수단",
+        "bolded": "**transportation**"
+    },
+    {
+        "word": "passenger",
+        "meaning": "승객",
+        "bolded": "**passenger**"
+    },
+    {
+        "word": "underground",
+        "meaning": "(英) 지하철; 지하의",
+        "bolded": "**underground**"
+    },
+    {
+        "word": "subway",
+        "meaning": "(美) 지하철",
+        "bolded": "**subway**"
+    },
+    {
+        "word": "aboard",
+        "meaning": "(배·기차·비행기 등에) 탄, 탑승[승선]한",
+        "bolded": "**aboard**"
+    },
+    {
+        "word": "depart",
+        "meaning": "출발하다",
+        "bolded": "**depart**"
+    },
+    {
+        "word": "start",
+        "meaning": "출발하다",
+        "bolded": "**start**"
+    },
+    {
+        "word": "arrive",
+        "meaning": "도착하다",
+        "bolded": "**arrive**"
+    },
+    {
+        "word": "departure",
+        "meaning": "출발",
+        "bolded": "**departure**"
+    },
+    {
+        "word": "sightseeing",
+        "meaning": "관광, 유람; 관광의, 유람의",
+        "bolded": "**sightseeing**"
+    },
+    {
+        "word": "sightsee",
+        "meaning": "유람하다, 구경하다",
+        "bolded": "**sightsee**"
+    },
+    {
+        "word": "downtown",
+        "meaning": "도심의; 도심지에",
+        "bolded": "**downtown**"
+    },
+    {
+        "word": "uptown",
+        "meaning": "주택 지구의",
+        "bolded": "**uptown**"
+    },
+    {
+        "word": "ride",
+        "meaning": "(말·탈것 등을) 타다; (탈것을) 타기, 승차",
+        "bolded": "**ride**"
+    },
+    {
+        "word": "rider",
+        "meaning": "타는 사람",
+        "bolded": "**rider**"
+    },
+    {
+        "word": "abroad",
+        "meaning": "해외로",
+        "bolded": "**abroad**"
+    },
+    {
+        "word": "overseas",
+        "meaning": "해외로",
+        "bolded": "**overseas**"
+    },
+    {
+        "word": "baggage",
+        "meaning": "(배·비행기 여행의) 수하물",
+        "bolded": "**baggage**"
+    },
+    {
+        "word": "luggage",
+        "meaning": "(배·비행기 여행의) 수하물",
+        "bolded": "**luggage**"
+    },
+    {
+        "word": "baggage claim",
+        "meaning": "(공항의) 수하물 찾는 곳",
+        "bolded": "**baggage claim**"
+    },
+    {
+        "word": "cabin",
+        "meaning": "(배·비행기의) 선실, 객실; 오두막",
+        "bolded": "**cabin**"
+    },
+    {
+        "word": "hut",
+        "meaning": "오두막",
+        "bolded": "**hut**"
+    },
+    {
+        "word": "check-out",
+        "meaning": "(호텔의) 퇴실, 체크아웃 체크인; 계산(대)",
+        "bolded": "**check-out**"
+    },
+    {
+        "word": "check-in",
+        "meaning": "체크인",
+        "bolded": "**check-in**"
+    },
+    {
+        "word": "tip",
+        "meaning": "사례금, 팁; 끝; 조언; 사례금을 주다",
+        "bolded": "**tip**"
+    },
+    {
+        "word": "advice",
+        "meaning": "사례금을 주다",
+        "bolded": "**advice**"
+    },
+    {
+        "word": "destination",
+        "meaning": "목적지",
+        "bolded": "**destination**"
+    },
+    {
+        "word": "available",
+        "meaning": "이용 가능한; 입수 가능한",
+        "bolded": "**available**"
+    },
+    {
+        "word": "in use",
+        "meaning": "사용되고 있는",
+        "bolded": "**in use**"
+    },
+    {
+        "word": "availability",
+        "meaning": "유용성",
+        "bolded": "**availability**"
+    },
+    {
+        "word": "delay",
+        "meaning": "지연시키다; 지연",
+        "bolded": "**delay**"
+    },
+    {
+        "word": "transfer",
+        "meaning": "갈아타다; 이동하다, 옮기다",
+        "bolded": "**transfer**"
+    },
+    {
+        "word": "move",
+        "meaning": "이동하다, 옮기다",
+        "bolded": "**move**"
+    },
+    {
+        "word": "vehicle",
+        "meaning": "탈것, 운송 수단",
+        "bolded": "**vehicle**"
+    },
+    {
+        "word": "conveyance",
+        "meaning": "탈것, 운송 수단",
+        "bolded": "**conveyance**"
+    },
+    {
+        "word": "highway",
+        "meaning": "고속 도로, 간선 도로",
+        "bolded": "**highway**"
+    },
+    {
+        "word": "convey",
+        "meaning": "(물건·승객 등을) 나르다; 전달하다",
+        "bolded": "**convey**"
+    },
+    {
+        "word": "transport",
+        "meaning": "(물건·승객 등을) 나르다",
+        "bolded": "**transport**"
+    },
+    {
+        "word": "conveyance",
+        "meaning": "운반, 탈것",
+        "bolded": "**conveyance**"
+    },
+    {
+        "word": "accommodate",
+        "meaning": "수용하다, 숙박시키다",
+        "bolded": "**accommodate**"
+    },
+    {
+        "word": "accommodation",
+        "meaning": "수용, 숙박",
+        "bolded": "**accommodation**"
+    },
+    {
+        "word": "cruise",
+        "meaning": "크루즈, 유람선 (여행); 순항; 순항하다",
+        "bolded": "**cruise**"
+    },
+    {
+        "word": "voyage",
+        "meaning": "크루즈, 유람선 (여행)",
+        "bolded": "**voyage**"
+    },
+    {
+        "word": "crew",
+        "meaning": "(배·비행기·열차 등의) 승무원",
+        "bolded": "**crew**"
+    },
+    {
+        "word": "navigate",
+        "meaning": "항해하다, (강·바다 등을) 건너다",
+        "bolded": "**navigate**"
+    },
+    {
+        "word": "navigation",
+        "meaning": "항해",
+        "bolded": "**navigation**"
+    },
+    {
+        "word": "locate",
+        "meaning": "(어떤 장소에) 정하다, 두다",
+        "bolded": "**locate**"
+    },
+    {
+        "word": "location",
+        "meaning": "위치",
+        "bolded": "**location**"
+    },
+    {
+        "word": "journey",
+        "meaning": "여행, 여정; 여행하다",
+        "bolded": "**journey**"
+    },
+    {
+        "word": "spectacle",
+        "meaning": "(인상적인) 광경, 구경거리",
+        "bolded": "**spectacle**"
+    },
+    {
+        "word": "spectacular",
+        "meaning": "장관인",
+        "bolded": "**spectacular**"
+    },
+    {
+        "word": "come across",
+        "meaning": "(우연히) 마주치다, 발견하다",
+        "bolded": "**come across**"
+    },
+    {
+        "word": "head for",
+        "meaning": "~로 향해 가다",
+        "bolded": "**head for**"
+    },
+    {
+        "word": "pull over",
+        "meaning": "차를 길 한쪽에 대다",
+        "bolded": "**pull over**"
+    }
+]

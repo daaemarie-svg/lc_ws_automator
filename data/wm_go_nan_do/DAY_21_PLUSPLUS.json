@@ -1,0 +1,362 @@
+[
+    {
+        "word": "social",
+        "meaning": "사회의",
+        "bolded": "**social**"
+    },
+    {
+        "word": "society",
+        "meaning": "사회",
+        "bolded": "**society**"
+    },
+    {
+        "word": "socialize",
+        "meaning": "사회화하다",
+        "bolded": "**socialize**"
+    },
+    {
+        "word": "moral",
+        "meaning": "도덕적인; 교훈, (pl.) 도덕",
+        "bolded": "**moral**"
+    },
+    {
+        "word": "immoral",
+        "meaning": "부도덕한",
+        "bolded": "**immoral**"
+    },
+    {
+        "word": "morality",
+        "meaning": "도덕성",
+        "bolded": "**morality**"
+    },
+    {
+        "word": "ethic",
+        "meaning": "윤리, 도덕",
+        "bolded": "**ethic**"
+    },
+    {
+        "word": "ethics",
+        "meaning": "윤리학",
+        "bolded": "**ethics**"
+    },
+    {
+        "word": "ethical",
+        "meaning": "윤리의",
+        "bolded": "**ethical**"
+    },
+    {
+        "word": "tend",
+        "meaning": "~하는 경향이 있다, ~하기 쉽다",
+        "bolded": "**tend**"
+    },
+    {
+        "word": "tendency",
+        "meaning": "경향",
+        "bolded": "**tendency**"
+    },
+    {
+        "word": "have a tendency to",
+        "meaning": "~하는 경향이 있다",
+        "bolded": "**have a tendency to**"
+    },
+    {
+        "word": "allow",
+        "meaning": "허락하다, 허가하다",
+        "bolded": "**allow**"
+    },
+    {
+        "word": "allowance",
+        "meaning": "승인; 용돈",
+        "bolded": "**allowance**"
+    },
+    {
+        "word": "affect",
+        "meaning": "~에 영향을 미치다",
+        "bolded": "**affect**"
+    },
+    {
+        "word": "influence",
+        "meaning": "~에 영향을 미치다",
+        "bolded": "**influence**"
+    },
+    {
+        "word": "expire",
+        "meaning": "만기가 되다",
+        "bolded": "**expire**"
+    },
+    {
+        "word": "end",
+        "meaning": "만기가 되다",
+        "bolded": "**end**"
+    },
+    {
+        "word": "expiration",
+        "meaning": "종료, 만기",
+        "bolded": "**expiration**"
+    },
+    {
+        "word": "organization",
+        "meaning": "조직, 단체, 기구",
+        "bolded": "**organization**"
+    },
+    {
+        "word": "organize",
+        "meaning": "조직하다",
+        "bolded": "**organize**"
+    },
+    {
+        "word": "organizational",
+        "meaning": "조직의",
+        "bolded": "**organizational**"
+    },
+    {
+        "word": "liberty",
+        "meaning": "자유; 해방, 석방",
+        "bolded": "**liberty**"
+    },
+    {
+        "word": "freedom",
+        "meaning": "자유",
+        "bolded": "**freedom**"
+    },
+    {
+        "word": "factor",
+        "meaning": "요소, 요인",
+        "bolded": "**factor**"
+    },
+    {
+        "word": "opportunity",
+        "meaning": "기회",
+        "bolded": "**opportunity**"
+    },
+    {
+        "word": "chance",
+        "meaning": "기회",
+        "bolded": "**chance**"
+    },
+    {
+        "word": "golden opportunity",
+        "meaning": "절호의 기회",
+        "bolded": "**golden opportunity**"
+    },
+    {
+        "word": "standard",
+        "meaning": "표준, 기준; 표준의",
+        "bolded": "**standard**"
+    },
+    {
+        "word": "criterion",
+        "meaning": "표준, 기준",
+        "bolded": "**criterion**"
+    },
+    {
+        "word": "standardize",
+        "meaning": "표준화하다",
+        "bolded": "**standardize**"
+    },
+    {
+        "word": "status",
+        "meaning": "지위, 신분; 상태",
+        "bolded": "**status**"
+    },
+    {
+        "word": "position",
+        "meaning": "지위, 신분",
+        "bolded": "**position**"
+    },
+    {
+        "word": "facility",
+        "meaning": "편의, 편리, (pl.) 편의 시설",
+        "bolded": "**facility**"
+    },
+    {
+        "word": "facilitate",
+        "meaning": "용이하게 하다",
+        "bolded": "**facilitate**"
+    },
+    {
+        "word": "circumstance",
+        "meaning": "상황, 환경",
+        "bolded": "**circumstance**"
+    },
+    {
+        "word": "condition",
+        "meaning": "상황, 환경",
+        "bolded": "**condition**"
+    },
+    {
+        "word": "charity",
+        "meaning": "자선, 자선 단체; 구호물자",
+        "bolded": "**charity**"
+    },
+    {
+        "word": "charitable",
+        "meaning": "자비로운",
+        "bolded": "**charitable**"
+    },
+    {
+        "word": "volunteer",
+        "meaning": "자원봉사자, 지원자; 자발적으로 ~하다",
+        "bolded": "**volunteer**"
+    },
+    {
+        "word": "voluntary",
+        "meaning": "자발적인",
+        "bolded": "**voluntary**"
+    },
+    {
+        "word": "prospect",
+        "meaning": "전망, 가능성",
+        "bolded": "**prospect**"
+    },
+    {
+        "word": "prospective",
+        "meaning": "유망한",
+        "bolded": "**prospective**"
+    },
+    {
+        "word": "advantage",
+        "meaning": "이익, 유리한 점",
+        "bolded": "**advantage**"
+    },
+    {
+        "word": "disadvantage",
+        "meaning": "불이익",
+        "bolded": "**disadvantage**"
+    },
+    {
+        "word": "advantageous",
+        "meaning": "유리한, 이로운",
+        "bolded": "**advantageous**"
+    },
+    {
+        "word": "stereotype",
+        "meaning": "고정 관념",
+        "bolded": "**stereotype**"
+    },
+    {
+        "word": "racial stereotypes",
+        "meaning": "인종적 고정 관념",
+        "bolded": "**racial stereotypes**"
+    },
+    {
+        "word": "secure",
+        "meaning": "안전한",
+        "bolded": "**secure**"
+    },
+    {
+        "word": "safe",
+        "meaning": "안전한",
+        "bolded": "**safe**"
+    },
+    {
+        "word": "insecure",
+        "meaning": "불안정한",
+        "bolded": "**insecure**"
+    },
+    {
+        "word": "security",
+        "meaning": "안전, 보안",
+        "bolded": "**security**"
+    },
+    {
+        "word": "complex",
+        "meaning": "복잡한; 복합 건물",
+        "bolded": "**complex**"
+    },
+    {
+        "word": "complicated",
+        "meaning": "복잡한",
+        "bolded": "**complicated**"
+    },
+    {
+        "word": "simple",
+        "meaning": "단순한",
+        "bolded": "**simple**"
+    },
+    {
+        "word": "leisure complex",
+        "meaning": "종합 레저 건물",
+        "bolded": "**leisure complex**"
+    },
+    {
+        "word": "inadequate",
+        "meaning": "부적당한, 불충분한",
+        "bolded": "**inadequate**"
+    },
+    {
+        "word": "adequate",
+        "meaning": "적당한",
+        "bolded": "**adequate**"
+    },
+    {
+        "word": "inadequacy",
+        "meaning": "불충분, 결점",
+        "bolded": "**inadequacy**"
+    },
+    {
+        "word": "proper",
+        "meaning": "적절한, 알맞은",
+        "bolded": "**proper**"
+    },
+    {
+        "word": "improper",
+        "meaning": "부적절한",
+        "bolded": "**improper**"
+    },
+    {
+        "word": "indicate",
+        "meaning": "나타내다, 가리키다",
+        "bolded": "**indicate**"
+    },
+    {
+        "word": "indication",
+        "meaning": "암시, 지적",
+        "bolded": "**indication**"
+    },
+    {
+        "word": "indicator",
+        "meaning": "지시자; 지표",
+        "bolded": "**indicator**"
+    },
+    {
+        "word": "deserve",
+        "meaning": "~할 자격이 있다, ~할 만하다",
+        "bolded": "**deserve**"
+    },
+    {
+        "word": "acquire",
+        "meaning": "얻다, 습득하다",
+        "bolded": "**acquire**"
+    },
+    {
+        "word": "get",
+        "meaning": "얻다, 습득하다",
+        "bolded": "**get**"
+    },
+    {
+        "word": "acquisition",
+        "meaning": "습득",
+        "bolded": "**acquisition**"
+    },
+    {
+        "word": "acquired",
+        "meaning": "후천적인",
+        "bolded": "**acquired**"
+    },
+    {
+        "word": "sign up for",
+        "meaning": "(강좌 등에) 등록하다, ~을 신청[가입]하다",
+        "bolded": "**sign up for**"
+    },
+    {
+        "word": "contribute to",
+        "meaning": "~의 한 원인이 되다; ~에 기여하다, 공헌하다",
+        "bolded": "**contribute to**"
+    },
+    {
+        "word": "put off",
+        "meaning": "~을 연기하다[보류하다]",
+        "bolded": "**put off**"
+    }
+]

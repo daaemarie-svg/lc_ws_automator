@@ -1,0 +1,422 @@
+[
+    {
+        "word": "mood",
+        "meaning": "기분, 분위기",
+        "bolded": "**mood**"
+    },
+    {
+        "word": "moody",
+        "meaning": "변덕스러운, 침울한",
+        "bolded": "**moody**"
+    },
+    {
+        "word": "sorrow",
+        "meaning": "슬픔, 비애",
+        "bolded": "**sorrow**"
+    },
+    {
+        "word": "grief",
+        "meaning": "슬픔, 비애",
+        "bolded": "**grief**"
+    },
+    {
+        "word": "sorrowful",
+        "meaning": "슬픈",
+        "bolded": "**sorrowful**"
+    },
+    {
+        "word": "emotion",
+        "meaning": "감정",
+        "bolded": "**emotion**"
+    },
+    {
+        "word": "feeling",
+        "meaning": "감정",
+        "bolded": "**feeling**"
+    },
+    {
+        "word": "emotional",
+        "meaning": "감정적인",
+        "bolded": "**emotional**"
+    },
+    {
+        "word": "anxious",
+        "meaning": "불안해하는, 걱정하는; 갈망하는",
+        "bolded": "**anxious**"
+    },
+    {
+        "word": "uneasy",
+        "meaning": "불안해하는, 걱정하는",
+        "bolded": "**uneasy**"
+    },
+    {
+        "word": "eager",
+        "meaning": "갈망하는",
+        "bolded": "**eager**"
+    },
+    {
+        "word": "anxiety",
+        "meaning": "걱정; 갈망",
+        "bolded": "**anxiety**"
+    },
+    {
+        "word": "ashamed",
+        "meaning": "부끄러워하는",
+        "bolded": "**ashamed**"
+    },
+    {
+        "word": "proud",
+        "meaning": "자랑스러워하는",
+        "bolded": "**proud**"
+    },
+    {
+        "word": "be ashamed of(at)",
+        "meaning": "~을 부끄러워 하다",
+        "bolded": "**be ashamed of(at)**"
+    },
+    {
+        "word": "depression",
+        "meaning": "우울; 불경기",
+        "bolded": "**depression**"
+    },
+    {
+        "word": "depressed",
+        "meaning": "우울한; 불경기의",
+        "bolded": "**depressed**"
+    },
+    {
+        "word": "weep",
+        "meaning": "울다",
+        "bolded": "**weep**"
+    },
+    {
+        "word": "cry",
+        "meaning": "울다",
+        "bolded": "**cry**"
+    },
+    {
+        "word": "weep crocodile tears",
+        "meaning": "거짓 눈물을 흘리다",
+        "bolded": "**weep crocodile tears**"
+    },
+    {
+        "word": "annoy",
+        "meaning": "짜증 나게 하다, 귀찮게 하다",
+        "bolded": "**annoy**"
+    },
+    {
+        "word": "bother",
+        "meaning": "짜증 나게 하다, 귀찮게 하다",
+        "bolded": "**bother**"
+    },
+    {
+        "word": "annoyed",
+        "meaning": "화가 난, 짜증 난",
+        "bolded": "**annoyed**"
+    },
+    {
+        "word": "be annoyed with(at)",
+        "meaning": "~에 화가 나다, 귀찮다",
+        "bolded": "**be annoyed with(at)**"
+    },
+    {
+        "word": "relieve",
+        "meaning": "완화하다, 긴장을 풀게 하다",
+        "bolded": "**relieve**"
+    },
+    {
+        "word": "relief",
+        "meaning": "안심",
+        "bolded": "**relief**"
+    },
+    {
+        "word": "amaze",
+        "meaning": "놀라게 하다",
+        "bolded": "**amaze**"
+    },
+    {
+        "word": "surprise",
+        "meaning": "놀라게 하다",
+        "bolded": "**surprise**"
+    },
+    {
+        "word": "amazing",
+        "meaning": "놀랄 만한, 굉장한",
+        "bolded": "**amazing**"
+    },
+    {
+        "word": "in amazement",
+        "meaning": "놀라서",
+        "bolded": "**in amazement**"
+    },
+    {
+        "word": "sentiment",
+        "meaning": "감정, 정서",
+        "bolded": "**sentiment**"
+    },
+    {
+        "word": "emotion",
+        "meaning": "감정, 정서",
+        "bolded": "**emotion**"
+    },
+    {
+        "word": "sentimental",
+        "meaning": "감정[정서]적인, 정에 호소하는",
+        "bolded": "**sentimental**"
+    },
+    {
+        "word": "envy",
+        "meaning": "부러워하다; 부러움, 질투",
+        "bolded": "**envy**"
+    },
+    {
+        "word": "jealous",
+        "meaning": "부러워하는, 질투하는",
+        "bolded": "**jealous**"
+    },
+    {
+        "word": "envious",
+        "meaning": "부러워하는, 질투하는",
+        "bolded": "**envious**"
+    },
+    {
+        "word": "be (turn) green with envy",
+        "meaning": "매우 부러워하다",
+        "bolded": "**be (turn) green with envy**"
+    },
+    {
+        "word": "be jealous of",
+        "meaning": "~을 질투하다",
+        "bolded": "**be jealous of**"
+    },
+    {
+        "word": "nerve",
+        "meaning": "신경; 용기",
+        "bolded": "**nerve**"
+    },
+    {
+        "word": "nervous",
+        "meaning": "긴장한, 초조한",
+        "bolded": "**nervous**"
+    },
+    {
+        "word": "have the nerve to v",
+        "meaning": "~할 용기가 있다",
+        "bolded": "**have the nerve to v**"
+    },
+    {
+        "word": "temper",
+        "meaning": "성질, 기질, 화",
+        "bolded": "**temper**"
+    },
+    {
+        "word": "resent",
+        "meaning": "화를 내다, 분개하다",
+        "bolded": "**resent**"
+    },
+    {
+        "word": "get into a temper",
+        "meaning": "화내다",
+        "bolded": "**get into a temper**"
+    },
+    {
+        "word": "lose one’s temper",
+        "meaning": "화내다",
+        "bolded": "**lose one’s temper**"
+    },
+    {
+        "word": "resentful",
+        "meaning": "분개한",
+        "bolded": "**resentful**"
+    },
+    {
+        "word": "desperate",
+        "meaning": "필사적인, 절망적인",
+        "bolded": "**desperate**"
+    },
+    {
+        "word": "awful",
+        "meaning": "지독한, 아주 심한",
+        "bolded": "**awful**"
+    },
+    {
+        "word": "terrible",
+        "meaning": "지독한, 아주 심한",
+        "bolded": "**terrible**"
+    },
+    {
+        "word": "awfully",
+        "meaning": "엄청, 몹시",
+        "bolded": "**awfully**"
+    },
+    {
+        "word": "miserable",
+        "meaning": "비참한, 불행한",
+        "bolded": "**miserable**"
+    },
+    {
+        "word": "unhappy",
+        "meaning": "비참한, 불행한",
+        "bolded": "**unhappy**"
+    },
+    {
+        "word": "misery",
+        "meaning": "비참함",
+        "bolded": "**misery**"
+    },
+    {
+        "word": "disgust",
+        "meaning": "역겹게 하다; 반감, 혐오감",
+        "bolded": "**disgust**"
+    },
+    {
+        "word": "disgusting",
+        "meaning": "역겨운, 정말 싫은",
+        "bolded": "**disgusting**"
+    },
+    {
+        "word": "feel disgusted at[by, with]",
+        "meaning": "~에 넌더리가 나다",
+        "bolded": "**feel disgusted at[by, with]**"
+    },
+    {
+        "word": "astound",
+        "meaning": "놀라게 하다",
+        "bolded": "**astound**"
+    },
+    {
+        "word": "amaze",
+        "meaning": "놀라게 하다",
+        "bolded": "**amaze**"
+    },
+    {
+        "word": "surprise",
+        "meaning": "놀라게 하다",
+        "bolded": "**surprise**"
+    },
+    {
+        "word": "be astounded at[by]",
+        "meaning": "~에 몹시 놀라다",
+        "bolded": "**be astounded at[by]**"
+    },
+    {
+        "word": "frighten",
+        "meaning": "겁먹게 하다, 놀라게 하다",
+        "bolded": "**frighten**"
+    },
+    {
+        "word": "scare",
+        "meaning": "겁먹게 하다, 놀라게 하다",
+        "bolded": "**scare**"
+    },
+    {
+        "word": "fright",
+        "meaning": "공포, 놀람",
+        "bolded": "**fright**"
+    },
+    {
+        "word": "frightened to death",
+        "meaning": "무서워 죽을 것 같은",
+        "bolded": "**frightened to death**"
+    },
+    {
+        "word": "panic",
+        "meaning": "당황하다, 공포에 질리다; 당황, 공포; 당황한, 겁먹은",
+        "bolded": "**panic**"
+    },
+    {
+        "word": "horror",
+        "meaning": "당황, 공포",
+        "bolded": "**horror**"
+    },
+    {
+        "word": "scream",
+        "meaning": "비명; 소리 지르다",
+        "bolded": "**scream**"
+    },
+    {
+        "word": "scream for help",
+        "meaning": "도와달라고 소리치다",
+        "bolded": "**scream for help**"
+    },
+    {
+        "word": "sympathy",
+        "meaning": "동정, 공감",
+        "bolded": "**sympathy**"
+    },
+    {
+        "word": "sympathetic",
+        "meaning": "동정심이 있는",
+        "bolded": "**sympathetic**"
+    },
+    {
+        "word": "in sympathy with",
+        "meaning": "~에 공감하여, ~에 찬성하여",
+        "bolded": "**in sympathy with**"
+    },
+    {
+        "word": "ridicule",
+        "meaning": "비웃다, 조롱하다; 비웃음, 조롱",
+        "bolded": "**ridicule**"
+    },
+    {
+        "word": "ridiculous",
+        "meaning": "우스운, 어리석은",
+        "bolded": "**ridiculous**"
+    },
+    {
+        "word": "warm-hearted",
+        "meaning": "마음이 따뜻한, 친절한",
+        "bolded": "**warm-hearted**"
+    },
+    {
+        "word": "kind",
+        "meaning": "마음이 따뜻한, 친절한",
+        "bolded": "**kind**"
+    },
+    {
+        "word": "burst into",
+        "meaning": "갑자기 ~을 터뜨리다, 내뿜다",
+        "bolded": "**burst into**"
+    },
+    {
+        "word": "burst into laughter[a smile]",
+        "meaning": "웃음을 터뜨리다",
+        "bolded": "**burst into laughter[a smile]**"
+    },
+    {
+        "word": "be tired of",
+        "meaning": "~에 싫증이 나다, 넌더리 나다",
+        "bolded": "**be tired of**"
+    },
+    {
+        "word": "be sick and tired of",
+        "meaning": "~에 싫증이 나다",
+        "bolded": "**be sick and tired of**"
+    },
+    {
+        "word": "put up with",
+        "meaning": "~을 참다, 참고 견디다",
+        "bolded": "**put up with**"
+    },
+    {
+        "word": "tolerate",
+        "meaning": "~을 참다, 참고 견디다",
+        "bolded": "**tolerate**"
+    },
+    {
+        "word": "endure",
+        "meaning": "~을 참다, 참고 견디다",
+        "bolded": "**endure**"
+    },
+    {
+        "word": "bear",
+        "meaning": "~을 참다, 참고 견디다",
+        "bolded": "**bear**"
+    },
+    {
+        "word": "stand",
+        "meaning": "~을 참다, 참고 견디다",
+        "bolded": "**stand**"
+    }
+]

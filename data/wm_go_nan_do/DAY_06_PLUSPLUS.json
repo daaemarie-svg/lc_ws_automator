@@ -1,0 +1,327 @@
+[
+    {
+        "word": "cottage",
+        "meaning": "(시골의) 작은 집, 오두막집; (교외의) 작은 주택[별장]",
+        "bolded": "**cottage**"
+    },
+    {
+        "word": "priceless",
+        "meaning": "값을 매길 수 없는, 대단히 귀중한",
+        "bolded": "**priceless**"
+    },
+    {
+        "word": "valuable",
+        "meaning": "값을 매길 수 없는, 대단히 귀중한",
+        "bolded": "**valuable**"
+    },
+    {
+        "word": "worthless",
+        "meaning": "쓸모없는",
+        "bolded": "**worthless**"
+    },
+    {
+        "word": "tap",
+        "meaning": "(수도 등의) 꼭지, (통의) 주둥이, 마개",
+        "bolded": "**tap**"
+    },
+    {
+        "word": "turn on[off] the tap faucet",
+        "meaning": "수도꼭지를 틀다[잠그다]",
+        "bolded": "**turn on[off] the tap faucet**"
+    },
+    {
+        "word": "alarm",
+        "meaning": "경보기; 자명종; 놀람, 공포; 놀라게 하다",
+        "bolded": "**alarm**"
+    },
+    {
+        "word": "burglar alarm",
+        "meaning": "도난경보기",
+        "bolded": "**burglar alarm**"
+    },
+    {
+        "word": "mess",
+        "meaning": "어질러진 것, 쓰레기 더미; 어수선함, 혼잡",
+        "bolded": "**mess**"
+    },
+    {
+        "word": "litter",
+        "meaning": "어질러진 것, 쓰레기 더미",
+        "bolded": "**litter**"
+    },
+    {
+        "word": "neatness",
+        "meaning": "단정함, 깔끔함",
+        "bolded": "**neatness**"
+    },
+    {
+        "word": "messy",
+        "meaning": "어질러진, 지저분한",
+        "bolded": "**messy**"
+    },
+    {
+        "word": "usual",
+        "meaning": "평소의, 일상의",
+        "bolded": "**usual**"
+    },
+    {
+        "word": "habitual",
+        "meaning": "평소의, 일상의",
+        "bolded": "**habitual**"
+    },
+    {
+        "word": "usually",
+        "meaning": "평소에는",
+        "bolded": "**usually**"
+    },
+    {
+        "word": "more than usual",
+        "meaning": "여느 때보다 많이",
+        "bolded": "**more than usual**"
+    },
+    {
+        "word": "routine",
+        "meaning": "판에 박힌 일, 일과; 일상적인, 판에 박힌",
+        "bolded": "**routine**"
+    },
+    {
+        "word": "rely",
+        "meaning": "믿다, 의지[의존]하다",
+        "bolded": "**rely**"
+    },
+    {
+        "word": "depend",
+        "meaning": "믿다, 의지[의존]하다",
+        "bolded": "**depend**"
+    },
+    {
+        "word": "reliance",
+        "meaning": "의지, 신뢰",
+        "bolded": "**reliance**"
+    },
+    {
+        "word": "dust",
+        "meaning": "먼지를 털다; 먼지, 흙",
+        "bolded": "**dust**"
+    },
+    {
+        "word": "dirt",
+        "meaning": "먼지, 흙",
+        "bolded": "**dirt**"
+    },
+    {
+        "word": "dusty",
+        "meaning": "먼지투성이의",
+        "bolded": "**dusty**"
+    },
+    {
+        "word": "spread",
+        "meaning": "펴다, 펼치다, 퍼지다",
+        "bolded": "**spread**"
+    },
+    {
+        "word": "cleanse",
+        "meaning": "세척하다, 씻다; 정화하다",
+        "bolded": "**cleanse**"
+    },
+    {
+        "word": "wash",
+        "meaning": "세척하다, 씻다",
+        "bolded": "**wash**"
+    },
+    {
+        "word": "clean",
+        "meaning": "깨끗한",
+        "bolded": "**clean**"
+    },
+    {
+        "word": "cleanser",
+        "meaning": "(그릇·화장실 등을 닦는) 세제, (화장을 지우는) 세안제",
+        "bolded": "**cleanser**"
+    },
+    {
+        "word": "wipe",
+        "meaning": "닦다, 훔치다, 가볍게 문지르다",
+        "bolded": "**wipe**"
+    },
+    {
+        "word": "rub",
+        "meaning": "닦다, 훔치다, 가볍게 문지르다",
+        "bolded": "**rub**"
+    },
+    {
+        "word": "mop",
+        "meaning": "(대걸레로) 닦다; 대걸레",
+        "bolded": "**mop**"
+    },
+    {
+        "word": "drawer",
+        "meaning": "서랍; (항상 복수형) 장롱",
+        "bolded": "**drawer**"
+    },
+    {
+        "word": "stair",
+        "meaning": "(보통 복수형) 계단",
+        "bolded": "**stair**"
+    },
+    {
+        "word": "step",
+        "meaning": "(보통 복수형) 계단",
+        "bolded": "**step**"
+    },
+    {
+        "word": "rubbish",
+        "meaning": "쓰레기, 폐물",
+        "bolded": "**rubbish**"
+    },
+    {
+        "word": "garbage",
+        "meaning": "쓰레기, 폐물",
+        "bolded": "**garbage**"
+    },
+    {
+        "word": "trash",
+        "meaning": "쓰레기, 폐물",
+        "bolded": "**trash**"
+    },
+    {
+        "word": "dispose",
+        "meaning": "처리하다, 처분하다",
+        "bolded": "**dispose**"
+    },
+    {
+        "word": "throw away",
+        "meaning": "처리하다, 처분하다",
+        "bolded": "**throw away**"
+    },
+    {
+        "word": "disposable",
+        "meaning": "처분할 수 있는, 일회용의",
+        "bolded": "**disposable**"
+    },
+    {
+        "word": "dispose of",
+        "meaning": "~을 처분하다",
+        "bolded": "**dispose of**"
+    },
+    {
+        "word": "discard",
+        "meaning": "(불필요한 것을) 버리다, 처분하다",
+        "bolded": "**discard**"
+    },
+    {
+        "word": "retain",
+        "meaning": "보유하다",
+        "bolded": "**retain**"
+    },
+    {
+        "word": "appliance",
+        "meaning": "(가정용) 기구, 장치, 전기 제품",
+        "bolded": "**appliance**"
+    },
+    {
+        "word": "apply",
+        "meaning": "~에 기구를 설치하다; 적용하다",
+        "bolded": "**apply**"
+    },
+    {
+        "word": "household[home] appliance",
+        "meaning": "가전제품",
+        "bolded": "**household[home] appliance**"
+    },
+    {
+        "word": "spacious",
+        "meaning": "넓은, 광대한",
+        "bolded": "**spacious**"
+    },
+    {
+        "word": "roomy",
+        "meaning": "넓은, 광대한",
+        "bolded": "**roomy**"
+    },
+    {
+        "word": "space",
+        "meaning": "공간",
+        "bolded": "**space**"
+    },
+    {
+        "word": "chore",
+        "meaning": "(집안의) 자질구레한 일, 허드렛일",
+        "bolded": "**chore**"
+    },
+    {
+        "word": "polish",
+        "meaning": "닦다, 광[윤]을 내다; (문장 등을) 다듬다",
+        "bolded": "**polish**"
+    },
+    {
+        "word": "flush",
+        "meaning": "(물·액체 등으로) 씻어 내리다; (얼굴을) 붉히다, 상기시키다",
+        "bolded": "**flush**"
+    },
+    {
+        "word": "wash out",
+        "meaning": "(물·액체 등으로) 씻어 내리다",
+        "bolded": "**wash out**"
+    },
+    {
+        "word": "blush",
+        "meaning": "(얼굴을) 붉히다, 상기시키다",
+        "bolded": "**blush**"
+    },
+    {
+        "word": "nap",
+        "meaning": "낮잠, 선잠; 선잠을 자다, 졸다",
+        "bolded": "**nap**"
+    },
+    {
+        "word": "doze",
+        "meaning": "선잠을 자다, 졸다",
+        "bolded": "**doze**"
+    },
+    {
+        "word": "take[have] a nap",
+        "meaning": "낮잠을 자다",
+        "bolded": "**take[have] a nap**"
+    },
+    {
+        "word": "outlet",
+        "meaning": "코드 구멍, 콘센트; 할인점",
+        "bolded": "**outlet**"
+    },
+    {
+        "word": "socket",
+        "meaning": "코드 구멍, 콘센트",
+        "bolded": "**socket**"
+    },
+    {
+        "word": "trim",
+        "meaning": "다듬다, 손질하다; 정돈(된 상태); 잘 정돈된",
+        "bolded": "**trim**"
+    },
+    {
+        "word": "crack",
+        "meaning": "깨지다, 금이 가다; 갈라진 금, 틈",
+        "bolded": "**crack**"
+    },
+    {
+        "word": "leak",
+        "meaning": "새어나옴, 누출; 새다, 누출하다",
+        "bolded": "**leak**"
+    },
+    {
+        "word": "run out of",
+        "meaning": "~을 다 써 버리다, ~을 바닥내다",
+        "bolded": "**run out of**"
+    },
+    {
+        "word": "use up",
+        "meaning": "~을 다 써 버리다, ~을 바닥내다",
+        "bolded": "**use up**"
+    },
+    {
+        "word": "hang up",
+        "meaning": "~을 걸다[매달다]; 전화를 끊다",
+        "bolded": "**hang up**"
+    }
+]

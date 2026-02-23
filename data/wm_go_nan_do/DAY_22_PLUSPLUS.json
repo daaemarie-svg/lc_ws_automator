@@ -1,0 +1,377 @@
+[
+    {
+        "word": "evident",
+        "meaning": "분명한, 명백한",
+        "bolded": "**evident**"
+    },
+    {
+        "word": "obvious",
+        "meaning": "분명한, 명백한",
+        "bolded": "**obvious**"
+    },
+    {
+        "word": "plain",
+        "meaning": "분명한, 명백한",
+        "bolded": "**plain**"
+    },
+    {
+        "word": "evidence",
+        "meaning": "증거",
+        "bolded": "**evidence**"
+    },
+    {
+        "word": "evidently",
+        "meaning": "명백히",
+        "bolded": "**evidently**"
+    },
+    {
+        "word": "arrest",
+        "meaning": "체포하다, 구속[검거]하다",
+        "bolded": "**arrest**"
+    },
+    {
+        "word": "arrestment",
+        "meaning": "체포",
+        "bolded": "**arrestment**"
+    },
+    {
+        "word": "suspect",
+        "meaning": "용의자; 의심하다",
+        "bolded": "**suspect**"
+    },
+    {
+        "word": "suspicion",
+        "meaning": "의심, 혐의",
+        "bolded": "**suspicion**"
+    },
+    {
+        "word": "suspicious",
+        "meaning": "의심스러운",
+        "bolded": "**suspicious**"
+    },
+    {
+        "word": "guilty",
+        "meaning": "유죄의",
+        "bolded": "**guilty**"
+    },
+    {
+        "word": "innocent",
+        "meaning": "무고한",
+        "bolded": "**innocent**"
+    },
+    {
+        "word": "guilt",
+        "meaning": "유죄",
+        "bolded": "**guilt**"
+    },
+    {
+        "word": "trap",
+        "meaning": "덫, 속임수; (덫으로) 잡다",
+        "bolded": "**trap**"
+    },
+    {
+        "word": "capture",
+        "meaning": "(덫으로) 잡다",
+        "bolded": "**capture**"
+    },
+    {
+        "word": "robber",
+        "meaning": "강도",
+        "bolded": "**robber**"
+    },
+    {
+        "word": "rob",
+        "meaning": "강탈하다",
+        "bolded": "**rob**"
+    },
+    {
+        "word": "robbery",
+        "meaning": "강도질, 강탈",
+        "bolded": "**robbery**"
+    },
+    {
+        "word": "criminal",
+        "meaning": "범인, 범죄자; 범죄의; 형사상의",
+        "bolded": "**criminal**"
+    },
+    {
+        "word": "offender",
+        "meaning": "범인, 범죄자",
+        "bolded": "**offender**"
+    },
+    {
+        "word": "prevent",
+        "meaning": "막다, ~하지 못하게 하다",
+        "bolded": "**prevent**"
+    },
+    {
+        "word": "stop",
+        "meaning": "막다, ~하지 못하게 하다",
+        "bolded": "**stop**"
+    },
+    {
+        "word": "prevention",
+        "meaning": "방지",
+        "bolded": "**prevention**"
+    },
+    {
+        "word": "intentional",
+        "meaning": "의도적인, 계획된",
+        "bolded": "**intentional**"
+    },
+    {
+        "word": "deliberate",
+        "meaning": "의도적인, 계획된",
+        "bolded": "**deliberate**"
+    },
+    {
+        "word": "accidental",
+        "meaning": "우연한",
+        "bolded": "**accidental**"
+    },
+    {
+        "word": "intention",
+        "meaning": "의도, 목적",
+        "bolded": "**intention**"
+    },
+    {
+        "word": "intentionally",
+        "meaning": "고의로",
+        "bolded": "**intentionally**"
+    },
+    {
+        "word": "restrict",
+        "meaning": "제한하다",
+        "bolded": "**restrict**"
+    },
+    {
+        "word": "limit",
+        "meaning": "제한하다",
+        "bolded": "**limit**"
+    },
+    {
+        "word": "restriction",
+        "meaning": "제한",
+        "bolded": "**restriction**"
+    },
+    {
+        "word": "restrictive",
+        "meaning": "제한하는",
+        "bolded": "**restrictive**"
+    },
+    {
+        "word": "regulate",
+        "meaning": "규제하다, 통제하다",
+        "bolded": "**regulate**"
+    },
+    {
+        "word": "control",
+        "meaning": "규제하다, 통제하다",
+        "bolded": "**control**"
+    },
+    {
+        "word": "regulation",
+        "meaning": "규제",
+        "bolded": "**regulation**"
+    },
+    {
+        "word": "forbid",
+        "meaning": "금하다",
+        "bolded": "**forbid**"
+    },
+    {
+        "word": "prohibit",
+        "meaning": "금하다",
+        "bolded": "**prohibit**"
+    },
+    {
+        "word": "permit",
+        "meaning": "허가하다",
+        "bolded": "**permit**"
+    },
+    {
+        "word": "forbidden",
+        "meaning": "금지된",
+        "bolded": "**forbidden**"
+    },
+    {
+        "word": "deny",
+        "meaning": "부인하다",
+        "bolded": "**deny**"
+    },
+    {
+        "word": "sentence",
+        "meaning": "판결, 선고; 처벌; (형을) 선고하다, 판결하다",
+        "bolded": "**sentence**"
+    },
+    {
+        "word": "admit",
+        "meaning": "인정하다",
+        "bolded": "**admit**"
+    },
+    {
+        "word": "admission",
+        "meaning": "인정",
+        "bolded": "**admission**"
+    },
+    {
+        "word": "jury",
+        "meaning": "배심원단; 심사위원단",
+        "bolded": "**jury**"
+    },
+    {
+        "word": "deceive",
+        "meaning": "속이다, 기만하다",
+        "bolded": "**deceive**"
+    },
+    {
+        "word": "cheat",
+        "meaning": "속이다, 기만하다",
+        "bolded": "**cheat**"
+    },
+    {
+        "word": "deception",
+        "meaning": "속임, 기만, 거짓",
+        "bolded": "**deception**"
+    },
+    {
+        "word": "deceptive",
+        "meaning": "속이는",
+        "bolded": "**deceptive**"
+    },
+    {
+        "word": "sue",
+        "meaning": "고소하다, 소송을 제기하다",
+        "bolded": "**sue**"
+    },
+    {
+        "word": "commit",
+        "meaning": "(죄·과실 등을) 범하다, 저지르다",
+        "bolded": "**commit**"
+    },
+    {
+        "word": "commit suicide",
+        "meaning": "자살하다",
+        "bolded": "**commit suicide**"
+    },
+    {
+        "word": "violate",
+        "meaning": "위반하다",
+        "bolded": "**violate**"
+    },
+    {
+        "word": "break",
+        "meaning": "위반하다",
+        "bolded": "**break**"
+    },
+    {
+        "word": "violation",
+        "meaning": "위반",
+        "bolded": "**violation**"
+    },
+    {
+        "word": "offend",
+        "meaning": "기분을 상하게 하다, 불쾌하게 하다",
+        "bolded": "**offend**"
+    },
+    {
+        "word": "offensive",
+        "meaning": "무례한",
+        "bolded": "**offensive**"
+    },
+    {
+        "word": "investigate",
+        "meaning": "조사하다, 수사하다",
+        "bolded": "**investigate**"
+    },
+    {
+        "word": "investigation",
+        "meaning": "조사",
+        "bolded": "**investigation**"
+    },
+    {
+        "word": "investigator",
+        "meaning": "수사관",
+        "bolded": "**investigator**"
+    },
+    {
+        "word": "investigate",
+        "meaning": "조사하다",
+        "bolded": "**investigate**"
+    },
+    {
+        "word": "inquire",
+        "meaning": "조사하다; 묻다",
+        "bolded": "**inquire**"
+    },
+    {
+        "word": "inquiry",
+        "meaning": "질문, 조사",
+        "bolded": "**inquiry**"
+    },
+    {
+        "word": "insult",
+        "meaning": "모욕하다; 모욕",
+        "bolded": "**insult**"
+    },
+    {
+        "word": "identify",
+        "meaning": "(신원 등을) 확인하다, 감정하다",
+        "bolded": "**identify**"
+    },
+    {
+        "word": "identification",
+        "meaning": "신원 확인, 신분증",
+        "bolded": "**identification**"
+    },
+    {
+        "word": "confess",
+        "meaning": "자백하다, 고백하다",
+        "bolded": "**confess**"
+    },
+    {
+        "word": "confession",
+        "meaning": "자백",
+        "bolded": "**confession**"
+    },
+    {
+        "word": "convict",
+        "meaning": "유죄를 선고하다",
+        "bolded": "**convict**"
+    },
+    {
+        "word": "sentence",
+        "meaning": "유죄를 선고하다",
+        "bolded": "**sentence**"
+    },
+    {
+        "word": "conviction",
+        "meaning": "유죄 선고, 확신",
+        "bolded": "**conviction**"
+    },
+    {
+        "word": "appeal",
+        "meaning": "항소[상고]하다; 간청하다; 호소하다",
+        "bolded": "**appeal**"
+    },
+    {
+        "word": "appealing",
+        "meaning": "호소하는, 매력 있는",
+        "bolded": "**appealing**"
+    },
+    {
+        "word": "break down",
+        "meaning": "(열거나 하기 위해) ~을 부수다; 고장 나다",
+        "bolded": "**break down**"
+    },
+    {
+        "word": "accuse A of B",
+        "meaning": "A를 B의 혐의로 고소[비난]하다",
+        "bolded": "**accuse A of B**"
+    },
+    {
+        "word": "get away with",
+        "meaning": "(나쁜 행동 등을 하고도) 처벌을 모면하다[그냥 넘어가다]",
+        "bolded": "**get away with**"
+    }
+]

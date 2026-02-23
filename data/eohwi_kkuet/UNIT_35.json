@@ -1,0 +1,127 @@
+[
+    {
+        "word": "location",
+        "meaning": "[명] 위치, 장소",
+        "bolded": "**location**"
+    },
+    {
+        "word": "site",
+        "meaning": "[명] 1. 터, 부지 2. 장소",
+        "bolded": "**site**"
+    },
+    {
+        "word": "zone",
+        "meaning": "[명] 지역, 구역",
+        "bolded": "**zone**"
+    },
+    {
+        "word": "region",
+        "meaning": "[명] 지역, 지방",
+        "bolded": "**region**"
+    },
+    {
+        "word": "landmark",
+        "meaning": "[명] 주요 지형지물, 명소",
+        "bolded": "**landmark**"
+    },
+    {
+        "word": "facility",
+        "meaning": "[명] 시설, 설비",
+        "bolded": "**facility**"
+    },
+    {
+        "word": "downstairs",
+        "meaning": "[부] 아래층에, 아래층으로\n[명] 아래층",
+        "bolded": "**downstairs**"
+    },
+    {
+        "word": "nearby",
+        "meaning": "[형] 근처의, 인근의\n[부] 근처에, 인근에",
+        "bolded": "**nearby**"
+    },
+    {
+        "word": "entrance",
+        "meaning": "[명] 입구, 출입문",
+        "bolded": "**entrance**"
+    },
+    {
+        "word": "fireplace",
+        "meaning": "[명] 벽난로",
+        "bolded": "**fireplace**"
+    },
+    {
+        "word": "fountain",
+        "meaning": "[명] 분수",
+        "bolded": "**fountain**"
+    },
+    {
+        "word": "lawn",
+        "meaning": "[명] 잔디밭",
+        "bolded": "**lawn**"
+    },
+    {
+        "word": "urban",
+        "meaning": "[형] 도시의",
+        "bolded": "**urban**"
+    },
+    {
+        "word": "rural",
+        "meaning": "[형] 지방의, 시골의",
+        "bolded": "**rural**"
+    },
+    {
+        "word": "countryside",
+        "meaning": "[명] 시골 지역, 지방",
+        "bolded": "**countryside**"
+    },
+    {
+        "word": "neighborhood",
+        "meaning": "[명] 1. 근처, 인근 2. 이웃 사람들",
+        "bolded": "**neighborhood**"
+    },
+    {
+        "word": "hometown",
+        "meaning": "[명] 고향",
+        "bolded": "**hometown**"
+    },
+    {
+        "word": "harbor",
+        "meaning": "[명] 항구",
+        "bolded": "**harbor**"
+    },
+    {
+        "word": "kindergarten",
+        "meaning": "[명] 유치원",
+        "bolded": "**kindergarten**"
+    },
+    {
+        "word": "pharmacy",
+        "meaning": "[명] 약국",
+        "bolded": "**pharmacy**"
+    },
+    {
+        "word": "platform",
+        "meaning": "[명] 1. 플랫폼, 승강장 2. 강단, 연단",
+        "bolded": "**platform**"
+    },
+    {
+        "word": "stadium",
+        "meaning": "[명] 경기장, 운동장",
+        "bolded": "**stadium**"
+    },
+    {
+        "word": "tomb",
+        "meaning": "[명] 무덤",
+        "bolded": "**tomb**"
+    },
+    {
+        "word": "waterfall",
+        "meaning": "[명] 폭포",
+        "bolded": "**waterfall**"
+    },
+    {
+        "word": "windmill",
+        "meaning": "[명] 풍차",
+        "bolded": "**windmill**"
+    }
+]

@@ -1,0 +1,397 @@
+[
+    {
+        "word": "suggest",
+        "meaning": "제안하다; 시사하다",
+        "bolded": "**suggest**"
+    },
+    {
+        "word": "suggestion",
+        "meaning": "제안",
+        "bolded": "**suggestion**"
+    },
+    {
+        "word": "propose",
+        "meaning": "제안하다, 제출하다; 청혼하다",
+        "bolded": "**propose**"
+    },
+    {
+        "word": "proposal",
+        "meaning": "제안; 청혼",
+        "bolded": "**proposal**"
+    },
+    {
+        "word": "universal",
+        "meaning": "보편적인, 일반적인",
+        "bolded": "**universal**"
+    },
+    {
+        "word": "particular",
+        "meaning": "특별한",
+        "bolded": "**particular**"
+    },
+    {
+        "word": "(the) universe",
+        "meaning": "전 인류, 전 세계",
+        "bolded": "**(the) universe**"
+    },
+    {
+        "word": "vary",
+        "meaning": "다르다; 바꾸다, 수정하다",
+        "bolded": "**vary**"
+    },
+    {
+        "word": "alter",
+        "meaning": "바꾸다, 수정하다",
+        "bolded": "**alter**"
+    },
+    {
+        "word": "modify",
+        "meaning": "바꾸다, 수정하다",
+        "bolded": "**modify**"
+    },
+    {
+        "word": "various",
+        "meaning": "다양한",
+        "bolded": "**various**"
+    },
+    {
+        "word": "variety",
+        "meaning": "다양성, 여러 가지",
+        "bolded": "**variety**"
+    },
+    {
+        "word": "conflict",
+        "meaning": "충돌, 갈등; 저항하다, 충돌하다",
+        "bolded": "**conflict**"
+    },
+    {
+        "word": "combat",
+        "meaning": "충돌, 갈등",
+        "bolded": "**combat**"
+    },
+    {
+        "word": "battle",
+        "meaning": "충돌, 갈등",
+        "bolded": "**battle**"
+    },
+    {
+        "word": "come into conflict with",
+        "meaning": "~와 싸우다, 충돌하다",
+        "bolded": "**come into conflict with**"
+    },
+    {
+        "word": "aware",
+        "meaning": "알아차리고 있는, 깨닫고 있는",
+        "bolded": "**aware**"
+    },
+    {
+        "word": "awareness",
+        "meaning": "인식",
+        "bolded": "**awareness**"
+    },
+    {
+        "word": "be aware of",
+        "meaning": "~을 알다, 알아차리다",
+        "bolded": "**be aware of**"
+    },
+    {
+        "word": "approach",
+        "meaning": "접근하다, 다가가다; 접근",
+        "bolded": "**approach**"
+    },
+    {
+        "word": "urge",
+        "meaning": "촉구하다, 재촉하다, 강제로 ~하게 하다",
+        "bolded": "**urge**"
+    },
+    {
+        "word": "urgent",
+        "meaning": "긴급한, 다급한",
+        "bolded": "**urgent**"
+    },
+    {
+        "word": "associate",
+        "meaning": "제휴하다, 연합하다, 협동하다; 동료",
+        "bolded": "**associate**"
+    },
+    {
+        "word": "companion",
+        "meaning": "동료",
+        "bolded": "**companion**"
+    },
+    {
+        "word": "be associated with",
+        "meaning": "~와 관련되다",
+        "bolded": "**be associated with**"
+    },
+    {
+        "word": "interpret",
+        "meaning": "해석하다, 통역하다",
+        "bolded": "**interpret**"
+    },
+    {
+        "word": "translate",
+        "meaning": "해석하다, 통역하다",
+        "bolded": "**translate**"
+    },
+    {
+        "word": "interpretation",
+        "meaning": "해석, 통역",
+        "bolded": "**interpretation**"
+    },
+    {
+        "word": "interpreter",
+        "meaning": "통역사",
+        "bolded": "**interpreter**"
+    },
+    {
+        "word": "alternative",
+        "meaning": "양자택일, 대안; 양자택일의",
+        "bolded": "**alternative**"
+    },
+    {
+        "word": "substitute",
+        "meaning": "대안, 양자택일",
+        "bolded": "**substitute**"
+    },
+    {
+        "word": "alternative energy",
+        "meaning": "대체 에너지",
+        "bolded": "**alternative energy**"
+    },
+    {
+        "word": "assist",
+        "meaning": "원조하다, 돕다",
+        "bolded": "**assist**"
+    },
+    {
+        "word": "cooperate",
+        "meaning": "원조하다, 돕다",
+        "bolded": "**cooperate**"
+    },
+    {
+        "word": "help",
+        "meaning": "원조하다, 돕다",
+        "bolded": "**help**"
+    },
+    {
+        "word": "aid",
+        "meaning": "원조하다, 돕다",
+        "bolded": "**aid**"
+    },
+    {
+        "word": "assistance",
+        "meaning": "원조",
+        "bolded": "**assistance**"
+    },
+    {
+        "word": "assistant",
+        "meaning": "조수, 보조",
+        "bolded": "**assistant**"
+    },
+    {
+        "word": "affair",
+        "meaning": "사건; 일거리, 사무, 직무",
+        "bolded": "**affair**"
+    },
+    {
+        "word": "foreign affairs",
+        "meaning": "외무, 외교 문제",
+        "bolded": "**foreign affairs**"
+    },
+    {
+        "word": "widespread",
+        "meaning": "광범위한, 널리 퍼진",
+        "bolded": "**widespread**"
+    },
+    {
+        "word": "external",
+        "meaning": "외부의, 밖의, 대외적인",
+        "bolded": "**external**"
+    },
+    {
+        "word": "internal",
+        "meaning": "내부의, 대내적인",
+        "bolded": "**internal**"
+    },
+    {
+        "word": "external trade",
+        "meaning": "대외 무역",
+        "bolded": "**external trade**"
+    },
+    {
+        "word": "alien",
+        "meaning": "외국의, 외국인의",
+        "bolded": "**alien**"
+    },
+    {
+        "word": "famine",
+        "meaning": "기근, 배고픔",
+        "bolded": "**famine**"
+    },
+    {
+        "word": "starvation",
+        "meaning": "기근, 배고픔",
+        "bolded": "**starvation**"
+    },
+    {
+        "word": "hunger",
+        "meaning": "기근, 배고픔",
+        "bolded": "**hunger**"
+    },
+    {
+        "word": "refuge",
+        "meaning": "피난처, 도피처; 피난, 도피",
+        "bolded": "**refuge**"
+    },
+    {
+        "word": "refugee",
+        "meaning": "난민",
+        "bolded": "**refugee**"
+    },
+    {
+        "word": "shortage",
+        "meaning": "부족, 결핍",
+        "bolded": "**shortage**"
+    },
+    {
+        "word": "deficiency",
+        "meaning": "부족, 결핍",
+        "bolded": "**deficiency**"
+    },
+    {
+        "word": "short",
+        "meaning": "부족한; 짧은",
+        "bolded": "**short**"
+    },
+    {
+        "word": "endanger",
+        "meaning": "위험에 빠뜨리다",
+        "bolded": "**endanger**"
+    },
+    {
+        "word": "danger",
+        "meaning": "위험",
+        "bolded": "**danger**"
+    },
+    {
+        "word": "endangered species",
+        "meaning": "멸종 위기의 동식물",
+        "bolded": "**endangered species**"
+    },
+    {
+        "word": "contaminate",
+        "meaning": "오염시키다",
+        "bolded": "**contaminate**"
+    },
+    {
+        "word": "contamination",
+        "meaning": "오염",
+        "bolded": "**contamination**"
+    },
+    {
+        "word": "preserve",
+        "meaning": "보존하다, 보호하다, 지키다",
+        "bolded": "**preserve**"
+    },
+    {
+        "word": "preservation",
+        "meaning": "보존",
+        "bolded": "**preservation**"
+    },
+    {
+        "word": "explode",
+        "meaning": "폭발하다",
+        "bolded": "**explode**"
+    },
+    {
+        "word": "explosion",
+        "meaning": "폭발",
+        "bolded": "**explosion**"
+    },
+    {
+        "word": "explosive",
+        "meaning": "폭발성의",
+        "bolded": "**explosive**"
+    },
+    {
+        "word": "integrate",
+        "meaning": "통합하다, 단결하다",
+        "bolded": "**integrate**"
+    },
+    {
+        "word": "unite",
+        "meaning": "통합하다, 단결하다",
+        "bolded": "**unite**"
+    },
+    {
+        "word": "integration",
+        "meaning": "통합",
+        "bolded": "**integration**"
+    },
+    {
+        "word": "guard",
+        "meaning": "보호하다, 지키다; 경계, 경호원",
+        "bolded": "**guard**"
+    },
+    {
+        "word": "protect",
+        "meaning": "보호하다, 지키다",
+        "bolded": "**protect**"
+    },
+    {
+        "word": "remark",
+        "meaning": "발언, 비평; (의견을) 언급하다; 알아채다",
+        "bolded": "**remark**"
+    },
+    {
+        "word": "comment",
+        "meaning": "발언, 비평",
+        "bolded": "**comment**"
+    },
+    {
+        "word": "remarkable",
+        "meaning": "주목할 만한",
+        "bolded": "**remarkable**"
+    },
+    {
+        "word": "make remarks",
+        "meaning": "비평하다, 말하다",
+        "bolded": "**make remarks**"
+    },
+    {
+        "word": "accord",
+        "meaning": "일치, 조화; 일치하다, 화합하다",
+        "bolded": "**accord**"
+    },
+    {
+        "word": "agreement",
+        "meaning": "일치, 조화",
+        "bolded": "**agreement**"
+    },
+    {
+        "word": "with one accord",
+        "meaning": "이구동성으로, 만장일치로",
+        "bolded": "**with one accord**"
+    },
+    {
+        "word": "interfere in",
+        "meaning": "~에 간섭하다, 개입하다",
+        "bolded": "**interfere in**"
+    },
+    {
+        "word": "interfere with",
+        "meaning": "~을 방해하다, 지장을 주다",
+        "bolded": "**interfere with**"
+    },
+    {
+        "word": "keep up with",
+        "meaning": "(사람·시류 등에) 뒤떨어지지 않게 따라가다",
+        "bolded": "**keep up with**"
+    },
+    {
+        "word": "break off",
+        "meaning": "~와의 관계를 단절하다; (협상 등이) 결렬되다",
+        "bolded": "**break off**"
+    }
+]

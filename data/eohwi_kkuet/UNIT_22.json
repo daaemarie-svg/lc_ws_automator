@@ -1,0 +1,127 @@
+[
+    {
+        "word": "legal",
+        "meaning": "[형] 1. 법률의 2. 합법의",
+        "bolded": "**legal**"
+    },
+    {
+        "word": "justice",
+        "meaning": "[명] 1. 정의, 공평 2. 사법, 재판",
+        "bolded": "**justice**"
+    },
+    {
+        "word": "duty",
+        "meaning": "[명] 1. 의무 2. 직무 3. 세금, 관세",
+        "bolded": "**duty**"
+    },
+    {
+        "word": "obey",
+        "meaning": "[동] ~에 따르다, 복종하다",
+        "bolded": "**obey**"
+    },
+    {
+        "word": "exact",
+        "meaning": "[형] 정확한, 정밀한",
+        "bolded": "**exact**"
+    },
+    {
+        "word": "arrest",
+        "meaning": "[동] 체포하다, 검거하다\n[명] 체포, 검거",
+        "bolded": "**arrest**"
+    },
+    {
+        "word": "accuse",
+        "meaning": "[동] 1. 고발하다, 기소하다 (of) 2. 비난하다 (of)",
+        "bolded": "**accuse**"
+    },
+    {
+        "word": "trial",
+        "meaning": "[명] 1. 재판 2. 시험, 실험",
+        "bolded": "**trial**"
+    },
+    {
+        "word": "involve",
+        "meaning": "[동] 1. 포함하다 2. 관련시키다",
+        "bolded": "**involve**"
+    },
+    {
+        "word": "identify",
+        "meaning": "[동] 확인하다, 알아보다",
+        "bolded": "**identify**"
+    },
+    {
+        "word": "deny",
+        "meaning": "[동] 부인하다, 부정하다",
+        "bolded": "**deny**"
+    },
+    {
+        "word": "guilty",
+        "meaning": "[형] 1. 유죄의 2. 죄책감이 드는, 가책을 느끼는",
+        "bolded": "**guilty**"
+    },
+    {
+        "word": "innocent",
+        "meaning": "[형] 1. 무죄의 2. 순진한",
+        "bolded": "**innocent**"
+    },
+    {
+        "word": "evidence",
+        "meaning": "[명] 증거",
+        "bolded": "**evidence**"
+    },
+    {
+        "word": "clue",
+        "meaning": "[명] 실마리, 단서",
+        "bolded": "**clue**"
+    },
+    {
+        "word": "witness",
+        "meaning": "[명] 1. 목격자 2. 증인\n[동] 목격하다, 보다",
+        "bolded": "**witness**"
+    },
+    {
+        "word": "appeal",
+        "meaning": "[동] 1. 애원하다, 호소하다 2. ((법률)) 항소하다\n[명] 1. 애원, 호소 2. ((법률)) 항소",
+        "bolded": "**appeal**"
+    },
+    {
+        "word": "release",
+        "meaning": "[동] 1. 풀어 주다, 석방하다 2. 개봉하다, 발매하다, 공개하다\n[명] 1. 해방, 석방 2. 개봉, 발매, 공개",
+        "bolded": "**release**"
+    },
+    {
+        "word": "incident",
+        "meaning": "[명] 일어난 일, 사건",
+        "bolded": "**incident**"
+    },
+    {
+        "word": "criminal",
+        "meaning": "[형] 범죄의\n[명] 범인, 범죄자",
+        "bolded": "**criminal**"
+    },
+    {
+        "word": "murder",
+        "meaning": "[명] 살인, 살해\n[동] 살인하다, 살해하다",
+        "bolded": "**murder**"
+    },
+    {
+        "word": "violent",
+        "meaning": "[형] 1. 폭력적인, 난폭한 2. 격렬한",
+        "bolded": "**violent**"
+    },
+    {
+        "word": "suspect",
+        "meaning": "[동] 1. 의심하다, 혐의를 두다 2. ~이 아닌가하고 생각하다\n[명] 용의자",
+        "bolded": "**suspect**"
+    },
+    {
+        "word": "stranger",
+        "meaning": "[명] 낯선 사람, 모르는 사람",
+        "bolded": "**stranger**"
+    },
+    {
+        "word": "victim",
+        "meaning": "[명] 희생자, 피해자",
+        "bolded": "**victim**"
+    }
+]
