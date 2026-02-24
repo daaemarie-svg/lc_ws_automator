@@ -71,8 +71,17 @@ def generate_prompt(words, grammar):
         "3. **Morphological Rigor**: Transform tenses/parts of speech to match "
         "grammar. No non-existent words.\n"
         "4. **Formatting**: **Bold** all non-blank target words.\n\n"
+        
         "### OUTPUT FORMAT:\n"
-        "Q1. [English Sentence]\n[Korean Translation]\nA) B) C) D)\n"
+        "1. **The Quiz**: Generate EXACTLY 10 questions (Q1-Q10).\n"
+        "   Q1. [English Sentence]\n"
+        "   [Korean Translation]\n"
+        "   A) B) C) D)\n\n"
+        "2. **The Bilingual Answer Key**: Provide a detailed explanation for each.\n"
+        "   - [Q#]: [Correct Letter] | [Target Word]\n"
+        "   - [Explanation in Korean]: Explain the grammar transformation "
+        "(e.g., passive/tense shift) and why the specific vocabulary "
+        "fit the context better than the distractors.\n"
     )
     return prompt
 
@@ -99,7 +108,7 @@ if __name__ == "__main__":
         print(f"\n--- 📝 GENERATING VERSION {v} ---")
         
         # 1. Get new random ingredients for this version
-        words, grammar = get_session_data("eohwi_kkuet", "13")
+        words, grammar = get_session_data("wm_high", "20")
         
         # 2. Build the prompt with those specific ingredients
         final_prompt = generate_prompt(words, grammar)
