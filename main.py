@@ -54,65 +54,52 @@ def get_session_data(folder_name, day_number, count=10):
 
     return selected_words, selected_grammar
 
+def save_prompt_to_file(book, day, content):
+    # Ensure we are saving inside the project folder
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    export_dir = os.path.join(base_path, "outputs", book)
+    
+    os.makedirs(export_dir, exist_ok=True)
+    
+    # Using a timestamp to prevent overwriting if you run it multiple times
+    from datetime import datetime
+    timestamp = datetime.now().strftime("%H%M%S")
+    filename = f"DAY_{day.zfill(2)}_{timestamp}.txt"
+    file_path = os.path.join(export_dir, filename)
+    
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"✅ FILE SAVED TO: {file_path}")
+
 def generate_prompt(words, grammar):
     word_str = ", ".join([f"{w['word']} ({w['korean']})" for w in words])
     
-    # Each line is its own string; Python joins them because of the ( )
     prompt = (
         "### ROLE: SENIOR LINGUIST & TEST ARCHITECT\n"
-        "### GOAL: Generate a high-rigor linguistic challenge.\n\n"
+        "### GOAL: Generate a high-rigor Korean Middle School level challenge.\n\n"
         "### INPUT DATA:\n"
-        f"- Target Vocabulary: {word_str}\n"
-        f"- Target Grammar: {grammar['rule_name']} ({grammar['korean_explanation']})\n\n"
+        f"- Vocabulary: {word_str}\n"
+        f"- Grammar: {grammar['rule_name']} ({grammar['korean_explanation']})\n\n"
         "### [STRICT RULES]:\n"
-        "1. **Contextual Integration**: Use 2 target words per sentence: "
-        "one blank (_______) and one **bolded** context word.\n"
-        "2. **Bilingual Flow**: English sentence followed by Korean translation.\n"
-        "3. **Morphological Rigor**: Transform tenses/parts of speech to match "
-        "grammar. No non-existent words.\n"
-        "4. **Formatting**: **Bold** all non-blank target words.\n\n"
-        
+        "1. **Difficulty**: Match Middle School 'Naesin' (내신) exam rigor.\n"
+        "2. **Morphology**: TRANSFORM target words (tense, voice, part of speech) "
+        "to fit the grammar focus. NO non-words.\n"
+        "3. **Context**: 2 target words per sentence (1 blank, 1 **bold** context).\n\n"
         "### OUTPUT FORMAT:\n"
-        "1. **The Quiz**: Generate EXACTLY 10 questions (Q1-Q10).\n"
-        "   Q1. [English Sentence]\n"
-        "   [Korean Translation]\n"
-        "   A) B) C) D)\n\n"
-        "2. **The Bilingual Answer Key**: Provide a detailed explanation for each.\n"
-        "   - [Q#]: [Correct Letter] | [Target Word]\n"
-        "   - [Explanation in Korean]: Explain the grammar transformation "
-        "(e.g., passive/tense shift) and why the specific vocabulary "
-        "fit the context better than the distractors.\n"
+        "Generate 10 questions followed by a BILINGUAL ANSWER KEY.\n"
+        "The key must explain the grammatical transformation (tense/voice) in Korean.\n"
     )
     return prompt
 
-def save_prompt_to_file(folder_name, day_number, version, content):
-    # 1. Create the path: outputs/[book_name]/
-    export_dir = os.path.join("outputs", folder_name)
-    os.makedirs(export_dir, exist_ok=True)
-    
-    # 2. Name the file: UNIT_13_Version_A.txt
-    filename = f"DAY_{day_number.zfill(2)}_Version_{version}.txt"
-    file_path = os.path.join(export_dir, filename)
-    
-    # 3. Save the content
-    with open(file_path, "w", encoding="utf-8") as f:
-        f.write(content)
-    
-    print(f"✅ Saved to: {file_path}")
-
 if __name__ == "__main__":
-    # We want two distinct versions
-    versions = ["A", "B"]
+    # Settings
+    book = "eohwi_kkuet"
+    day = "14"
     
-    for v in versions:
-        print(f"\n--- 📝 GENERATING VERSION {v} ---")
-        
-        # 1. Get new random ingredients for this version
-        words, grammar = get_session_data("wm_high", "20")
-        
-        # 2. Build the prompt with those specific ingredients
-        final_prompt = generate_prompt(words, grammar)
-        
-        # 3. Output to terminal
-        print(final_prompt)
-        print("-" * 30)
+    # Execution: Just run it once. For a second version, just run the script again!
+    words, grammar = get_session_data(book, day)
+    final_prompt = generate_prompt(words, grammar)
+    
+    # Save and Print
+    save_prompt_to_file(book, day, final_prompt)
+    print(f"\n--- GENERATED PROMPT ---\n{final_prompt}")
